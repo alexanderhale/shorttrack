@@ -1,0 +1,1497 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link href="App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet" /><title>
+	Short Track Speed Skating - Results
+</title><link href="App_Themes/jQuery/jquery-ui-1.8.9.custom.css" rel="stylesheet" type="text/css" />
+        <script src="App_Themes/Default/jquery-1.4.4.min.js" type="text/javascript"></script>
+        <script src="App_Themes/Default/jquery-ui-1.8.8.custom.min.js" type="text/javascript"></script>
+</head>
+<body class="mainbody">
+	<form action="/Results.aspx" method="get">
+<div>
+
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+				function seasonChanged(sender) {
+                    if (sender.form.sea.value && parseInt(sender.form.sea.value)<2100){
+                        window.location.href='http://csb.sportresult.com/federations/ISU/?SUBSPORTID=5&SEASONID='+
+                            (sender.form.sea.value==1995?'28':
+                                sender.form.sea.value==1996?'27':
+                                    sender.form.sea.value==1997?'26':
+                                        sender.form.sea.value==1998?'25':
+                                            sender.form.sea.value==1999?'24':
+                                                sender.form.sea.value==2000?'23':
+                                                    sender.form.sea.value==2001?'21':
+                                                        sender.form.sea.value==2002?'22':
+                                                            sender.form.sea.value==2003?'2':
+                                                                sender.form.sea.value==2004?'29':
+                                                                    sender.form.sea.value==2005?'30':
+                                                                        sender.form.sea.value==2006?'31':
+                                                                            sender.form.sea.value==2007?'32':'');
+                    }else{
+				        if (sender.form.ser) sender.form.ser.options.length = 0;
+				        if (sender.form.evt) sender.form.evt.options.length = 0;
+				        sender.form.submit();
+                    }
+				}
+
+                function seriesChanged(sender) {
+				    if (sender.value) {
+				        if (sender.form.sea) sender.form.sea.options.length = 0;
+				        if (sender.form.evt) sender.form.evt.options.length = 0;
+				    }
+				    else {
+				        sender.options.length = 0;
+				        if (sender.form.evt && sender.form.evt.value) sender.form.sea.options.length = 0;
+				    }
+				    sender.form.submit();
+				}
+
+				function eventChanged(sender) {
+				    sender.form.sea.options.length = 0;
+				    if (!sender.form.ser || !sender.form.ser.value) sender.form.ser.options.length = 0;
+				    sender.form.submit();
+				}
+				function showPhoto(filename, width, height) {
+	window.open('Data/FinishPhotos/' + filename, 'StFinPhot', 'width=' + width + ',height=' + height + ',toolbar=no,menubar=no,resizable=no');
+}
+//]]>
+</script>
+
+		<div class="bodybgnavi">
+			<div id="header">
+			<a href="http://www.isu.org" title="Go to ISU homepage">
+				<img src="App_Themes/Default/images/header.jpg?v1.1.0" alt="Logo" style="border-width:0px;" />
+			</a>
+			</div>
+			<div id="menuline">
+				<a class="menubutton" href="./?evt=11210100000023"><div style="width: 65px;"><p>HOME</p></div></a>
+<a class="menubutton" href="Entries.aspx?evt=11210100000023"><div style="width: 80px;"><p>ENTRIES</p></div></a>
+<a class="menubuttonsel" href="Results.aspx?evt=11210100000023"><div style="width: 80px;"><p>RESULTS</p></div></a>
+
+<a class="menubutton" href="Rankings.aspx?evt=11210100000023"><div style="width: 90px;"><p>RANKINGS</p></div></a>
+<a class="menubutton" href="Records.aspx?evt=11210100000023"><div style="width: 90px;"><p>RECORDS</p></div></a>
+<a class="menubutton_external" href="http://www.facebook.com/ISUShortTrackSpeedSkating" target="_blank"><img src="App_Themes/Default/Images/isu_fb.png" style="border-width:0px;" /></a>
+<a class="menubutton_external" href="https://www.youtube.com/user/SkatingISU" target="_blank"><img src="App_Themes/Default/Images/isu_channel.png" style="border-width:0px;" /></a>
+
+
+
+			</div>
+			<div id="funcline">
+				<div class="select">
+					
+Season
+<select name="sea" onchange="seasonChanged(this)" style="width:150px;">
+	<option value="99899800000001">1994-1995 SEASON</option>
+	<option value="99899800000002">1995-1996 SEASON</option>
+	<option value="99899800000003">1996-1997 SEASON</option>
+	<option value="99899800000004">1997-1998 SEASON</option>
+	<option value="99899800000005">1998-1999 SEASON</option>
+	<option value="99899800000006">1999-2000 SEASON</option>
+	<option value="99899800000007">2000-2001 SEASON</option>
+	<option value="99899800000008">2001-2002 SEASON</option>
+	<option value="99899800000009">2002-2003 SEASON</option>
+	<option value="99899800000010">2003-2004 SEASON</option>
+	<option value="99899800000011">2004-2005 SEASON</option>
+	<option value="99899800000012">2005-2006 SEASON</option>
+	<option value="99899800000013">2006-2007 SEASON</option>
+	<option value="99899800000014">2007-2008 SEASON</option>
+	<option value="99899800000019" selected="selected">2008-2009 SEASON</option>
+	<option value="99899800000022">2009-2010 SEASON</option>
+	<option value="99899800000025">2010-2011 SEASON</option>
+	<option value="99899800000029">2011-2012 SEASON</option>
+	<option value="99899800000051">2012-2013 SEASON</option>
+	<option value="99899800000054">2013-2014 SEASON</option>
+	<option value="99899800000058">2014-2015 SEASON</option>
+	<option value="99899800000061">2015-2016 SEASON</option>
+	<option value="99899800000065">2016-2017 SEASON</option>
+	<option value="99899800000069">2017-2018 SEASON</option>
+	<option value="99899800000075">2018-2019 SEASON</option>
+	<option value="99899800000078">2019-2020 SEASON</option>
+
+</select>&nbsp;
+Series
+<select name="ser" onchange="seriesChanged(this)" style="width:200px;">
+	<option value="">Show all</option>
+	<option value="99899800000020">2008-2009 World Cup Series</option>
+	<option value="99899800000021">2009 ISU Championships</option>
+
+</select>&nbsp;
+Competition
+<select name="evt" onchange="eventChanged(this)" style="width:330px;">
+	<optgroup label="2008-2009 World Cup Series">
+	<option value="11210100000022">Samsung ISU World Cup 2008/2009, USA, UT. Salt Lake City</option>
+	<option value="11210100000023" selected="selected">Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver</option>
+	<option value="11210100000024">Samsung ISU World Cup 2008/2009, CHN, Beijing</option>
+	<option value="11210100000025">Samsung ISU World Cup 2008/2009, JPN, Nagano</option>
+	<option value="11210100000028">Samsung ISU World Cup 2008/2009, BUL, Sofia</option>
+	<option value="11210100000029">Samsung ISU World Cup 2008/2009, GER, Dresden</option>
+	</optgroup>
+	<optgroup label="2009 ISU Championships">
+	<option value="11210100000026">2009 ISU World Junior Championships, Canada</option>
+	<option value="11210100000027">2009 ISU European Championships, Italy</option>
+	<option value="11210100000030">2009 ISU World Championships, Austria</option>
+	<option value="11210100000031">2009 ISU World Team Championships, The Netherlands</option>
+	</optgroup>
+
+</select>
+
+					
+				</div>
+			</div>
+			
+			<div id="eventline">
+				<table cellpadding="0" cellspacing="0" border="0" style="height: 90px;float:left;">
+					<tr>
+						<td valign="middle">
+							<span class="pathhighlighter">Home</span>
+							
+							<span class="path">&nbsp;&nbsp;>&nbsp;&nbsp;Results</span>
+							
+							<br />
+							<span class="eventhead">
+								Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver
+							</span>
+						</td>
+						<td align="right">
+							
+								<img src="/Data/Logos/wc0809serie.jpg" style="border-width:0px;" />
+							
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="menuline2" style="height: 30px">
+				&nbsp;</div>
+			
+	<div class="bodybgnavi">
+		<div id="navileft">
+			
+<div class="navilevel0">
+	<p>
+		<b>Ladies</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5678&view=rou">
+					1500m</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5695&view=rou">
+					1000m (1)</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5715&view=rou">
+					500m</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5735&view=rou">
+					1000m (2)</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5748&view=rou">
+					3000m Relay</a>
+			</p>
+		</div>
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=w&ref=5291&view=tcl">
+					Team Classification</a>
+			</p>
+		</div>
+
+</div>
+
+<div class="navilevel0" style="margin-top: 25px">
+	<p>
+		<b>Men</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1 naviexpanded1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5685&view=rou">
+					1500m</a>
+			</p>
+		</div>
+		<div class="navilevel2 naviexpanded2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5685&view=rou">
+					Rounds</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5685&view=rou">
+					Final A</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5684&view=rou">
+					Final B</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5683&view=rou">
+					Semifinals</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5682&view=rou">
+					Rep Final A</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5681&view=rou">
+					Rep Final B</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5680&view=rou">
+					Rep Semifinals</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5679&view=rou">
+					Rep Quarterfinals</a>
+			</p>
+		</div>
+		<div class="navilevel3 naviselected3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5303&view=rou">
+					Heats</a>
+			</p>
+		</div>
+		<div class="navilevel2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5293&view=dcl">
+					Distance Classification</a>
+			</p>
+		</div>
+		<div class="navilevel2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5293&view=wcl">
+					World Cup Classification</a>
+			</p>
+		</div>
+		<div class="navilevel2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5293&view=tia">
+					Time Analysis</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5705&view=rou">
+					1000m (1)</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5725&view=rou">
+					500m</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5745&view=rou">
+					1000m (2)</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5751&view=rou">
+					5000m Relay</a>
+			</p>
+		</div>
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=m&ref=5291&view=tcl">
+					Team Classification</a>
+			</p>
+		</div>
+
+</div>
+
+<div class="navilevel0" style="margin-top: 25px">
+	<p>
+		<b>Mixed</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000023&gen=x&view=tcl">
+					Team Classification</a>
+			</p>
+		</div>
+
+</div>
+
+
+
+		<div class="navilevel0" style="margin-top: 25px">
+			<p>
+				<b>Download</b>
+			</p>
+		</div>
+	
+		<div class="navilevel1">
+			<p>
+				<a href="/Data/PDFs/WC0809CAN.pdf">
+					<img src="App_Themes/Default/images/ico_pdf_14.gif" alt="PDF" style="border-width:0px;" />
+					Result Protocol
+				</a>
+			</p>
+		</div>
+	
+
+		</div>
+		<div id="contentrightlarge">
+			
+
+
+	<div id="heattabs">
+		<div class="tabbuttonsel">
+			<p>
+				Heats
+			</p>
+		</div>
+		<div class="tabbutton">
+			<p>
+				Jump to Heat
+			</p>
+		</div>
+		<div class="tabbutton">
+			<select name="ddlHeats" onchange="location.hash=this.value">
+	<option value="race1">1</option>
+	<option value="race2">2</option>
+	<option value="race3">3</option>
+	<option value="race4">4</option>
+	<option value="race5">5</option>
+	<option value="race6">6</option>
+	<option value="race7">7</option>
+	<option value="race8">8</option>
+
+</select>
+		</div>
+	</div>
+
+<table cellspacing="0" border="0" style="border-collapse:collapse;">
+	<tr>
+		<td>
+		<div id='race1' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>1</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=1">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    552
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6332&amp;evt=11210100000023" target="_blank">Nicola RODIGARI</a>
+					</td><td style="width:80px;">
+						ITA						
+					</td><td style="width:40px;">
+						2:18.012 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    558
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6024&amp;evt=11210100000023" target="_blank">Fumihiko KAKUBARI</a>
+					</td><td style="width:80px;">
+						JPN						
+					</td><td style="width:40px;">
+						2:18.208 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    533
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7258&amp;evt=11210100000023" target="_blank">Robert BECKER</a>
+					</td><td style="width:80px;">
+						GER						
+					</td><td style="width:40px;">
+						2:18.392 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    536
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6276&amp;evt=11210100000023" target="_blank">Oliver HORSEPOOL</a>
+					</td><td style="width:80px;">
+						GBR						
+					</td><td style="width:40px;">
+						2:21.046 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    522
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6785&amp;evt=11210100000023" target="_blank">Thibaut FAUCONNET</a>
+					</td><td style="width:80px;">
+						FRA						
+					</td><td style="width:40px;">
+						2:57.419 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						6
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    520
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6658&amp;evt=11210100000023" target="_blank">LI Haonan</a>
+					</td><td style="width:80px;">
+						CHN						
+					</td><td style="width:40px;">
+						3:02.178 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race2' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>2</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=2">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    574
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6811&amp;evt=11210100000023" target="_blank">SUNG Si-Bak</a>
+					</td><td style="width:80px;">
+						KOR						
+					</td><td style="width:40px;">
+						2:27.827 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    530
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6803&amp;evt=11210100000023" target="_blank">Paul HERRMANN</a>
+					</td><td style="width:80px;">
+						GER						
+					</td><td style="width:40px;">
+						2:28.058 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    569
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6549&amp;evt=11210100000023" target="_blank">Blake SKJELLERUP</a>
+					</td><td style="width:80px;">
+						NZL						
+					</td><td style="width:40px;">
+						2:28.668 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    504
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6054&amp;evt=11210100000023" target="_blank">Andre PULEC</a>
+					</td><td style="width:80px;">
+						AUT						
+					</td><td style="width:40px;">
+						2:29.391 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    508
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6851&amp;evt=11210100000023" target="_blank">Asen YORDANOV</a>
+					</td><td style="width:80px;">
+						BUL						
+					</td><td style="width:40px;">
+						2:31.665 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race3' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>3</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=3">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    592
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7280&amp;evt=11210100000023" target="_blank">Jeff SIMON</a>
+					</td><td style="width:80px;">
+						USA						
+					</td><td style="width:40px;">
+						2:24.171 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    516
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6084&amp;evt=11210100000023" target="_blank">WANG Hong Yang</a>
+					</td><td style="width:80px;">
+						CHN						
+					</td><td style="width:40px;">
+						2:24.539 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    572
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6156&amp;evt=11210100000023" target="_blank">Adam FILIPOWICZ</a>
+					</td><td style="width:80px;">
+						POL						
+					</td><td style="width:40px;">
+						2:29.043 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    539
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6301&amp;evt=11210100000023" target="_blank">Anthony DOUGLAS</a>
+					</td><td style="width:80px;">
+						GBR						
+					</td><td style="width:40px;">
+						3:18.715 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						ADV
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						DQ
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    501
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6845&amp;evt=11210100000023" target="_blank">Lachlan HAY</a>
+					</td><td style="width:80px;">
+						AUS						
+					</td><td style="width:40px;">
+						DQ
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						DQ
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    548
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7541&amp;evt=11210100000023" target="_blank">Nicolas BEAN</a>
+					</td><td style="width:80px;">
+						ITA						
+					</td><td style="width:40px;">
+						DQ
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race4' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>4</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=4">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    515
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6299&amp;evt=11210100000023" target="_blank">Remi BEAULIEU</a>
+					</td><td style="width:80px;">
+						CAN						
+					</td><td style="width:40px;">
+						2:18.994 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    595
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7122&amp;evt=11210100000023" target="_blank">Charles Ryan LEVEILLE</a>
+					</td><td style="width:80px;">
+						USA						
+					</td><td style="width:40px;">
+						2:19.065 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    554
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7158&amp;evt=11210100000023" target="_blank">Yuzo TAKAMIDO</a>
+					</td><td style="width:80px;">
+						JPN						
+					</td><td style="width:40px;">
+						2:19.083 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    561
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7352&amp;evt=11210100000023" target="_blank">KNEGT Sjinkie</a>
+					</td><td style="width:80px;">
+						NED						
+					</td><td style="width:40px;">
+						2:19.267 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    523
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6057&amp;evt=11210100000023" target="_blank">Jean Charles MATTEI</a>
+					</td><td style="width:80px;">
+						FRA						
+					</td><td style="width:40px;">
+						2:19.394 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						6
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    590
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7178&amp;evt=11210100000023" target="_blank">Ievgen GUTENOV</a>
+					</td><td style="width:80px;">
+						UKR						
+					</td><td style="width:40px;">
+						2:24.342 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race5' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>5</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=5">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    512
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6756&amp;evt=11210100000023" target="_blank">Olivier JEAN</a>
+					</td><td style="width:80px;">
+						CAN						
+					</td><td style="width:40px;">
+						2:19.944 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    580
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6935&amp;evt=11210100000023" target="_blank">Ruslan ZAKHAROV</a>
+					</td><td style="width:80px;">
+						RUS						
+					</td><td style="width:40px;">
+						2:20.031 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    562
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7067&amp;evt=11210100000023" target="_blank">Niels KERSTHOLT</a>
+					</td><td style="width:80px;">
+						NED						
+					</td><td style="width:40px;">
+						2:20.058 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    588
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6826&amp;evt=11210100000023" target="_blank">Serhiy LIFYRENKO</a>
+					</td><td style="width:80px;">
+						UKR						
+					</td><td style="width:40px;">
+						2:24.034 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    538
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6802&amp;evt=11210100000023" target="_blank">Paul WORTH</a>
+					</td><td style="width:80px;">
+						GBR						
+					</td><td style="width:40px;">
+						2:26.156 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						6
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    547
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6178&amp;evt=11210100000023" target="_blank">BYKANOV Vladislav</a>
+					</td><td style="width:80px;">
+						ISR						
+					</td><td style="width:40px;">
+						2:28.230 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race6' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>6</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=6">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    549
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6561&amp;evt=11210100000023" target="_blank">CONFORTOLA Yuri</a>
+					</td><td style="width:80px;">
+						ITA						
+					</td><td style="width:40px;">
+						2:26.265 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    577
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7543&amp;evt=11210100000023" target="_blank">PARK Jin-Hwan</a>
+					</td><td style="width:80px;">
+						KOR						
+					</td><td style="width:40px;">
+						2:26.325 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    514
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6195&amp;evt=11210100000023" target="_blank">Michael GILDAY</a>
+					</td><td style="width:80px;">
+						CAN						
+					</td><td style="width:40px;">
+						2:26.382 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    584
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6570&amp;evt=11210100000023" target="_blank">Alexander GERTSIKOV</a>
+					</td><td style="width:80px;">
+						RUS						
+					</td><td style="width:40px;">
+						2:27.045 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    571
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7169&amp;evt=11210100000023" target="_blank">Bartosz KONOPKO</a>
+					</td><td style="width:80px;">
+						POL						
+					</td><td style="width:40px;">
+						2:33.855 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						6
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    507
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6778&amp;evt=11210100000023" target="_blank">Assen PANDOV</a>
+					</td><td style="width:80px;">
+						BUL						
+					</td><td style="width:40px;">
+						2:36.293 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race7' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>7</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=7">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    560
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6458&amp;evt=11210100000023" target="_blank">Haralds SILOVS</a>
+					</td><td style="width:80px;">
+						LAT						
+					</td><td style="width:40px;">
+						2:23.320 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    518
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6416&amp;evt=11210100000023" target="_blank">SUI Bao Ku</a>
+					</td><td style="width:80px;">
+						CHN						
+					</td><td style="width:40px;">
+						2:23.410 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    544
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6010&amp;evt=11210100000023" target="_blank">Gabor GALAMBOS</a>
+					</td><td style="width:80px;">
+						HUN						
+					</td><td style="width:40px;">
+						2:24.103 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    565
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7225&amp;evt=11210100000023" target="_blank">Rudy KOEK</a>
+					</td><td style="width:80px;">
+						NED						
+					</td><td style="width:40px;">
+						2:25.083 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    524
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6646&amp;evt=11210100000023" target="_blank">Gregory DURAND</a>
+					</td><td style="width:80px;">
+						FRA						
+					</td><td style="width:40px;">
+						2:25.177 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						6
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    559
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7542&amp;evt=11210100000023" target="_blank">Ryosuke SAKAZUME</a>
+					</td><td style="width:80px;">
+						JPN						
+					</td><td style="width:40px;">
+						2:26.130 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr><tr>
+		<td>
+		<div id='race8' class="tabletitle">
+			<p>
+				<b>
+				    Heat
+					<span>8</span>
+				</b>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://shorttrack.sportresult.com/Results.aspx?evt=11210100000023&amp;gen=m&amp;ref=5303&amp;view=rou&amp;sub=spl&amp;rac=8">[Splits]</a>&nbsp;&nbsp;&nbsp;&nbsp;
+				
+			</p>
+		</div>
+		<div>
+	<table cellspacing="0" align="Center" border="0" style="width:100%;border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">Place</th><th scope="col">Start Pos.</th><th scope="col">Warn.</th><th scope="col">#</th><th scope="col">Name</th><th scope="col">ISU Member</th><th scope="col">Results</th><th scope="col">&nbsp;</th><th scope="col">Qual.</th>
+</tr><tr class="leader" valign="top">
+	<td style="width:30px;">
+						1
+					</td><td style="width:30px;">
+						4
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    576
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7266&amp;evt=11210100000023" target="_blank">LEE Jung Su</a>
+					</td><td style="width:80px;">
+						KOR						
+					</td><td style="width:40px;">
+						2:22.446 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						2
+					</td><td style="width:30px;">
+						5
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    593
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7279&amp;evt=11210100000023" target="_blank">J.R. CELSKI</a>
+					</td><td style="width:80px;">
+						USA						
+					</td><td style="width:40px;">
+						2:23.509 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						Q
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						3
+					</td><td style="width:30px;">
+						6
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    531
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6364&amp;evt=11210100000023" target="_blank">Sebastian PRAUS</a>
+					</td><td style="width:80px;">
+						GER						
+					</td><td style="width:40px;">
+						2:25.677 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						ADV
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						4
+					</td><td style="width:30px;">
+						1
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    500
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=7283&amp;evt=11210100000023" target="_blank">Jeremy BECK</a>
+					</td><td style="width:80px;">
+						AUS						
+					</td><td style="width:40px;">
+						2:26.941 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td style="width:30px;">
+						5
+					</td><td style="width:30px;">
+						3
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    543
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6804&amp;evt=11210100000023" target="_blank">David Mano LOTH</a>
+					</td><td style="width:80px;">
+						HUN						
+					</td><td style="width:40px;">
+						2:47.521 
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						ADV
+					</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td style="width:30px;">
+						DQ
+					</td><td style="width:30px;">
+						2
+					</td><td style="width:50px;">
+						
+					</td><td style="width:20px;">
+				    505
+				    </td><td style="width:200px;">
+						<a href="http://shorttrack.sportresult.com/Bio.aspx?ath=6425&amp;evt=11210100000023" target="_blank">Pieter GYSEL</a>
+					</td><td style="width:80px;">
+						BEL						
+					</td><td style="width:40px;">
+						DQ
+					</td><td style="width:0px;">						
+					</td><td style="width:20px;">
+						
+					</td>
+</tr>
+</table>
+</div>
+	</td>
+	</tr>
+</table>
+
+    <div id='Div2' class="legend">
+		<p>
+			
+		</p>
+		<p>
+			
+		</p>
+		<p id="ctl00_Content_ctl00_DataBindingContainer2_wcLeaderLegend">
+			Yellow highlighting marks World Cup leader.
+		</p>
+		
+	</div>
+
+
+		</div>
+	</div>
+
+			<br clear="all" />
+			<div id="footer">
+				<p>
+					&copy;
+					2020
+					ISU. All Rights Reserved.<br/>
+					<a href="https://www.isu.org/contact-us">Contact Us</a> | 
+					<a href="https://www.isu.org/quick-links-sep/legal-information">Terms of Services</a> | 
+					<a href="https://www.isu.org/quick-links-sep/privacy-policy">Privacy policy</a><br/>
+					<a href="mailto:shorttrack@st-sportservice.com">Contact Result Service</a>
+				</p>
+			</div>
+		</div>
+	
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="63301E89" />
+</div></form>
+</body>
+</html>

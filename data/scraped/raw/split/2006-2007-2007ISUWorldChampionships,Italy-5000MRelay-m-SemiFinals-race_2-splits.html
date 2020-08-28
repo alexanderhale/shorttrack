@@ -1,0 +1,1291 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link href="App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet" /><title>
+	Short Track Speed Skating - Results
+</title><link href="App_Themes/jQuery/jquery-ui-1.8.9.custom.css" rel="stylesheet" type="text/css" />
+        <script src="App_Themes/Default/jquery-1.4.4.min.js" type="text/javascript"></script>
+        <script src="App_Themes/Default/jquery-ui-1.8.8.custom.min.js" type="text/javascript"></script>
+</head>
+<body class="mainbody">
+	<form action="/Results.aspx" method="get">
+<div>
+
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+				function seasonChanged(sender) {
+                    if (sender.form.sea.value && parseInt(sender.form.sea.value)<2100){
+                        window.location.href='http://csb.sportresult.com/federations/ISU/?SUBSPORTID=5&SEASONID='+
+                            (sender.form.sea.value==1995?'28':
+                                sender.form.sea.value==1996?'27':
+                                    sender.form.sea.value==1997?'26':
+                                        sender.form.sea.value==1998?'25':
+                                            sender.form.sea.value==1999?'24':
+                                                sender.form.sea.value==2000?'23':
+                                                    sender.form.sea.value==2001?'21':
+                                                        sender.form.sea.value==2002?'22':
+                                                            sender.form.sea.value==2003?'2':
+                                                                sender.form.sea.value==2004?'29':
+                                                                    sender.form.sea.value==2005?'30':
+                                                                        sender.form.sea.value==2006?'31':
+                                                                            sender.form.sea.value==2007?'32':'');
+                    }else{
+				        if (sender.form.ser) sender.form.ser.options.length = 0;
+				        if (sender.form.evt) sender.form.evt.options.length = 0;
+				        sender.form.submit();
+                    }
+				}
+
+                function seriesChanged(sender) {
+				    if (sender.value) {
+				        if (sender.form.sea) sender.form.sea.options.length = 0;
+				        if (sender.form.evt) sender.form.evt.options.length = 0;
+				    }
+				    else {
+				        sender.options.length = 0;
+				        if (sender.form.evt && sender.form.evt.value) sender.form.sea.options.length = 0;
+				    }
+				    sender.form.submit();
+				}
+
+				function eventChanged(sender) {
+				    sender.form.sea.options.length = 0;
+				    if (!sender.form.ser || !sender.form.ser.value) sender.form.ser.options.length = 0;
+				    sender.form.submit();
+				}
+				//]]>
+</script>
+
+		<div class="bodybgnavi">
+			<div id="header">
+			<a href="http://www.isu.org" title="Go to ISU homepage">
+				<img src="App_Themes/Default/images/header.jpg?v1.1.0" alt="Logo" style="border-width:0px;" />
+			</a>
+			</div>
+			<div id="menuline">
+				<a class="menubutton" href="./?evt=11210100000020"><div style="width: 65px;"><p>HOME</p></div></a>
+<a class="menubutton" href="Entries.aspx?evt=11210100000020"><div style="width: 80px;"><p>ENTRIES</p></div></a>
+<a class="menubuttonsel" href="Results.aspx?evt=11210100000020"><div style="width: 80px;"><p>RESULTS</p></div></a>
+
+<a class="menubutton" href="Rankings.aspx?evt=11210100000020"><div style="width: 90px;"><p>RANKINGS</p></div></a>
+<a class="menubutton" href="Records.aspx?evt=11210100000020"><div style="width: 90px;"><p>RECORDS</p></div></a>
+<a class="menubutton_external" href="http://www.facebook.com/ISUShortTrackSpeedSkating" target="_blank"><img src="App_Themes/Default/Images/isu_fb.png" style="border-width:0px;" /></a>
+<a class="menubutton_external" href="https://www.youtube.com/user/SkatingISU" target="_blank"><img src="App_Themes/Default/Images/isu_channel.png" style="border-width:0px;" /></a>
+
+
+
+			</div>
+			<div id="funcline">
+				<div class="select">
+					
+Season
+<select name="sea" onchange="seasonChanged(this)" style="width:150px;">
+	<option value="99899800000001">1994-1995 SEASON</option>
+	<option value="99899800000002">1995-1996 SEASON</option>
+	<option value="99899800000003">1996-1997 SEASON</option>
+	<option value="99899800000004">1997-1998 SEASON</option>
+	<option value="99899800000005">1998-1999 SEASON</option>
+	<option value="99899800000006">1999-2000 SEASON</option>
+	<option value="99899800000007">2000-2001 SEASON</option>
+	<option value="99899800000008">2001-2002 SEASON</option>
+	<option value="99899800000009">2002-2003 SEASON</option>
+	<option value="99899800000010">2003-2004 SEASON</option>
+	<option value="99899800000011">2004-2005 SEASON</option>
+	<option value="99899800000012">2005-2006 SEASON</option>
+	<option value="99899800000013" selected="selected">2006-2007 SEASON</option>
+	<option value="99899800000014">2007-2008 SEASON</option>
+	<option value="99899800000019">2008-2009 SEASON</option>
+	<option value="99899800000022">2009-2010 SEASON</option>
+	<option value="99899800000025">2010-2011 SEASON</option>
+	<option value="99899800000029">2011-2012 SEASON</option>
+	<option value="99899800000051">2012-2013 SEASON</option>
+	<option value="99899800000054">2013-2014 SEASON</option>
+	<option value="99899800000058">2014-2015 SEASON</option>
+	<option value="99899800000061">2015-2016 SEASON</option>
+	<option value="99899800000065">2016-2017 SEASON</option>
+	<option value="99899800000069">2017-2018 SEASON</option>
+	<option value="99899800000075">2018-2019 SEASON</option>
+	<option value="99899800000078">2019-2020 SEASON</option>
+
+</select>&nbsp;
+Series
+<select name="ser" onchange="seriesChanged(this)" style="width:200px;">
+	<option value="">Show all</option>
+	<option value="99899800000015">2006-2007 World Cup Series</option>
+	<option value="99899800000016">2007 ISU Championships</option>
+
+</select>&nbsp;
+Competition
+<select name="evt" onchange="eventChanged(this)" style="width:330px;">
+	<optgroup label="2006-2007 World Cup Series">
+	<option value="11210100000001">ISU World Cup 2006/2007, China, Changchun</option>
+	<option value="11210100000012">ISU World Cup 2006/2007, Korea, Jeonju City</option>
+	<option value="11210100000013">ISU World Cup 2006/2007, Canada, Saguenay</option>
+	<option value="11210100000014">ISU World Cup 2006/2007, Canada, Montreal</option>
+	<option value="11210100000015">ISU World Cup 2006/2007, Netherlands, Heerenveen</option>
+	<option value="11210100000016">ISU World Cup 2006/2007, Hungary, Budapest</option>
+	</optgroup>
+	<optgroup label="2007 ISU Championships">
+	<option value="11210100000017">2007 ISU World Junior Championships, Czech Republic</option>
+	<option value="11210100000018">2007 ISU European Championships, Great Britain</option>
+	<option value="11210100000019">23rd Winter Universade, Italy, Torino</option>
+	<option value="11210100000020" selected="selected">2007 ISU World Championships, Italy</option>
+	<option value="11210100000021">2007 ISU World Team Championships, Hungary</option>
+	</optgroup>
+
+</select>
+
+					
+				</div>
+			</div>
+			
+			<div id="eventline">
+				<table cellpadding="0" cellspacing="0" border="0" style="height: 90px;float:left;">
+					<tr>
+						<td valign="middle">
+							<span class="pathhighlighter">Home</span>
+							
+							<span class="path">&nbsp;&nbsp;>&nbsp;&nbsp;Results</span>
+							
+							<br />
+							<span class="eventhead">
+								2007 ISU World Championships, Italy
+							</span>
+						</td>
+						<td align="right">
+							
+								
+							
+						</td>
+					</tr>
+				</table>
+			</div>
+			<div id="menuline2" style="height: 30px">
+				&nbsp;</div>
+			
+	<div class="bodybgnavi">
+		<div id="navileft">
+			
+<div class="navilevel0">
+	<p>
+		<b>Ladies</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4057&view=ocl">
+					Overall Classification</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4088&view=rou">
+					1500 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4095&view=rou">
+					500 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4102&view=rou">
+					1000 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4105&view=rou">
+					3000 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=w&ref=4112&view=rou">
+					3000 M Relay</a>
+			</p>
+		</div>
+
+</div>
+
+<div class="navilevel0" style="margin-top: 25px">
+	<p>
+		<b>Men</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4057&view=ocl">
+					Overall Classification</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4118&view=rou">
+					1500 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4072&view=rou">
+					500 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4079&view=rou">
+					1000 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpandable1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4108&view=rou">
+					3000 M</a>
+			</p>
+		</div>
+		<div class="navilevel1 naviexpanded1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4083&view=rou">
+					5000 M Relay</a>
+			</p>
+		</div>
+		<div class="navilevel2 naviexpanded2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4083&view=rou">
+					Rounds</a>
+			</p>
+		</div>
+		<div class="navilevel3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4083&view=rou">
+					Final</a>
+			</p>
+		</div>
+		<div class="navilevel3 naviselected3">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4082&view=rou">
+					Semi Finals</a>
+			</p>
+		</div>
+		<div class="navilevel2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4060&view=dcl">
+					Distance Classification</a>
+			</p>
+		</div>
+		<div class="navilevel2">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=m&ref=4060&view=tia">
+					Time Analysis</a>
+			</p>
+		</div>
+
+</div>
+
+<div class="navilevel0" style="margin-top: 25px">
+	<p>
+		<b>Mixed</b>
+	</p>
+</div>
+
+<div class="">
+		<div class="navilevel1">
+			<p>
+				<a href="/Results.aspx?evt=11210100000020&gen=x&view=ocl">
+					Overall Classification</a>
+			</p>
+		</div>
+
+</div>
+
+
+
+		<div class="navilevel0" style="margin-top: 25px">
+			<p>
+				<b>Download</b>
+			</p>
+		</div>
+	
+		<div class="navilevel1">
+			<p>
+				<a href="/Data/PDFs/WC07.pdf">
+					<img src="App_Themes/Default/images/ico_pdf_14.gif" alt="PDF" style="border-width:0px;" />
+					Result Protocol
+				</a>
+			</p>
+		</div>
+	
+
+		</div>
+		<div id="contentrightlarge">
+			
+
+<div id="heattabs">
+	<div class="tabbutton">
+		<p>
+			<b><a href="javascript:history.back()">&laquo; Back</a></b>
+		</p>
+	</div>
+	<div class="tabbuttonsel">
+		<p>
+			Split Times
+		</p>
+	</div>
+</div>
+
+	<div class="tabletitle">
+		<p>
+			2007 ISU World Championships, Italy
+			-
+			5000 M Relay
+			-
+			Semi Finals
+			-
+			Men
+		</p>
+	</div>
+
+
+
+	<div>
+	<table cellspacing="0" align="Center" border="0" style="border-collapse:collapse;">
+	<tr class="tablehead">
+	<th scope="col">&nbsp;</th><th scope="col">ITALY</th><th scope="col">UKRAINE</th><th scope="col">GERMANY</th><th scope="col">KOREA</th>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					1
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					12.180
+					(12.180)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					12.085
+					(12.085)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					12.153
+					(12.153)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					19.902
+					(19.902)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					2
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					21.613
+					(9.434)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					22.032
+					(9.947)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					21.541
+					(9.388)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					
+					()
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					3
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					30.530
+					(8.917)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					31.007
+					(8.975)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					30.253
+					(8.713)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					30.639
+					()
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					4
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					39.807
+					(9.277)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					40.500
+					(9.492)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					39.711
+					(9.457)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					40.154
+					(9.515)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					5
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					49.100
+					(9.293)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					49.531
+					(9.031)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					49.024
+					(9.314)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					49.499
+					(9.344)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					6
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					58.349
+					(9.249)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					58.664
+					(9.133)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					58.213
+					(9.189)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					58.865
+					(9.366)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					7
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:07.902
+					(9.554)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:08.146
+					(9.482)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:07.685
+					(9.473)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:08.110
+					(9.246)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					8
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:16.987
+					(9.085)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:17.320
+					(9.174)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:16.908
+					(9.223)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:17.144
+					(9.034)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					9
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:25.989
+					(9.002)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:26.523
+					(9.203)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:25.859
+					(8.951)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:26.169
+					(9.025)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					10
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:35.462
+					(9.472)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:35.485
+					(8.962)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:35.346
+					(9.487)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:35.543
+					(9.374)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					11
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:44.617
+					(9.155)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:45.080
+					(9.595)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:44.655
+					(9.309)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:44.954
+					(9.411)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					12
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:53.844
+					(9.227)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:54.050
+					(8.971)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:53.656
+					(9.001)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					1:54.249
+					(9.295)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					13
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:03.026
+					(9.182)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:03.500
+					(9.449)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:02.892
+					(9.236)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:03.509
+					(9.260)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					14
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:12.121
+					(9.095)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:12.544
+					(9.045)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:12.212
+					(9.320)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:12.282
+					(8.774)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					15
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:20.891
+					(8.770)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:21.568
+					(9.024)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:21.105
+					(8.893)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:21.021
+					(8.739)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					16
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:30.217
+					(9.326)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:30.789
+					(9.220)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:30.311
+					(9.206)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:30.847
+					(9.826)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					17
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:39.583
+					(9.365)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:40.175
+					(9.386)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:39.581
+					(9.271)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:39.898
+					(9.051)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					18
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:48.519
+					(8.936)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:49.105
+					(8.930)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:48.429
+					(8.847)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:48.998
+					(9.100)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					19
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:57.653
+					(9.134)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:58.389
+					(9.284)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:57.521
+					(9.093)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					2:57.908
+					(8.910)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					20
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:06.683
+					(9.031)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:07.480
+					(9.091)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:06.689
+					(9.168)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:06.926
+					(9.018)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					21
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:15.610
+					(8.927)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:16.632
+					(9.152)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:15.473
+					(8.784)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:15.877
+					(8.951)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					22
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:25.073
+					(9.464)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:25.705
+					(9.073)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:25.030
+					(9.557)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:25.213
+					(9.336)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					23
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:34.593
+					(9.520)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:35.390
+					(9.685)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:34.259
+					(9.229)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:34.501
+					(9.288)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					24
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:43.547
+					(8.954)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:44.860
+					(9.470)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:43.278
+					(9.019)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:43.625
+					(9.123)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					25
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:52.553
+					(9.006)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:54.234
+					(9.374)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:52.170
+					(8.892)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					3:52.580
+					(8.956)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					26
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:01.548
+					(8.995)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:03.734
+					(9.500)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:01.470
+					(9.300)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:01.354
+					(8.774)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					27
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:10.051
+					(8.503)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:12.923
+					(9.189)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:09.907
+					(8.437)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:10.115
+					(8.761)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					28
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:19.178
+					(9.128)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:22.398
+					(9.475)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:19.175
+					(9.269)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:18.995
+					(8.879)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					29
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:28.437
+					(9.259)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:32.290
+					(9.892)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:28.675
+					(9.500)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:28.193
+					(9.199)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					30
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:37.259
+					(8.822)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:41.814
+					(9.524)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:37.956
+					(9.281)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:37.105
+					(8.912)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					31
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:46.036
+					(8.777)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:51.675
+					(9.861)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:46.981
+					(9.025)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:46.053
+					(8.948)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					32
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:54.750
+					(8.714)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:01.169
+					(9.494)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:55.973
+					(8.992)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					4:54.328
+					(8.275)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					33
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:03.308
+					(8.558)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:10.456
+					(9.287)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:05.114
+					(9.141)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:03.377
+					(9.050)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					34
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:12.376
+					(9.068)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:20.345
+					(9.889)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:14.660
+					(9.546)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:12.557
+					(9.179)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					35
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:21.588
+					(9.212)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:30.038
+					(9.693)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:24.149
+					(9.489)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:21.649
+					(9.093)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					36
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:30.775
+					(9.187)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:39.748
+					(9.710)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:33.445
+					(9.296)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:30.997
+					(9.348)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					37
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:40.068
+					(9.293)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:49.627
+					(9.879)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:42.689
+					(9.244)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:39.879
+					(8.882)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					38
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:49.118
+					(9.051)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:59.241
+					(9.614)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:51.730
+					(9.041)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:49.163
+					(9.283)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					39
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:58.312
+					(9.194)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:08.784
+					(9.543)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:01.161
+					(9.431)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					5:58.440
+					(9.277)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					40
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:07.702
+					(9.390)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:18.483
+					(9.700)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:10.793
+					(9.632)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:08.175
+					(9.735)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					41
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:17.284
+					(9.582)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:28.518
+					(10.035)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:20.529
+					(9.736)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:17.303
+					(9.128)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					42
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:26.130
+					(8.847)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:38.105
+					(9.587)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:29.748
+					(9.219)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:26.759
+					(9.456)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					43
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:35.717
+					(9.586)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:47.806
+					(9.701)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:38.958
+					(9.210)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:35.630
+					(8.871)
+				</td>
+</tr><tr class="tablecolodd" valign="top">
+	<td>
+					44
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:45.253
+					(9.536)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:57.178
+					(9.372)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:48.503
+					(9.545)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:44.951
+					(9.321)
+				</td>
+</tr><tr class="tablecoleven" valign="top">
+	<td>
+					45
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:55.082
+					(9.829)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					7:07.256
+					(10.078)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:58.452
+					(9.949)
+				</td><td style="width:25%;">
+					<span style="color:#004895">[0]</span>
+					6:54.374
+					(9.422)
+				</td>
+</tr>
+</table>
+</div>
+
+
+		</div>
+	</div>
+
+			<br clear="all" />
+			<div id="footer">
+				<p>
+					&copy;
+					2020
+					ISU. All Rights Reserved.<br/>
+					<a href="https://www.isu.org/contact-us">Contact Us</a> | 
+					<a href="https://www.isu.org/quick-links-sep/legal-information">Terms of Services</a> | 
+					<a href="https://www.isu.org/quick-links-sep/privacy-policy">Privacy policy</a><br/>
+					<a href="mailto:shorttrack@st-sportservice.com">Contact Result Service</a>
+				</p>
+			</div>
+		</div>
+	
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="63301E89" />
+</div></form>
+</body>
+</html>

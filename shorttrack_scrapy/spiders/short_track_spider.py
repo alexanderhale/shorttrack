@@ -1,57 +1,97 @@
 import re
-from os import listdir
 
+import numpy as np
 import pandas as pd
 import scrapy
-from urllib.parse import urlsplit, parse_qs
+from urllib.parse import urlsplit, parse_qs, urlparse
+
 
 class ShortTrackEventSpider(scrapy.Spider):
-    name = "shorttrackevent"
-    start_urls = {
-                    # 2018_2019
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000058&gen=w&ref=19185&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000059&gen=w&ref=19332&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000060&gen=w&ref=19411&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000061&gen=w&ref=19636&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000062&gen=w&ref=19735&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000064&gen=w&ref=19495&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000066&gen=w&ref=19830&view=rou',
-
-                    # 2019_2020
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000067&gen=w&ref=63952&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000068&gen=w&ref=64046&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000068&gen=w&ref=64046&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000069&gen=w&ref=63952&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000070&gen=w&ref=64046&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000071&gen=w&ref=64046&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000072&gen=w&ref=63952&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000073&gen=w&ref=64046&view=rou',
-                    'https://shorttrack.sportresult.com/Results.aspx?evt=11213100000074&gen=w&ref=64046&view=rou'
-                 }
+    name = "shorttrack"
+    start_url = "https://shorttrack.sportresult.com"
     bad_chars = '\s+'
-    full_dir = 'data/scraped/raw/event/'
-    parsed_dir = 'data/scraped/parsed/event/'
+    raw_dir = 'data/scraped/raw/round/'
+    raw_split_dir = 'data/scraped/raw/split/'
+    parsed_dir = 'data/scraped/parsed/round/'
+    parsed_split_dir = 'data/scraped/parsed/split/'
 
     def start_requests(self):
-        
-        for url in self.start_urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        yield scrapy.Request(url=self.start_url, callback=self.parse)
 
     def parse(self, response):
-        # extract event details for categorization purposes
-        event_name = response.css('span.eventhead::text').get()
-        gender = response.url.split("&")[-3].split("=")[-1]
-        distance = response.css('div.navilevel1.naviexpanded1 p a::text').get()
-        stage = response.css('div.navilevel3.naviselected3 p a::text').get()
+        """
+        Gather list of season IDs and call them individually.
+        """
+        season_numbers = response.css('select[name="sea"] option::attr(value)').getall()
+        season_titles = response.css('select[name="sea"] option::text').getall()
+        for season_number, season_title in zip(season_numbers, season_titles):
+            season_url = response.url + "/?sea=" + season_number
+            yield scrapy.Request(url=season_url,
+                                 callback=self.parse_season,
+                                 meta=dict(season_id=season_number,
+                                           season_title=season_title.split(" ")[0]))
+
+    def parse_season(self, response):
+        """
+        Gather list of competitions in the season and call them individually.
+        """
+        competition_numbers = response.css('select[name="evt"] optgroup option::attr(value)').getall()
+        competition_titles = response.css('select[name="evt"] optgroup option::text').getall()
+        url_components = urlparse(response.url)
+        for competition_number, competition_title in zip(competition_numbers, competition_titles):
+            competition_url = f'{url_components.scheme}://{url_components.netloc}/Results.aspx?evt={competition_number}'
+            response.meta.update(dict(competition_title=competition_title,
+                                      competition_id=competition_number))
+            yield scrapy.Request(url=competition_url,
+                                 callback=self.parse_competition,
+                                 meta=response.meta)
+
+    def parse_competition(self, response):
+        """
+        Gather list of events in the competition and call them individually.
+        """
+        event_urls = response.css('div.navilevel1 p a::attr(href)').getall()
+        event_titles = response.css('div.navilevel1 p a::text').getall()
+
+        for event_url, event_title in zip(event_urls, event_titles):
+            full_event_url = response.urljoin(event_url)
+            event_details = parse_qs(urlsplit(full_event_url).query)
+            response.meta.update(dict(event_title=event_title,
+                                      event_gender=event_details.get("gen", [""])[0]))
+            yield scrapy.Request(url=full_event_url,
+                                 callback=self.parse_event,
+                                 meta=response.meta)
+
+    def parse_event(self, response):
+        """
+        Gather list of rounds in the event and call them individually.
+        """
+        round_urls = response.css('div.navilevel3 p a::attr(href)').getall()
+        round_titles = response.css('div.navilevel3 p a::text').getall()
+
+        for round_url, round_title in zip(round_urls, round_titles):
+            full_round_url = response.urljoin(round_url)
+            round_details = parse_qs(urlsplit(full_round_url).query)
+            response.meta.update(dict(round_title=round_title,
+                                      round_id=round_details.get("ref", "")))
+            yield scrapy.Request(url=full_round_url,
+                                 callback=self.parse_round,
+                                 meta=response.meta)
+
+    def parse_round(self, response):
+        """
+        Gather athlete data and basic timing/position data for each race in the round.
+        """
+        # create file name
+        unclean_file_name = f'{response.meta["season_title"]}-{response.meta["competition_title"]}-' \
+                            f'{response.meta["event_title"]}-{response.meta["event_gender"]}-' \
+                            f'{response.meta["round_title"]}'
+        response.meta.update(dict(round_file_name=re.sub("/", '_', re.sub(self.bad_chars, '', unclean_file_name))))
 
         # save full HTML content
-        filename = f'{event_name}-{distance}-{gender}-{stage}'
-        filename_details = re.sub("/", '_', re.sub(self.bad_chars, '', filename))
-        full_filename = self.full_dir + filename_details + '.html'
-        with open(full_filename, 'wb') as f:
-            f.write(response.body)
-        
-        # extract and save timing data from this page
+        self.save_raw_html(html_content=response.body, file_name=response.meta["round_file_name"])
+
+        # extract athlete data and basic timing/position data for each race of the round
         races = response.css('table[cellspacing="0"][align="Center"]')
         races_out = list()
         for i, race in enumerate(races):
@@ -62,40 +102,62 @@ class ShortTrackEventSpider(scrapy.Spider):
                 for col, data_point in zip(column_headers, athlete.css('td')):
                     if col == "Name":
                         athlete_out[col] = re.sub(self.bad_chars, '', data_point.css('td a::text').get())
-                        athlete_out["ISU ID"] = parse_qs(urlsplit(data_point.css('a::attr(href)').get()).query)["ath"][0]
+                        athlete_out["ISU ID"] = parse_qs(urlsplit(data_point.css('a::attr(href)').get()).query).get(
+                            "ath", [""])[0]
                     elif col != "\xa0":
                         athlete_out[col] = re.sub(self.bad_chars, '', data_point.css('td::text').get())
                 races_out.append(athlete_out)
 
-        pd.DataFrame(races_out).to_csv(self.parsed_dir + filename_details + ".csv", index=False)
+        self.save_parsed_data(df=pd.DataFrame(races_out), file_name=response.meta["round_file_name"])
 
-        # create a request to ShortTrackSplitSpider to extract the splits for the races on this page
-        split_urls = response.css('div.tabletitle p a::attr(href)').getall()
-        # TODO
+        # call the dedicated parser to extract split data for each race of the round
+        split_urls = response.css('div.tabletitle p a[href*="http://shorttrack.sportresult.com"]::attr(href)').getall()
+        for split_url in split_urls:
+            split_path = response.urljoin(split_url)
+            response.meta.update(dict(race_number=parse_qs(urlsplit(split_path).query).get("rac", [""])[0]))
+            yield scrapy.Request(url=split_path,
+                                 callback=self.parse_split,
+                                 meta=response.meta)
 
-        # gather URLs which have been scraped already
-        already_scraped = listdir(self.full_dir)
+    def parse_split(self, response):
+        """
+        Gather split data for the race.
+        """
+        # create file name
+        race_file_name = f'{response.meta["round_file_name"]}-race_{response.meta["race_number"]}-splits'
 
-        # find other results-containing URLs and explore them
-        other_pages_to_crawl = response.css('div.navilevel1 p a::attr(href)').getall() + response.css('div.navilevel3 p a::attr(href)').getall()
-        for other_page in other_pages_to_crawl:
-            other_page_path = response.urljoin(other_page)
-            if "Results.aspx" in other_page_path and other_page_path not in already_scraped:
-                self.log(f'Adding {other_page_path} to crawl list.')
-                yield scrapy.Request(url=other_page_path, callback=self.parse)
+        # save full HTML content
+        self.save_raw_html(html_content=response.body, file_name=race_file_name, split=True)
 
-        self.log(f'Saved file {full_filename}')
+        # extract split times and positions for each athlete on each lap
+        athlete_names = response.css('tr.tablehead th[scope="col"]::text')[1:].getall()
+        laps = response.css('tr[class*=tablecol]')
 
+        split_data = dict()
+        for athlete_name in athlete_names:
+            split_data[f'{athlete_name} POSITION'] = list()
+            split_data[f'{athlete_name} LAP TIME'] = list()
+            split_data[f'{athlete_name} ELAPSED TIME'] = list()
 
-class ShortTrackSplitSpider(scrapy.Spider):
-    name = "shorttracksplit"
-    bad_chars = '\s+'
-    full_dir = 'data/scraped/raw/split/'
-    parsed_dir = 'data/scraped/parsed/split/'
+        for lap in laps:
+            for athlete_col, athlete_name in zip(lap.css('td')[1:], athlete_names):
+                athlete_position = athlete_col.css('td span::text').get()
+                athlete_position_cleaned = athlete_position.strip('[]') if athlete_position is not None else np.nan
+                split_data[f'{athlete_name} POSITION'].append(athlete_position_cleaned)
+                both_times = re.sub(self.bad_chars, '', athlete_col.css('td::text').getall()[1]).strip(')').split('(')
+                split_data[f'{athlete_name} LAP TIME'].append(both_times[1])
+                split_data[f'{athlete_name} ELAPSED TIME'].append(both_times[0])
 
-    def start_requests(self):
-        pass
+        self.save_parsed_data(df=pd.DataFrame(split_data), file_name=race_file_name, split=True)
 
-    def parse(self, response):
-        # TODO
-        pass
+    def save_raw_html(self, html_content, file_name, split=False):
+        directory = self.raw_split_dir if split else self.raw_dir
+        with open(directory + file_name + '.html', 'wb') as f:
+            f.write(html_content)
+            self.log(message=f'Saved file {f.name}')
+
+    def save_parsed_data(self, df: pd.DataFrame, file_name: str, split=False):
+        directory = self.parsed_split_dir if split else self.parsed_dir
+        full_file_name = directory + file_name + ".csv"
+        df.to_csv(full_file_name, index=False)
+        self.log(message=f'Saved file {full_file_name}')
