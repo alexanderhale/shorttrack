@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,101,LachlanHAY,6845,AUS,1:38.797,Q
-0,2,4,,140,JunjiITO,6579,JPN,1:38.903,Q
-0,3,2,,129,TomIVESON,6898,GBR,1:38.933,
-0,4,3,,102,JeremyBECK,7283,AUS,1:39.048,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,RepFinalA,1,1,1,,101,LachlanHAY,6845,AUS,1:38.797,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,RepFinalA,1,2,4,,140,JunjiITO,6579,JPN,1:38.903,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,RepFinalA,1,3,2,,129,TomIVESON,6898,GBR,1:38.933,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,RepFinalA,1,4,3,,102,JeremyBECK,7283,AUS,1:39.048,

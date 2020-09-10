@@ -1,37 +1,37 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,165,DariuszKULESZA,6817,POL,43.878,Q
-0,2,4,,167,EvgeniiKOZULIN,7272,RUS,43.917,Q
-0,3,2,,104,JeremyBECK,7283,AUS,44.183,
-0,4,3,,149,SatoshiSAKASHITA,6183,JPN,44.932,
-1,1,2,,107,PieterGYSEL,6425,BEL,43.219,Q
-1,2,1,,103,ElliottSHRIANE,6846,AUS,43.486,Q
-1,3,3,,148,FURUYAKengo,7262,JPN,43.721,
-1,4,4,,179,DmytroPOLTAVETS,7221,UKR,44.632,
-2,1,2,,112,HAMELINCharles,6610,CAN,42.429,Q
-2,2,1,,124,BenoitANTERIEUX,6193,FRA,43.297,Q
-2,3,4,,110,AssenPANDOV,6778,BUL,43.300,q
-2,4,3,,174,MikeWESTERMAN,7116,NED,43.588,
-3,1,1,,114,JeffSCHOLTEN,6604,CAN,42.417,Q
-3,2,2,,154,KIMHyun-Kon,7101,KOR,42.558,Q
-3,3,4,,186,JordanMALONE,6201,USA,1:18.281,
-3,4,3,,120,LIHaonan,6658,CHN,1:33.596,
-4,1,4,,156,SONGKyung-Taek,6574,KOR,43.267,Q
-4,2,1,,118,WANGHongYang,6084,CHN,43.427,Q
-4,3,3,,181,SerhiyLIFYRENKO,6826,UKR,44.562,
-4,4,2,,134,AnthonyDOUGLAS,6301,GBR,44.772,
-5,1,1,,185,JPKEPKA,6501,USA,43.123,Q
-5,2,4,,116,MichaelGILDAY,6195,CAN,43.132,Q
-5,3,3,,126,MatthieudeBOISSET,6467,FRA,44.420,
-5,4,2,,171,FreekvanderWART,7269,NED,44.742,
-6,1,4,,135,JonELEY,6592,GBR,43.259,Q
-6,2,1,,184,CharlesRyanLEVEILLE,7122,USA,44.344,Q
-6,3,2,,106,AndrePULEC,6054,AUT,44.706,
-6,4,3,,190,VitalyMIKHEENKOV,6234,RUS,45.315,
-7,1,3,,147,JunjiITO,6579,JPN,42.777,Q
-7,2,2,,132,RobertSEIFERT,6176,GER,43.001,Q
-7,3,1,,141,DenisBELLOTTI,6807,ITA,1:31.122,
-7,DNF,4,,172,IngmarvanRIEL,6186,NED,DNF,
-8,1,2,,121,HUZe,6926,CHN,43.352,Q
-8,2,3,,144,RobertoSERRA,6463,ITA,43.496,Q
-8,3,1,,138,PaulWORTH,6802,GBR,43.629,q
-8,4,4,,129,RobertBECKER,7258,GER,43.702,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,1,1,1,,165,DariuszKULESZA,6817,POL,43.878,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,1,2,4,,167,EvgeniiKOZULIN,7272,RUS,43.917,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,1,3,2,,104,JeremyBECK,7283,AUS,44.183,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,1,4,3,,149,SatoshiSAKASHITA,6183,JPN,44.932,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,2,1,2,,107,PieterGYSEL,6425,BEL,43.219,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,2,2,1,,103,ElliottSHRIANE,6846,AUS,43.486,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,2,3,3,,148,FURUYAKengo,7262,JPN,43.721,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,2,4,4,,179,DmytroPOLTAVETS,7221,UKR,44.632,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,3,1,2,,112,HAMELINCharles,6610,CAN,42.429,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,3,2,1,,124,BenoitANTERIEUX,6193,FRA,43.297,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,3,3,4,,110,AssenPANDOV,6778,BUL,43.300,q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,3,4,3,,174,MikeWESTERMAN,7116,NED,43.588,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,4,1,1,,114,JeffSCHOLTEN,6604,CAN,42.417,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,4,2,2,,154,KIMHyun-Kon,7101,KOR,42.558,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,4,3,4,,186,JordanMALONE,6201,USA,1:18.281,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,4,4,3,,120,LIHaonan,6658,CHN,1:33.596,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,5,1,4,,156,SONGKyung-Taek,6574,KOR,43.267,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,5,2,1,,118,WANGHongYang,6084,CHN,43.427,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,5,3,3,,181,SerhiyLIFYRENKO,6826,UKR,44.562,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,5,4,2,,134,AnthonyDOUGLAS,6301,GBR,44.772,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,6,1,1,,185,JPKEPKA,6501,USA,43.123,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,6,2,4,,116,MichaelGILDAY,6195,CAN,43.132,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,6,3,3,,126,MatthieudeBOISSET,6467,FRA,44.420,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,6,4,2,,171,FreekvanderWART,7269,NED,44.742,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,7,1,4,,135,JonELEY,6592,GBR,43.259,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,7,2,1,,184,CharlesRyanLEVEILLE,7122,USA,44.344,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,7,3,2,,106,AndrePULEC,6054,AUT,44.706,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,7,4,3,,190,VitalyMIKHEENKOV,6234,RUS,45.315,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,8,1,3,,147,JunjiITO,6579,JPN,42.777,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,8,2,2,,132,RobertSEIFERT,6176,GER,43.001,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,8,3,1,,141,DenisBELLOTTI,6807,ITA,1:31.122,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,8,DNF,4,,172,IngmarvanRIEL,6186,NED,DNF,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,9,1,2,,121,HUZe,6926,CHN,43.352,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,9,2,3,,144,RobertoSERRA,6463,ITA,43.496,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,9,3,1,,138,PaulWORTH,6802,GBR,43.629,q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(2),m,Preliminaries,9,4,4,,129,RobertBECKER,7258,GER,43.702,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,209,KOREA,7314,KOR,4:16.827,
-0,2,3,,211,UNITEDSTATES,7316,USA,4:17.442,
-0,3,1,,205,ITALY,7317,ITA,4:17.809,
-0,4,4,,201,BULGARIA,7335,BUL,4:19.685,
-1,1,3,,203,CHINA,7311,CHN,4:13.807,
-1,2,1,,202,CANADA,7312,CAN,4:14.982,
-1,3,2,,206,JAPAN,7304,JPN,4:15.615,
-1,4,4,,208,NETHERLANDS,7322,NED,4:23.761,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,1,1,2,,209,KOREA,7314,KOR,4:16.827,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,1,2,3,,211,UNITEDSTATES,7316,USA,4:17.442,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,1,3,1,,205,ITALY,7317,ITA,4:17.809,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,1,4,4,,201,BULGARIA,7335,BUL,4:19.685,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,2,1,3,,203,CHINA,7311,CHN,4:13.807,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,2,2,1,,202,CANADA,7312,CAN,4:14.982,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,2,3,2,,206,JAPAN,7304,JPN,4:15.615,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",3000mRelay,w,Semifinals,2,4,4,,208,NETHERLANDS,7322,NED,4:23.761,

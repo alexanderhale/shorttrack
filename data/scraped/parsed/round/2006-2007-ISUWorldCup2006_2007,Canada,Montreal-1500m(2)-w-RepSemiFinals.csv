@@ -1,15 +1,15 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,32,KatiaZINI,6076,ITA,2:41.507,Q
-0,2,4,,39,YukoKOYA,6289,JPN,2:41.641,Q
-0,3,2,,52,OlgaMASKAIKINA,6685,RUS,2:43.465,
-0,4,5,,46,FrancescaJACKSON,6356,NZL,2:48.476,
-0,DQ,3,,59,SarahLANG,6527,USA,DQ,
-1,1,1,,35,BibaSAKURAI,7240,JPN,2:42.759,Q
-1,2,2,,53,ValeriyaREZNIK,6573,RUS,2:42.866,Q
-1,3,4,,47,AidaPOPIOLEK,6683,POL,2:51.958,
-1,DQ,3,,58,LezleighJAWORSKI,6842,USA,DQ,
-2,1,5,,28,RozsaDARAZS,6797,HUN,2:35.072,Q
-2,2,1,,31,CeciliaMAFFEI,6559,ITA,2:35.135,Q
-2,3,3,,23,JuliaRIEDEL,6287,GER,2:36.184,
-2,4,2,,64,RanyaEZZI,6840,SWE,2:36.263,
-2,5,4,,50,VeraMILIYAEVA,7113,RUS,2:38.124,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,1,1,1,,32,KatiaZINI,6076,ITA,2:41.507,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,1,2,4,,39,YukoKOYA,6289,JPN,2:41.641,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,1,3,2,,52,OlgaMASKAIKINA,6685,RUS,2:43.465,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,1,4,5,,46,FrancescaJACKSON,6356,NZL,2:48.476,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,1,DQ,3,,59,SarahLANG,6527,USA,DQ,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,2,1,1,,35,BibaSAKURAI,7240,JPN,2:42.759,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,2,2,2,,53,ValeriyaREZNIK,6573,RUS,2:42.866,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,2,3,4,,47,AidaPOPIOLEK,6683,POL,2:51.958,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,2,DQ,3,,58,LezleighJAWORSKI,6842,USA,DQ,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,3,1,5,,28,RozsaDARAZS,6797,HUN,2:35.072,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,3,2,1,,31,CeciliaMAFFEI,6559,ITA,2:35.135,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,3,3,3,,23,JuliaRIEDEL,6287,GER,2:36.184,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,3,4,2,,64,RanyaEZZI,6840,SWE,2:36.263,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepSemiFinals,3,5,4,,50,VeraMILIYAEVA,7113,RUS,2:38.124,

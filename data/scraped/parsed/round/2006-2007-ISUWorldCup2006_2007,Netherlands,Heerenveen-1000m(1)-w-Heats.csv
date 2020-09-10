@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,6,EvgeniaRADANOVA,6775,BUL,1:46.142,Q
-0,2,3,,9,MyrtilleGOLLIN,6714,FRA,1:46.433,Q
-0,3,1,,32,ValeriyaREZNIK,6573,RUS,1:46.636,
-1,1,2,,29,EkaterinaBELOVA,6190,RUS,1:40.578,Q
-1,2,1,,36,SarahLANG,6527,USA,1:40.889,Q
-1,3,4,,24,MaaikeVOS,7180,NED,2:01.228,ADV
-1,DQ,3,,1,EmilyROSEMOND,6736,AUS,DQ,
-2,1,2,,15,MartaCAPURSO,6328,ITA,1:40.680,Q
-2,2,3,,38,CheriseWILKINS,7291,USA,1:42.032,Q
-2,3,1,,3,AnnabeldeCLEER,7294,BEL,1:42.937,
-3,1,3,,10,ChristinPRIEBST,6078,GER,1:39.931,Q
-3,2,1,,14,SarahLINDSAY,6056,GBR,1:40.086,Q
-3,3,2,,21,MargrietdeSCHUTTER,6834,NED,1:40.759,
-3,DQ,4,,34,LezleighJAWORSKI,6842,USA,DQ,
-4,1,2,,12,SusanneRUDOLPH,6362,GER,1:40.994,Q
-4,2,3,,25,EllenWIEGERS,6555,NED,1:41.204,Q
-4,3,1,,19,MaraZINI,6326,ITA,1:41.286,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,1,1,2,,6,EvgeniaRADANOVA,6775,BUL,1:46.142,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,1,2,3,,9,MyrtilleGOLLIN,6714,FRA,1:46.433,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,1,3,1,,32,ValeriyaREZNIK,6573,RUS,1:46.636,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,2,1,2,,29,EkaterinaBELOVA,6190,RUS,1:40.578,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,2,2,1,,36,SarahLANG,6527,USA,1:40.889,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,2,3,4,,24,MaaikeVOS,7180,NED,2:01.228,ADV
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,2,DQ,3,,1,EmilyROSEMOND,6736,AUS,DQ,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,3,1,2,,15,MartaCAPURSO,6328,ITA,1:40.680,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,3,2,3,,38,CheriseWILKINS,7291,USA,1:42.032,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,3,3,1,,3,AnnabeldeCLEER,7294,BEL,1:42.937,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,4,1,3,,10,ChristinPRIEBST,6078,GER,1:39.931,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,4,2,1,,14,SarahLINDSAY,6056,GBR,1:40.086,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,4,3,2,,21,MargrietdeSCHUTTER,6834,NED,1:40.759,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,4,DQ,4,,34,LezleighJAWORSKI,6842,USA,DQ,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,5,1,2,,12,SusanneRUDOLPH,6362,GER,1:40.994,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,5,2,3,,25,EllenWIEGERS,6555,NED,1:41.204,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,Heats,5,3,1,,19,MaraZINI,6326,ITA,1:41.286,

@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,336,KOREA,9475,KOR,2:42.382,QA
-0,2,2,,303,BELGIUM,9594,BEL,2:42.950,QA
-0,3,4,,306,CANADA,9467,CAN,2:44.525,QB
-1,1,1,,310,CHINA,9468,CHN,2:41.029,QA
-1,2,2,,330,JAPAN,9473,JPN,2:41.061,QA
-1,3,3,,352,UNITEDSTATES,9479,USA,2:41.203,QB
-1,4,4,,321,GREATBRITAIN,9470,GBR,2:52.817,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,1,1,3,,336,KOREA,9475,KOR,2:42.382,QA
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,1,2,2,,303,BELGIUM,9594,BEL,2:42.950,QA
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,1,3,4,,306,CANADA,9467,CAN,2:44.525,QB
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,2,1,1,,310,CHINA,9468,CHN,2:41.029,QA
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,2,2,2,,330,JAPAN,9473,JPN,2:41.061,QA
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,2,3,3,,352,UNITEDSTATES,9479,USA,2:41.203,QB
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),2000mRelay,x,Semifinals,2,4,4,,321,GREATBRITAIN,9470,GBR,2:52.817,QB

@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,1,,1,TatianaBORODULINA,6684,AUS,44.557,Q
-0,3,3,,21,StephanieBOUVIER,6709,FRA,45.329,
-0,4,4,,58,JUNGBa-Ra,7537,KOR,45.789,
-1,1,4,,16,FUTianYu,6650,CHN,44.790,Q
-1,2,1,,11,JessicaGREGG,6141,CAN,44.798,Q
-1,3,3,,51,AnnitavanDOORN,6440,NED,46.400,
-1,4,2,,4,EvgeniaRADANOVA,6775,BUL,48.704,
-2,1,3,,13,ValerieLAMBERT,7132,CAN,45.779,Q
-2,2,2,,70,AllisonBAVER,6533,USA,45.799,Q
-2,3,1,,59,YANGShin-Young,7163,KOR,45.805,
-2,4,4,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.086,
-3,1,1,,14,WANGMeng,6594,CHN,44.284,Q
-3,2,4,,25,SusanneRUDOLPH,6362,GER,45.385,Q
-3,3,2,,63,EkaterinaBELOVA,6190,RUS,45.419,
-3,DNS,3,,34,AriannaFONTANA,6227,ITA,DNS,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,1,2,1,,1,TatianaBORODULINA,6684,AUS,44.557,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,1,3,3,,21,StephanieBOUVIER,6709,FRA,45.329,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,1,4,4,,58,JUNGBa-Ra,7537,KOR,45.789,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,2,1,4,,16,FUTianYu,6650,CHN,44.790,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,2,2,1,,11,JessicaGREGG,6141,CAN,44.798,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,2,3,3,,51,AnnitavanDOORN,6440,NED,46.400,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,2,4,2,,4,EvgeniaRADANOVA,6775,BUL,48.704,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,3,1,3,,13,ValerieLAMBERT,7132,CAN,45.779,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,3,2,2,,70,AllisonBAVER,6533,USA,45.799,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,3,3,1,,59,YANGShin-Young,7163,KOR,45.805,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,3,4,4,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.086,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,4,1,1,,14,WANGMeng,6594,CHN,44.284,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,4,2,4,,25,SusanneRUDOLPH,6362,GER,45.385,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,4,3,2,,63,EkaterinaBELOVA,6190,RUS,45.419,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,w,Quarterfinals,4,DNS,3,,34,AriannaFONTANA,6227,ITA,DNS,

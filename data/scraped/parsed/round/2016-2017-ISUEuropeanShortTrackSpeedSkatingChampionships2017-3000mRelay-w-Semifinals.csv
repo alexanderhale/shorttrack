@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,306,HUNGARY,9043,HUN,4:18.103,QA,
-0,2,4,,303,CZECHREPUBLIC,9065,CZE,4:21.940,QA,
-0,3,2,,304,FRANCE,9042,FRA,4:28.087,QB,
-0,4,3,,309,POLAND,9041,POL,4:36.459,QB,
-1,1,3,,307,ITALY,9039,ITA,4:12.838,QA,
-1,2,1,,308,NETHERLANDS,9040,NED,4:21.606,QA,
-1,3,4,,301,BELARUS,9079,BLR,4:27.909,QB,
-1,PEN,2,,310,RUSSIA,9046,RUS,PEN,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,1,1,1,,306,HUNGARY,9043,HUN,4:18.103,QA,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,1,2,4,,303,CZECHREPUBLIC,9065,CZE,4:21.940,QA,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,1,3,2,,304,FRANCE,9042,FRA,4:28.087,QB,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,1,4,3,,309,POLAND,9041,POL,4:36.459,QB,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,2,1,3,,307,ITALY,9039,ITA,4:12.838,QA,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,2,2,1,,308,NETHERLANDS,9040,NED,4:21.606,QA,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,2,3,4,,301,BELARUS,9079,BLR,4:27.909,QB,
+2016-2017,ISU European Short Track Speed Skating Championships 2017,3000mRelay,w,Semifinals,2,PEN,2,,310,RUSSIA,9046,RUS,PEN,,

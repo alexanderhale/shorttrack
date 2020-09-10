@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,13,JessicaGREGG,6141,CAN,44.567,Q
-0,2,2,,27,ZHAONannan,7150,CHN,44.573,Q
-0,3,4,,73,LiesbethMAUASAM,6444,NED,44.697,
-0,4,1,,50,AriannaFONTANA,6227,ITA,45.602,
-1,1,1,,24,LIUQiuhong,6286,CHN,43.717,Q
-1,2,2,,16,KalynaROBERGE,6284,CAN,43.820,Q
-1,3,4,,30,PIERRONVeronique,6196,FRA,44.860,
-1,4,3,,66,CHOHa-Ri,7028,KOR,45.235,
-1,5,5,,38,SarahLINDSAY,6056,GBR,45.429,
-2,1,1,,92,KatherineREUTTER-ADAMEK,7255,USA,44.859,Q
-2,2,4,,44,ErikaHUSZAR,6373,HUN,44.955,Q
-2,3,3,,1,TatianaBORODULINA,6684,AUS,44.986,
-2,DNF,2,,72,AnnitavanDOORN,6440,NED,DNF,
-3,2,3,,67,PARKSeung-Hi,7164,KOR,44.840,Q
-3,3,5,,79,PatrycjaMALISZEWSKA,6154,POL,48.435,
-3,4,4,,31,AikaKLEIN,6359,GER,1:00.145,
-3,5,2,,14,MarianneST-GELAIS,7216,CAN,1:07.366,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,1,1,3,,13,JessicaGREGG,6141,CAN,44.567,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,1,2,2,,27,ZHAONannan,7150,CHN,44.573,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,1,3,4,,73,LiesbethMAUASAM,6444,NED,44.697,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,1,4,1,,50,AriannaFONTANA,6227,ITA,45.602,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,2,1,1,,24,LIUQiuhong,6286,CHN,43.717,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,2,2,2,,16,KalynaROBERGE,6284,CAN,43.820,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,2,3,4,,30,PIERRONVeronique,6196,FRA,44.860,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,2,4,3,,66,CHOHa-Ri,7028,KOR,45.235,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,2,5,5,,38,SarahLINDSAY,6056,GBR,45.429,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,3,1,1,,92,KatherineREUTTER-ADAMEK,7255,USA,44.859,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,3,2,4,,44,ErikaHUSZAR,6373,HUN,44.955,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,3,3,3,,1,TatianaBORODULINA,6684,AUS,44.986,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,3,DNF,2,,72,AnnitavanDOORN,6440,NED,DNF,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,4,2,3,,67,PARKSeung-Hi,7164,KOR,44.840,Q
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,4,3,5,,79,PatrycjaMALISZEWSKA,6154,POL,48.435,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,4,4,4,,31,AikaKLEIN,6359,GER,1:00.145,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",500m,w,Quarterfinals,4,5,2,,14,MarianneST-GELAIS,7216,CAN,1:07.366,

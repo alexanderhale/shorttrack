@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,1,,133,BYKANOVVladislav,6178,ISR,1:31.129,Q
-0,3,2,,169,VladimirGRIGOREV,7826,RUS,1:31.281,
-0,4,3,,142,NurbergenZHUMAGAZIYEV,7349,KAZ,1:31.439,
-1,1,1,,129,PaulHERRMANN,6803,GER,1:32.338,Q
-1,2,3,,168,ViacheslavKURGINIAN,6934,RUS,1:32.423,Q
-1,3,4,,175,IevgenGUTENOV,7178,UKR,1:32.523,
-1,PEN,2,,151,Jan-EbelevanderREE,7612,NED,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,1,2,1,,133,BYKANOVVladislav,6178,ISR,1:31.129,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,1,3,2,,169,VladimirGRIGOREV,7826,RUS,1:31.281,
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,1,4,3,,142,NurbergenZHUMAGAZIYEV,7349,KAZ,1:31.439,
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,2,1,1,,129,PaulHERRMANN,6803,GER,1:32.338,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,2,2,3,,168,ViacheslavKURGINIAN,6934,RUS,1:32.423,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,2,3,4,,175,IevgenGUTENOV,7178,UKR,1:32.523,
+2010-2011,"ISU World Cup 2010/2011, CHN, Shanghai",1000m,m,RepSemifinals,2,PEN,2,,151,Jan-EbelevanderREE,7612,NED,PEN,

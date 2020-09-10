@@ -1,36 +1,36 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,17,MENGXiaoxue,7185,CHN,45.230,Q
-0,2,2,,56,PARKSeung-Hi,7164,KOR,45.274,Q
-0,3,1,,26,SarahLINDSAY,6056,GBR,45.980,q
-0,4,4,,63,SannevanKERKHOF,6835,NED,46.682,
-1,1,1,,50,YuiSAKAI,6229,JPN,46.370,Q
-1,2,4,,38,AndreaKESZLER,7147,HUN,46.816,Q
-1,3,2,,2,YulyiaYELSAKOVA,6021,BLR,55.709,
-1,DQ,3,,32,SusanneRUDOLPH,6362,GER,DQ,
-2,1,3,,14,KalynaROBERGE,6284,CAN,44.441,Q
-2,2,4,,34,RozsaDARAZS,6797,HUN,45.603,Q
-2,3,1,,62,AnnitavanDOORN,6440,NED,1:19.636,ADV
-2,DQ,2,,65,EkaterinaBELOVA,6190,RUS,DQ,
-3,1,1,,10,JessicaGREGG,6141,CAN,44.613,Q
-3,2,3,,24,CHRISTIEElise,7135,GBR,44.836,Q
-3,3,4,,58,YANGShin-Young,7163,KOR,44.855,q
-3,4,2,,49,HirokoSADAKANE,7226,JPN,45.590,
-4,1,3,,12,AnneMALTAIS,6355,CAN,46.030,Q
-4,2,2,,64,MaaikeVOS,7180,NED,46.114,Q
-4,3,4,,46,ChikaISHIDA,7418,JPN,47.009,q
-4,DNS,1,,23,PIERRONVeronique,6196,FRA,DNS,
-5,1,1,,75,LanaGEHRING,7254,USA,45.141,Q
-5,2,2,,21,KaterinaNOVOTNA,6647,CZE,45.269,Q
-5,3,3,,7,KristinaVUTEVA,6060,BUL,47.146,
-5,4,4,,43,DeboraSECCHI,7238,ITA,47.293,
-6,2,2,,77,JessicaKOOREMAN,7649,USA,45.188,Q
-6,3,3,,44,VALCEPINAMartina,7159,ITA,45.313,q
-6,4,4,,54,JUNGBa-Ra,7537,KOR,45.445,
-7,1,2,,15,FUTianYu,6650,CHN,45.311,Q
-7,2,1,,33,WALTERBianca,7232,GER,46.052,Q
-7,3,4,,74,MariaGARCIA,7082,USA,46.206,q
-7,4,3,,8,RayaZAHARIEVA,7410,BUL,47.968,
-8,1,3,,40,AriannaFONTANA,6227,ITA,45.200,Q
-8,2,1,,37,ErikaHUSZAR,6373,HUN,45.467,Q
-8,3,4,,5,GerganaPATSOVA,6794,BUL,46.543,q
-8,4,2,,68,OlgaMASKAIKINA,6685,RUS,47.105,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,1,1,3,,17,MENGXiaoxue,7185,CHN,45.230,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,1,2,2,,56,PARKSeung-Hi,7164,KOR,45.274,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,1,3,1,,26,SarahLINDSAY,6056,GBR,45.980,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,1,4,4,,63,SannevanKERKHOF,6835,NED,46.682,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,2,1,1,,50,YuiSAKAI,6229,JPN,46.370,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,2,2,4,,38,AndreaKESZLER,7147,HUN,46.816,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,2,3,2,,2,YulyiaYELSAKOVA,6021,BLR,55.709,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,2,DQ,3,,32,SusanneRUDOLPH,6362,GER,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,3,1,3,,14,KalynaROBERGE,6284,CAN,44.441,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,3,2,4,,34,RozsaDARAZS,6797,HUN,45.603,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,3,3,1,,62,AnnitavanDOORN,6440,NED,1:19.636,ADV
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,3,DQ,2,,65,EkaterinaBELOVA,6190,RUS,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,4,1,1,,10,JessicaGREGG,6141,CAN,44.613,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,4,2,3,,24,CHRISTIEElise,7135,GBR,44.836,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,4,3,4,,58,YANGShin-Young,7163,KOR,44.855,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,4,4,2,,49,HirokoSADAKANE,7226,JPN,45.590,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,5,1,3,,12,AnneMALTAIS,6355,CAN,46.030,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,5,2,2,,64,MaaikeVOS,7180,NED,46.114,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,5,3,4,,46,ChikaISHIDA,7418,JPN,47.009,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,5,DNS,1,,23,PIERRONVeronique,6196,FRA,DNS,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,6,1,1,,75,LanaGEHRING,7254,USA,45.141,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,6,2,2,,21,KaterinaNOVOTNA,6647,CZE,45.269,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,6,3,3,,7,KristinaVUTEVA,6060,BUL,47.146,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,6,4,4,,43,DeboraSECCHI,7238,ITA,47.293,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,7,2,2,,77,JessicaKOOREMAN,7649,USA,45.188,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,7,3,3,,44,VALCEPINAMartina,7159,ITA,45.313,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,7,4,4,,54,JUNGBa-Ra,7537,KOR,45.445,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,8,1,2,,15,FUTianYu,6650,CHN,45.311,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,8,2,1,,33,WALTERBianca,7232,GER,46.052,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,8,3,4,,74,MariaGARCIA,7082,USA,46.206,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,8,4,3,,8,RayaZAHARIEVA,7410,BUL,47.968,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,9,1,3,,40,AriannaFONTANA,6227,ITA,45.200,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,9,2,1,,37,ErikaHUSZAR,6373,HUN,45.467,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,9,3,4,,5,GerganaPATSOVA,6794,BUL,46.543,q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,w,Preliminaries,9,4,2,,68,OlgaMASKAIKINA,6685,RUS,47.105,

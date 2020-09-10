@@ -1,39 +1,39 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,66,NinaEVTEEVA,6511,RUS,1:33.550,Q
-0,2,1,,9,JessicaHEWITT,7548,CAN,1:33.731,Q
-0,3,3,,41,KatiaZINI,6076,ITA,1:33.860,q
-0,4,4,,4,GerganaPATSOVA,6794,BUL,1:34.112,
-1,1,2,,74,KatherineREUTTER-ADAMEK,7255,USA,1:29.667,Q
-1,2,1,,37,CeciliaMAFFEI,6559,ITA,1:30.730,Q
-1,3,4,,22,PIERRONVeronique,6196,FRA,1:32.324,q
-1,4,3,,59,AidaBELLA,7538,POL,1:39.523,
-2,1,2,,33,BernadettHEIDUM,6798,HUN,1:36.282,Q
-2,2,4,,27,ChristinPRIEBST,6078,GER,1:36.353,Q
-2,3,1,,24,SarahLINDSAY,6056,GBR,1:36.421,
-2,4,3,,70,RanyaEZZI,6840,SWE,1:40.440,
-3,1,1,,52,SHINSae-Bom,7162,KOR,1:33.597,Q
-3,2,5,,43,AyukoITO,6791,JPN,1:33.656,Q
-3,3,4,,75,JessicaKOOREMAN,7649,USA,1:33.749,q
-3,4,3,,34,ErikaHUSZAR,6373,HUN,1:36.052,
-3,5,2,,7,RayaZAHARIEVA,7410,BUL,2:16.843,
-4,1,5,,71,KimberlyDERRICK,6246,USA,1:34.458,Q
-4,2,2,,10,ValerieLAMBERT,7132,CAN,1:34.500,Q
-4,3,1,,38,LuciaPERETTI,7160,ITA,1:34.651,q
-4,4,3,,31,RozsaDARAZS,6797,HUN,1:34.929,
-4,5,4,,6,KristinaVUTEVA,6060,BUL,1:35.577,
-5,1,2,,49,JUNGEun-Ju,6297,KOR,1:35.814,Q
-5,2,1,,62,AnnaROMANOWICZ,6027,POL,1:48.487,Q
-5,DQ,3,,47,BibaSAKURAI,7240,JPN,DQ,
-5,DNF,4,,54,LiesbethMAUASAM,6444,NED,DNF,
-6,1,3,,11,AnneMALTAIS,6355,CAN,1:34.842,Q
-6,2,1,,44,MikaOZAWA,6318,JPN,1:34.866,Q
-6,3,2,,55,JorienterMORS,6146,NED,1:34.954,q
-6,DQ,4,,28,JuliaRIEDEL,6287,GER,DQ,
-7,1,4,,20,KaterinaNOVOTNA,6647,CZE,1:34.573,Q
-7,2,1,,18,ZHANGHui,7550,CHN,1:34.667,Q
-7,3,3,,67,OlgaMASKAIKINA,6685,RUS,1:35.332,q
-7,4,2,,48,InnaSIMONOVA,7241,KAZ,1:35.478,
-8,1,1,,56,AnnitavanDOORN,6440,NED,1:35.637,Q
-8,2,2,,26,AikaKLEIN,6359,GER,1:35.710,Q
-8,3,3,,65,OlgaBELYAKOVA,7112,RUS,1:36.782,
-8,4,4,,60,PatrycjaMALISZEWSKA,6154,POL,1:38.419,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,1,1,2,,66,NinaEVTEEVA,6511,RUS,1:33.550,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,1,2,1,,9,JessicaHEWITT,7548,CAN,1:33.731,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,1,3,3,,41,KatiaZINI,6076,ITA,1:33.860,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,1,4,4,,4,GerganaPATSOVA,6794,BUL,1:34.112,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,2,1,2,,74,KatherineREUTTER-ADAMEK,7255,USA,1:29.667,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,2,2,1,,37,CeciliaMAFFEI,6559,ITA,1:30.730,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,2,3,4,,22,PIERRONVeronique,6196,FRA,1:32.324,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,2,4,3,,59,AidaBELLA,7538,POL,1:39.523,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,3,1,2,,33,BernadettHEIDUM,6798,HUN,1:36.282,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,3,2,4,,27,ChristinPRIEBST,6078,GER,1:36.353,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,3,3,1,,24,SarahLINDSAY,6056,GBR,1:36.421,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,3,4,3,,70,RanyaEZZI,6840,SWE,1:40.440,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,4,1,1,,52,SHINSae-Bom,7162,KOR,1:33.597,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,4,2,5,,43,AyukoITO,6791,JPN,1:33.656,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,4,3,4,,75,JessicaKOOREMAN,7649,USA,1:33.749,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,4,4,3,,34,ErikaHUSZAR,6373,HUN,1:36.052,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,4,5,2,,7,RayaZAHARIEVA,7410,BUL,2:16.843,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,5,1,5,,71,KimberlyDERRICK,6246,USA,1:34.458,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,5,2,2,,10,ValerieLAMBERT,7132,CAN,1:34.500,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,5,3,1,,38,LuciaPERETTI,7160,ITA,1:34.651,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,5,4,3,,31,RozsaDARAZS,6797,HUN,1:34.929,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,5,5,4,,6,KristinaVUTEVA,6060,BUL,1:35.577,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,6,1,2,,49,JUNGEun-Ju,6297,KOR,1:35.814,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,6,2,1,,62,AnnaROMANOWICZ,6027,POL,1:48.487,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,6,DQ,3,,47,BibaSAKURAI,7240,JPN,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,6,DNF,4,,54,LiesbethMAUASAM,6444,NED,DNF,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,7,1,3,,11,AnneMALTAIS,6355,CAN,1:34.842,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,7,2,1,,44,MikaOZAWA,6318,JPN,1:34.866,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,7,3,2,,55,JorienterMORS,6146,NED,1:34.954,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,7,DQ,4,,28,JuliaRIEDEL,6287,GER,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,8,1,4,,20,KaterinaNOVOTNA,6647,CZE,1:34.573,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,8,2,1,,18,ZHANGHui,7550,CHN,1:34.667,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,8,3,3,,67,OlgaMASKAIKINA,6685,RUS,1:35.332,q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,8,4,2,,48,InnaSIMONOVA,7241,KAZ,1:35.478,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,9,1,1,,56,AnnitavanDOORN,6440,NED,1:35.637,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,9,2,2,,26,AikaKLEIN,6359,GER,1:35.710,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,9,3,3,,65,OlgaBELYAKOVA,7112,RUS,1:36.782,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Preliminaries,9,4,4,,60,PatrycjaMALISZEWSKA,6154,POL,1:38.419,

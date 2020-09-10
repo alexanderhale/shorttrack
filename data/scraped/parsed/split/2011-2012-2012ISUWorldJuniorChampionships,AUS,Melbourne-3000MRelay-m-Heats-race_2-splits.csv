@@ -1,28 +1,28 @@
-UNITED STATES POSITION,UNITED STATES LAP TIME,UNITED STATES ELAPSED TIME,ITALY POSITION,ITALY LAP TIME,ITALY ELAPSED TIME,KOREA POSITION,KOREA LAP TIME,KOREA ELAPSED TIME
-2,11.69,11.69,3,12.19,12.19,1,11.50,11.50
-2,8.70,20.39,3,8.58,20.77,1,8.72,20.22
-2,8.65,29.04,3,8.62,29.39,1,8.74,28.96
-2,8.73,37.77,3,8.79,38.18,1,8.68,37.64
-2,8.85,46.62,3,8.77,46.95,1,8.51,46.15
-2,8.81,55.43,3,9.28,56.23,1,8.76,54.91
-2,8.68,1:04.11,3,8.74,1:04.97,1,8.66,1:03.57
-2,8.55,1:12.66,3,8.86,1:13.83,1,8.79,1:12.36
-2,8.60,1:21.26,3,9.03,1:22.86,1,8.80,1:21.16
-2,8.80,1:30.06,3,9.24,1:32.10,1,8.69,1:29.85
-2,8.96,1:39.02,3,8.82,1:40.92,1,8.69,1:38.54
-2,9.01,1:48.03,3,9.72,1:50.64,1,8.86,1:47.40
-2,9.22,1:57.25,3,8.97,1:59.61,1,8.75,1:56.15
-2,8.53,2:05.78,3,8.47,2:08.08,1,8.86,2:05.01
-2,8.81,2:14.59,3,9.46,2:17.54,1,8.89,2:13.90
-2,9.16,2:23.75,3,8.93,2:26.47,1,8.80,2:22.70
-2,9.36,2:33.11,3,8.76,2:35.23,1,8.83,2:31.53
-2,9.32,2:42.43,3,9.87,2:45.10,1,9.01,2:40.54
-2,9.20,2:51.63,3,9.22,2:54.32,1,8.66,2:49.20
-2,8.99,3:00.62,3,8.69,3:03.01,1,8.53,2:57.73
-2,9.06,3:09.68,3,9.62,3:12.63,1,9.32,3:07.05
-2,9.65,3:19.33,3,9.25,3:21.88,1,8.96,3:16.01
-2,10.10,3:29.43,3,8.93,3:30.81,1,8.97,3:24.98
-2,9.39,3:38.82,3,9.83,3:40.64,1,8.97,3:33.95
-2,9.58,3:48.40,3,9.30,3:49.94,1,8.75,3:42.70
-2,9.22,3:57.62,3,9.22,3:59.16,1,9.89,3:52.59
-2,10.06,4:07.679,3,9.42,4:08.580,1,8.06,4:00.649
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+2,11.69,11.69,3,12.19,12.19,1,11.50,11.50,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.70,20.39,3,8.58,20.77,1,8.72,20.22,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.65,29.04,3,8.62,29.39,1,8.74,28.96,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.73,37.77,3,8.79,38.18,1,8.68,37.64,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.85,46.62,3,8.77,46.95,1,8.51,46.15,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.81,55.43,3,9.28,56.23,1,8.76,54.91,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.68,1:04.11,3,8.74,1:04.97,1,8.66,1:03.57,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.55,1:12.66,3,8.86,1:13.83,1,8.79,1:12.36,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.60,1:21.26,3,9.03,1:22.86,1,8.80,1:21.16,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.80,1:30.06,3,9.24,1:32.10,1,8.69,1:29.85,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.96,1:39.02,3,8.82,1:40.92,1,8.69,1:38.54,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.01,1:48.03,3,9.72,1:50.64,1,8.86,1:47.40,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.22,1:57.25,3,8.97,1:59.61,1,8.75,1:56.15,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.53,2:05.78,3,8.47,2:08.08,1,8.86,2:05.01,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.81,2:14.59,3,9.46,2:17.54,1,8.89,2:13.90,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.16,2:23.75,3,8.93,2:26.47,1,8.80,2:22.70,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.36,2:33.11,3,8.76,2:35.23,1,8.83,2:31.53,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.32,2:42.43,3,9.87,2:45.10,1,9.01,2:40.54,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.20,2:51.63,3,9.22,2:54.32,1,8.66,2:49.20,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,8.99,3:00.62,3,8.69,3:03.01,1,8.53,2:57.73,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.06,3:09.68,3,9.62,3:12.63,1,9.32,3:07.05,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.65,3:19.33,3,9.25,3:21.88,1,8.96,3:16.01,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,10.10,3:29.43,3,8.93,3:30.81,1,8.97,3:24.98,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.39,3:38.82,3,9.83,3:40.64,1,8.97,3:33.95,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.58,3:48.40,3,9.30,3:49.94,1,8.75,3:42.70,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,9.22,3:57.62,3,9.22,3:59.16,1,9.89,3:52.59,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2
+2,10.06,4:07.679,3,9.42,4:08.580,1,8.06,4:00.649,2011-2012,"2012 ISU World Junior Championships, AUS, Melbourne",3000MRelay,m,Heats,2

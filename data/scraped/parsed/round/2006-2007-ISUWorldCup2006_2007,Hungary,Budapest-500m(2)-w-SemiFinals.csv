@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,3,EvgeniaRADANOVA,6775,BUL,44.343,Q
-0,3,3,,29,ErikaHUSZAR,6373,HUN,44.434,
-0,4,4,,39,KIMMin-Jung,6831,KOR,45.606,
-1,1,2,,14,FUTianYu,6650,CHN,45.542,Q
-1,2,1,,40,JEONJi-Soo,6232,KOR,45.562,Q
-1,3,3,,5,KalynaROBERGE,6284,CAN,45.620,
-1,4,4,,35,AriannaFONTANA,6227,ITA,45.820,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,1,2,2,,3,EvgeniaRADANOVA,6775,BUL,44.343,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,1,3,3,,29,ErikaHUSZAR,6373,HUN,44.434,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,1,4,4,,39,KIMMin-Jung,6831,KOR,45.606,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,2,1,2,,14,FUTianYu,6650,CHN,45.542,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,2,2,1,,40,JEONJi-Soo,6232,KOR,45.562,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,2,3,3,,5,KalynaROBERGE,6284,CAN,45.620,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,SemiFinals,2,4,4,,35,AriannaFONTANA,6227,ITA,45.820,

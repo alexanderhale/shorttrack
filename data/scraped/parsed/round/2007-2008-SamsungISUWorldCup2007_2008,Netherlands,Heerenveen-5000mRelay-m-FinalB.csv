@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,1123,ITALY,7301,ITA,6:57.980,
-0,DQ,1,,1121,GREATBRITAIN,7320,GBR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1,1,2,,1123,ITALY,7301,ITA,6:57.980,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1,DQ,1,,1121,GREATBRITAIN,7320,GBR,DQ,

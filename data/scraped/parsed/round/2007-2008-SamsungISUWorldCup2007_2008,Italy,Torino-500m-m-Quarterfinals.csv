@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,96,Francois-LouisTREMBLAY,6704,CAN,41.886,Q
-0,2,2,,134,SatoruTERAO,6320,JPN,42.030,Q
-0,3,4,,116,PaulSTANLEY,7054,GBR,42.204,
-0,4,3,,160,BartoszKONOPKO,7169,POL,44.086,
-0,5,5,,133,RobertoSERRA,6463,ITA,44.204,
-1,2,3,,135,TakahiroFUJIMOTO,6277,JPN,42.658,Q
-1,3,4,,108,ThibautFAUCONNET,6785,FRA,42.871,
-1,4,2,,166,EvgeniiKOZULIN,7272,RUS,42.889,
-2,1,1,,136,SatoshiSAKASHITA,6183,JPN,42.536,Q
-2,2,2,,150,KWAKYoon-Gy,6120,KOR,42.630,Q
-2,3,3,,110,TysonHEUNG,6240,GER,42.860,
-2,4,4,,99,AlexBOISVERT-LACROIX,7346,CAN,1:08.669,
-3,1,1,,94,HAMELINCharles,6610,CAN,41.989,Q
-3,2,4,,182,JPKEPKA,6501,USA,42.071,Q
-3,3,2,,115,JonELEY,6592,GBR,42.481,
-3,4,3,,148,LEESeung-Hoon,6185,KOR,42.601,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,1,1,1,,96,Francois-LouisTREMBLAY,6704,CAN,41.886,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,1,2,2,,134,SatoruTERAO,6320,JPN,42.030,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,1,3,4,,116,PaulSTANLEY,7054,GBR,42.204,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,1,4,3,,160,BartoszKONOPKO,7169,POL,44.086,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,1,5,5,,133,RobertoSERRA,6463,ITA,44.204,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,2,2,3,,135,TakahiroFUJIMOTO,6277,JPN,42.658,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,2,3,4,,108,ThibautFAUCONNET,6785,FRA,42.871,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,2,4,2,,166,EvgeniiKOZULIN,7272,RUS,42.889,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,3,1,1,,136,SatoshiSAKASHITA,6183,JPN,42.536,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,3,2,2,,150,KWAKYoon-Gy,6120,KOR,42.630,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,3,3,3,,110,TysonHEUNG,6240,GER,42.860,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,3,4,4,,99,AlexBOISVERT-LACROIX,7346,CAN,1:08.669,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,4,1,1,,94,HAMELINCharles,6610,CAN,41.989,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,4,2,4,,182,JPKEPKA,6501,USA,42.071,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,4,3,2,,115,JonELEY,6592,GBR,42.481,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,m,Quarterfinals,4,4,3,,148,LEESeung-Hoon,6185,KOR,42.601,

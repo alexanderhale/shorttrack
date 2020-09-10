@@ -1,27 +1,27 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,70,TRANAaron,8528,USA,2:20.376,Q
-0,2,2,,130,LIWenlong,9453,CHN,2:20.553,Q
-0,3,3,,26,HANDEIOleh,9073,UKR,2:22.509,
-0,4,6,,117,NIESCIERKarol,9126,POL,2:25.780,
-0,PEN,4,,131,SUNLong,9454,CHN,PEN,
-0,PEN,5,,162,MateuszKRZEMINSKI,9412,POL,PEN,
-1,1,1,,60,SHULGINOVAlexander,8752,RUS,2:17.569,Q
-1,2,4,,128,YUSongnan,9388,CHN,2:17.742,Q
-1,3,3,,169,AaronHEO,9302,USA,2:17.854,q
-1,4,7,,110,AugustinGERE,9270,LUX,2:18.285,
-1,5,5,,161,ADAMSKIPawel,9284,POL,2:21.088,
-1,6,6,,158,MarcGONZALES,9409,PHI,2:25.604,
-1,PEN,2,,122,JoshuaKAH,9214,AUS,PEN,
-2,1,2,,61,NAVARROTristan,8559,FRA,2:21.611,Q
-2,2,1,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:21.772,Q
-2,3,5,,103,WOLFGANGMatthias,8474,AUT,2:24.073,
-2,4,3,,166,SITNIKOVPavel,9133,RUS,notime,ADV
-2,4,4,,85,JackBURROWS,9101,GBR,notime,ADV
-2,PEN,6,,96,GermanAndresTIRADOOVIEDO,9311,COL,PEN,
-3,1,6,,29,JUNGHyunWoo(Andy),8575,AUS,2:16.968,Q
-3,2,2,,118,MOODYJonathan,9102,GBR,2:17.166,Q
-3,3,7,,170,JonathanSO,9442,USA,2:17.746,q
-3,4,5,,135,LUEDTKEAdrian,9104,GER,2:18.275,
-3,5,3,,33,ANDERMANNDominic,8078,AUT,2:18.351,
-3,6,1,,140,GIORDANOMarco,8616,ITA,2:19.440,
-3,7,4,,134,TREACYEthan,9323,GBR,2:20.969,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,1,1,,70,TRANAaron,8528,USA,2:20.376,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,2,2,,130,LIWenlong,9453,CHN,2:20.553,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,3,3,,26,HANDEIOleh,9073,UKR,2:22.509,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,4,6,,117,NIESCIERKarol,9126,POL,2:25.780,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,PEN,4,,131,SUNLong,9454,CHN,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,1,PEN,5,,162,MateuszKRZEMINSKI,9412,POL,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,1,1,,60,SHULGINOVAlexander,8752,RUS,2:17.569,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,2,4,,128,YUSongnan,9388,CHN,2:17.742,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,3,3,,169,AaronHEO,9302,USA,2:17.854,q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,4,7,,110,AugustinGERE,9270,LUX,2:18.285,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,5,5,,161,ADAMSKIPawel,9284,POL,2:21.088,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,6,6,,158,MarcGONZALES,9409,PHI,2:25.604,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,2,PEN,2,,122,JoshuaKAH,9214,AUS,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,1,2,,61,NAVARROTristan,8559,FRA,2:21.611,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,2,1,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:21.772,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,3,5,,103,WOLFGANGMatthias,8474,AUT,2:24.073,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,4,3,,166,SITNIKOVPavel,9133,RUS,notime,ADV
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,4,4,,85,JackBURROWS,9101,GBR,notime,ADV
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,3,PEN,6,,96,GermanAndresTIRADOOVIEDO,9311,COL,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,1,6,,29,JUNGHyunWoo(Andy),8575,AUS,2:16.968,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,2,2,,118,MOODYJonathan,9102,GBR,2:17.166,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,3,7,,170,JonathanSO,9442,USA,2:17.746,q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,4,5,,135,LUEDTKEAdrian,9104,GER,2:18.275,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,5,3,,33,ANDERMANNDominic,8078,AUT,2:18.351,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,6,1,,140,GIORDANOMarco,8616,ITA,2:19.440,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Quarterfinals,4,7,4,,134,TREACYEthan,9323,GBR,2:20.969,

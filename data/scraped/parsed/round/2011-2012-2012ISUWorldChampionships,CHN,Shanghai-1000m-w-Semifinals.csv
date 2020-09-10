@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,8,ValerieMALTAIS,6216,CAN,1:29.926,Q,
-0,1,3,,47,CHOHa-Ri,7028,KOR,1:29.926,Q,
-0,3,2,,61,LanaGEHRING,7254,USA,1:30.001,,
-0,4,4,,13,LIUQiuhong,6286,CHN,1:30.165,,
-1,1,3,,26,CHRISTIEElise,7135,GBR,1:32.249,Q,
-1,3,4,,63,JessicaKOOREMAN,7649,USA,1:32.596,,
-1,4,1,,56,OlgaBELYAKOVA,7112,RUS,1:32.621,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,1,1,1,,8,ValerieMALTAIS,6216,CAN,1:29.926,Q,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,1,1,3,,47,CHOHa-Ri,7028,KOR,1:29.926,Q,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,1,3,2,,61,LanaGEHRING,7254,USA,1:30.001,,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,1,4,4,,13,LIUQiuhong,6286,CHN,1:30.165,,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,2,1,3,,26,CHRISTIEElise,7135,GBR,1:32.249,Q,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,2,3,4,,63,JessicaKOOREMAN,7649,USA,1:32.596,,
+2011-2012,"2012 ISU World Championships, CHN, Shanghai",1000m,w,Semifinals,2,4,1,,56,OlgaBELYAKOVA,7112,RUS,1:32.621,,

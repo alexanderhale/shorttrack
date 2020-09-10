@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,1009,CHINA,7303,CHN,6:54.195,Q
-0,2,3,,1012,ITALY,7301,ITA,6:54.533,Q
-0,3,4,,1016,GERMANY,7302,GER,7:00.920,
-0,4,1,,1015,BULGARIA,7392,BUL,7:11.389,
-1,1,3,,1008,CANADA,7309,CAN,7:03.221,Q
-1,2,2,,1010,JAPAN,7304,JPN,7:04.428,Q
-1,3,4,,1017,GREATBRITAIN,7320,GBR,7:07.858,
-1,4,1,,1013,AUSTRALIA,7305,AUS,7:11.704,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,1,1,2,,1009,CHINA,7303,CHN,6:54.195,Q
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,1,2,3,,1012,ITALY,7301,ITA,6:54.533,Q
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,1,3,4,,1016,GERMANY,7302,GER,7:00.920,
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,1,4,1,,1015,BULGARIA,7392,BUL,7:11.389,
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,2,1,3,,1008,CANADA,7309,CAN,7:03.221,Q
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,2,2,2,,1010,JAPAN,7304,JPN,7:04.428,Q
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,2,3,4,,1017,GREATBRITAIN,7320,GBR,7:07.858,
+2002-2003,"2002 World Cup 2, China, Beijing",5000MRelay,m,SemiFinals,2,4,1,,1013,AUSTRALIA,7305,AUS,7:11.704,

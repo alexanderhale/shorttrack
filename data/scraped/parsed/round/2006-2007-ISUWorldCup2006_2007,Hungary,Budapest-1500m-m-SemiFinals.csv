@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,7,,116,Marc-AndreMONETTE,6270,CAN,2:15.954,Q
-0,3,1,,118,LIYe,6655,CHN,2:16.012,
-0,4,6,,143,ViktorKNOCH,6177,HUN,2:16.096,
-0,5,2,,191,RyanBEDFORD,6956,USA,2:16.232,
-0,6,4,,147,CONFORTOLAYuri,6561,ITA,2:16.467,
-0,7,3,,106,AndrePULEC,6054,AUT,2:17.620,
-1,1,7,,162,LEEHo-Suk,6856,KOR,2:17.410,Q
-1,2,4,,150,SONGKyung-Taek,6574,KOR,2:17.511,Q
-1,3,5,,148,NicolaRODIGARI,6332,ITA,2:17.698,
-1,4,1,,109,PieterGYSEL,6425,BEL,2:18.255,
-1,5,3,,136,PaulHERRMANN,6803,GER,2:18.803,
-1,6,6,,123,WANGHongYang,6084,CHN,2:19.493,
-1,7,2,,189,JordanMALONE,6201,USA,3:04.152,
-2,1,3,,112,OlivierJEAN,6756,CAN,2:17.359,Q
-2,2,6,,103,AlexanderMERRIMAN,6160,AUS,2:17.645,Q
-2,3,2,,146,FabioCARTA,6001,ITA,2:18.190,
-2,4,7,,194,CharlesRyanLEVEILLE,7122,USA,2:32.041,
-2,5,1,,167,NielsKERSTHOLT,7067,NED,2:44.680,ADV
-2,6,4,,166,HaraldsSILOVS,6458,LAT,2:51.736,
-2,DQ,5,,119,SUIBaoKu,6416,CHN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,2,7,,116,Marc-AndreMONETTE,6270,CAN,2:15.954,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,3,1,,118,LIYe,6655,CHN,2:16.012,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,4,6,,143,ViktorKNOCH,6177,HUN,2:16.096,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,5,2,,191,RyanBEDFORD,6956,USA,2:16.232,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,6,4,,147,CONFORTOLAYuri,6561,ITA,2:16.467,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,1,7,3,,106,AndrePULEC,6054,AUT,2:17.620,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,1,7,,162,LEEHo-Suk,6856,KOR,2:17.410,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,2,4,,150,SONGKyung-Taek,6574,KOR,2:17.511,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,3,5,,148,NicolaRODIGARI,6332,ITA,2:17.698,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,4,1,,109,PieterGYSEL,6425,BEL,2:18.255,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,5,3,,136,PaulHERRMANN,6803,GER,2:18.803,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,6,6,,123,WANGHongYang,6084,CHN,2:19.493,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,2,7,2,,189,JordanMALONE,6201,USA,3:04.152,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,1,3,,112,OlivierJEAN,6756,CAN,2:17.359,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,2,6,,103,AlexanderMERRIMAN,6160,AUS,2:17.645,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,3,2,,146,FabioCARTA,6001,ITA,2:18.190,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,4,7,,194,CharlesRyanLEVEILLE,7122,USA,2:32.041,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,5,1,,167,NielsKERSTHOLT,7067,NED,2:44.680,ADV
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,6,4,,166,HaraldsSILOVS,6458,LAT,2:51.736,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1500m,m,SemiFinals,3,DQ,5,,119,SUIBaoKu,6416,CHN,DQ,

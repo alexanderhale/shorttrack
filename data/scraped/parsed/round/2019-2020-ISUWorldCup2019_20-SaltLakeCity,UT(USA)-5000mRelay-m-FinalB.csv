@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,313,HUNGARY,9021,HUN,6:49.609,
-0,2,2,,319,JAPAN,9024,JPN,6:56.788,
-0,3,1,,337,UNITEDSTATES,9032,USA,notime,
-0,PEN,3,,306,CHINA,9022,CHN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",5000mRelay,m,FinalB,1,1,4,,313,HUNGARY,9021,HUN,6:49.609,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",5000mRelay,m,FinalB,1,2,2,,319,JAPAN,9024,JPN,6:56.788,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",5000mRelay,m,FinalB,1,3,1,,337,UNITEDSTATES,9032,USA,notime,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",5000mRelay,m,FinalB,1,PEN,3,,306,CHINA,9022,CHN,PEN,

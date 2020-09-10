@@ -1,14 +1,14 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,21,YuiSAKAI,6229,JPN,44.879,Q
-0,2,3,,19,VIVIANIElena,7583,ITA,44.928,Q
-0,3,4,,101,VeraTRYBUL,9161,BLR,45.117,q
-0,4,2,,119,CHOIJiHyun,7711,KOR,notime,
-1,1,1,,73,BACSKAISaraLuca,8609,HUN,45.654,Q
-1,2,3,,100,DESMETHanne,8699,BEL,45.739,Q
-1,3,4,,62,HitomiSAITO,7576,JPN,45.780,
-1,4,5,,98,MichaelaKUNCIROVA,8552,CZE,46.274,
-1,5,2,,87,OliwiaGAWLICA,8501,POL,46.808,
-2,1,2,,60,AndreaKESZLER,7147,HUN,44.854,Q
-2,2,1,,69,VALCEPINAArianna,7705,ITA,44.991,Q
-2,3,3,,82,MONVOISINAurelie,8556,FRA,45.315,q
-2,4,4,,94,PetraVANKOVA,8705,CZE,47.185,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,1,1,1,,21,YuiSAKAI,6229,JPN,44.879,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,1,2,3,,19,VIVIANIElena,7583,ITA,44.928,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,1,3,4,,101,VeraTRYBUL,9161,BLR,45.117,q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,1,4,2,,119,CHOIJiHyun,7711,KOR,notime,
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,2,1,1,,73,BACSKAISaraLuca,8609,HUN,45.654,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,2,2,3,,100,DESMETHanne,8699,BEL,45.739,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,2,3,4,,62,HitomiSAITO,7576,JPN,45.780,
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,2,4,5,,98,MichaelaKUNCIROVA,8552,CZE,46.274,
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,2,5,2,,87,OliwiaGAWLICA,8501,POL,46.808,
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,3,1,2,,60,AndreaKESZLER,7147,HUN,44.854,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,3,2,1,,69,VALCEPINAArianna,7705,ITA,44.991,Q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,3,3,3,,82,MONVOISINAurelie,8556,FRA,45.315,q
+2015-2016,ISU World Cup 2015/16 - Dordrecht (NED),500m,w,Rep.Quarterfinals,3,4,4,,94,PetraVANKOVA,8705,CZE,47.185,

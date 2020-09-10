@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,117,OlivierJEAN,6756,CAN,43.216,Q
-0,2,4,,121,HUZe,6926,CHN,43.369,Q
-0,3,1,,153,KIMByeongJun,7287,KOR,43.401,
-0,4,3,,150,SatoruTERAO,6320,JPN,43.685,
-1,1,1,,113,Francois-LouisTREMBLAY,6704,CAN,42.538,Q
-1,2,4,,155,LEEHo-Suk,6856,KOR,42.684,Q
-1,3,3,,114,JeffSCHOLTEN,6604,CAN,42.751,
-1,4,2,,120,LIHaonan,6658,CHN,42.837,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,1,1,2,,117,OlivierJEAN,6756,CAN,43.216,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,1,2,4,,121,HUZe,6926,CHN,43.369,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,1,3,1,,153,KIMByeongJun,7287,KOR,43.401,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,1,4,3,,150,SatoruTERAO,6320,JPN,43.685,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,2,1,1,,113,Francois-LouisTREMBLAY,6704,CAN,42.538,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,2,2,4,,155,LEEHo-Suk,6856,KOR,42.684,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,2,3,3,,114,JeffSCHOLTEN,6604,CAN,42.751,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,SemiFinals,2,4,2,,120,LIHaonan,6658,CHN,42.837,

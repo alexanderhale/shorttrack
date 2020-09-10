@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,15,LIUQiuhong,6286,CHN,44.796,Q,
-0,2,1,,18,ZHOUYang,6222,CHN,44.818,Q,
-0,3,3,,44,YANGShin-Young,7163,KOR,44.916,,
-0,4,4,,43,JUNGEun-Ju,6297,KOR,44.919,,
-1,2,3,,9,KalynaROBERGE,6284,CAN,44.302,Q,
-1,3,4,,62,KatherineREUTTER-ADAMEK,7255,USA,45.980,,
-1,4,2,,45,PARKSeung-Hi,7164,KOR,1:32.028,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,1,1,2,,15,LIUQiuhong,6286,CHN,44.796,Q,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,1,2,1,,18,ZHOUYang,6222,CHN,44.818,Q,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,1,3,3,,44,YANGShin-Young,7163,KOR,44.916,,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,1,4,4,,43,JUNGEun-Ju,6297,KOR,44.919,,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,2,2,3,,9,KalynaROBERGE,6284,CAN,44.302,Q,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,2,3,4,,62,KatherineREUTTER-ADAMEK,7255,USA,45.980,,
+2007-2008,"2008 ISU World Championships, Korea",500m,w,Semifinals,2,4,2,,45,PARKSeung-Hi,7164,KOR,1:32.028,,

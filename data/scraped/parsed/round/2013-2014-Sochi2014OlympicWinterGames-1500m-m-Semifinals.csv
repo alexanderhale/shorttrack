@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,209,HANTianyu,8388,CHN,2:15.858,QA
-0,2,4,,250,VictorAN,8344,RUS,2:16.000,QA
-0,3,6,,242,PARKSeYeong,7750,KOR,2:16.241,QB
-0,4,2,,206,FrancoisHAMELIN,6167,CAN,2:16.473,QB
-0,5,7,,244,RobertoPUKITIS,7785,LAT,2:16.961,
-0,6,1,,247,NielsKERSTHOLT,7067,NED,2:17.134,
-0,PEN,3,,215,ThibautFAUCONNET,6785,FRA,PEN,
-1,1,2,,258,J.R.CELSKI,7279,USA,2:21.603,QA
-1,2,6,,208,CHENDequan,7918,CHN,2:21.697,QA
-1,3,3,,216,LEPAPESebastien,7554,FRA,2:23.995,QB
-1,4,1,,243,SINdaWoon,8035,KOR,2:52.061,QB
-1,5,4,,240,LEEHan-Bin,7444,KOR,3:11.810,ADA
-1,PEN,5,,204,MichaelGILDAY,6195,CAN,PEN,
-2,1,4,,205,HAMELINCharles,6610,CAN,2:14.480,QA
-2,2,1,,219,JackWHELBOURNE,7437,GBR,2:14.635,QA
-2,3,3,,248,KNEGTSjinkie,7352,NED,2:14.677,QB
-2,4,5,,251,SemenELISTRATOV,7293,RUS,2:14.783,QB
-2,5,2,,226,CONFORTOLAYuri,6561,ITA,2:19.086,
-2,PEN,6,,256,EduardoALVAREZ,7617,USA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,1,5,,209,HANTianyu,8388,CHN,2:15.858,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,2,4,,250,VictorAN,8344,RUS,2:16.000,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,3,6,,242,PARKSeYeong,7750,KOR,2:16.241,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,4,2,,206,FrancoisHAMELIN,6167,CAN,2:16.473,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,5,7,,244,RobertoPUKITIS,7785,LAT,2:16.961,
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,6,1,,247,NielsKERSTHOLT,7067,NED,2:17.134,
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,1,PEN,3,,215,ThibautFAUCONNET,6785,FRA,PEN,
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,1,2,,258,J.R.CELSKI,7279,USA,2:21.603,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,2,6,,208,CHENDequan,7918,CHN,2:21.697,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,3,3,,216,LEPAPESebastien,7554,FRA,2:23.995,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,4,1,,243,SINdaWoon,8035,KOR,2:52.061,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,5,4,,240,LEEHan-Bin,7444,KOR,3:11.810,ADA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,2,PEN,5,,204,MichaelGILDAY,6195,CAN,PEN,
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,1,4,,205,HAMELINCharles,6610,CAN,2:14.480,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,2,1,,219,JackWHELBOURNE,7437,GBR,2:14.635,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,3,3,,248,KNEGTSjinkie,7352,NED,2:14.677,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,4,5,,251,SemenELISTRATOV,7293,RUS,2:14.783,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,5,2,,226,CONFORTOLAYuri,6561,ITA,2:19.086,
+2013-2014,Sochi 2014 Olympic Winter Games,1500m,m,Semifinals,3,PEN,6,,256,EduardoALVAREZ,7617,USA,PEN,

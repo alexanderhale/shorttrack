@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,113,HAMELINCharles,6610,CAN,1:27.592,Q
-0,2,3,,139,DenisBELLOTTI,6807,ITA,1:28.367,Q
-0,3,2,,182,LIUXiaoLiang,6233,CHN,1:31.925,ADV
-0,DQ,1,,149,KIMByeongJun,7287,KOR,DQ,
-1,1,3,,177,JordanMALONE,6201,USA,1:30.562,Q
-1,3,2,,135,ViktorKNOCH,6177,HUN,1:31.039,
-1,DQ,1,,116,Marc-AndreMONETTE,6270,CAN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,1,1,4,,113,HAMELINCharles,6610,CAN,1:27.592,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,1,2,3,,139,DenisBELLOTTI,6807,ITA,1:28.367,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,1,3,2,,182,LIUXiaoLiang,6233,CHN,1:31.925,ADV
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,1,DQ,1,,149,KIMByeongJun,7287,KOR,DQ,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,2,1,3,,177,JordanMALONE,6201,USA,1:30.562,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,2,3,2,,135,ViktorKNOCH,6177,HUN,1:31.039,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1000m,m,SemiFinals,2,DQ,1,,116,Marc-AndreMONETTE,6270,CAN,DQ,

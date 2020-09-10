@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,174,EduardSTRELKOV,8408,RUS,2:33.465,
-0,2,1,,171,ViacheslavKURGINIAN,6934,RUS,2:33.617,
-0,3,3,,108,CharleCOURNOYER,8063,CAN,2:33.889,
-0,4,2,,151,NurbergenZHUMAGAZIYEV,7349,KAZ,2:33.892,
-0,5,4,,135,CONFORTOLAYuri,6561,ITA,2:34.052,
-0,6,6,,136,DOTTITommaso,7604,ITA,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,1,5,,174,EduardSTRELKOV,8408,RUS,2:33.465,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,2,1,,171,ViacheslavKURGINIAN,6934,RUS,2:33.617,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,3,3,,108,CharleCOURNOYER,8063,CAN,2:33.889,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,4,2,,151,NurbergenZHUMAGAZIYEV,7349,KAZ,2:33.892,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,5,4,,135,CONFORTOLAYuri,6561,ITA,2:34.052,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),1500m,m,FinalB,1,6,6,,136,DOTTITommaso,7604,ITA,notime,

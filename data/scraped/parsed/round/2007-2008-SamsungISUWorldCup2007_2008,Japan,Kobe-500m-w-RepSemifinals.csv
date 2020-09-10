@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,39,LiesbethMAUASAM,6444,NED,46.976,Q
-0,2,1,,45,PatrycjaMALISZEWSKA,6154,POL,47.754,Q
-0,3,4,,34,YuiSAKAI,6229,JPN,1:02.774,
-0,4,3,,53,ValeriyaREZNIK,6573,RUS,1:17.287,
-1,1,2,,3,AnneMALTAIS,6355,CAN,46.509,Q
-1,2,1,,16,PIERRONVeronique,6196,FRA,46.599,Q
-1,3,3,,61,CarlyWILSON,6153,USA,46.615,
-1,4,4,,41,JorienterMORS,6146,NED,46.847,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,1,1,2,,39,LiesbethMAUASAM,6444,NED,46.976,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,1,2,1,,45,PatrycjaMALISZEWSKA,6154,POL,47.754,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,1,3,4,,34,YuiSAKAI,6229,JPN,1:02.774,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,1,4,3,,53,ValeriyaREZNIK,6573,RUS,1:17.287,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,2,1,2,,3,AnneMALTAIS,6355,CAN,46.509,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,2,2,1,,16,PIERRONVeronique,6196,FRA,46.599,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,2,3,3,,61,CarlyWILSON,6153,USA,46.615,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,RepSemifinals,2,4,4,,41,JorienterMORS,6146,NED,46.847,

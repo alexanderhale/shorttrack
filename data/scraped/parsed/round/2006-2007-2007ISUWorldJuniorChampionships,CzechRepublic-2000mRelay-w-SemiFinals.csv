@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,3,,401,CANADA,7312,CAN,2:57.413,Q,
-0,2,1,,405,HUNGARY,7323,HUN,2:57.493,Q,
-0,3,2,,403,GERMANY,7313,GER,2:57.950,,
-0,4,4,,408,JAPAN,7304,JPN,3:07.678,,
-1,1,3,,411,KOREA,7314,KOR,2:54.136,Q,
-1,2,1,,402,CHINA,7311,CHN,2:54.350,Q,
-1,3,2,,415,UNITEDSTATES,7316,USA,2:55.110,,
-1,4,4,,412,RUSSIA,7315,RUS,3:01.574,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,1,1,3,,401,CANADA,7312,CAN,2:57.413,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,1,2,1,,405,HUNGARY,7323,HUN,2:57.493,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,1,3,2,,403,GERMANY,7313,GER,2:57.950,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,1,4,4,,408,JAPAN,7304,JPN,3:07.678,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,2,1,3,,411,KOREA,7314,KOR,2:54.136,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,2,2,1,,402,CHINA,7311,CHN,2:54.350,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,2,3,2,,415,UNITEDSTATES,7316,USA,2:55.110,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",2000mRelay,w,SemiFinals,2,4,4,,412,RUSSIA,7315,RUS,3:01.574,,

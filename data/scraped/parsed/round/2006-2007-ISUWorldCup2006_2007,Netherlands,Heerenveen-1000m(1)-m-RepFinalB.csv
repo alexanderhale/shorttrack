@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,44,ElliottSHRIANE,6846,AUS,1:29.458,
-0,2,1,,56,RobertBECKER,7258,GER,1:30.096,
-0,3,2,,89,VolodymyrCHERNEGA,6041,UKR,1:30.278,
-0,4,3,,90,OleksiyKOSHELENKO,7121,UKR,1:30.481,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),m,RepFinalB,1,1,4,,44,ElliottSHRIANE,6846,AUS,1:29.458,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),m,RepFinalB,1,2,1,,56,RobertBECKER,7258,GER,1:30.096,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),m,RepFinalB,1,3,2,,89,VolodymyrCHERNEGA,6041,UKR,1:30.278,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),m,RepFinalB,1,4,3,,90,OleksiyKOSHELENKO,7121,UKR,1:30.481,

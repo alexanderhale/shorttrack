@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,,SteveROBILLARD,6494,CAN,1:32.312,
-0,2,4,,,SEOHo-Jin,6547,KOR,1:32.384,
-0,3,2,,,GUOWei,6654,CHN,1:32.530,
-0,4,1,,,ShaniDAVIS,6498,USA,1:32.612,
-1,1,2,,,AHNHyun-Soo,6618,KOR,1:38.012,
-1,2,1,,,JPKEPKA,6501,USA,1:38.436,
-1,3,3,,,GUYingpeng,6047,CHN,1:38.969,
-1,4,4,,,LIYe,6655,CHN,1:58.016,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,1,1,3,,,SteveROBILLARD,6494,CAN,1:32.312,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,1,2,4,,,SEOHo-Jin,6547,KOR,1:32.384,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,1,3,2,,,GUOWei,6654,CHN,1:32.530,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,1,4,1,,,ShaniDAVIS,6498,USA,1:32.612,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,2,1,2,,,AHNHyun-Soo,6618,KOR,1:38.012,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,2,2,1,,,JPKEPKA,6501,USA,1:38.436,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,2,3,3,,,GUYingpeng,6047,CHN,1:38.969,
+2001-2002,2002 World Junior Championships,1000M,m,SemiFinals,2,4,4,,,LIYe,6655,CHN,1:58.016,

@@ -1,50 +1,50 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,812,KalynaROBERGE,6284,CAN,45.775,Q
-0,2,3,,824,ChristinPRIEBST,6078,GER,45.928,Q
-0,3,1,,828,SarahLINDSAY,6056,GBR,46.252,q
-0,4,2,,868,MelissaSNYMAN,6148,RSA,52.280,
-0,5,4,,830,CHANSuetYing,7031,HKG,53.682,
-1,1,2,,808,AlannaKRAUS,6659,CAN,46.505,Q
-1,2,1,,801,VeronikaWINDISCH,6427,AUT,46.621,Q
-1,3,3,,827,TinaGRASSOW,6855,GER,46.650,q
-1,4,4,,863,EkaterinaGULYAEVA,6149,RUS,46.804,
-2,1,2,,803,EvgeniaRADANOVA,6775,BUL,45.243,Q
-2,2,1,,843,ChikageTANAKA,6314,JPN,45.343,Q
-2,3,4,,833,ErikaHUSZAR,6373,HUN,46.746,q
-2,4,3,,874,KhushbooSAINI,6247,IND,1:03.011,
-3,1,1,,861,JINSun-Yu,6108,KOR,46.027,Q
-3,2,2,,838,AriannaFONTANA,6227,ITA,46.240,Q
-3,3,3,,802,YulyiaYELSAKOVA,6021,BLR,46.555,q
-3,4,4,,855,KristinaNZL1,6110,NZL,1:03.479,
-4,1,3,,826,SusanneRUDOLPH,6362,GER,46.532,Q
-4,2,5,,860,KANGYun-Mi,6830,KOR,46.694,Q
-4,3,4,,853,MelaniedeLANGE,6005,NED,46.846,q
-4,4,1,,834,SzandraLAJTOS,6339,HUN,46.955,ADV
-4,DQ,2,,864,TatianaBORODULINA,7483,RUS,DQ,
-5,1,2,,818,StephanieBOUVIER,6709,FRA,46.361,Q
-5,2,4,,869,Hyo-JungKIM,6921,USA,46.559,Q
-5,3,3,,831,RozsaDARAZS,6797,HUN,46.782,q
-5,4,1,,852,MaureendeLANGE,6535,NED,47.189,
-6,1,4,,841,MaraZINI,6326,ITA,47.169,Q
-6,2,3,,819,MyrtilleGOLLIN,6714,FRA,47.289,Q
-6,3,1,,847,EvitaKRIEVANE,6833,LAT,47.339,
-6,4,2,,806,DanielaIVANOVA,6303,BUL,48.504,
-7,1,1,,857,JEONda-Hye,6663,KOR,46.291,Q
-7,2,2,,805,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.375,Q
-7,3,3,,829,HANYueshuang,6572,HKG,46.598,q
-7,4,4,,837,MartaCAPURSO,6328,ITA,46.887,
-8,2,3,,866,NinaEVTEEVA,6511,RUS,46.495,Q
-8,3,1,,871,KimberlyDERRICK,6246,USA,47.601,
-8,4,4,,820,CelineLECOMPERE,6556,FRA,47.772,
-9,1,2,,846,YuiSAKAI,6229,JPN,48.413,Q
-9,2,4,,856,FrancescaJACKSON,6356,NZL,51.940,Q
-9,3,1,,848,NatsagnyamDUUREN,6109,MGL,56.596,
-9,4,3,,814,YANGAYang,6649,CHN,1:02.658,
-10,1,3,,815,FUTianYu,6650,CHN,45.310,Q
-10,2,4,,810,AnoukLEBLANC-BOUCHER,6795,CAN,45.603,Q
-10,3,2,,800,EmilyROSEMOND,6736,AUS,47.045,q
-10,DQ,1,,862,KatalinKRISTO,6514,ROU,DQ,
-11,1,4,,870,AllisonBAVER,6533,USA,46.773,Q
-11,2,2,,842,YukaKAMINO,6945,JPN,47.648,Q
-11,3,1,,849,OdtsetsegNARANGEREL,6145,MGL,55.863,
-11,DQ,3,,850,LiesbethMAUASAM,6444,NED,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,1,1,5,,812,KalynaROBERGE,6284,CAN,45.775,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,1,2,3,,824,ChristinPRIEBST,6078,GER,45.928,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,1,3,1,,828,SarahLINDSAY,6056,GBR,46.252,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,1,4,2,,868,MelissaSNYMAN,6148,RSA,52.280,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,1,5,4,,830,CHANSuetYing,7031,HKG,53.682,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,2,1,2,,808,AlannaKRAUS,6659,CAN,46.505,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,2,2,1,,801,VeronikaWINDISCH,6427,AUT,46.621,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,2,3,3,,827,TinaGRASSOW,6855,GER,46.650,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,2,4,4,,863,EkaterinaGULYAEVA,6149,RUS,46.804,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,3,1,2,,803,EvgeniaRADANOVA,6775,BUL,45.243,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,3,2,1,,843,ChikageTANAKA,6314,JPN,45.343,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,3,3,4,,833,ErikaHUSZAR,6373,HUN,46.746,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,3,4,3,,874,KhushbooSAINI,6247,IND,1:03.011,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,4,1,1,,861,JINSun-Yu,6108,KOR,46.027,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,4,2,2,,838,AriannaFONTANA,6227,ITA,46.240,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,4,3,3,,802,YulyiaYELSAKOVA,6021,BLR,46.555,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,4,4,4,,855,KristinaNZL1,6110,NZL,1:03.479,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,5,1,3,,826,SusanneRUDOLPH,6362,GER,46.532,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,5,2,5,,860,KANGYun-Mi,6830,KOR,46.694,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,5,3,4,,853,MelaniedeLANGE,6005,NED,46.846,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,5,4,1,,834,SzandraLAJTOS,6339,HUN,46.955,ADV
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,5,DQ,2,,864,TatianaBORODULINA,7483,RUS,DQ,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,6,1,2,,818,StephanieBOUVIER,6709,FRA,46.361,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,6,2,4,,869,Hyo-JungKIM,6921,USA,46.559,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,6,3,3,,831,RozsaDARAZS,6797,HUN,46.782,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,6,4,1,,852,MaureendeLANGE,6535,NED,47.189,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,7,1,4,,841,MaraZINI,6326,ITA,47.169,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,7,2,3,,819,MyrtilleGOLLIN,6714,FRA,47.289,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,7,3,1,,847,EvitaKRIEVANE,6833,LAT,47.339,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,7,4,2,,806,DanielaIVANOVA,6303,BUL,48.504,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,8,1,1,,857,JEONda-Hye,6663,KOR,46.291,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,8,2,2,,805,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.375,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,8,3,3,,829,HANYueshuang,6572,HKG,46.598,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,8,4,4,,837,MartaCAPURSO,6328,ITA,46.887,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,9,2,3,,866,NinaEVTEEVA,6511,RUS,46.495,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,9,3,1,,871,KimberlyDERRICK,6246,USA,47.601,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,9,4,4,,820,CelineLECOMPERE,6556,FRA,47.772,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,10,1,2,,846,YuiSAKAI,6229,JPN,48.413,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,10,2,4,,856,FrancescaJACKSON,6356,NZL,51.940,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,10,3,1,,848,NatsagnyamDUUREN,6109,MGL,56.596,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,10,4,3,,814,YANGAYang,6649,CHN,1:02.658,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,11,1,3,,815,FUTianYu,6650,CHN,45.310,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,11,2,4,,810,AnoukLEBLANC-BOUCHER,6795,CAN,45.603,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,11,3,2,,800,EmilyROSEMOND,6736,AUS,47.045,q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,11,DQ,1,,862,KatalinKRISTO,6514,ROU,DQ,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,12,1,4,,870,AllisonBAVER,6533,USA,46.773,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,12,2,2,,842,YukaKAMINO,6945,JPN,47.648,Q
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,12,3,1,,849,OdtsetsegNARANGEREL,6145,MGL,55.863,
+2005-2006,"2005 World Cup 1, China",500M,w,Preliminaries,12,DQ,3,,850,LiesbethMAUASAM,6444,NED,DQ,

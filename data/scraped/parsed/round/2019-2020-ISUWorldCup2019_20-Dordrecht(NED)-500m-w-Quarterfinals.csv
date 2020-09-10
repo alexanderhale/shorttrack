@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,20,QUChunyu,8071,CHN,43.126,Q
-0,2,3,,47,vanKERKHOFYara,7422,NED,43.205,Q
-0,3,4,,79,STORMOWSKAKamila,9008,POL,43.666,q
-0,4,5,,25,THOMSONKathryn,8465,GBR,43.725,
-0,5,2,,50,MONVOISINAurelie,8556,FRA,notime,
-1,1,2,,29,MALISZEWSKANatalia,8437,POL,43.649,Q
-1,2,3,,163,LEEYuBin,9112,KOR,43.882,Q
-1,3,1,,117,DOAKRikki,9601,CAN,43.990,
-1,4,4,,122,KONYAZsofia,7701,HUN,44.226,
-1,5,5,,85,BOTTERGOMEZNicole,8741,ITA,44.455,
-2,1,3,,26,CHARLESAlyson,8722,CAN,43.535,Q
-2,2,4,,14,CHRISTIEElise,7135,GBR,43.629,Q
-2,3,1,,7,FANKexin,7694,CHN,43.756,q
-2,4,2,,132,VELZEBOERXandra,9275,NED,44.937,
-3,1,1,,4,vanRUIJVENLara,7710,NED,42.857,Q
-3,2,5,,52,MALAGICHEmina,7989,RUS,44.034,Q
-3,3,3,,57,ZAKHAROVAEvgeniya,7715,RUS,44.447,
-3,PEN,2,,8,ZANGYize,8725,CHN,PEN,
-3,PEN,4,,24,BINEYMaame,9144,USA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,1,1,1,,20,QUChunyu,8071,CHN,43.126,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,1,2,3,,47,vanKERKHOFYara,7422,NED,43.205,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,1,3,4,,79,STORMOWSKAKamila,9008,POL,43.666,q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,1,4,5,,25,THOMSONKathryn,8465,GBR,43.725,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,1,5,2,,50,MONVOISINAurelie,8556,FRA,notime,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,2,1,2,,29,MALISZEWSKANatalia,8437,POL,43.649,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,2,2,3,,163,LEEYuBin,9112,KOR,43.882,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,2,3,1,,117,DOAKRikki,9601,CAN,43.990,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,2,4,4,,122,KONYAZsofia,7701,HUN,44.226,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,2,5,5,,85,BOTTERGOMEZNicole,8741,ITA,44.455,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,3,1,3,,26,CHARLESAlyson,8722,CAN,43.535,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,3,2,4,,14,CHRISTIEElise,7135,GBR,43.629,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,3,3,1,,7,FANKexin,7694,CHN,43.756,q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,3,4,2,,132,VELZEBOERXandra,9275,NED,44.937,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,4,1,1,,4,vanRUIJVENLara,7710,NED,42.857,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,4,2,5,,52,MALAGICHEmina,7989,RUS,44.034,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,4,3,3,,57,ZAKHAROVAEvgeniya,7715,RUS,44.447,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,4,PEN,2,,8,ZANGYize,8725,CHN,PEN,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),500m,w,Quarterfinals,4,PEN,4,,24,BINEYMaame,9144,USA,PEN,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.285,Q
-0,2,4,,62,SarahLANG,6527,USA,47.816,Q
-0,3,3,,59,CheriseWILKINS,7291,USA,1:10.656,ADV
-0,DQ,2,,1,EmilyROSEMOND,6736,AUS,DQ,
-1,1,1,,22,StephanieBOUVIER,6709,FRA,46.430,Q
-1,2,3,,48,MaaikeVOS,7180,NED,46.741,Q
-1,3,4,,63,LezleighJAWORSKI,6842,USA,47.092,
-1,4,2,,53,KingaKOVACS,6953,ROU,47.209,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,1,1,1,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.285,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,1,2,4,,62,SarahLANG,6527,USA,47.816,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,1,3,3,,59,CheriseWILKINS,7291,USA,1:10.656,ADV
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,1,DQ,2,,1,EmilyROSEMOND,6736,AUS,DQ,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,2,1,1,,22,StephanieBOUVIER,6709,FRA,46.430,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,2,2,3,,48,MaaikeVOS,7180,NED,46.741,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,2,3,4,,63,LezleighJAWORSKI,6842,USA,47.092,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(1),w,RepSemiFinals,2,4,2,,53,KingaKOVACS,6953,ROU,47.209,

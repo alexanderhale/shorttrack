@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,177,SUIBaoKu,6416,CHN,1:28.931,
-0,2,3,,179,ZHANGZhiqiang,7359,CHN,1:28.969,
-0,DQ,2,,268,JordanMALONE,6201,USA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,FinalB,1,1,1,,177,SUIBaoKu,6416,CHN,1:28.931,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,FinalB,1,2,3,,179,ZHANGZhiqiang,7359,CHN,1:28.969,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,FinalB,1,DQ,2,,268,JordanMALONE,6201,USA,DQ,

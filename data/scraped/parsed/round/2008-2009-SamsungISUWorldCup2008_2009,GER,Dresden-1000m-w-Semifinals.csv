@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,49,JUNGEun-Ju,6297,KOR,1:32.851,QA
-0,2,1,,71,KimberlyDERRICK,6246,USA,1:32.956,QA
-0,3,2,,22,PIERRONVeronique,6196,FRA,1:33.058,QB
-0,4,4,,27,ChristinPRIEBST,6078,GER,1:33.067,QB
-1,1,1,,74,KatherineREUTTER-ADAMEK,7255,USA,1:31.525,QA
-1,2,3,,52,SHINSae-Bom,7162,KOR,1:31.566,QA
-1,3,4,,75,JessicaKOOREMAN,7649,USA,1:32.276,QB
-1,4,2,,43,AyukoITO,6791,JPN,1:32.379,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,1,1,3,,49,JUNGEun-Ju,6297,KOR,1:32.851,QA
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,1,2,1,,71,KimberlyDERRICK,6246,USA,1:32.956,QA
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,1,3,2,,22,PIERRONVeronique,6196,FRA,1:33.058,QB
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,1,4,4,,27,ChristinPRIEBST,6078,GER,1:33.067,QB
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,2,1,1,,74,KatherineREUTTER-ADAMEK,7255,USA,1:31.525,QA
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,2,2,3,,52,SHINSae-Bom,7162,KOR,1:31.566,QA
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,2,3,4,,75,JessicaKOOREMAN,7649,USA,1:32.276,QB
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",1000m,w,Semifinals,2,4,2,,43,AyukoITO,6791,JPN,1:32.379,QB

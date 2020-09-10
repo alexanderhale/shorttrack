@@ -1,28 +1,28 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,15,ZHOUYang,6222,CHN,1:36.251,Q
-0,2,2,,7,MarianneST-GELAIS,7216,CAN,1:36.412,Q
-0,3,4,,26,ChristinPRIEBST,6078,GER,1:37.256,q
-0,4,1,,49,AnoukZOUTENDIJK,6147,NED,1:40.526,
-1,2,1,,45,AnnitavanDOORN,6440,NED,1:38.785,Q
-1,3,3,,60,SophiaMILAN,7123,USA,1:41.033,
-2,1,4,,43,KANGYun-Mi,6830,KOR,1:37.325,Q
-2,2,3,,2,VeronikaWINDISCH,6427,AUT,1:37.740,Q
-2,3,2,,36,CeciliaMAFFEI,6559,ITA,2:13.218,ADV
-2,DQ,1,,31,BernadettHEIDUM,6798,HUN,DQ,
-3,1,1,,22,StephanieBOUVIER,6709,FRA,1:45.238,Q
-3,2,2,,34,MartaCAPURSO,6328,ITA,1:45.330,Q
-3,3,3,,27,JuliaRIEDEL,6287,GER,1:45.696,
-3,4,4,,54,KristinaPAPP,6028,SRB,2:00.164,
-4,1,2,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:35.295,Q
-4,2,1,,12,IvanieBLONDIN,6140,CAN,1:36.079,Q
-4,3,3,,62,SarahLANG,6527,USA,1:36.779,q
-5,1,2,,18,ZHUMiLei,6576,CHN,1:37.144,Q
-5,2,1,,6,AnneMALTAIS,6355,CAN,1:37.243,Q
-5,3,3,,47,EllenWIEGERS,6555,NED,1:37.656,q
-5,4,4,,53,KingaKOVACS,6953,ROU,1:37.772,
-6,1,2,,42,JUNGEun-Ju,6297,KOR,1:34.680,Q
-6,2,1,,20,CHENGXiaoLei,7094,CHN,1:35.140,Q
-6,3,4,,58,KimberlyDERRICK,6246,USA,1:35.905,q
-7,1,4,,37,KatiaZINI,6076,ITA,1:37.940,Q
-7,2,1,,51,KarolinaREGUCKA,6914,POL,1:39.374,Q
-7,3,3,,57,RanyaEZZI,6840,SWE,1:39.674,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,1,1,3,,15,ZHOUYang,6222,CHN,1:36.251,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,1,2,2,,7,MarianneST-GELAIS,7216,CAN,1:36.412,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,1,3,4,,26,ChristinPRIEBST,6078,GER,1:37.256,q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,1,4,1,,49,AnoukZOUTENDIJK,6147,NED,1:40.526,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,2,2,1,,45,AnnitavanDOORN,6440,NED,1:38.785,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,2,3,3,,60,SophiaMILAN,7123,USA,1:41.033,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,3,1,4,,43,KANGYun-Mi,6830,KOR,1:37.325,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,3,2,3,,2,VeronikaWINDISCH,6427,AUT,1:37.740,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,3,3,2,,36,CeciliaMAFFEI,6559,ITA,2:13.218,ADV
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,3,DQ,1,,31,BernadettHEIDUM,6798,HUN,DQ,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,4,1,1,,22,StephanieBOUVIER,6709,FRA,1:45.238,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,4,2,2,,34,MartaCAPURSO,6328,ITA,1:45.330,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,4,3,3,,27,JuliaRIEDEL,6287,GER,1:45.696,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,4,4,4,,54,KristinaPAPP,6028,SRB,2:00.164,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,5,1,2,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:35.295,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,5,2,1,,12,IvanieBLONDIN,6140,CAN,1:36.079,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,5,3,3,,62,SarahLANG,6527,USA,1:36.779,q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,6,1,2,,18,ZHUMiLei,6576,CHN,1:37.144,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,6,2,1,,6,AnneMALTAIS,6355,CAN,1:37.243,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,6,3,3,,47,EllenWIEGERS,6555,NED,1:37.656,q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,6,4,4,,53,KingaKOVACS,6953,ROU,1:37.772,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,7,1,2,,42,JUNGEun-Ju,6297,KOR,1:34.680,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,7,2,1,,20,CHENGXiaoLei,7094,CHN,1:35.140,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,7,3,4,,58,KimberlyDERRICK,6246,USA,1:35.905,q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,8,1,4,,37,KatiaZINI,6076,ITA,1:37.940,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,8,2,1,,51,KarolinaREGUCKA,6914,POL,1:39.374,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,Preliminaries,8,3,3,,57,RanyaEZZI,6840,SWE,1:39.674,

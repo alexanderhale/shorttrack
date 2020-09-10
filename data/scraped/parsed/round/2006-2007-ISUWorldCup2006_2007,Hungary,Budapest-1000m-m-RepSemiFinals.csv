@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,147,CONFORTOLAYuri,6561,ITA,1:27.702,Q
-0,2,3,,166,HaraldsSILOVS,6458,LAT,1:28.084,Q
-0,3,5,,174,BartoszKONOPKO,7169,POL,1:29.901,
-0,4,2,,130,PaulSTANLEY,7054,GBR,1:31.004,
-0,DQ,4,,138,TorstenKROEGER,7141,GER,DQ,
-1,1,2,,145,DenisBELLOTTI,6807,ITA,1:28.307,Q
-1,2,1,,129,OliverHORSEPOOL,6276,GBR,1:28.517,Q
-1,3,4,,102,LachlanHAY,6845,AUS,1:28.557,
-1,4,3,,136,PaulHERRMANN,6803,GER,1:29.309,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,1,1,1,,147,CONFORTOLAYuri,6561,ITA,1:27.702,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,1,2,3,,166,HaraldsSILOVS,6458,LAT,1:28.084,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,1,3,5,,174,BartoszKONOPKO,7169,POL,1:29.901,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,1,4,2,,130,PaulSTANLEY,7054,GBR,1:31.004,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,1,DQ,4,,138,TorstenKROEGER,7141,GER,DQ,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,2,1,2,,145,DenisBELLOTTI,6807,ITA,1:28.307,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,2,2,1,,129,OliverHORSEPOOL,6276,GBR,1:28.517,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,2,3,4,,102,LachlanHAY,6845,AUS,1:28.557,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,m,RepSemiFinals,2,4,3,,136,PaulHERRMANN,6803,GER,1:29.309,

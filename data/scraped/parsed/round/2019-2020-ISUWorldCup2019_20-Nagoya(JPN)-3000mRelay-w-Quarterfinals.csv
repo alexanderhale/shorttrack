@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,324,KOREA,9044,KOR,4:16.773,Q
-0,2,3,,336,UNITEDSTATES,9045,USA,4:18.943,Q
-0,3,4,,310,FRANCE,9042,FRA,4:33.408,
-1,1,2,,317,ITALY,9039,ITA,4:15.657,Q
-1,2,1,,328,NETHERLANDS,9040,NED,4:15.758,Q
-1,3,3,,320,JAPAN,9047,JPN,4:17.417,q
-2,1,2,,302,CANADA,9049,CAN,4:21.433,Q
-2,2,4,,332,POLAND,9041,POL,4:23.829,Q
-2,3,1,,335,RUSSIA,9046,RUS,4:29.960,q
-2,4,3,,313,HUNGARY,9043,HUN,4:31.886,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,1,1,1,,324,KOREA,9044,KOR,4:16.773,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,1,2,3,,336,UNITEDSTATES,9045,USA,4:18.943,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,1,3,4,,310,FRANCE,9042,FRA,4:33.408,
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,2,1,2,,317,ITALY,9039,ITA,4:15.657,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,2,2,1,,328,NETHERLANDS,9040,NED,4:15.758,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,2,3,3,,320,JAPAN,9047,JPN,4:17.417,q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,3,1,2,,302,CANADA,9049,CAN,4:21.433,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,3,2,4,,332,POLAND,9041,POL,4:23.829,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,3,3,1,,335,RUSSIA,9046,RUS,4:29.960,q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),3000mRelay,w,Quarterfinals,3,4,3,,313,HUNGARY,9043,HUN,4:31.886,

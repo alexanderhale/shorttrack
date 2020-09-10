@@ -1,33 +1,33 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,5,,98,Hyo-JungKIM,6921,USA,1:32.595,Q
-0,3,3,,82,KatalinKRISTO,6514,ROU,1:34.283,
-0,4,4,,68,AnnitavanDOORN,6440,NED,1:34.552,
-0,DQ,2,,81,JINSun-Yu,6108,KOR,DQ,
-1,1,3,,14,TaniaVICENT,6662,CAN,1:35.799,Q
-1,2,4,,57,MikaOZAWA,6318,JPN,1:35.897,Q
-1,3,1,,85,TatianaBORODULINA,7483,RUS,1:35.916,
-1,4,2,,8,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.091,
-2,1,2,,19,CHENGXiaoLei,7094,CHN,1:35.867,Q
-2,2,4,,52,AriannaFONTANA,6227,ITA,1:35.942,Q
-2,3,3,,44,RozsaDARAZS,6797,HUN,1:36.267,
-2,4,1,,36,ChristinPRIEBST,6078,GER,1:36.321,
-3,1,4,,16,YANGAYang,6649,CHN,1:33.004,Q
-3,2,1,,6,EvgeniaRADANOVA,6775,BUL,1:33.085,Q
-3,3,3,,40,SarahLINDSAY,6056,GBR,1:34.106,
-3,4,2,,78,CHOIEun-Kyung,6943,KOR,2:00.993,
-4,1,2,,11,AmandaOVERLAND,7079,CAN,1:38.205,Q
-4,2,3,,1,EmilyROSEMOND,6736,AUS,1:40.217,Q
-4,3,4,,35,YvonneKUNZE,6363,GER,2:08.113,ADV
-4,DQ,1,,31,Min-KyungCHOI,6965,FRA,DQ,
-5,1,1,,46,ErikaHUSZAR,6373,HUN,1:35.071,Q
-5,2,2,,12,AlannaKRAUS,6659,CAN,1:35.257,Q
-5,3,4,,101,KristenBIONDO,6283,USA,1:35.798,
-5,4,3,,26,YUNJongSuk,6250,PRK,1:37.230,
-6,1,4,,99,AllisonBAVER,6533,USA,1:35.243,Q
-6,2,2,,51,MartaCAPURSO,6328,ITA,1:35.324,Q
-6,3,1,,56,YukaKAMINO,6945,JPN,1:35.523,
-6,4,3,,30,StephanieBOUVIER,6709,FRA,1:35.645,
-7,1,3,,79,BYUNChun-Sa,7103,KOR,1:36.557,Q
-7,2,2,,32,MyrtilleGOLLIN,6714,FRA,1:37.261,Q
-7,3,1,,47,SzandraLAJTOS,6339,HUN,1:37.427,
-7,DQ,4,,53,KatiaZINI,6076,ITA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,1,2,5,,98,Hyo-JungKIM,6921,USA,1:32.595,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,1,3,3,,82,KatalinKRISTO,6514,ROU,1:34.283,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,1,4,4,,68,AnnitavanDOORN,6440,NED,1:34.552,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,1,DQ,2,,81,JINSun-Yu,6108,KOR,DQ,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,2,1,3,,14,TaniaVICENT,6662,CAN,1:35.799,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,2,2,4,,57,MikaOZAWA,6318,JPN,1:35.897,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,2,3,1,,85,TatianaBORODULINA,7483,RUS,1:35.916,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,2,4,2,,8,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.091,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,3,1,2,,19,CHENGXiaoLei,7094,CHN,1:35.867,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,3,2,4,,52,AriannaFONTANA,6227,ITA,1:35.942,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,3,3,3,,44,RozsaDARAZS,6797,HUN,1:36.267,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,3,4,1,,36,ChristinPRIEBST,6078,GER,1:36.321,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,4,1,4,,16,YANGAYang,6649,CHN,1:33.004,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,4,2,1,,6,EvgeniaRADANOVA,6775,BUL,1:33.085,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,4,3,3,,40,SarahLINDSAY,6056,GBR,1:34.106,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,4,4,2,,78,CHOIEun-Kyung,6943,KOR,2:00.993,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,5,1,2,,11,AmandaOVERLAND,7079,CAN,1:38.205,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,5,2,3,,1,EmilyROSEMOND,6736,AUS,1:40.217,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,5,3,4,,35,YvonneKUNZE,6363,GER,2:08.113,ADV
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,5,DQ,1,,31,Min-KyungCHOI,6965,FRA,DQ,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,6,1,1,,46,ErikaHUSZAR,6373,HUN,1:35.071,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,6,2,2,,12,AlannaKRAUS,6659,CAN,1:35.257,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,6,3,4,,101,KristenBIONDO,6283,USA,1:35.798,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,6,4,3,,26,YUNJongSuk,6250,PRK,1:37.230,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,7,1,4,,99,AllisonBAVER,6533,USA,1:35.243,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,7,2,2,,51,MartaCAPURSO,6328,ITA,1:35.324,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,7,3,1,,56,YukaKAMINO,6945,JPN,1:35.523,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,7,4,3,,30,StephanieBOUVIER,6709,FRA,1:35.645,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,8,1,3,,79,BYUNChun-Sa,7103,KOR,1:36.557,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,8,2,2,,32,MyrtilleGOLLIN,6714,FRA,1:37.261,Q
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,8,3,1,,47,SzandraLAJTOS,6339,HUN,1:37.427,
+2005-2006,"2005 World Cup 4, Netherlands",1000M,w,Heats,8,DQ,4,,53,KatiaZINI,6076,ITA,DQ,

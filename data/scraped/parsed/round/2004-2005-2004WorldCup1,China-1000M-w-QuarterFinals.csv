@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,135,CHOIEun-Kyung,6943,KOR,1:36.666,Q
-0,2,1,,109,LIUXiaoYing,6652,CHN,1:36.754,Q
-0,3,2,,131,YukoKOYA,6289,JPN,1:36.949,
-0,4,3,,103,AlannaKRAUS,6659,CAN,1:37.188,
-1,2,4,,121,SarahLINDSAY,6056,GBR,1:42.687,Q
-1,3,1,,116,YvonneKUNZE,6363,GER,1:42.692,ADV
-1,DQ,3,,124,HANYueshuang,6572,HKG,DQ,
-2,1,3,,139,JINSun-Yu,6108,KOR,1:36.113,Q
-2,2,2,,108,WANGWei,6575,CHN,1:36.259,Q
-2,3,1,,148,Hyo-JungKIM,6921,USA,1:36.329,
-2,4,4,,115,MyrtilleGOLLIN,6714,FRA,1:40.013,
-3,1,3,,138,KANGYun-Mi,6830,KOR,1:35.791,Q
-3,2,4,,150,AllisonBAVER,6533,USA,1:35.915,Q
-3,3,1,,126,MartaCAPURSO,6328,ITA,1:36.214,
-3,4,2,,130,MikaOZAWA,6318,JPN,1:38.378,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,1,1,4,,135,CHOIEun-Kyung,6943,KOR,1:36.666,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,1,2,1,,109,LIUXiaoYing,6652,CHN,1:36.754,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,1,3,2,,131,YukoKOYA,6289,JPN,1:36.949,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,1,4,3,,103,AlannaKRAUS,6659,CAN,1:37.188,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,2,2,4,,121,SarahLINDSAY,6056,GBR,1:42.687,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,2,3,1,,116,YvonneKUNZE,6363,GER,1:42.692,ADV
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,2,DQ,3,,124,HANYueshuang,6572,HKG,DQ,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,3,1,3,,139,JINSun-Yu,6108,KOR,1:36.113,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,3,2,2,,108,WANGWei,6575,CHN,1:36.259,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,3,3,1,,148,Hyo-JungKIM,6921,USA,1:36.329,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,3,4,4,,115,MyrtilleGOLLIN,6714,FRA,1:40.013,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,4,1,3,,138,KANGYun-Mi,6830,KOR,1:35.791,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,4,2,4,,150,AllisonBAVER,6533,USA,1:35.915,Q
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,4,3,1,,126,MartaCAPURSO,6328,ITA,1:36.214,
+2004-2005,"2004 World Cup 1, China",1000M,w,QuarterFinals,4,4,2,,130,MikaOZAWA,6318,JPN,1:38.378,

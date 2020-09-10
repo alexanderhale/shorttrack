@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,46,CHOIMinJeong,8625,KOR,1:34.982,Q,
-0,2,3,,45,AHNSeJung,7985,KOR,1:35.058,Q,
-0,3,4,,68,ZAKHAROVAEvgeniya,7715,RUS,1:36.287,,
-0,4,1,,39,KIKUCHISumire,7980,JPN,1:36.370,,
-1,2,3,,16,XIAOHan,7962,CHN,1:33.491,Q,
-1,3,2,,11,NamastheeHARRIS-GAUTHIER,8544,CAN,1:33.764,,
-1,4,4,,9,KimBOUTIN,8542,CAN,1:35.339,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,1,1,2,,46,CHOIMinJeong,8625,KOR,1:34.982,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,1,2,3,,45,AHNSeJung,7985,KOR,1:35.058,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,1,3,4,,68,ZAKHAROVAEvgeniya,7715,RUS,1:36.287,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,1,4,1,,39,KIKUCHISumire,7980,JPN,1:36.370,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,2,2,3,,16,XIAOHan,7962,CHN,1:33.491,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,2,3,2,,11,NamastheeHARRIS-GAUTHIER,8544,CAN,1:33.764,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,1000m,w,Semifinals,2,4,4,,9,KimBOUTIN,8542,CAN,1:35.339,,

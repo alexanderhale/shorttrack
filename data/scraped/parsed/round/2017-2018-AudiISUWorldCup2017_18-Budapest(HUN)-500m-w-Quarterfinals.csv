@@ -1,22 +1,22 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1,CHRISTIEElise,7135,GBR,43.350,Q
-0,2,5,,2,MarianneST-GELAIS,7216,CAN,43.459,Q
-0,3,3,,35,LuciaPERETTI,7160,ITA,43.561,
-0,PEN,4,,14,ZANGYize,8725,CHN,PEN,
-0,PEN,2,,67,QUChunyu,8071,CHN,PEN,
-1,1,1,,9,AriannaFONTANA,6227,ITA,44.437,Q
-1,2,4,,135,BINEYMaame,9144,USA,44.507,Q
-1,3,3,,44,CharlotteGILMARTIN,7136,GBR,44.933,
-1,4,6,,27,KIKUCHISumire,7980,JPN,45.192,
-1,5,5,,78,SelmaPOUTSMA,9004,FRA,54.112,
-1,6,2,,21,vanKERKHOFYara,7422,NED,1:08.051,
-2,1,1,,5,FANKexin,7694,CHN,43.455,Q
-2,2,3,,3,SHIMSukHee,8092,KOR,43.521,Q
-2,3,4,,138,VALCEPINAMartina,7159,ITA,43.565,
-2,4,5,,54,vanRUIJVENLara,7710,NED,43.856,
-2,5,2,,11,PetraJASZAPATI,8611,HUN,43.980,
-3,1,1,,6,CHOIMinJeong,8625,KOR,43.437,Q
-3,2,3,,59,JamieMACDONALD,8997,CAN,43.791,Q
-3,3,4,,29,AndreaKESZLER,7147,HUN,44.802,
-3,4,5,,26,PIERRONVeronique,6196,FRA,45.339,
-3,5,2,,13,PROSVIRNOVASofia,8509,RUS,1:06.459,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,1,1,1,,1,CHRISTIEElise,7135,GBR,43.350,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,1,2,5,,2,MarianneST-GELAIS,7216,CAN,43.459,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,1,3,3,,35,LuciaPERETTI,7160,ITA,43.561,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,1,PEN,4,,14,ZANGYize,8725,CHN,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,1,PEN,2,,67,QUChunyu,8071,CHN,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,1,1,,9,AriannaFONTANA,6227,ITA,44.437,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,2,4,,135,BINEYMaame,9144,USA,44.507,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,3,3,,44,CharlotteGILMARTIN,7136,GBR,44.933,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,4,6,,27,KIKUCHISumire,7980,JPN,45.192,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,5,5,,78,SelmaPOUTSMA,9004,FRA,54.112,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,2,6,2,,21,vanKERKHOFYara,7422,NED,1:08.051,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,3,1,1,,5,FANKexin,7694,CHN,43.455,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,3,2,3,,3,SHIMSukHee,8092,KOR,43.521,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,3,3,4,,138,VALCEPINAMartina,7159,ITA,43.565,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,3,4,5,,54,vanRUIJVENLara,7710,NED,43.856,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,3,5,2,,11,PetraJASZAPATI,8611,HUN,43.980,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,4,1,1,,6,CHOIMinJeong,8625,KOR,43.437,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,4,2,3,,59,JamieMACDONALD,8997,CAN,43.791,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,4,3,4,,29,AndreaKESZLER,7147,HUN,44.802,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,4,4,5,,26,PIERRONVeronique,6196,FRA,45.339,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Quarterfinals,4,5,2,,13,PROSVIRNOVASofia,8509,RUS,1:06.459,

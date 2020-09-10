@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,Francois-LouisTREMBLAY,6704,CAN,42.216,
-0,2,4,,,FabioCARTA,6001,ITA,42.492,
-0,3,2,,,SatoruTERAO,6320,JPN,42.606,
-0,4,3,,,FENGKai,6058,CHN,42.966,
-1,2,4,,,ApoloAntonOHNO,6497,USA,43.145,
-1,3,3,,,NickyGOOCH,6640,GBR,43.326,
-1,4,1,,,LEESeung-Jae,6621,KOR,43.629,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,1,1,1,,,Francois-LouisTREMBLAY,6704,CAN,42.216,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,1,2,4,,,FabioCARTA,6001,ITA,42.492,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,1,3,2,,,SatoruTERAO,6320,JPN,42.606,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,1,4,3,,,FENGKai,6058,CHN,42.966,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,2,2,4,,,ApoloAntonOHNO,6497,USA,43.145,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,2,3,3,,,NickyGOOCH,6640,GBR,43.326,
+1999-2000,1999 World Cup - Montreal,500M,m,SemiFinals,2,4,1,,,LEESeung-Jae,6621,KOR,43.629,

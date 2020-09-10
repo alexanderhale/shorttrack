@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,167,CHINA,7311,CHN,4:19.740,Q,
-0,2,2,,166,CANADA,7312,CAN,4:24.041,Q,
-0,3,3,,170,JAPAN,7304,JPN,4:26.609,,
-0,PEN,4,,172,RUSSIA,7315,RUS,PEN,,
-1,1,3,,171,KOREA,7314,KOR,4:21.672,Q,
-1,2,1,,169,ITALY,7317,ITA,4:23.181,Q,
-1,3,2,,168,HUNGARY,7323,HUN,4:27.709,,
-1,4,4,,173,UNITEDSTATES,7316,USA,4:33.454,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,1,1,1,,167,CHINA,7311,CHN,4:19.740,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,1,2,2,,166,CANADA,7312,CAN,4:24.041,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,1,3,3,,170,JAPAN,7304,JPN,4:26.609,,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,1,PEN,4,,172,RUSSIA,7315,RUS,PEN,,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,2,1,3,,171,KOREA,7314,KOR,4:21.672,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,2,2,1,,169,ITALY,7317,ITA,4:23.181,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,2,3,2,,168,HUNGARY,7323,HUN,4:27.709,,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",3000mRelay,w,Semifinals,2,4,4,,173,UNITEDSTATES,7316,USA,4:33.454,,

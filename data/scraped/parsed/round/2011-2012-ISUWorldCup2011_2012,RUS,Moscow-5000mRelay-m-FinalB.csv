@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,409,NETHERLANDS,7321,NED,6:59.037,
-0,2,4,,411,RUSSIA,7307,RUS,6:59.102,
-0,3,1,,407,JAPAN,7310,JPN,6:59.281,
-0,4,2,,403,GERMANY,7302,GER,6:59.996,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",5000mRelay,m,FinalB,1,1,3,,409,NETHERLANDS,7321,NED,6:59.037,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",5000mRelay,m,FinalB,1,2,4,,411,RUSSIA,7307,RUS,6:59.102,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",5000mRelay,m,FinalB,1,3,1,,407,JAPAN,7310,JPN,6:59.281,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",5000mRelay,m,FinalB,1,4,2,,403,GERMANY,7302,GER,6:59.996,

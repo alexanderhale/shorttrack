@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,1012,Francois-LouisTREMBLAY,6704,CAN,2:21.045,
-0,2,6,,1005,PieterGYSEL,6425,BEL,2:21.153,
-0,3,3,,1014,Marc-AndreMONETTE,6270,CAN,2:21.241,
-0,4,4,,1043,CONFORTOLAYuri,6561,ITA,2:21.334,
-0,5,2,,1064,HaraldsSILOVS,6458,LAT,2:21.846,
-0,6,1,,1015,MathieuGIROUX,6852,CAN,2:22.875,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,1,5,,1012,Francois-LouisTREMBLAY,6704,CAN,2:21.045,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,2,6,,1005,PieterGYSEL,6425,BEL,2:21.153,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,3,3,,1014,Marc-AndreMONETTE,6270,CAN,2:21.241,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,4,4,,1043,CONFORTOLAYuri,6561,ITA,2:21.334,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,5,2,,1064,HaraldsSILOVS,6458,LAT,2:21.846,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,FinalB,1,6,1,,1015,MathieuGIROUX,6852,CAN,2:22.875,

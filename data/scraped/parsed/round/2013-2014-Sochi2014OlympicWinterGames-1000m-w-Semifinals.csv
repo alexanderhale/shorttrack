@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,138,PARKSeung-Hi,7164,KOR,1:30.182,QA
-0,2,4,,156,JessicaKOOREMAN,7649,USA,1:30.399,QA
-0,3,2,,142,JorienterMORS,6146,NED,1:30.481,QB
-0,4,1,,107,ValerieMALTAIS,6216,CAN,1:56.511,QB
-1,1,1,,139,SHIMSukHee,8092,KOR,1:31.237,QA
-1,2,2,,109,FANKexin,7694,CHN,1:32.618,QA
-1,PEN,4,,111,LIJianrou,7910,CHN,PEN,
-1,PEN,3,,116,CHRISTIEElise,7135,GBR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,1,1,3,,138,PARKSeung-Hi,7164,KOR,1:30.182,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,1,2,4,,156,JessicaKOOREMAN,7649,USA,1:30.399,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,1,3,2,,142,JorienterMORS,6146,NED,1:30.481,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,1,4,1,,107,ValerieMALTAIS,6216,CAN,1:56.511,QB
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,2,1,1,,139,SHIMSukHee,8092,KOR,1:31.237,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,2,2,2,,109,FANKexin,7694,CHN,1:32.618,QA
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,2,PEN,4,,111,LIJianrou,7910,CHN,PEN,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Semifinals,2,PEN,3,,116,CHRISTIEElise,7135,GBR,PEN,

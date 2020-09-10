@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,6,JessicaGREGG,6141,CAN,2:32.797,Q
-0,2,4,,2,Alix-MyraANDERSON,7353,AUS,2:32.863,
-0,3,5,,52,RanyaEZZI,6840,SWE,2:33.046,
-0,4,1,,4,VeraANTANENKA,7099,BLR,2:34.771,
-0,5,2,,45,vanRUIJVENLara,7710,NED,2:34.830,
-1,1,1,,46,EkaterinaBARANOK,7822,RUS,2:25.446,Q
-1,2,2,,56,KimberlyDERRICK,6246,USA,2:25.569,q
-1,3,3,,49,NinaEVTEEVA,6511,RUS,2:26.079,
-1,4,4,,54,SafiyaVLASOVA,7175,UKR,2:30.149,
-1,5,5,,58,TamaraFREDERICK,8062,USA,2:34.566,
-1,6,6,,26,KONYAZsofia,7701,HUN,2:56.674,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,1,1,3,,6,JessicaGREGG,6141,CAN,2:32.797,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,1,2,4,,2,Alix-MyraANDERSON,7353,AUS,2:32.863,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,1,3,5,,52,RanyaEZZI,6840,SWE,2:33.046,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,1,4,1,,4,VeraANTANENKA,7099,BLR,2:34.771,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,1,5,2,,45,vanRUIJVENLara,7710,NED,2:34.830,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,1,1,,46,EkaterinaBARANOK,7822,RUS,2:25.446,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,2,2,,56,KimberlyDERRICK,6246,USA,2:25.569,q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,3,3,,49,NinaEVTEEVA,6511,RUS,2:26.079,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,4,4,,54,SafiyaVLASOVA,7175,UKR,2:30.149,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,5,5,,58,TamaraFREDERICK,8062,USA,2:34.566,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(2),w,RepSemifinals,2,6,6,,26,KONYAZsofia,7701,HUN,2:56.674,

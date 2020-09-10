@@ -1,22 +1,22 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,189,LIMHyoJun,9324,KOR,2:18.996,QA
-0,2,5,,5,ShaoangLIU,8564,HUN,2:19.190,QA
-0,3,2,,203,KRUZBERGSRoberts,9117,LAT,2:22.642,QB
-0,4,1,,3,SamuelGIRARD,8600,CAN,2:26.369,QB
-0,5,6,,88,HirokiYOKOYAMA,7932,JPN,2:42.954,
-0,6,3,,13,J.R.CELSKI,7279,USA,notime,
-0,DNF,7,,44,John-HenryKRUEGER,7763,USA,DNF,
-1,1,3,,58,HWANGDaeHeon,9115,KOR,2:13.601,QA
-1,2,6,,32,ThibautFAUCONNET,6785,FRA,2:13.651,QA
-1,3,2,,9,HANTianyu,8388,CHN,2:13.712,QB
-1,4,5,,19,WATANABEKeita,7605,JPN,2:14.593,QB
-1,5,1,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,2:14.605,
-1,6,7,,26,JensALMEY,8595,BEL,2:14.733,
-1,7,4,,98,ANKai,9168,CHN,2:33.637,
-2,1,3,,10,ShaolinSandorLIU,7928,HUN,2:19.601,QA
-2,2,2,,2,KNEGTSjinkie,7352,NED,2:19.661,QA
-2,3,6,,128,LEPAPESebastien,7554,FRA,2:19.760,QB
-2,4,1,,1,SEOYiRa,7940,KOR,2:19.939,ADA
-2,5,7,,66,SHIJingnan,7728,CHN,2:23.329,ADA
-2,PEN,5,,8,HAMELINCharles,6610,CAN,PEN,
-2,PEN,4,,15,CharleCOURNOYER,8063,CAN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,1,4,,189,LIMHyoJun,9324,KOR,2:18.996,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,2,5,,5,ShaoangLIU,8564,HUN,2:19.190,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,3,2,,203,KRUZBERGSRoberts,9117,LAT,2:22.642,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,4,1,,3,SamuelGIRARD,8600,CAN,2:26.369,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,5,6,,88,HirokiYOKOYAMA,7932,JPN,2:42.954,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,6,3,,13,J.R.CELSKI,7279,USA,notime,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,1,DNF,7,,44,John-HenryKRUEGER,7763,USA,DNF,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,1,3,,58,HWANGDaeHeon,9115,KOR,2:13.601,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,2,6,,32,ThibautFAUCONNET,6785,FRA,2:13.651,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,3,2,,9,HANTianyu,8388,CHN,2:13.712,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,4,5,,19,WATANABEKeita,7605,JPN,2:14.593,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,5,1,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,2:14.605,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,6,7,,26,JensALMEY,8595,BEL,2:14.733,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,2,7,4,,98,ANKai,9168,CHN,2:33.637,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,1,3,,10,ShaolinSandorLIU,7928,HUN,2:19.601,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,2,2,,2,KNEGTSjinkie,7352,NED,2:19.661,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,3,6,,128,LEPAPESebastien,7554,FRA,2:19.760,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,4,1,,1,SEOYiRa,7940,KOR,2:19.939,ADA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,5,7,,66,SHIJingnan,7728,CHN,2:23.329,ADA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,PEN,5,,8,HAMELINCharles,6610,CAN,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1500m,m,Semifinals,3,PEN,4,,15,CharleCOURNOYER,8063,CAN,PEN,

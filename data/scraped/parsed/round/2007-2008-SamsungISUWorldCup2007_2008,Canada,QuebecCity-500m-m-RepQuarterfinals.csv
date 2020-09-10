@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,142,TakahiroFUJIMOTO,6277,JPN,43.456,Q
-0,2,1,,171,SerhiyLIFYRENKO,6826,UKR,43.543,Q
-0,3,3,,169,SergeyPRANKEVICH,7048,RUS,43.655,q
-0,4,4,,132,RobertBECKER,7258,GER,43.675,
-1,1,1,,110,Jean-FrancoisMONETTE,7096,CAN,42.593,Q
-1,2,2,,113,LIYe,6655,CHN,42.712,Q
-1,3,3,,119,ThibautFAUCONNET,6785,FRA,42.918,q
-1,4,4,,151,IngmarvanRIEL,6186,NED,43.191,
-2,1,2,,177,JeffSIMON,7280,USA,43.566,Q
-2,2,1,,160,DariuszKULESZA,6817,POL,43.954,Q
-2,3,3,,152,BREEUWSMADaan,7218,NED,43.998,
-2,4,4,,103,AndrePULEC,6054,AUT,44.478,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,1,1,2,,142,TakahiroFUJIMOTO,6277,JPN,43.456,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,1,2,1,,171,SerhiyLIFYRENKO,6826,UKR,43.543,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,1,3,3,,169,SergeyPRANKEVICH,7048,RUS,43.655,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,1,4,4,,132,RobertBECKER,7258,GER,43.675,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,2,1,1,,110,Jean-FrancoisMONETTE,7096,CAN,42.593,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,2,2,2,,113,LIYe,6655,CHN,42.712,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,2,3,3,,119,ThibautFAUCONNET,6785,FRA,42.918,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,2,4,4,,151,IngmarvanRIEL,6186,NED,43.191,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,3,1,2,,177,JeffSIMON,7280,USA,43.566,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,3,2,1,,160,DariuszKULESZA,6817,POL,43.954,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,3,3,3,,152,BREEUWSMADaan,7218,NED,43.998,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepQuarterfinals,3,4,4,,103,AndrePULEC,6054,AUT,44.478,

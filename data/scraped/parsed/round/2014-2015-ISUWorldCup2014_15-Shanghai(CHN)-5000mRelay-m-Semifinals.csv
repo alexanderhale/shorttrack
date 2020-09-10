@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,411,NETHERLANDS,7321,NED,6:54.684,QA
-0,3,4,,408,JAPAN,7310,JPN,6:56.997,QB
-0,4,2,,409,KAZAKHSTAN,7356,KAZ,7:11.413,QB
-1,1,2,,403,CANADA,7309,CAN,notime,QA
-1,1,3,,414,UNITEDSTATES,7306,USA,notime,QA
-1,DNF,1,,404,CHINA,7303,CHN,DNF,
-1,PEN,4,,406,HUNGARY,7324,HUN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,1,1,3,,411,NETHERLANDS,7321,NED,6:54.684,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,1,3,4,,408,JAPAN,7310,JPN,6:56.997,QB
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,1,4,2,,409,KAZAKHSTAN,7356,KAZ,7:11.413,QB
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,2,1,2,,403,CANADA,7309,CAN,notime,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,2,1,3,,414,UNITEDSTATES,7306,USA,notime,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,2,DNF,1,,404,CHINA,7303,CHN,DNF,
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),5000mRelay,m,Semifinals,2,PEN,4,,406,HUNGARY,7324,HUN,PEN,

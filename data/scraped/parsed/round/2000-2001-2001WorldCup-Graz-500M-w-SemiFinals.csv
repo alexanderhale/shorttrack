@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,,WANGChunlu,6648,CHN,45.944,
-0,2,2,,,YANGsYang,6651,CHN,45.979,
-0,3,1,,,KatiaZINI,6076,ITA,46.167,
-0,4,4,,,MaraZINI,6326,ITA,46.221,
-1,2,1,,,MartaCAPURSO,6328,ITA,45.566,
-1,3,4,,,YANGAYang,6649,CHN,45.594,
-1,4,3,,,ChristineBOUDRIAS,7061,CAN,46.274,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,1,1,3,,,WANGChunlu,6648,CHN,45.944,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,1,2,2,,,YANGsYang,6651,CHN,45.979,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,1,3,1,,,KatiaZINI,6076,ITA,46.167,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,1,4,4,,,MaraZINI,6326,ITA,46.221,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,2,2,1,,,MartaCAPURSO,6328,ITA,45.566,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,2,3,4,,,YANGAYang,6649,CHN,45.594,
+2000-2001,2001 World Cup - Graz,500M,w,SemiFinals,2,4,3,,,ChristineBOUDRIAS,7061,CAN,46.274,

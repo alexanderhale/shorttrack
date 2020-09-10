@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,158,TatianaBODOVA,7250,SVK,1:36.369,Q
-0,2,3,,130,VIVIANIElena,7583,ITA,1:45.637,
-0,3,4,,136,MarieYOSHIDA,7417,JPN,1:55.435,
-0,PEN,2,,152,EkaterinaBARANOK,7822,RUS,PEN,
-1,1,3,,166,JessicaKOOREMAN,7649,USA,1:36.929,Q
-1,2,1,,129,VALCEPINAMartina,7159,ITA,1:37.213,
-1,3,4,,118,ElisaLENKE,7124,GER,1:40.652,
-1,PEN,2,,147,vanKERKHOFYara,7422,NED,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,1,1,1,,158,TatianaBODOVA,7250,SVK,1:36.369,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,1,2,3,,130,VIVIANIElena,7583,ITA,1:45.637,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,1,3,4,,136,MarieYOSHIDA,7417,JPN,1:55.435,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,1,PEN,2,,152,EkaterinaBARANOK,7822,RUS,PEN,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,2,1,3,,166,JessicaKOOREMAN,7649,USA,1:36.929,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,2,2,1,,129,VALCEPINAMartina,7159,ITA,1:37.213,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,2,3,4,,118,ElisaLENKE,7124,GER,1:40.652,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",1000m(1),w,RepSemifinals,2,PEN,2,,147,vanKERKHOFYara,7422,NED,PEN,

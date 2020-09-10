@@ -1,23 +1,23 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,9,YuiSAKAI,6229,JPN,2:33.761,Q
-0,2,2,,29,KimberlyGOETZ,8649,USA,2:34.028,Q
-0,3,6,,75,SZILICZEI-NEMETRebeka,8737,HUN,2:35.662,Q
-0,4,4,,114,HannahMORRISON,9195,GBR,2:39.343,
-0,5,1,,27,MALAGICHEmina,7989,RUS,3:10.208,
-0,6,3,,26,DESMETHanne,8699,BEL,3:12.680,
-1,1,2,,16,HitomiSAITO,7576,JPN,2:55.574,Q
-1,2,3,,33,KaterinaNOVOTNA,6647,CZE,2:56.196,Q
-1,3,4,,31,HUOTMARCHANDTifany,7976,FRA,2:56.647,Q
-1,4,5,,105,PENCHEVAZornica,8461,BUL,2:59.648,
-1,DNS,1,,30,OliwiaGAWLICA,8501,POL,DNS,
-2,1,1,,119,KIMHaeBin,9189,KOR,2:31.131,Q
-2,2,4,,25,VALCEPINAArianna,7705,ITA,2:31.299,Q
-2,3,5,,87,AprilSHIN,8526,USA,2:32.571,Q
-2,4,2,,86,RanyaEZZI,6840,SWE,2:32.933,
-2,5,3,,80,MonikaGRZADKOWSKA,9007,POL,2:39.403,
-2,6,6,,92,MYKHALCHUKDiana,7426,UKR,2:40.432,
-3,1,3,,96,EFREMENKOVAEkaterina,8750,RUS,2:28.552,Q
-3,2,5,,54,WALTERBianca,7232,GER,2:28.830,Q
-3,3,1,,101,KAMINAGAShione,8743,JPN,2:28.944,Q
-3,4,4,,37,YAKIMOVAAnna,8702,BUL,2:32.451,
-3,5,2,,102,LouiseMILESI,8668,FRA,2:35.223,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,1,5,,9,YuiSAKAI,6229,JPN,2:33.761,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,2,2,,29,KimberlyGOETZ,8649,USA,2:34.028,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,3,6,,75,SZILICZEI-NEMETRebeka,8737,HUN,2:35.662,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,4,4,,114,HannahMORRISON,9195,GBR,2:39.343,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,5,1,,27,MALAGICHEmina,7989,RUS,3:10.208,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,1,6,3,,26,DESMETHanne,8699,BEL,3:12.680,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,2,1,2,,16,HitomiSAITO,7576,JPN,2:55.574,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,2,2,3,,33,KaterinaNOVOTNA,6647,CZE,2:56.196,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,2,3,4,,31,HUOTMARCHANDTifany,7976,FRA,2:56.647,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,2,4,5,,105,PENCHEVAZornica,8461,BUL,2:59.648,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,2,DNS,1,,30,OliwiaGAWLICA,8501,POL,DNS,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,1,1,,119,KIMHaeBin,9189,KOR,2:31.131,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,2,4,,25,VALCEPINAArianna,7705,ITA,2:31.299,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,3,5,,87,AprilSHIN,8526,USA,2:32.571,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,4,2,,86,RanyaEZZI,6840,SWE,2:32.933,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,5,3,,80,MonikaGRZADKOWSKA,9007,POL,2:39.403,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,3,6,6,,92,MYKHALCHUKDiana,7426,UKR,2:40.432,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,4,1,3,,96,EFREMENKOVAEkaterina,8750,RUS,2:28.552,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,4,2,5,,54,WALTERBianca,7232,GER,2:28.830,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,4,3,1,,101,KAMINAGAShione,8743,JPN,2:28.944,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,4,4,4,,37,YAKIMOVAAnna,8702,BUL,2:32.451,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(1),w,Rep.Heats,4,5,2,,102,LouiseMILESI,8668,FRA,2:35.223,

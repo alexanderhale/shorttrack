@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,414,SHIJingnan,7728,CHN,2:22.502,Q
-0,2,1,,481,ColeKRUEGER,7762,USA,2:22.580,
-0,3,6,,462,deLAATItzhak,7746,NED,2:23.181,
-0,4,3,,451,KuandykSULEYMENOV,8624,KAZ,2:23.750,
-0,5,4,,430,CsabaBURJAN,7738,HUN,2:23.763,
-0,6,5,,443,YoshiakiOGURO,7743,JPN,2:24.769,
-1,1,2,,410,SamuelGIRARD,8600,CAN,2:21.642,Q
-1,2,1,,416,XUHongzhi,8070,CHN,2:21.813,
-1,3,6,,465,MarkPRINSEN,7936,NED,2:22.746,
-1,4,3,,449,KAZHGALINurtilek,8676,KAZ,2:22.895,
-1,5,4,,480,KeithCARROLL,8449,USA,2:31.654,
-1,PEN,5,,472,KirillSHASHIN,7944,RUS,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,1,2,,414,SHIJingnan,7728,CHN,2:22.502,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,2,1,,481,ColeKRUEGER,7762,USA,2:22.580,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,3,6,,462,deLAATItzhak,7746,NED,2:23.181,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,4,3,,451,KuandykSULEYMENOV,8624,KAZ,2:23.750,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,5,4,,430,CsabaBURJAN,7738,HUN,2:23.763,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,1,6,5,,443,YoshiakiOGURO,7743,JPN,2:24.769,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,1,2,,410,SamuelGIRARD,8600,CAN,2:21.642,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,2,1,,416,XUHongzhi,8070,CHN,2:21.813,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,3,6,,465,MarkPRINSEN,7936,NED,2:22.746,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,4,3,,449,KAZHGALINurtilek,8676,KAZ,2:22.895,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,5,4,,480,KeithCARROLL,8449,USA,2:31.654,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,m,RepSemifinals,2,PEN,5,,472,KirillSHASHIN,7944,RUS,PEN,

@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,116,SUIBaoKu,6416,CHN,1:32.335,
-0,2,2,,110,MathieuGIROUX,6852,CAN,1:32.453,
-0,3,4,,133,FumihikoKAKUBARI,6024,JPN,1:32.677,
-0,4,1,,109,SteveROBILLARD,6494,CAN,1:52.711,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,FinalB,1,1,3,,116,SUIBaoKu,6416,CHN,1:32.335,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,FinalB,1,2,2,,110,MathieuGIROUX,6852,CAN,1:32.453,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,FinalB,1,3,4,,133,FumihikoKAKUBARI,6024,JPN,1:32.677,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,FinalB,1,4,1,,109,SteveROBILLARD,6494,CAN,1:52.711,

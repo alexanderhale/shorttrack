@@ -1,6 +1,6 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,50,JorienterMORS,6146,NED,2:32.736,
-0,2,3,,51,AnnitavanDOORN,6440,NED,2:33.236,
-0,3,1,,11,Marie-EveDROLET,6059,CAN,2:36.944,
-0,4,2,,32,BernadettHEIDUM,6798,HUN,2:42.417,
-0,5,4,,12,JessicaHEWITT,7548,CAN,2:42.572,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,FinalB,1,1,5,,50,JorienterMORS,6146,NED,2:32.736,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,FinalB,1,2,3,,51,AnnitavanDOORN,6440,NED,2:33.236,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,FinalB,1,3,1,,11,Marie-EveDROLET,6059,CAN,2:36.944,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,FinalB,1,4,2,,32,BernadettHEIDUM,6798,HUN,2:42.417,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,FinalB,1,5,4,,12,JessicaHEWITT,7548,CAN,2:42.572,

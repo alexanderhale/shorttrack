@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,6,,158,HANTianyu,8388,CHN,2:26.348,QA
-0,2,7,,24,BYKANOVVladislav,6178,ISR,2:26.523,QA
-0,3,4,,21,LEPAPESebastien,7554,FRA,2:26.727,QB
-0,4,1,,182,CASSINELLIAndrea,7741,ITA,2:26.839,QB
-0,5,2,,164,HAYASHIIbuki,9403,JPN,2:27.961,ADB
-0,6,5,,23,YOSHINAGAKazuki,8745,JPN,2:32.869,
-0,PEN,3,,22,TRANAaron,8528,USA,PEN,
-1,2,6,,64,DIONPascal,8999,CAN,2:16.233,QA
-1,3,3,,97,ANKai,9168,CHN,2:16.353,qA
-1,4,5,,190,MIYATAShogo,9460,JPN,2:17.989,QB
-1,5,7,,141,HEOAndrew,9443,USA,2:18.754,qB
-1,6,4,,27,KRUZBERGSRoberts,9117,LAT,2:43.489,
-1,7,1,,13,CONFORTOLAYuri,6561,ITA,2:52.354,
-2,1,5,,7,LEEJuneSeo,9370,KOR,2:20.546,QA
-2,2,4,,9,DUBOISSteven,9092,CAN,2:20.743,QA
-2,3,7,,3,SemenELISTRATOV,7293,RUS,2:20.946,QB
-2,4,6,,16,deLAATItzhak,7746,NED,2:21.815,QB
-2,5,1,,19,SHULGINOVAlexander,8752,RUS,2:22.177,
-2,6,3,,11,DOTTITommaso,7604,ITA,2:22.427,
-2,7,2,,36,HANDEIOleh,9073,UKR,2:23.497,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,1,6,,158,HANTianyu,8388,CHN,2:26.348,QA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,2,7,,24,BYKANOVVladislav,6178,ISR,2:26.523,QA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,3,4,,21,LEPAPESebastien,7554,FRA,2:26.727,QB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,4,1,,182,CASSINELLIAndrea,7741,ITA,2:26.839,QB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,5,2,,164,HAYASHIIbuki,9403,JPN,2:27.961,ADB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,6,5,,23,YOSHINAGAKazuki,8745,JPN,2:32.869,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,1,PEN,3,,22,TRANAaron,8528,USA,PEN,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,2,6,,64,DIONPascal,8999,CAN,2:16.233,QA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,3,3,,97,ANKai,9168,CHN,2:16.353,qA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,4,5,,190,MIYATAShogo,9460,JPN,2:17.989,QB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,5,7,,141,HEOAndrew,9443,USA,2:18.754,qB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,6,4,,27,KRUZBERGSRoberts,9117,LAT,2:43.489,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,2,7,1,,13,CONFORTOLAYuri,6561,ITA,2:52.354,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,1,5,,7,LEEJuneSeo,9370,KOR,2:20.546,QA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,2,4,,9,DUBOISSteven,9092,CAN,2:20.743,QA
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,3,7,,3,SemenELISTRATOV,7293,RUS,2:20.946,QB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,4,6,,16,deLAATItzhak,7746,NED,2:21.815,QB
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,5,1,,19,SHULGINOVAlexander,8752,RUS,2:22.177,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,6,3,,11,DOTTITommaso,7604,ITA,2:22.427,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Semifinals,3,7,2,,36,HANDEIOleh,9073,UKR,2:23.497,

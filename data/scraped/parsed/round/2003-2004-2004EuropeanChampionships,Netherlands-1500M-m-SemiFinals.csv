@@ -1,19 +1,19 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,105,NicolaRODIGARI,6332,ITA,2:25.736,Q
-0,2,4,,85,JonELEY,6592,GBR,2:26.099,Q
-0,3,1,,81,GuillaumeMATHIEU,6871,FRA,2:26.493,ADV
-0,4,5,,128,SaschaLAUBER,6634,SUI,2:26.952,
-0,5,6,,90,ArianNACHBAR,6637,GER,2:29.564,
-0,DQ,2,,79,JarmilHRUZA,6503,CZE,DQ,
-1,1,5,,62,PieterGYSEL,6425,BEL,2:25.602,Q
-1,2,1,,93,ThomasBAUER,7092,GER,2:25.686,Q
-1,3,2,,121,SergeyPRANKEVICH,7048,RUS,2:26.161,
-1,4,6,,136,MartinJOHANSSON,6509,SWE,2:26.688,
-1,5,4,,97,PeterDARAZS,6465,HUN,2:32.801,
-1,6,3,,104,NicolaFRANCESCHINA,6331,ITA,3:21.933,
-2,1,3,,103,FabioCARTA,6001,ITA,2:22.171,Q
-2,2,1,,92,SebastianPRAUS,6364,GER,2:22.254,Q
-2,3,6,,109,CeesJUFFERMANS,6072,NED,2:22.311,
-2,4,2,,86,TomIVESON,6898,GBR,2:23.301,
-2,5,4,,82,MatthieudeBOISSET,6467,FRA,2:23.309,
-2,6,5,,63,WimdeDEYNE,6699,BEL,2:25.221,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,1,3,,105,NicolaRODIGARI,6332,ITA,2:25.736,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,2,4,,85,JonELEY,6592,GBR,2:26.099,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,3,1,,81,GuillaumeMATHIEU,6871,FRA,2:26.493,ADV
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,4,5,,128,SaschaLAUBER,6634,SUI,2:26.952,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,5,6,,90,ArianNACHBAR,6637,GER,2:29.564,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,1,DQ,2,,79,JarmilHRUZA,6503,CZE,DQ,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,1,5,,62,PieterGYSEL,6425,BEL,2:25.602,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,2,1,,93,ThomasBAUER,7092,GER,2:25.686,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,3,2,,121,SergeyPRANKEVICH,7048,RUS,2:26.161,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,4,6,,136,MartinJOHANSSON,6509,SWE,2:26.688,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,5,4,,97,PeterDARAZS,6465,HUN,2:32.801,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,2,6,3,,104,NicolaFRANCESCHINA,6331,ITA,3:21.933,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,1,3,,103,FabioCARTA,6001,ITA,2:22.171,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,2,1,,92,SebastianPRAUS,6364,GER,2:22.254,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,3,6,,109,CeesJUFFERMANS,6072,NED,2:22.311,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,4,2,,86,TomIVESON,6898,GBR,2:23.301,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,5,4,,82,MatthieudeBOISSET,6467,FRA,2:23.309,
+2003-2004,"2004 European Championships, Netherlands",1500M,m,SemiFinals,3,6,5,,63,WimdeDEYNE,6699,BEL,2:25.221,

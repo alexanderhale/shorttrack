@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,142,CHINA,7311,CHN,4:19.568,Q,
-0,2,4,,141,CANADA,7312,CAN,4:22.249,Q,
-0,3,2,,147,UNITEDSTATES,7316,USA,4:22.338,,
-0,4,3,,140,BULGARIA,7335,BUL,4:42.734,,
-1,1,4,,145,KOREA,7314,KOR,4:17.935,Q,
-1,2,2,,143,ITALY,7317,ITA,4:26.879,Q,
-1,3,3,,144,JAPAN,7304,JPN,4:27.786,,
-1,4,1,,146,RUSSIA,7315,RUS,4:32.910,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,1,1,1,,142,CHINA,7311,CHN,4:19.568,Q,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,1,2,4,,141,CANADA,7312,CAN,4:22.249,Q,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,1,3,2,,147,UNITEDSTATES,7316,USA,4:22.338,,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,1,4,3,,140,BULGARIA,7335,BUL,4:42.734,,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,2,1,4,,145,KOREA,7314,KOR,4:17.935,Q,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,2,2,2,,143,ITALY,7317,ITA,4:26.879,Q,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,2,3,3,,144,JAPAN,7304,JPN,4:27.786,,
+2007-2008,"2008 ISU World Championships, Korea",3000mRelay,w,Semifinals,2,4,1,,146,RUSSIA,7315,RUS,4:32.910,,

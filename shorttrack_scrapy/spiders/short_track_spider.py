@@ -14,6 +14,10 @@ class ShortTrackEventSpider(scrapy.Spider):
     raw_split_dir = 'data/scraped/raw/split/'
     parsed_dir = 'data/scraped/parsed/round/'
     parsed_split_dir = 'data/scraped/parsed/split/'
+    full_round_file_name = f'data/scraped/parsed/all_rounds_merged.csv'
+    full_split_file_name = f'data/scraped/parsed/all_splits_merged.csv'
+    full_round_df = pd.DataFrame()
+    full_split_df = pd.DataFrame()
 
     def start_requests(self):
         yield scrapy.Request(url=self.start_url, callback=self.parse)
@@ -56,7 +60,7 @@ class ShortTrackEventSpider(scrapy.Spider):
         for event_url, event_title in zip(event_urls, event_titles):
             full_event_url = response.urljoin(event_url)
             event_details = parse_qs(urlsplit(full_event_url).query)
-            response.meta.update(dict(event_title=event_title,
+            response.meta.update(dict(event_title=self.regex_replace(event_title),
                                       event_gender=event_details.get("gen", [""])[0]))
             yield scrapy.Request(url=full_event_url,
                                  callback=self.parse_event,
@@ -72,7 +76,7 @@ class ShortTrackEventSpider(scrapy.Spider):
         for round_url, round_title in zip(round_urls, round_titles):
             full_round_url = response.urljoin(round_url)
             round_details = parse_qs(urlsplit(full_round_url).query)
-            response.meta.update(dict(round_title=round_title,
+            response.meta.update(dict(round_title=self.regex_replace(round_title),
                                       round_id=round_details.get("ref", "")))
             yield scrapy.Request(url=full_round_url,
                                  callback=self.parse_round,
@@ -86,7 +90,7 @@ class ShortTrackEventSpider(scrapy.Spider):
         unclean_file_name = f'{response.meta["season_title"]}-{response.meta["competition_title"]}-' \
                             f'{response.meta["event_title"]}-{response.meta["event_gender"]}-' \
                             f'{response.meta["round_title"]}'
-        response.meta.update(dict(round_file_name=re.sub("/", '_', re.sub(self.bad_chars, '', unclean_file_name))))
+        response.meta.update(dict(round_file_name=self.regex_replace(self.regex_replace(unclean_file_name), '/', '_')))
 
         # save full HTML content
         self.save_raw_html(html_content=response.body, file_name=response.meta["round_file_name"])
@@ -98,17 +102,26 @@ class ShortTrackEventSpider(scrapy.Spider):
             column_headers = race.css('tr.tablehead th::text').getall()
             athletes = race.css('tr[class*=tablecol]')
             for athlete in athletes:
-                athlete_out = dict(race=i)
+                athlete_out = dict(season=response.meta["season_title"],
+                                   competition=response.meta["competition_title"],
+                                   event=response.meta["event_title"],
+                                   gender=response.meta["event_gender"],
+                                   round=response.meta["round_title"],
+                                   race=i+1)
                 for col, data_point in zip(column_headers, athlete.css('td')):
                     if col == "Name":
-                        athlete_out[col] = re.sub(self.bad_chars, '', data_point.css('td a::text').get())
+                        athlete_out[col] = self.regex_replace(data_point.css('td a::text').get())
                         athlete_out["ISU ID"] = parse_qs(urlsplit(data_point.css('a::attr(href)').get()).query).get(
                             "ath", [""])[0]
                     elif col != "\xa0":
-                        athlete_out[col] = re.sub(self.bad_chars, '', data_point.css('td::text').get())
+                        athlete_out[col] = self.regex_replace(data_point.css('td::text').get())
                 races_out.append(athlete_out)
 
-        self.save_parsed_data(df=pd.DataFrame(races_out), file_name=response.meta["round_file_name"])
+        round_df = pd.DataFrame(races_out)
+        self.save_parsed_data(df=round_df, file_name=response.meta["round_file_name"])
+        self.full_round_df = self.merge_df(base_df=self.full_round_df,
+                                           update_df=round_df,
+                                           file_path=self.full_round_file_name)
 
         # call the dedicated parser to extract split data for each race of the round
         split_urls = response.css('div.tabletitle p a[href*="http://shorttrack.sportresult.com"]::attr(href)').getall()
@@ -134,21 +147,45 @@ class ShortTrackEventSpider(scrapy.Spider):
         laps = response.css('tr[class*=tablecol]')
 
         split_data = dict()
-        for athlete_name in athlete_names:
-            split_data[f'{athlete_name} POSITION'] = list()
-            split_data[f'{athlete_name} LAP TIME'] = list()
-            split_data[f'{athlete_name} ELAPSED TIME'] = list()
+        col_ids = list()
+        for start_position in range(1, len(athlete_names) + 1):
+            col_id = f'START_POS_{str(start_position)}'
+            col_ids.append(col_id)
+            split_data[f'{col_id} POSITION'] = list()
+            split_data[f'{col_id} LAP TIME'] = list()
+            split_data[f'{col_id} ELAPSED TIME'] = list()
+        split_data["season"] = list()
+        split_data["competition"] = list()
+        split_data["event"] = list()
+        split_data["gender"] = list()
+        split_data["round"] = list()
+        split_data["race"] = list()
 
         for lap in laps:
-            for athlete_col, athlete_name in zip(lap.css('td')[1:], athlete_names):
+            split_data["season"].append(response.meta["season_title"])
+            split_data["competition"].append(response.meta["competition_title"])
+            split_data["event"].append(response.meta["event_title"])
+            split_data["gender"].append(response.meta["event_gender"])
+            split_data["round"].append(response.meta["round_title"])
+            split_data["race"].append(response.meta["race_number"])
+            for athlete_col, col_id in zip(lap.css('td')[1:], col_ids):
                 athlete_position = athlete_col.css('td span::text').get()
                 athlete_position_cleaned = athlete_position.strip('[]') if athlete_position is not None else np.nan
-                split_data[f'{athlete_name} POSITION'].append(athlete_position_cleaned)
-                both_times = re.sub(self.bad_chars, '', athlete_col.css('td::text').getall()[1]).strip(')').split('(')
-                split_data[f'{athlete_name} LAP TIME'].append(both_times[1])
-                split_data[f'{athlete_name} ELAPSED TIME'].append(both_times[0])
+                split_data[f'{col_id} POSITION'].append(athlete_position_cleaned)
 
-        self.save_parsed_data(df=pd.DataFrame(split_data), file_name=race_file_name, split=True)
+                laptime_field = athlete_col.css('td::text').getall()
+                if len(laptime_field):
+                    both_times = self.regex_replace(laptime_field[1]).strip(')').split('(')
+                else:
+                    both_times = [np.nan, np.nan]
+                split_data[f'{col_id} LAP TIME'].append(both_times[1])
+                split_data[f'{col_id} ELAPSED TIME'].append(both_times[0])
+
+        split_df = pd.DataFrame(split_data)
+        self.save_parsed_data(df=split_df, file_name=race_file_name, split=True)
+        self.full_split_df = self.merge_df(base_df=self.full_split_df,
+                                           update_df=split_df,
+                                           file_path=self.full_split_file_name)
 
     def save_raw_html(self, html_content, file_name, split=False):
         directory = self.raw_split_dir if split else self.raw_dir
@@ -161,3 +198,13 @@ class ShortTrackEventSpider(scrapy.Spider):
         full_file_name = directory + file_name + ".csv"
         df.to_csv(full_file_name, index=False)
         self.log(message=f'Saved file {full_file_name}')
+
+    def merge_df(self, base_df: pd.DataFrame, update_df: pd.DataFrame, file_path: str) -> pd.DataFrame:
+        merged_df = pd.concat([base_df, update_df])
+        merged_df.to_csv(file_path, index=False)
+        self.log(message=f'Saved file {file_path}')
+        return merged_df
+
+    def regex_replace(self, s: str, regex_str: str = None, replacement_chars: str = ''):
+        regex_str = self.bad_chars if regex_str is None else regex_str
+        return re.sub(regex_str, replacement_chars, s)

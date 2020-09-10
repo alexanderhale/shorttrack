@@ -1,38 +1,38 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,10,DESMETHanne,8699,BEL,2:26.874,Q
-0,2,3,,107,STODDARDCorinne,9464,USA,2:26.970,Q
-0,3,2,,12,deVRIESRianne,8333,NED,2:26.979,q
-0,4,5,,134,TOPOLSKAGabriela,9411,POL,2:28.733,
-0,5,4,,35,UZAKOVAMariia-Mahdalyna,8759,UKR,2:31.215,
-1,1,2,,48,HANYuTong,8365,CHN,2:34.170,Q
-1,2,1,,16,MASCITTOCynthia,9193,ITA,2:34.271,Q
-1,3,5,,19,HUOTMARCHANDTifany,7976,FRA,2:34.357,
-1,4,4,,74,GloriaIORIATTI,9108,ITA,2:37.606,
-1,5,3,,61,HitomiSAITO,7576,JPN,2:39.375,
-2,1,3,,118,ZHANGYuting,9331,CHN,2:29.400,Q
-2,2,5,,121,SZILICZEI-NEMETRebeka,8737,HUN,2:29.502,Q
-2,3,2,,140,GeneveBELANGER,8359,CAN,2:29.598,q
-2,4,4,,130,NOHDoHee,7986,KOR,2:29.688,
-2,5,6,,143,RYOJongSong,9647,PRK,2:29.846,
-2,6,1,,36,YAKIMOVAAnna,8702,BUL,2:39.914,
-3,1,3,,8,ZANGYize,8725,CHN,2:31.118,Q
-3,2,2,,77,BLAISDanae,9090,CAN,2:31.173,Q
-3,3,1,,49,KONSTANTINOVAEkaterina,8510,RUS,2:31.308,q
-3,4,4,,94,TIKHONOVAOlga,8621,KAZ,2:31.382,
-3,5,5,,105,MYKHALCHUKDiana,7426,UKR,2:35.597,
-4,1,5,,23,SARAULTCourtneyLee,9223,CAN,2:26.785,Q
-4,2,1,,28,KIKUCHISumire,7980,JPN,2:26.950,Q
-4,3,4,,55,SIGHELArianna,8088,ITA,2:27.068,q
-4,4,2,,138,AprilSHIN,8526,USA,2:30.669,
-4,5,3,,80,PatrycjaMALISZEWSKA,6154,POL,2:31.506,
-5,1,4,,129,KIMAlang,8484,KOR,2:31.733,Q
-5,2,5,,11,AnnaSEIDEL,8562,GER,2:31.784,Q
-5,3,1,,71,KAMINAGAShione,8743,JPN,2:32.243,
-5,4,3,,13,PIERRONVeronique,6196,FRA,2:33.284,
-5,5,6,,144,CHANGHui,9576,TPE,2:33.565,
-5,YC,2,,17,SANTOSKristen,8527,USA,YC,
-6,1,5,,2,CHOIMinJeong,8625,KOR,2:26.005,Q
-6,2,1,,123,DeannaLOCKETT,9603,HUN,2:26.202,Q
-6,3,3,,27,BACSKAISaraLuca,8609,HUN,2:28.488,q
-6,4,2,,135,SofyaBOYTSOVA,9286,RUS,2:35.352,
-6,5,4,,90,TALAYEVAVolha,6792,BLR,2:48.707,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,1,1,1,,10,DESMETHanne,8699,BEL,2:26.874,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,1,2,3,,107,STODDARDCorinne,9464,USA,2:26.970,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,1,3,2,,12,deVRIESRianne,8333,NED,2:26.979,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,1,4,5,,134,TOPOLSKAGabriela,9411,POL,2:28.733,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,1,5,4,,35,UZAKOVAMariia-Mahdalyna,8759,UKR,2:31.215,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,2,1,2,,48,HANYuTong,8365,CHN,2:34.170,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,2,2,1,,16,MASCITTOCynthia,9193,ITA,2:34.271,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,2,3,5,,19,HUOTMARCHANDTifany,7976,FRA,2:34.357,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,2,4,4,,74,GloriaIORIATTI,9108,ITA,2:37.606,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,2,5,3,,61,HitomiSAITO,7576,JPN,2:39.375,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,1,3,,118,ZHANGYuting,9331,CHN,2:29.400,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,2,5,,121,SZILICZEI-NEMETRebeka,8737,HUN,2:29.502,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,3,2,,140,GeneveBELANGER,8359,CAN,2:29.598,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,4,4,,130,NOHDoHee,7986,KOR,2:29.688,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,5,6,,143,RYOJongSong,9647,PRK,2:29.846,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,3,6,1,,36,YAKIMOVAAnna,8702,BUL,2:39.914,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,4,1,3,,8,ZANGYize,8725,CHN,2:31.118,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,4,2,2,,77,BLAISDanae,9090,CAN,2:31.173,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,4,3,1,,49,KONSTANTINOVAEkaterina,8510,RUS,2:31.308,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,4,4,4,,94,TIKHONOVAOlga,8621,KAZ,2:31.382,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,4,5,5,,105,MYKHALCHUKDiana,7426,UKR,2:35.597,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,5,1,5,,23,SARAULTCourtneyLee,9223,CAN,2:26.785,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,5,2,1,,28,KIKUCHISumire,7980,JPN,2:26.950,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,5,3,4,,55,SIGHELArianna,8088,ITA,2:27.068,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,5,4,2,,138,AprilSHIN,8526,USA,2:30.669,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,5,5,3,,80,PatrycjaMALISZEWSKA,6154,POL,2:31.506,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,1,4,,129,KIMAlang,8484,KOR,2:31.733,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,2,5,,11,AnnaSEIDEL,8562,GER,2:31.784,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,3,1,,71,KAMINAGAShione,8743,JPN,2:32.243,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,4,3,,13,PIERRONVeronique,6196,FRA,2:33.284,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,5,6,,144,CHANGHui,9576,TPE,2:33.565,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,6,YC,2,,17,SANTOSKristen,8527,USA,YC,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,7,1,5,,2,CHOIMinJeong,8625,KOR,2:26.005,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,7,2,1,,123,DeannaLOCKETT,9603,HUN,2:26.202,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,7,3,3,,27,BACSKAISaraLuca,8609,HUN,2:28.488,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,7,4,2,,135,SofyaBOYTSOVA,9286,RUS,2:35.352,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,w,Quarterfinals,7,5,4,,90,TALAYEVAVolha,6792,BLR,2:48.707,

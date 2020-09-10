@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,177,JordanMALONE,6201,USA,1:38.279,
-0,2,1,,104,MichaelGILDAY,6195,CAN,1:38.640,
-0,3,4,,107,Marc-AndreMONETTE,6270,CAN,1:55.604,
-0,4,2,,136,NicolaRODIGARI,6332,ITA,2:07.674,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,FinalB,1,1,3,,177,JordanMALONE,6201,USA,1:38.279,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,FinalB,1,2,1,,104,MichaelGILDAY,6195,CAN,1:38.640,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,FinalB,1,3,4,,107,Marc-AndreMONETTE,6270,CAN,1:55.604,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,FinalB,1,4,2,,136,NicolaRODIGARI,6332,ITA,2:07.674,

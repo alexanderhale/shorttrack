@@ -1,24 +1,24 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,60,LEEJungSu,7266,KOR,2:11.700,QA
-0,2,2,,53,CharleCOURNOYER,8063,CAN,2:11.728,QA
-0,3,8,,43,DOTTITommaso,7604,ITA,2:12.257,QB
-0,4,7,,177,WilliamPREUDHOMME,8545,CAN,2:12.746,QB
-0,5,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,2:12.842,
-0,6,6,,176,DIONPascal,8999,CAN,2:13.028,ADA
-0,7,3,,74,HirokiYOKOYAMA,7932,JPN,2:25.901,ADB
-0,YC,1,,155,HANSeungSoo,8673,KOR,YC,
-1,1,1,,93,CsabaBURJAN,7738,HUN,2:13.007,QA
-1,2,2,,32,YOSHINAGAKazuki,8745,JPN,2:13.206,QA
-1,3,6,,10,SHIJingnan,7728,CHN,2:14.668,QB
-1,4,7,,181,XUHongzhi,8070,CHN,2:19.894,QB
-1,5,5,,14,LEPAPESebastien,7554,FRA,2:56.737,ADA
-1,6,4,,159,SINdaWoon,8035,KOR,3:12.605,ADB
-1,7,8,,154,SHAMUKHANOVYerkebulan,8672,KAZ,3:15.152,
-1,PEN,3,,20,KeithCARROLL,8449,USA,PEN,
-2,1,1,,52,SemenELISTRATOV,7293,RUS,2:15.231,QA
-2,2,7,,62,KNEGTSjinkie,7352,NED,2:15.299,QA
-2,3,5,,15,BYKANOVVladislav,6178,ISR,2:15.689,QB
-2,4,3,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,2:15.795,QB
-2,5,4,,13,John-HenryKRUEGER,7763,USA,2:15.935,
-2,6,2,,75,RuslanZAKHAROV,6935,RUS,2:16.046,
-2,7,6,,180,ANKai,9168,CHN,2:16.716,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,1,4,,60,LEEJungSu,7266,KOR,2:11.700,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,2,2,,53,CharleCOURNOYER,8063,CAN,2:11.728,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,3,8,,43,DOTTITommaso,7604,ITA,2:12.257,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,4,7,,177,WilliamPREUDHOMME,8545,CAN,2:12.746,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,5,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,2:12.842,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,6,6,,176,DIONPascal,8999,CAN,2:13.028,ADA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,7,3,,74,HirokiYOKOYAMA,7932,JPN,2:25.901,ADB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,1,YC,1,,155,HANSeungSoo,8673,KOR,YC,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,1,1,,93,CsabaBURJAN,7738,HUN,2:13.007,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,2,2,,32,YOSHINAGAKazuki,8745,JPN,2:13.206,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,3,6,,10,SHIJingnan,7728,CHN,2:14.668,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,4,7,,181,XUHongzhi,8070,CHN,2:19.894,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,5,5,,14,LEPAPESebastien,7554,FRA,2:56.737,ADA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,6,4,,159,SINdaWoon,8035,KOR,3:12.605,ADB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,7,8,,154,SHAMUKHANOVYerkebulan,8672,KAZ,3:15.152,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,2,PEN,3,,20,KeithCARROLL,8449,USA,PEN,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,1,1,,52,SemenELISTRATOV,7293,RUS,2:15.231,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,2,7,,62,KNEGTSjinkie,7352,NED,2:15.299,QA
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,3,5,,15,BYKANOVVladislav,6178,ISR,2:15.689,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,4,3,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,2:15.795,QB
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,5,4,,13,John-HenryKRUEGER,7763,USA,2:15.935,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,6,2,,75,RuslanZAKHAROV,6935,RUS,2:16.046,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1500m(2),m,Semifinals,3,7,6,,180,ANKai,9168,CHN,2:16.716,

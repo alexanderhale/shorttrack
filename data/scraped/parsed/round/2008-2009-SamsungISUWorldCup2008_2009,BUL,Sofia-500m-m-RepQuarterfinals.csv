@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,196,AnthonyLOBELLO,6958,USA,42.598,Q
-0,2,3,,143,PeterDARAZS,6465,HUN,43.553,Q
-0,3,2,,163,NurbergenZHUMAGAZIYEV,7349,KAZ,43.777,
-0,DQ,4,,133,PaulSTANLEY,7054,GBR,DQ,
-1,1,3,,123,YANGJin,7650,CHN,42.807,Q
-1,2,1,,181,AlexanderGERTSIKOV,6570,RUS,42.883,Q
-1,3,2,,151,ClaudioRINALDI,7261,ITA,42.915,
-1,4,4,,136,RobertBECKER,7258,GER,43.133,
-2,1,1,,175,KNEGTSjinkie,7352,NED,42.762,Q
-2,2,2,,184,SergeyPRANKEVICH,7048,RUS,42.772,Q
-2,3,4,,153,RobertoSERRA,6463,ITA,42.976,
-2,4,3,,189,OleksiyKOSHELENKO,7121,UKR,43.233,
-3,1,1,,138,TysonHEUNG,6240,GER,43.216,Q
-3,2,3,,162,ArturSULTANGALIYEV,6158,KAZ,43.325,Q
-3,3,2,,103,ElliottSHRIANE,6846,AUS,43.479,
-3,4,4,,190,SerhiyLIFYRENKO,6826,UKR,43.656,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,1,1,1,,196,AnthonyLOBELLO,6958,USA,42.598,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,1,2,3,,143,PeterDARAZS,6465,HUN,43.553,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,1,3,2,,163,NurbergenZHUMAGAZIYEV,7349,KAZ,43.777,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,1,DQ,4,,133,PaulSTANLEY,7054,GBR,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,2,1,3,,123,YANGJin,7650,CHN,42.807,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,2,2,1,,181,AlexanderGERTSIKOV,6570,RUS,42.883,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,2,3,2,,151,ClaudioRINALDI,7261,ITA,42.915,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,2,4,4,,136,RobertBECKER,7258,GER,43.133,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,3,1,1,,175,KNEGTSjinkie,7352,NED,42.762,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,3,2,2,,184,SergeyPRANKEVICH,7048,RUS,42.772,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,3,3,4,,153,RobertoSERRA,6463,ITA,42.976,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,3,4,3,,189,OleksiyKOSHELENKO,7121,UKR,43.233,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,4,1,1,,138,TysonHEUNG,6240,GER,43.216,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,4,2,3,,162,ArturSULTANGALIYEV,6158,KAZ,43.325,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,4,3,2,,103,ElliottSHRIANE,6846,AUS,43.479,
+2008-2009,"Samsung ISU World Cup 2008/2009, BUL, Sofia",500m,m,RepQuarterfinals,4,4,4,,190,SerhiyLIFYRENKO,6826,UKR,43.656,

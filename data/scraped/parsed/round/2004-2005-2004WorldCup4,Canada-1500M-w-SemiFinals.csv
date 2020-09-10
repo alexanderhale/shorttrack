@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,18,AnnitavanDOORN,6440,NED,2:26.496,Q
-0,2,3,,57,JoannaWILLIAMS,6639,GBR,2:27.752,Q
-0,3,5,,41,YvonneKUNZE,6363,GER,2:39.561,
-0,4,2,,82,YANGAYang,6649,CHN,2:42.474,
-0,5,6,,3,AmandaOVERLAND,7079,CAN,2:46.751,
-0,6,1,,111,Hyo-JungKIM,6921,USA,2:51.862,ADV
-1,1,1,,80,WANGWei,6575,CHN,2:27.134,Q
-1,2,5,,68,EvgeniaRADANOVA,6775,BUL,2:27.224,Q
-1,3,6,,1,TaniaVICENT,6662,CAN,2:27.583,
-1,4,3,,91,TatianaBORODULINA,7483,RUS,2:27.753,
-1,5,4,,31,YukaKAMINO,6945,JPN,2:27.851,
-1,6,2,,104,MyrtilleGOLLIN,6714,FRA,2:28.526,
-2,2,3,,33,MikaOZAWA,6318,JPN,2:28.614,Q
-2,3,2,,43,AikaKLEIN,6359,GER,2:30.472,
-2,4,1,,112,AllisonBAVER,6533,USA,2:37.275,ADV
-2,DQ,4,,2,AlannaKRAUS,6659,CAN,DQ,
-2,DQ,6,,105,Min-KyungCHOI,6965,FRA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,1,4,,18,AnnitavanDOORN,6440,NED,2:26.496,Q
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,2,3,,57,JoannaWILLIAMS,6639,GBR,2:27.752,Q
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,3,5,,41,YvonneKUNZE,6363,GER,2:39.561,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,4,2,,82,YANGAYang,6649,CHN,2:42.474,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,5,6,,3,AmandaOVERLAND,7079,CAN,2:46.751,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,1,6,1,,111,Hyo-JungKIM,6921,USA,2:51.862,ADV
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,1,1,,80,WANGWei,6575,CHN,2:27.134,Q
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,2,5,,68,EvgeniaRADANOVA,6775,BUL,2:27.224,Q
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,3,6,,1,TaniaVICENT,6662,CAN,2:27.583,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,4,3,,91,TatianaBORODULINA,7483,RUS,2:27.753,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,5,4,,31,YukaKAMINO,6945,JPN,2:27.851,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,2,6,2,,104,MyrtilleGOLLIN,6714,FRA,2:28.526,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,3,2,3,,33,MikaOZAWA,6318,JPN,2:28.614,Q
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,3,3,2,,43,AikaKLEIN,6359,GER,2:30.472,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,3,4,1,,112,AllisonBAVER,6533,USA,2:37.275,ADV
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,3,DQ,4,,2,AlannaKRAUS,6659,CAN,DQ,
+2004-2005,"2004 World Cup 4, Canada",1500M,w,SemiFinals,3,DQ,6,,105,Min-KyungCHOI,6965,FRA,DQ,

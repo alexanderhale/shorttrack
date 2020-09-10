@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,8,JessicaGREGG,6141,CAN,45.038,Q
-0,2,2,,10,NitaAVRITH,6304,CAN,45.081,Q
-0,3,4,,61,TinaKOENIG,7224,USA,45.532,
-0,4,3,,1,EmilyROSEMOND,6736,AUS,46.529,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,RepFinalA,1,1,1,,8,JessicaGREGG,6141,CAN,45.038,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,RepFinalA,1,2,2,,10,NitaAVRITH,6304,CAN,45.081,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,RepFinalA,1,3,4,,61,TinaKOENIG,7224,USA,45.532,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,RepFinalA,1,4,3,,1,EmilyROSEMOND,6736,AUS,46.529,

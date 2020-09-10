@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,,YANGsYang,6651,CHN,1:34.206,
-0,3,1,,,PARKHye-Won,7085,KOR,1:36.438,
-0,4,4,,,JOOMin-Jin,6616,KOR,2:06.210,
-1,1,3,,,CHOIEun-Kyung,6943,KOR,1:38.797,
-1,2,2,,,SUNDandan,6653,CHN,1:38.864,
-1,3,1,,,ChikageTANAKA,6314,JPN,1:38.921,
-1,4,4,,,EvgeniaRADANOVA,6775,BUL,1:39.035,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,1,2,3,,,YANGsYang,6651,CHN,1:34.206,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,1,3,1,,,PARKHye-Won,7085,KOR,1:36.438,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,1,4,4,,,JOOMin-Jin,6616,KOR,2:06.210,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,2,1,3,,,CHOIEun-Kyung,6943,KOR,1:38.797,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,2,2,2,,,SUNDandan,6653,CHN,1:38.864,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,2,3,1,,,ChikageTANAKA,6314,JPN,1:38.921,
+2001-2002,2001 World Cup - Amsterdam,1000M,w,SemiFinals,2,4,4,,,EvgeniaRADANOVA,6775,BUL,1:39.035,

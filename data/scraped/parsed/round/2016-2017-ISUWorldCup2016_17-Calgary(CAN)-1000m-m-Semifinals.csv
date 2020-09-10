@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,53,CharleCOURNOYER,8063,CAN,1:23.691,QA
-0,2,2,,7,SamuelGIRARD,8600,CAN,1:23.693,QA
-0,3,5,,159,SINdaWoon,8035,KOR,1:23.751,QB
-0,4,6,,65,ThibautFAUCONNET,6785,FRA,1:23.801,QB
-0,5,3,,60,LEEJungSu,7266,KOR,1:23.881,
-0,6,1,,144,VictorAN,8344,RUS,1:26.511,
-1,1,3,,5,ShaoangLIU,8564,HUN,1:24.520,QA
-1,2,4,,31,deLAATItzhak,7746,NED,1:24.696,QA
-1,3,2,,86,BREEUWSMADaan,7218,NED,1:24.823,ADA
-1,PEN,5,,32,YOSHINAGAKazuki,8745,JPN,PEN,
-1,PEN,1,,158,LIMKyoungWon,9191,KOR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,1,4,,53,CharleCOURNOYER,8063,CAN,1:23.691,QA
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,2,2,,7,SamuelGIRARD,8600,CAN,1:23.693,QA
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,3,5,,159,SINdaWoon,8035,KOR,1:23.751,QB
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,4,6,,65,ThibautFAUCONNET,6785,FRA,1:23.801,QB
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,5,3,,60,LEEJungSu,7266,KOR,1:23.881,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,1,6,1,,144,VictorAN,8344,RUS,1:26.511,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,2,1,3,,5,ShaoangLIU,8564,HUN,1:24.520,QA
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,2,2,4,,31,deLAATItzhak,7746,NED,1:24.696,QA
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,2,3,2,,86,BREEUWSMADaan,7218,NED,1:24.823,ADA
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,2,PEN,5,,32,YOSHINAGAKazuki,8745,JPN,PEN,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1000m,m,Semifinals,2,PEN,1,,158,LIMKyoungWon,9191,KOR,PEN,

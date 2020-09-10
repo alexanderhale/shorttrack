@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,184,CANADA,7312,CAN,4:18.383,
-0,2,1,,193,JAPAN,7304,JPN,4:19.059,
-0,3,2,,191,RUSSIA,7315,RUS,4:20.427,
-0,4,4,,183,BULGARIA,7335,BUL,4:32.903,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",3000mRelay,w,FinalB,1,1,3,,184,CANADA,7312,CAN,4:18.383,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",3000mRelay,w,FinalB,1,2,1,,193,JAPAN,7304,JPN,4:19.059,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",3000mRelay,w,FinalB,1,3,2,,191,RUSSIA,7315,RUS,4:20.427,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",3000mRelay,w,FinalB,1,4,4,,183,BULGARIA,7335,BUL,4:32.903,

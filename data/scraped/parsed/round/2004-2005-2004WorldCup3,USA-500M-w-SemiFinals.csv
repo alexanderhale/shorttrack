@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,11,WANGMeng,6594,CHN,45.157,Q
-0,2,1,,27,MaraZINI,6326,ITA,45.532,Q
-0,3,2,,7,AlannaKRAUS,6659,CAN,45.701,
-0,4,3,,12,FUTianYu,6650,CHN,45.717,
-1,2,4,,24,MartaCAPURSO,6328,ITA,45.177,Q
-1,3,2,,43,TatianaBORODULINA,7483,RUS,45.239,
-1,4,1,,46,Hyo-JungKIM,6921,USA,45.298,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,1,1,4,,11,WANGMeng,6594,CHN,45.157,Q
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,1,2,1,,27,MaraZINI,6326,ITA,45.532,Q
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,1,3,2,,7,AlannaKRAUS,6659,CAN,45.701,
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,1,4,3,,12,FUTianYu,6650,CHN,45.717,
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,2,2,4,,24,MartaCAPURSO,6328,ITA,45.177,Q
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,2,3,2,,43,TatianaBORODULINA,7483,RUS,45.239,
+2004-2005,"2004 World Cup 3, USA",500M,w,SemiFinals,2,4,1,,46,Hyo-JungKIM,6921,USA,45.298,

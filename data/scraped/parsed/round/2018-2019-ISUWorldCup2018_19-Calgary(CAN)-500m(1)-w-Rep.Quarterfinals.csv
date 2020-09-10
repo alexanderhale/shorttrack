@@ -1,15 +1,15 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,121,KIMYeJin,9310,KOR,43.954,Q
-0,2,2,,112,HIRAIAmi,8618,JPN,44.016,Q
-0,3,3,,34,MichaelaKUNCIROVA,8552,CZE,44.081,q
-0,4,5,,135,STODDARDCorinne,9464,USA,44.936,
-0,5,4,,122,CarolineMURPHY,9268,LUX,45.052,
-1,1,1,,120,KIMJiYoo,8764,KOR,44.149,Q
-1,2,2,,113,KIKUCHIMoemi,7584,JPN,44.248,Q
-1,3,3,,66,VIVIANIElena,7583,ITA,44.351,q
-1,4,4,,26,BACSKAISaraLuca,8609,HUN,44.495,
-2,1,4,,16,vanRUIJVENLara,7710,NED,43.443,Q
-2,2,1,,31,PIERRONVeronique,6196,FRA,43.530,Q
-2,3,3,,108,MartaKNOCH,9459,HUN,45.703,
-2,4,2,,116,AsselTAISHMANOVA,9259,KAZ,45.838,
-2,5,5,,2,SHIMSukHee,8092,KOR,46.112,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,1,1,1,,121,KIMYeJin,9310,KOR,43.954,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,1,2,2,,112,HIRAIAmi,8618,JPN,44.016,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,1,3,3,,34,MichaelaKUNCIROVA,8552,CZE,44.081,q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,1,4,5,,135,STODDARDCorinne,9464,USA,44.936,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,1,5,4,,122,CarolineMURPHY,9268,LUX,45.052,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,2,1,1,,120,KIMJiYoo,8764,KOR,44.149,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,2,2,2,,113,KIKUCHIMoemi,7584,JPN,44.248,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,2,3,3,,66,VIVIANIElena,7583,ITA,44.351,q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,2,4,4,,26,BACSKAISaraLuca,8609,HUN,44.495,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,3,1,4,,16,vanRUIJVENLara,7710,NED,43.443,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,3,2,1,,31,PIERRONVeronique,6196,FRA,43.530,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,3,3,3,,108,MartaKNOCH,9459,HUN,45.703,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,3,4,2,,116,AsselTAISHMANOVA,9259,KAZ,45.838,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Rep.Quarterfinals,3,5,5,,2,SHIMSukHee,8092,KOR,46.112,

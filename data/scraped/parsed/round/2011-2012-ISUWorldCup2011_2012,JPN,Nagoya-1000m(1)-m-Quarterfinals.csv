@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,112,LIANGWenhao,7594,CHN,1:29.156,Q
-0,3,1,,144,YoshiakiOGURO,7743,JPN,1:29.419,QC
-0,PEN,3,,109,AlexandreSTJEAN,7916,CAN,PEN,
-1,1,1,,108,RemiBEAULIEU,6299,CAN,1:27.799,Q
-1,2,2,,168,EvgeniiKOZULIN,7272,RUS,1:27.937,Q
-1,3,3,,164,FreekvanderWART,7269,NED,1:27.994,QC
-1,4,4,,175,JonathanGARCIA,7904,USA,1:29.214,
-2,1,1,,174,J.R.CELSKI,7279,USA,1:27.886,Q
-2,2,3,,143,DaisukeUEMURA,6118,JPN,1:28.105,Q
-2,3,4,,162,NielsKERSTHOLT,7067,NED,1:28.128,QC
-2,4,2,,111,GONGQiuwen,7593,CHN,1:29.744,
-3,1,1,,105,OlivierJEAN,6756,CAN,1:27.284,Q
-3,2,2,,157,SEOYiRa,7940,KOR,1:27.460,Q
-3,3,3,,136,BYKANOVVladislav,6178,ISR,1:27.963,QC
-3,4,4,,133,RobertSEIFERT,6176,GER,1:28.229,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,1,2,2,,112,LIANGWenhao,7594,CHN,1:29.156,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,1,3,1,,144,YoshiakiOGURO,7743,JPN,1:29.419,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,1,PEN,3,,109,AlexandreSTJEAN,7916,CAN,PEN,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,2,1,1,,108,RemiBEAULIEU,6299,CAN,1:27.799,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,2,2,2,,168,EvgeniiKOZULIN,7272,RUS,1:27.937,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,2,3,3,,164,FreekvanderWART,7269,NED,1:27.994,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,2,4,4,,175,JonathanGARCIA,7904,USA,1:29.214,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,3,1,1,,174,J.R.CELSKI,7279,USA,1:27.886,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,3,2,3,,143,DaisukeUEMURA,6118,JPN,1:28.105,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,3,3,4,,162,NielsKERSTHOLT,7067,NED,1:28.128,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,3,4,2,,111,GONGQiuwen,7593,CHN,1:29.744,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,4,1,1,,105,OlivierJEAN,6756,CAN,1:27.284,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,4,2,2,,157,SEOYiRa,7940,KOR,1:27.460,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,4,3,3,,136,BYKANOVVladislav,6178,ISR,1:27.963,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1000m(1),m,Quarterfinals,4,4,4,,133,RobertSEIFERT,6176,GER,1:28.229,

@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,119,FrancoisHAMELIN,6167,CAN,1:38.362,
-0,2,2,,124,HANJialiang,6168,CHN,1:38.588,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",1000m,m,FinalB,1,1,1,,119,FrancoisHAMELIN,6167,CAN,1:38.362,
+2009-2010,"ISU World Cup 2009/2010, CAN, Montreal",1000m,m,FinalB,1,2,2,,124,HANJialiang,6168,CHN,1:38.588,

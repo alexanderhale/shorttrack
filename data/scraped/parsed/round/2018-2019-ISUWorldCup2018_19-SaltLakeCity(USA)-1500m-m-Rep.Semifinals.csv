@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,172,WANGPengyu,9231,CHN,2:29.733,Q
-0,2,6,,163,VladimirGRIGOREV,7826,RUS,2:29.979,ADV
-0,3,2,,62,CASSINELLIAndrea,7741,ITA,2:30.024,
-0,4,1,,137,ColeWilliamIsaacKRUEGER,9329,HUN,2:30.183,
-0,5,5,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:30.999,ADV
-0,PEN,4,,31,DESMETStijn,8706,BEL,PEN,
-1,1,4,,128,YUSongnan,9388,CHN,2:22.343,Q
-1,2,2,,27,deLAATItzhak,7746,NED,2:22.367,
-1,3,3,,19,CONFORTOLAYuri,6561,ITA,2:22.638,
-1,4,1,,171,AdamCALLISTER,7954,USA,2:22.931,
-1,5,6,,170,JonathanSO,9442,USA,2:24.134,
-1,6,5,,42,TREACYFarrell,8392,GBR,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,1,3,,172,WANGPengyu,9231,CHN,2:29.733,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,2,6,,163,VladimirGRIGOREV,7826,RUS,2:29.979,ADV
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,3,2,,62,CASSINELLIAndrea,7741,ITA,2:30.024,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,4,1,,137,ColeWilliamIsaacKRUEGER,9329,HUN,2:30.183,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,5,5,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:30.999,ADV
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,1,PEN,4,,31,DESMETStijn,8706,BEL,PEN,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,1,4,,128,YUSongnan,9388,CHN,2:22.343,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,2,2,,27,deLAATItzhak,7746,NED,2:22.367,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,3,3,,19,CONFORTOLAYuri,6561,ITA,2:22.638,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,4,1,,171,AdamCALLISTER,7954,USA,2:22.931,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,5,6,,170,JonathanSO,9442,USA,2:24.134,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1500m,m,Rep.Semifinals,2,6,5,,42,TREACYFarrell,8392,GBR,notime,

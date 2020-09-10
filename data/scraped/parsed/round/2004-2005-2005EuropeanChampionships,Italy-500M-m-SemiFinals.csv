@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,50,ArianNACHBAR,6637,GER,43.500,Q
-0,2,2,,120,MikhailRAJINE,6569,RUS,43.720,Q
-0,3,1,,11,PieterGYSEL,6425,BEL,43.728,
-0,4,5,,57,JonELEY,6592,GBR,43.890,
-0,5,4,,23,AssenPANDOV,6778,BUL,44.252,
-1,1,2,,77,FabioCARTA,6001,ITA,43.890,Q
-1,2,1,,51,SebastianPRAUS,6364,GER,44.112,Q
-1,3,4,,67,PeterDARAZS,6465,HUN,44.219,
-1,4,3,,12,DriesCELIS,6113,BEL,44.381,
-1,5,5,,103,ZbigniewBRODKA,6096,POL,45.205,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,1,1,3,,50,ArianNACHBAR,6637,GER,43.500,Q
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,1,2,2,,120,MikhailRAJINE,6569,RUS,43.720,Q
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,1,3,1,,11,PieterGYSEL,6425,BEL,43.728,
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,1,4,5,,57,JonELEY,6592,GBR,43.890,
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,1,5,4,,23,AssenPANDOV,6778,BUL,44.252,
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,2,1,2,,77,FabioCARTA,6001,ITA,43.890,Q
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,2,2,1,,51,SebastianPRAUS,6364,GER,44.112,Q
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,2,3,4,,67,PeterDARAZS,6465,HUN,44.219,
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,2,4,3,,12,DriesCELIS,6113,BEL,44.381,
+2004-2005,"2005 European Championships, Italy",500M,m,SemiFinals,2,5,5,,103,ZbigniewBRODKA,6096,POL,45.205,

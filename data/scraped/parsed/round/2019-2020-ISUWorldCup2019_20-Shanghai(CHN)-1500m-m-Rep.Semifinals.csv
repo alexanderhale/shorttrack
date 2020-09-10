@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,24,BYKANOVVladislav,6178,ISR,2:38.741,Q
-0,2,4,,94,SUNLong,9454,CHN,2:38.818,
-0,3,2,,80,EMONSFriso,9276,NED,2:39.133,
-0,4,5,,193,DaniilKRASNOKUTSKII,9558,RUS,2:39.274,
-0,5,6,,77,BREEUWSMADaan,7218,NED,2:39.385,
-0,6,1,,144,KRUZBERGSKarlis,8629,LAT,2:40.414,
-1,1,4,,141,HEOAndrew,9443,USA,2:19.047,Q
-1,2,6,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:19.984,
-1,3,3,,180,PIVIROTTORyan,8650,USA,2:20.936,
-1,4,5,,104,KAZHGALINurtilek,8676,KAZ,2:23.151,
-1,5,2,,159,SELLIERDiane,9237,FRA,2:25.636,
-1,DNF,1,,29,GALIAKHMETOVAdil,9260,KAZ,DNF,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,1,3,,24,BYKANOVVladislav,6178,ISR,2:38.741,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,2,4,,94,SUNLong,9454,CHN,2:38.818,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,3,2,,80,EMONSFriso,9276,NED,2:39.133,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,4,5,,193,DaniilKRASNOKUTSKII,9558,RUS,2:39.274,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,5,6,,77,BREEUWSMADaan,7218,NED,2:39.385,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,1,6,1,,144,KRUZBERGSKarlis,8629,LAT,2:40.414,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,1,4,,141,HEOAndrew,9443,USA,2:19.047,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,2,6,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:19.984,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,3,3,,180,PIVIROTTORyan,8650,USA,2:20.936,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,4,5,,104,KAZHGALINurtilek,8676,KAZ,2:23.151,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,5,2,,159,SELLIERDiane,9237,FRA,2:25.636,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Rep.Semifinals,2,DNF,1,,29,GALIAKHMETOVAdil,9260,KAZ,DNF,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1007,CHINA,7311,CHN,4:18.392,Q
-0,2,3,,1002,JAPAN,7310,JPN,4:24.664,Q
-0,3,2,,1001,GERMANY,7313,GER,4:27.652,
-0,4,4,,1008,UNITEDSTATES,7316,USA,4:33.752,
-1,1,1,,1000,KOREA,7314,KOR,4:17.304,Q
-1,2,4,,1003,RUSSIA,7315,RUS,4:20.717,Q
-1,3,2,,1005,FRANCE,7354,FRA,4:24.361,
-1,4,3,,1004,ITALY,7317,ITA,4:24.549,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,1,1,1,,1007,CHINA,7311,CHN,4:18.392,Q
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,1,2,3,,1002,JAPAN,7310,JPN,4:24.664,Q
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,1,3,2,,1001,GERMANY,7313,GER,4:27.652,
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,1,4,4,,1008,UNITEDSTATES,7316,USA,4:33.752,
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,2,1,1,,1000,KOREA,7314,KOR,4:17.304,Q
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,2,2,4,,1003,RUSSIA,7315,RUS,4:20.717,Q
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,2,3,2,,1005,FRANCE,7354,FRA,4:24.361,
+2004-2005,"2004 World Cup 2, China, Beijing",3000MRelay,w,SemiFinals,2,4,3,,1004,ITALY,7317,ITA,4:24.549,

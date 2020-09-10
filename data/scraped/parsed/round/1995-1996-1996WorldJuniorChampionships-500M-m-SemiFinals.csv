@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,JonathanGUILMETTE,6702,CAN,43.521,
-0,2,2,,,NaoyaTAMURA,6322,JPN,43.934,
-0,3,3,,,HONGSuk-Won,6688,KOR,45.131,
-0,4,4,,,BalazsKNOCH,6341,HUN,45.956,
-1,1,1,,,Jean-FrancoisMONETTE,7096,CAN,44.874,
-1,2,2,,,CARPENTERKip,6875,USA,45.574,
-1,3,3,,,LEESang-Jun,7107,KOR,45.815,
-1,4,4,,,TakehiroKODERA,6324,JPN,45.946,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,1,1,1,,,JonathanGUILMETTE,6702,CAN,43.521,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,1,2,2,,,NaoyaTAMURA,6322,JPN,43.934,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,1,3,3,,,HONGSuk-Won,6688,KOR,45.131,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,1,4,4,,,BalazsKNOCH,6341,HUN,45.956,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,2,1,1,,,Jean-FrancoisMONETTE,7096,CAN,44.874,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,2,2,2,,,CARPENTERKip,6875,USA,45.574,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,2,3,3,,,LEESang-Jun,7107,KOR,45.815,
+1995-1996,1996 World Junior Championships,500M,m,SemiFinals,2,4,4,,,TakehiroKODERA,6324,JPN,45.946,

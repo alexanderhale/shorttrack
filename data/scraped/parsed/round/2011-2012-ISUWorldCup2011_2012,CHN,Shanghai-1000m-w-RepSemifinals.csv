@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,32,SayuriSHIMIZU,7544,JPN,1:33.925,Q
-0,2,2,,11,VanessaBELANGER-MARCEAU,8057,CAN,1:33.973,
-0,3,1,,49,OlgaBELYAKOVA,7112,RUS,1:34.365,ADV
-0,PEN,3,,44,LEEEunByul,7421,KOR,PEN,
-1,1,2,,45,KIMDamMin,7842,KOR,1:35.372,Q
-1,2,1,,4,VeronikaWINDISCH,6427,AUT,1:35.445,
-1,3,4,,50,EkaterinaBARANOK,7822,RUS,1:35.570,
-1,4,3,,27,CeciliaMAFFEI,6559,ITA,1:35.958,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,1,1,4,,32,SayuriSHIMIZU,7544,JPN,1:33.925,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,1,2,2,,11,VanessaBELANGER-MARCEAU,8057,CAN,1:33.973,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,1,3,1,,49,OlgaBELYAKOVA,7112,RUS,1:34.365,ADV
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,1,PEN,3,,44,LEEEunByul,7421,KOR,PEN,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,2,1,2,,45,KIMDamMin,7842,KOR,1:35.372,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,2,2,1,,4,VeronikaWINDISCH,6427,AUT,1:35.445,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,2,3,4,,50,EkaterinaBARANOK,7822,RUS,1:35.570,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",1000m,w,RepSemifinals,2,4,3,,27,CeciliaMAFFEI,6559,ITA,1:35.958,

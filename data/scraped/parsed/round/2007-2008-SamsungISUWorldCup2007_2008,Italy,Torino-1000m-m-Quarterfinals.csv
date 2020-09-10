@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,135,TakahiroFUJIMOTO,6277,JPN,1:28.748,Q
-0,2,3,,100,SUIBaoKu,6416,CHN,1:28.780,Q
-0,3,2,,182,JPKEPKA,6501,USA,1:28.899,
-0,4,1,,151,HaraldsSILOVS,6458,LAT,1:30.520,
-1,2,2,,134,SatoruTERAO,6320,JPN,1:29.422,Q
-1,3,1,,98,MathieuGIROUX,6852,CAN,1:29.840,
-1,4,4,,111,PaulHERRMANN,6803,GER,1:30.098,
-2,1,1,,147,LEEHo-Suk,6856,KOR,1:32.641,Q
-2,2,3,,180,JordanMALONE,6201,USA,1:32.758,Q
-2,3,2,,108,ThibautFAUCONNET,6785,FRA,1:33.732,
-2,4,4,,95,SteveROBILLARD,6494,CAN,1:34.394,
-3,1,1,,146,SONGKyung-Taek,6574,KOR,1:26.216,Q
-3,2,2,,96,Francois-LouisTREMBLAY,6704,CAN,1:26.381,Q
-3,3,5,,178,TravisJAYNER,6300,USA,1:26.863,
-3,4,3,,132,NicolaRODIGARI,6332,ITA,1:26.957,
-3,5,4,,116,PaulSTANLEY,7054,GBR,1:27.921,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,1,1,4,,135,TakahiroFUJIMOTO,6277,JPN,1:28.748,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,1,2,3,,100,SUIBaoKu,6416,CHN,1:28.780,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,1,3,2,,182,JPKEPKA,6501,USA,1:28.899,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,1,4,1,,151,HaraldsSILOVS,6458,LAT,1:30.520,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,2,2,2,,134,SatoruTERAO,6320,JPN,1:29.422,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,2,3,1,,98,MathieuGIROUX,6852,CAN,1:29.840,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,2,4,4,,111,PaulHERRMANN,6803,GER,1:30.098,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,3,1,1,,147,LEEHo-Suk,6856,KOR,1:32.641,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,3,2,3,,180,JordanMALONE,6201,USA,1:32.758,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,3,3,2,,108,ThibautFAUCONNET,6785,FRA,1:33.732,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,3,4,4,,95,SteveROBILLARD,6494,CAN,1:34.394,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,4,1,1,,146,SONGKyung-Taek,6574,KOR,1:26.216,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,4,2,2,,96,Francois-LouisTREMBLAY,6704,CAN,1:26.381,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,4,3,5,,178,TravisJAYNER,6300,USA,1:26.863,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,4,4,3,,132,NicolaRODIGARI,6332,ITA,1:26.957,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1000m,m,Quarterfinals,4,5,4,,116,PaulSTANLEY,7054,GBR,1:27.921,

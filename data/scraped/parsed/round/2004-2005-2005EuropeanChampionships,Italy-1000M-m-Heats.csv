@@ -1,25 +1,25 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,79,NicolaFRANCESCHINA,6331,ITA,1:33.047,Q
-0,2,4,,148,VolodymyrGRYGORIEV,6741,UKR,1:33.175,Q
-0,3,2,,94,NielsKERSTHOLT,7067,NED,1:33.233,q
-0,4,1,,106,JakubJAWORSKI,6816,POL,1:33.342,
-1,1,1,,80,NicolaRODIGARI,6332,ITA,1:30.972,Q
-1,2,3,,11,PieterGYSEL,6425,BEL,1:31.025,Q
-1,3,4,,36,JeanCharlesMATTEI,6057,FRA,1:31.669,q
-1,4,2,,23,AssenPANDOV,6778,BUL,1:37.392,
-2,1,2,,57,JonELEY,6592,GBR,1:37.603,Q
-2,2,1,,67,PeterDARAZS,6465,HUN,1:37.690,Q
-2,3,3,,12,DriesCELIS,6113,BEL,1:48.157,
-2,4,4,,30,JarmilHRUZA,6503,CZE,2:00.600,
-3,1,4,,77,FabioCARTA,6001,ITA,1:30.806,Q
-3,2,3,,95,CeesJUFFERMANS,6072,NED,1:30.977,Q
-3,3,2,,126,AlexanderGERTSIKOV,6570,RUS,1:31.702,q
-3,4,1,,59,TomIVESON,6898,GBR,1:33.073,
-4,1,2,,50,ArianNACHBAR,6637,GER,1:35.340,Q
-4,2,1,,145,SaschaLAUBER,6634,SUI,1:36.329,Q
-4,3,3,,103,ZbigniewBRODKA,6096,POL,1:37.113,
-4,4,4,,96,Robbert-KeesBOER,6456,NED,1:51.809,
-5,1,1,,51,SebastianPRAUS,6364,GER,1:31.483,Q
-5,2,4,,39,ThibautFAUCONNET,6785,FRA,1:31.592,Q
-5,3,3,,10,WimdeDEYNE,6699,BEL,1:31.682,q
-5,4,2,,86,HaraldsSILOVS,6458,LAT,1:32.640,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,1,1,3,,79,NicolaFRANCESCHINA,6331,ITA,1:33.047,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,1,2,4,,148,VolodymyrGRYGORIEV,6741,UKR,1:33.175,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,1,3,2,,94,NielsKERSTHOLT,7067,NED,1:33.233,q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,1,4,1,,106,JakubJAWORSKI,6816,POL,1:33.342,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,2,1,1,,80,NicolaRODIGARI,6332,ITA,1:30.972,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,2,2,3,,11,PieterGYSEL,6425,BEL,1:31.025,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,2,3,4,,36,JeanCharlesMATTEI,6057,FRA,1:31.669,q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,2,4,2,,23,AssenPANDOV,6778,BUL,1:37.392,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,3,1,2,,57,JonELEY,6592,GBR,1:37.603,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,3,2,1,,67,PeterDARAZS,6465,HUN,1:37.690,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,3,3,3,,12,DriesCELIS,6113,BEL,1:48.157,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,3,4,4,,30,JarmilHRUZA,6503,CZE,2:00.600,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,4,1,4,,77,FabioCARTA,6001,ITA,1:30.806,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,4,2,3,,95,CeesJUFFERMANS,6072,NED,1:30.977,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,4,3,2,,126,AlexanderGERTSIKOV,6570,RUS,1:31.702,q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,4,4,1,,59,TomIVESON,6898,GBR,1:33.073,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,5,1,2,,50,ArianNACHBAR,6637,GER,1:35.340,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,5,2,1,,145,SaschaLAUBER,6634,SUI,1:36.329,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,5,3,3,,103,ZbigniewBRODKA,6096,POL,1:37.113,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,5,4,4,,96,Robbert-KeesBOER,6456,NED,1:51.809,
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,6,1,1,,51,SebastianPRAUS,6364,GER,1:31.483,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,6,2,4,,39,ThibautFAUCONNET,6785,FRA,1:31.592,Q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,6,3,3,,10,WimdeDEYNE,6699,BEL,1:31.682,q
+2004-2005,"2005 European Championships, Italy",1000M,m,Heats,6,4,2,,86,HaraldsSILOVS,6458,LAT,1:32.640,

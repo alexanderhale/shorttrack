@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,11,MarianneST-GELAIS,7216,CAN,44.558,Q
-0,2,2,,80,JessicaKOOREMAN,7649,USA,44.650,Q
-0,3,4,,16,KONGXue,7151,CHN,44.940,
-0,4,3,,52,LEESoYoun,8436,KOR,1:05.429,
-1,1,1,,14,FANKexin,7694,CHN,44.720,Q
-1,2,4,,51,KIMMin-Jung,6831,KOR,45.064,Q
-1,3,3,,77,AlysonDUDEK,7290,USA,56.074,ADV
-1,PEN,2,,43,BibaSAKURAI,7240,JPN,PEN,
-2,1,2,,8,JessicaGREGG,6141,CAN,44.221,Q
-2,2,1,,67,TatianaBORODULINA,7483,RUS,44.267,Q
-2,3,3,,63,PatrycjaMALISZEWSKA,6154,POL,44.448,
-2,4,4,,45,MarieYOSHIDA,7417,JPN,46.059,
-3,1,2,,12,CarolineTRUCHON,7908,CAN,44.354,Q
-3,2,3,,23,CharlotteGILMARTIN,7136,GBR,44.646,Q
-3,3,1,,38,VALCEPINAMartina,7159,ITA,44.802,
-3,4,4,,30,AndreaKESZLER,7147,HUN,1:00.270,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,1,1,1,,11,MarianneST-GELAIS,7216,CAN,44.558,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,1,2,2,,80,JessicaKOOREMAN,7649,USA,44.650,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,1,3,4,,16,KONGXue,7151,CHN,44.940,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,1,4,3,,52,LEESoYoun,8436,KOR,1:05.429,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,2,1,1,,14,FANKexin,7694,CHN,44.720,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,2,2,4,,51,KIMMin-Jung,6831,KOR,45.064,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,2,3,3,,77,AlysonDUDEK,7290,USA,56.074,ADV
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,2,PEN,2,,43,BibaSAKURAI,7240,JPN,PEN,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,3,1,2,,8,JessicaGREGG,6141,CAN,44.221,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,3,2,1,,67,TatianaBORODULINA,7483,RUS,44.267,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,3,3,3,,63,PatrycjaMALISZEWSKA,6154,POL,44.448,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,3,4,4,,45,MarieYOSHIDA,7417,JPN,46.059,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,4,1,2,,12,CarolineTRUCHON,7908,CAN,44.354,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,4,2,3,,23,CharlotteGILMARTIN,7136,GBR,44.646,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,4,3,1,,38,VALCEPINAMartina,7159,ITA,44.802,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",500m(2),w,Quarterfinals,4,4,4,,30,AndreaKESZLER,7147,HUN,1:00.270,

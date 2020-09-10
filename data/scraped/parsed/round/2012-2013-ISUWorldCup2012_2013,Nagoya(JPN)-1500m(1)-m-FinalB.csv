@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,148,YuzoTAKAMIDO,7158,JPN,2:24.566,
-0,2,2,,107,GuillaumeBASTILLE,6166,CAN,2:24.699,
-0,3,5,,124,LEPAPESebastien,7554,FRA,2:24.886,
-0,4,7,,110,FrancoisHAMELIN,6167,CAN,2:25.054,
-0,5,1,,158,KIMYun-Jae,7443,KOR,2:26.125,
-0,6,6,,103,NathanielHENRY,7966,AUS,2:27.109,
-0,PEN,3,,165,NielsKERSTHOLT,7067,NED,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,1,4,,148,YuzoTAKAMIDO,7158,JPN,2:24.566,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,2,2,,107,GuillaumeBASTILLE,6166,CAN,2:24.699,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,3,5,,124,LEPAPESebastien,7554,FRA,2:24.886,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,4,7,,110,FrancoisHAMELIN,6167,CAN,2:25.054,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,5,1,,158,KIMYun-Jae,7443,KOR,2:26.125,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,6,6,,103,NathanielHENRY,7966,AUS,2:27.109,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,FinalB,1,PEN,3,,165,NielsKERSTHOLT,7067,NED,PEN,

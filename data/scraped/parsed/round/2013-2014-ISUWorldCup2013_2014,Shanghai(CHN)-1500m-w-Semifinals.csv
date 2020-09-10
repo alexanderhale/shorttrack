@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,60,SHIMSukHee,8092,KOR,2:21.396,QA
-0,2,1,,56,JorienterMORS,6146,NED,2:21.801,QA
-0,3,2,,12,KONGXue,7151,CHN,2:21.956,QB
-0,4,6,,1,DeannaLOCKETT,7956,AUS,2:22.321,QB
-0,5,5,,39,VALCEPINAMartina,7159,ITA,2:22.757,
-0,6,7,,166,VeronikaWINDISCH,6427,AUT,2:23.783,
-0,7,4,,65,AgneSEREIKAITE,7708,LTU,2:27.731,
-1,1,3,,58,KIMAlang,8484,KOR,2:19.532,QA
-1,2,2,,41,AriannaFONTANA,6227,ITA,2:19.614,QA
-1,3,4,,11,ValerieMALTAIS,6216,CAN,2:19.702,QB
-1,4,5,,15,LIJianrou,7910,CHN,2:20.352,QB
-1,5,7,,48,AyukoITO,6791,JPN,2:21.888,
-1,6,1,,74,OlgaBELYAKOVA,7112,RUS,2:24.858,
-1,7,6,,23,CharlotteGILMARTIN,7136,GBR,2:27.463,
-2,1,4,,61,CHOHa-Ri,7028,KOR,2:24.170,QA
-2,2,5,,76,ValeriyaREZNIK,6573,RUS,2:26.366,QA
-2,3,2,,43,LuciaPERETTI,7160,ITA,2:29.303,QB
-2,4,1,,32,BernadettHEIDUM,6798,HUN,2:48.777,ADA
-2,5,3,,6,JessicaHEWITT,7548,CAN,2:50.220,ADA
-2,PEN,6,,16,ZHOUYang,6222,CHN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,1,3,,60,SHIMSukHee,8092,KOR,2:21.396,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,2,1,,56,JorienterMORS,6146,NED,2:21.801,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,3,2,,12,KONGXue,7151,CHN,2:21.956,QB
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,4,6,,1,DeannaLOCKETT,7956,AUS,2:22.321,QB
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,5,5,,39,VALCEPINAMartina,7159,ITA,2:22.757,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,6,7,,166,VeronikaWINDISCH,6427,AUT,2:23.783,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,1,7,4,,65,AgneSEREIKAITE,7708,LTU,2:27.731,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,1,3,,58,KIMAlang,8484,KOR,2:19.532,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,2,2,,41,AriannaFONTANA,6227,ITA,2:19.614,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,3,4,,11,ValerieMALTAIS,6216,CAN,2:19.702,QB
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,4,5,,15,LIJianrou,7910,CHN,2:20.352,QB
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,5,7,,48,AyukoITO,6791,JPN,2:21.888,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,6,1,,74,OlgaBELYAKOVA,7112,RUS,2:24.858,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,2,7,6,,23,CharlotteGILMARTIN,7136,GBR,2:27.463,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,1,4,,61,CHOHa-Ri,7028,KOR,2:24.170,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,2,5,,76,ValeriyaREZNIK,6573,RUS,2:26.366,QA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,3,2,,43,LuciaPERETTI,7160,ITA,2:29.303,QB
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,4,1,,32,BernadettHEIDUM,6798,HUN,2:48.777,ADA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,5,3,,6,JessicaHEWITT,7548,CAN,2:50.220,ADA
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1500m,w,Semifinals,3,PEN,6,,16,ZHOUYang,6222,CHN,PEN,

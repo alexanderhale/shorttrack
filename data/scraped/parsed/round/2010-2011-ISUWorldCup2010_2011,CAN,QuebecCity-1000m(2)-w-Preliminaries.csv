@@ -1,29 +1,29 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,23,CHRISTIEElise,7135,GBR,1:32.031,Q
-0,2,2,,7,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:32.119,Q
-0,3,3,,1,VeronikaWINDISCH,6427,AUT,1:32.286,q
-0,4,4,,14,LINMeng,7697,CHN,1:32.377,
-1,2,2,,56,EkaterinaBARANOK,7822,RUS,1:35.414,Q
-1,3,1,,2,Anne-SophieDAVREUX,7573,BEL,1:35.488,
-2,1,3,,8,JessicaHEWITT,7548,CAN,1:32.109,Q
-2,2,1,,60,LanaGEHRING,7254,USA,1:32.153,Q
-2,3,4,,35,BibaSAKURAI,7240,JPN,1:32.163,q
-2,4,2,,48,PaulaBZURA,7168,POL,1:32.273,
-3,1,2,,9,ZHOUYang,6222,CHN,1:33.727,Q
-3,2,3,,4,ValerieMALTAIS,6216,CAN,1:33.811,Q
-3,3,1,,53,LiaSTEPANOVA,6150,RUS,1:35.261,q
-4,1,1,,11,ZHANGHui,7550,CHN,1:35.094,Q
-4,2,4,,39,HitomiSAITO,7576,JPN,1:35.629,Q
-4,3,2,,44,JorienterMORS,6146,NED,2:02.528,ADV
-4,PEN,3,,15,KaterinaNOVOTNA,6647,CZE,PEN,
-5,1,3,,28,BernadettHEIDUM,6798,HUN,1:35.512,Q
-5,2,1,,31,VALCEPINAArianna,7705,ITA,1:35.614,Q
-5,3,4,,17,ChristinPRIEBST,6078,GER,1:35.745,
-5,4,2,,64,MorganIZYKOWSKI,7720,USA,1:35.792,
-6,1,3,,36,YasukoSAKASHITA,6189,JPN,1:34.572,Q
-6,2,2,,51,OlgaBELYAKOVA,7112,RUS,1:34.578,Q
-6,3,4,,30,CeciliaMAFFEI,6559,ITA,1:35.028,q
-6,4,1,,22,PAPAKONSTANTIEfi,7698,GER,1:39.304,
-7,1,3,,43,AnnitavanDOORN,6440,NED,1:35.897,Q
-7,2,1,,27,RozsaDARAZS,6797,HUN,1:36.012,Q
-7,3,2,,18,JuliaRIEDEL,6287,GER,1:36.532,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,1,1,1,,23,CHRISTIEElise,7135,GBR,1:32.031,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,1,2,2,,7,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:32.119,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,1,3,3,,1,VeronikaWINDISCH,6427,AUT,1:32.286,q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,1,4,4,,14,LINMeng,7697,CHN,1:32.377,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,2,2,2,,56,EkaterinaBARANOK,7822,RUS,1:35.414,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,2,3,1,,2,Anne-SophieDAVREUX,7573,BEL,1:35.488,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,3,1,3,,8,JessicaHEWITT,7548,CAN,1:32.109,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,3,2,1,,60,LanaGEHRING,7254,USA,1:32.153,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,3,3,4,,35,BibaSAKURAI,7240,JPN,1:32.163,q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,3,4,2,,48,PaulaBZURA,7168,POL,1:32.273,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,4,1,2,,9,ZHOUYang,6222,CHN,1:33.727,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,4,2,3,,4,ValerieMALTAIS,6216,CAN,1:33.811,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,4,3,1,,53,LiaSTEPANOVA,6150,RUS,1:35.261,q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,5,1,1,,11,ZHANGHui,7550,CHN,1:35.094,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,5,2,4,,39,HitomiSAITO,7576,JPN,1:35.629,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,5,3,2,,44,JorienterMORS,6146,NED,2:02.528,ADV
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,5,PEN,3,,15,KaterinaNOVOTNA,6647,CZE,PEN,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,6,1,3,,28,BernadettHEIDUM,6798,HUN,1:35.512,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,6,2,1,,31,VALCEPINAArianna,7705,ITA,1:35.614,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,6,3,4,,17,ChristinPRIEBST,6078,GER,1:35.745,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,6,4,2,,64,MorganIZYKOWSKI,7720,USA,1:35.792,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,7,1,3,,36,YasukoSAKASHITA,6189,JPN,1:34.572,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,7,2,2,,51,OlgaBELYAKOVA,7112,RUS,1:34.578,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,7,3,4,,30,CeciliaMAFFEI,6559,ITA,1:35.028,q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,7,4,1,,22,PAPAKONSTANTIEfi,7698,GER,1:39.304,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,8,1,3,,43,AnnitavanDOORN,6440,NED,1:35.897,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,8,2,1,,27,RozsaDARAZS,6797,HUN,1:36.012,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1000m(2),w,Preliminaries,8,3,2,,18,JuliaRIEDEL,6287,GER,1:36.532,

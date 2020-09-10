@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,67,AZHGALIYEVAbzal,7685,KAZ,1:43.354,Q
-0,2,1,,159,SELLIERDiane,9237,FRA,1:44.581,
-0,3,2,,183,TALABOSAttila,9243,HUN,1:46.396,
-0,4,4,,161,JUNGYanghunBen,9602,GER,notime,
-0,PEN,3,,77,BREEUWSMADaan,7218,NED,PEN,
-1,1,5,,169,PARKInWook,7942,KOR,1:37.458,Q
-1,2,4,,66,SHAMUKHANOVYerkebulan,8672,KAZ,1:37.625,
-1,3,3,,64,DIONPascal,8999,CAN,1:39.148,
-1,4,1,,106,TREACYNiall,9390,GBR,1:57.986,
-1,5,2,,32,HOOGERWERFDylan,8497,NED,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,1,1,5,,67,AZHGALIYEVAbzal,7685,KAZ,1:43.354,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,1,2,1,,159,SELLIERDiane,9237,FRA,1:44.581,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,1,3,2,,183,TALABOSAttila,9243,HUN,1:46.396,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,1,4,4,,161,JUNGYanghunBen,9602,GER,notime,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,1,PEN,3,,77,BREEUWSMADaan,7218,NED,PEN,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,2,1,5,,169,PARKInWook,7942,KOR,1:37.458,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,2,2,4,,66,SHAMUKHANOVYerkebulan,8672,KAZ,1:37.625,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,2,3,3,,64,DIONPascal,8999,CAN,1:39.148,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,2,4,1,,106,TREACYNiall,9390,GBR,1:57.986,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(1),m,Rep.Semifinals,2,5,2,,32,HOOGERWERFDylan,8497,NED,notime,

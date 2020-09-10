@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,38,CheriseWILKINS,7291,USA,1:58.807,
-0,2,1,,12,SusanneRUDOLPH,6362,GER,1:58.834,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,FinalB,1,1,2,,38,CheriseWILKINS,7291,USA,1:58.807,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,FinalB,1,2,1,,12,SusanneRUDOLPH,6362,GER,1:58.834,

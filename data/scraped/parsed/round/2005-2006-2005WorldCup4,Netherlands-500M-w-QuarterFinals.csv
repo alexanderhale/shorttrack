@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,40,SarahLINDSAY,6056,GBR,46.686,Q
-0,2,4,,30,StephanieBOUVIER,6709,FRA,46.825,Q
-0,3,2,,12,AlannaKRAUS,6659,CAN,1:05.917,ADV
-0,4,3,,77,JEONda-Hye,6663,KOR,1:32.934,
-1,1,1,,15,KalynaROBERGE,6284,CAN,45.805,Q
-1,3,4,,53,KatiaZINI,6076,ITA,46.113,
-1,4,3,,26,YUNJongSuk,6250,PRK,46.318,
-2,1,2,,6,EvgeniaRADANOVA,6775,BUL,45.188,Q
-2,2,3,,18,FUTianYu,6650,CHN,45.336,Q
-2,3,4,,51,MartaCAPURSO,6328,ITA,45.467,
-2,4,1,,46,ErikaHUSZAR,6373,HUN,45.575,
-3,1,1,,13,AnoukLEBLANC-BOUCHER,6795,CAN,45.463,Q
-3,2,2,,16,YANGAYang,6649,CHN,45.479,Q
-3,3,3,,52,AriannaFONTANA,6227,ITA,46.348,
-3,DQ,4,,81,JINSun-Yu,6108,KOR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,1,1,1,,40,SarahLINDSAY,6056,GBR,46.686,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,1,2,4,,30,StephanieBOUVIER,6709,FRA,46.825,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,1,3,2,,12,AlannaKRAUS,6659,CAN,1:05.917,ADV
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,1,4,3,,77,JEONda-Hye,6663,KOR,1:32.934,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,2,1,1,,15,KalynaROBERGE,6284,CAN,45.805,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,2,3,4,,53,KatiaZINI,6076,ITA,46.113,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,2,4,3,,26,YUNJongSuk,6250,PRK,46.318,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,3,1,2,,6,EvgeniaRADANOVA,6775,BUL,45.188,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,3,2,3,,18,FUTianYu,6650,CHN,45.336,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,3,3,4,,51,MartaCAPURSO,6328,ITA,45.467,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,3,4,1,,46,ErikaHUSZAR,6373,HUN,45.575,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,4,1,1,,13,AnoukLEBLANC-BOUCHER,6795,CAN,45.463,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,4,2,2,,16,YANGAYang,6649,CHN,45.479,Q
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,4,3,3,,52,AriannaFONTANA,6227,ITA,46.348,
+2005-2006,"2005 World Cup 4, Netherlands",500M,w,QuarterFinals,4,DQ,4,,81,JINSun-Yu,6108,KOR,DQ,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,,ANYulong,6656,CHN,43.387,,
-0,2,3,,,DanielWEINSTEIN,6940,USA,44.682,,
-0,DNF,1,,,KIMDong-Sung,6944,KOR,DNF,,
-0,DQ,4,,,LIJiajun,7095,CHN,DQ,,
-1,1,4,,,EricBEDARD,6703,CAN,42.357,,
-1,2,2,,,SatoruTERAO,6320,JPN,42.444,,
-1,3,3,,,ApoloAntonOHNO,6497,USA,42.559,,
-1,4,1,,,BrunoLOSCOS,6643,FRA,45.300,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+1999-2000,2000 World Championships,500M,m,SemiFinals,1,1,2,,,ANYulong,6656,CHN,43.387,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,1,2,3,,,DanielWEINSTEIN,6940,USA,44.682,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,1,DNF,1,,,KIMDong-Sung,6944,KOR,DNF,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,1,DQ,4,,,LIJiajun,7095,CHN,DQ,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,2,1,4,,,EricBEDARD,6703,CAN,42.357,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,2,2,2,,,SatoruTERAO,6320,JPN,42.444,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,2,3,3,,,ApoloAntonOHNO,6497,USA,42.559,,
+1999-2000,2000 World Championships,500M,m,SemiFinals,2,4,1,,,BrunoLOSCOS,6643,FRA,45.300,,

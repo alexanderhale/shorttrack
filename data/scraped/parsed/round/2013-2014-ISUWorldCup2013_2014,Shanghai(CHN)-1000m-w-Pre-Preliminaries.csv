@@ -1,55 +1,55 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,41,AriannaFONTANA,6227,ITA,1:33.188,Q
-0,2,2,,72,TatianaBORODULINA,7483,RUS,1:33.339,Q
-0,3,1,,47,SayuriSHIMIZU,7544,JPN,1:33.427,q
-0,4,4,,71,TundeBALAZS,7883,ROU,1:36.737,
-1,1,3,,58,KIMAlang,8484,KOR,1:32.891,Q
-1,2,1,,56,JorienterMORS,6146,NED,1:32.954,Q
-1,3,2,,83,AlysonDUDEK,7290,USA,1:33.073,q
-1,4,4,,4,VeraANTANENKA,7099,BLR,1:35.040,
-2,1,3,,21,CHRISTIEElise,7135,GBR,1:34.992,Q
-2,2,2,,2,Alix-MyraANDERSON,7353,AUS,1:36.973,Q
-2,3,1,,66,AidaBELLA,7538,POL,1:37.029,q
-3,1,3,,15,LIJianrou,7910,CHN,1:34.231,Q
-3,2,1,,57,vanKERKHOFYara,7422,NED,1:34.312,Q
-3,3,2,,36,AndreaKESZLER,7147,HUN,1:35.582,q
-3,4,4,,52,DariyaVOLOKITINA,7344,KAZ,1:36.998,
-4,1,3,,76,ValeriyaREZNIK,6573,RUS,1:40.539,Q
-4,2,2,,86,LanaGEHRING,7254,USA,1:40.627,Q
-4,3,1,,28,WALTERBianca,7232,GER,1:40.903,
-4,4,4,,79,RanyaEZZI,6840,SWE,1:41.666,
-5,1,2,,11,ValerieMALTAIS,6216,CAN,1:32.193,Q
-5,2,3,,84,EmilySCOTT,7823,USA,1:32.266,Q
-5,3,4,,23,CharlotteGILMARTIN,7136,GBR,1:32.365,q
-5,4,1,,29,TinaGRASSOW,6855,GER,1:32.544,
-6,1,4,,48,AyukoITO,6791,JPN,1:36.864,Q
-6,2,3,,9,JessicaGREGG,6141,CAN,1:36.991,Q
-6,3,2,,20,MONVOISINAurelie,8556,FRA,1:37.350,q
-6,4,1,,64,EvitaKRIEVANE,6833,LAT,1:39.740,
-7,1,1,,16,ZHOUYang,6222,CHN,1:32.706,Q
-7,2,4,,74,OlgaBELYAKOVA,7112,RUS,1:32.800,Q
-7,3,3,,32,BernadettHEIDUM,6798,HUN,1:32.924,q
-7,4,2,,80,SafiyaVLASOVA,7175,UKR,1:36.616,
-8,1,1,,14,WANGMeng,6594,CHN,1:36.788,Q
-8,2,3,,37,VIVIANIElena,7583,ITA,1:37.513,Q
-8,3,2,,5,TALAYEVAVolha,6792,BLR,1:38.550,q
-8,4,4,,70,PatrycjaMALISZEWSKA,6154,POL,1:58.564,
-9,1,1,,8,MarianneST-GELAIS,7216,CAN,1:36.529,Q
-9,2,4,,19,PIERRONVeronique,6196,FRA,1:36.727,Q
-9,3,2,,50,InnaSIMONOVA,7241,KAZ,1:36.873,q
-9,4,3,,78,TatianaBODOVA,7250,SVK,1:38.603,
-10,1,1,,63,PARKSeung-Hi,7164,KOR,1:40.772,Q
-10,2,3,,35,RozsaDARAZS,6797,HUN,1:40.998,Q
-10,3,4,,68,MartaWOJCIK,7578,POL,1:44.943,
-10,DNF,2,,51,XeniyaMOTOVA,7343,KAZ,DNF,
-11,1,2,,46,YuiSAKAI,6229,JPN,1:35.389,Q
-11,2,1,,39,VALCEPINAMartina,7159,ITA,1:35.604,Q
-11,3,3,,22,AlexSTANLEY,7140,GBR,1:36.844,q
-11,4,4,,27,JuliaRIEDEL,6287,GER,1:38.589,
-12,1,3,,60,SHIMSukHee,8092,KOR,1:34.672,Q
-12,2,2,,65,AgneSEREIKAITE,7708,LTU,1:36.382,Q
-12,3,1,,81,OlenaKORINCHUK,7252,UKR,1:38.493,q
-13,1,4,,18,KaterinaNOVOTNA,6647,CZE,1:35.745,Q
-13,2,3,,53,deVRIESRianne,8333,NED,1:35.765,Q
-13,3,2,,166,VeronikaWINDISCH,6427,AUT,1:35.994,q
-13,4,1,,1,DeannaLOCKETT,7956,AUS,1:36.036,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,1,1,3,,41,AriannaFONTANA,6227,ITA,1:33.188,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,1,2,2,,72,TatianaBORODULINA,7483,RUS,1:33.339,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,1,3,1,,47,SayuriSHIMIZU,7544,JPN,1:33.427,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,1,4,4,,71,TundeBALAZS,7883,ROU,1:36.737,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,2,1,3,,58,KIMAlang,8484,KOR,1:32.891,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,2,2,1,,56,JorienterMORS,6146,NED,1:32.954,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,2,3,2,,83,AlysonDUDEK,7290,USA,1:33.073,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,2,4,4,,4,VeraANTANENKA,7099,BLR,1:35.040,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,3,1,3,,21,CHRISTIEElise,7135,GBR,1:34.992,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,3,2,2,,2,Alix-MyraANDERSON,7353,AUS,1:36.973,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,3,3,1,,66,AidaBELLA,7538,POL,1:37.029,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,4,1,3,,15,LIJianrou,7910,CHN,1:34.231,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,4,2,1,,57,vanKERKHOFYara,7422,NED,1:34.312,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,4,3,2,,36,AndreaKESZLER,7147,HUN,1:35.582,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,4,4,4,,52,DariyaVOLOKITINA,7344,KAZ,1:36.998,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,5,1,3,,76,ValeriyaREZNIK,6573,RUS,1:40.539,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,5,2,2,,86,LanaGEHRING,7254,USA,1:40.627,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,5,3,1,,28,WALTERBianca,7232,GER,1:40.903,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,5,4,4,,79,RanyaEZZI,6840,SWE,1:41.666,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,6,1,2,,11,ValerieMALTAIS,6216,CAN,1:32.193,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,6,2,3,,84,EmilySCOTT,7823,USA,1:32.266,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,6,3,4,,23,CharlotteGILMARTIN,7136,GBR,1:32.365,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,6,4,1,,29,TinaGRASSOW,6855,GER,1:32.544,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,7,1,4,,48,AyukoITO,6791,JPN,1:36.864,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,7,2,3,,9,JessicaGREGG,6141,CAN,1:36.991,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,7,3,2,,20,MONVOISINAurelie,8556,FRA,1:37.350,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,7,4,1,,64,EvitaKRIEVANE,6833,LAT,1:39.740,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,8,1,1,,16,ZHOUYang,6222,CHN,1:32.706,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,8,2,4,,74,OlgaBELYAKOVA,7112,RUS,1:32.800,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,8,3,3,,32,BernadettHEIDUM,6798,HUN,1:32.924,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,8,4,2,,80,SafiyaVLASOVA,7175,UKR,1:36.616,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,9,1,1,,14,WANGMeng,6594,CHN,1:36.788,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,9,2,3,,37,VIVIANIElena,7583,ITA,1:37.513,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,9,3,2,,5,TALAYEVAVolha,6792,BLR,1:38.550,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,9,4,4,,70,PatrycjaMALISZEWSKA,6154,POL,1:58.564,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,10,1,1,,8,MarianneST-GELAIS,7216,CAN,1:36.529,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,10,2,4,,19,PIERRONVeronique,6196,FRA,1:36.727,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,10,3,2,,50,InnaSIMONOVA,7241,KAZ,1:36.873,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,10,4,3,,78,TatianaBODOVA,7250,SVK,1:38.603,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,11,1,1,,63,PARKSeung-Hi,7164,KOR,1:40.772,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,11,2,3,,35,RozsaDARAZS,6797,HUN,1:40.998,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,11,3,4,,68,MartaWOJCIK,7578,POL,1:44.943,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,11,DNF,2,,51,XeniyaMOTOVA,7343,KAZ,DNF,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,12,1,2,,46,YuiSAKAI,6229,JPN,1:35.389,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,12,2,1,,39,VALCEPINAMartina,7159,ITA,1:35.604,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,12,3,3,,22,AlexSTANLEY,7140,GBR,1:36.844,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,12,4,4,,27,JuliaRIEDEL,6287,GER,1:38.589,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,13,1,3,,60,SHIMSukHee,8092,KOR,1:34.672,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,13,2,2,,65,AgneSEREIKAITE,7708,LTU,1:36.382,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,13,3,1,,81,OlenaKORINCHUK,7252,UKR,1:38.493,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,14,1,4,,18,KaterinaNOVOTNA,6647,CZE,1:35.745,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,14,2,3,,53,deVRIESRianne,8333,NED,1:35.765,Q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,14,3,2,,166,VeronikaWINDISCH,6427,AUT,1:35.994,q
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,Pre-Preliminaries,14,4,1,,1,DeannaLOCKETT,7956,AUS,1:36.036,

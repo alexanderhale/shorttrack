@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,145,TeppeiKIKUCHI,8686,JPN,41.932,Q
-0,2,1,,208,Mellevan'TWOUT,9550,NED,41.939,
-0,3,5,,170,JonathanSO,9442,USA,42.231,
-0,4,3,,73,ZHAXYBAYEVMersaid,8623,KAZ,42.278,
-0,5,4,,140,GIORDANOMarco,8616,ITA,42.356,
-1,1,1,,124,BLAISCedrik,8998,CAN,41.324,Q
-1,2,5,,29,JUNGHyunWoo(Andy),8575,AUS,41.907,
-1,3,2,,141,DavideVISCARDI,7440,ITA,41.996,
-1,4,3,,136,AlexVARNYU,8337,HUN,42.062,
-1,PEN,4,,132,FERCOQQuentin,8605,FRA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,1,1,2,,145,TeppeiKIKUCHI,8686,JPN,41.932,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,1,2,1,,208,Mellevan'TWOUT,9550,NED,41.939,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,1,3,5,,170,JonathanSO,9442,USA,42.231,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,1,4,3,,73,ZHAXYBAYEVMersaid,8623,KAZ,42.278,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,1,5,4,,140,GIORDANOMarco,8616,ITA,42.356,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,2,1,1,,124,BLAISCedrik,8998,CAN,41.324,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,2,2,5,,29,JUNGHyunWoo(Andy),8575,AUS,41.907,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,2,3,2,,141,DavideVISCARDI,7440,ITA,41.996,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,2,4,3,,136,AlexVARNYU,8337,HUN,42.062,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Rep.Semifinals,2,PEN,4,,132,FERCOQQuentin,8605,FRA,PEN,

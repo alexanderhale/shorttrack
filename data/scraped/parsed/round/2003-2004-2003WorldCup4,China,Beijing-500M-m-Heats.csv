@@ -1,40 +1,40 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,105,RustySMITH,6496,USA,43.926,Q
-0,2,1,,65,GuillaumeMATHIEU,6871,FRA,45.215,Q
-0,3,5,,103,MartinJOHANSSON,6509,SWE,1:02.317,ADV
-0,4,2,,73,TomIVESON,6898,GBR,1:02.913,ADV
-0,DQ,4,,45,AlexMcEWAN,6428,AUS,DQ,
-1,1,4,,92,SONGSuk-Woo,7086,KOR,42.710,Q
-1,2,1,,77,TakafumiNISHITANI,6323,JPN,42.843,Q
-1,3,5,,51,AssenPANDOV,6778,BUL,44.225,
-1,4,2,,75,PaulSTANLEY,7054,GBR,44.453,
-1,5,3,,62,GUOWei,6654,CHN,1:09.503,
-2,1,3,,56,JeffSCHOLTEN,6604,CAN,42.763,Q
-2,3,2,,68,MatthieudeBOISSET,6467,FRA,43.331,
-2,4,4,,82,MarkJACKSON,6941,NZL,43.576,
-2,DQ,1,,71,AndreHARTWIG,6635,GER,DQ,
-3,1,5,,104,ApoloAntonOHNO,6497,USA,43.208,Q
-3,2,2,,78,SatoruTERAO,6320,JPN,43.308,Q
-3,3,4,,46,MarkMcNEE,6432,AUS,45.426,
-3,4,3,,101,YaroslavKARPOUKHIN,6445,RUS,1:02.074,
-3,5,1,,53,NikolaySTANCHEV,7045,BUL,1:12.259,
-4,1,4,,57,EricBEDARD,6703,CAN,43.487,Q
-4,2,3,,59,LIJiajun,7095,CHN,43.591,Q
-4,3,1,,98,AlexanderGERTSIKOV,6570,RUS,43.882,
-4,4,2,,87,KarolBOBOWICZ,6070,POL,44.110,
-4,5,5,,52,LubomirPOPOVSKI,6598,BUL,44.299,
-5,1,2,,55,JonathanGUILMETTE,6702,CAN,43.387,Q
-5,2,5,,107,JPKEPKA,6501,USA,43.418,Q
-5,3,4,,69,ArianNACHBAR,6637,GER,44.180,
-5,4,1,,79,TakahiroFUJIMOTO,6277,JPN,55.520,
-5,5,3,,66,JeanCharlesMATTEI,6057,FRA,1:21.867,
-6,1,1,,74,JonELEY,6592,GBR,43.594,Q
-6,2,2,,86,KrystianZDROJKOWSKI,6515,POL,43.814,Q
-6,3,5,,70,SebastianPRAUS,6364,GER,44.205,
-6,4,3,,47,StephenLEE,6002,AUS,44.862,
-6,5,4,,84,BlakeSKJELLERUP,6549,NZL,44.966,
-7,1,2,,95,KIMHyun-Kon,7101,KOR,43.788,Q
-7,2,4,,60,LIYe,6655,CHN,43.851,Q
-7,3,3,,99,SergeyPRANKEVICH,7048,RUS,43.922,
-7,4,1,,83,MatthewFULLER,6448,NZL,44.840,
-7,5,5,,90,WOJNOWSKIMariusz,6949,POL,44.972,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,1,1,3,,105,RustySMITH,6496,USA,43.926,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,1,2,1,,65,GuillaumeMATHIEU,6871,FRA,45.215,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,1,3,5,,103,MartinJOHANSSON,6509,SWE,1:02.317,ADV
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,1,4,2,,73,TomIVESON,6898,GBR,1:02.913,ADV
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,1,DQ,4,,45,AlexMcEWAN,6428,AUS,DQ,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,2,1,4,,92,SONGSuk-Woo,7086,KOR,42.710,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,2,2,1,,77,TakafumiNISHITANI,6323,JPN,42.843,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,2,3,5,,51,AssenPANDOV,6778,BUL,44.225,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,2,4,2,,75,PaulSTANLEY,7054,GBR,44.453,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,2,5,3,,62,GUOWei,6654,CHN,1:09.503,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,3,1,3,,56,JeffSCHOLTEN,6604,CAN,42.763,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,3,3,2,,68,MatthieudeBOISSET,6467,FRA,43.331,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,3,4,4,,82,MarkJACKSON,6941,NZL,43.576,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,3,DQ,1,,71,AndreHARTWIG,6635,GER,DQ,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,4,1,5,,104,ApoloAntonOHNO,6497,USA,43.208,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,4,2,2,,78,SatoruTERAO,6320,JPN,43.308,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,4,3,4,,46,MarkMcNEE,6432,AUS,45.426,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,4,4,3,,101,YaroslavKARPOUKHIN,6445,RUS,1:02.074,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,4,5,1,,53,NikolaySTANCHEV,7045,BUL,1:12.259,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,5,1,4,,57,EricBEDARD,6703,CAN,43.487,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,5,2,3,,59,LIJiajun,7095,CHN,43.591,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,5,3,1,,98,AlexanderGERTSIKOV,6570,RUS,43.882,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,5,4,2,,87,KarolBOBOWICZ,6070,POL,44.110,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,5,5,5,,52,LubomirPOPOVSKI,6598,BUL,44.299,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,6,1,2,,55,JonathanGUILMETTE,6702,CAN,43.387,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,6,2,5,,107,JPKEPKA,6501,USA,43.418,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,6,3,4,,69,ArianNACHBAR,6637,GER,44.180,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,6,4,1,,79,TakahiroFUJIMOTO,6277,JPN,55.520,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,6,5,3,,66,JeanCharlesMATTEI,6057,FRA,1:21.867,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,7,1,1,,74,JonELEY,6592,GBR,43.594,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,7,2,2,,86,KrystianZDROJKOWSKI,6515,POL,43.814,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,7,3,5,,70,SebastianPRAUS,6364,GER,44.205,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,7,4,3,,47,StephenLEE,6002,AUS,44.862,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,7,5,4,,84,BlakeSKJELLERUP,6549,NZL,44.966,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,8,1,2,,95,KIMHyun-Kon,7101,KOR,43.788,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,8,2,4,,60,LIYe,6655,CHN,43.851,Q
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,8,3,3,,99,SergeyPRANKEVICH,7048,RUS,43.922,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,8,4,1,,83,MatthewFULLER,6448,NZL,44.840,
+2003-2004,"2003 World Cup 4, China, Beijing",500M,m,Heats,8,5,5,,90,WOJNOWSKIMariusz,6949,POL,44.972,

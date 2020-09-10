@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,93,ZHANGHongchao,8678,CHN,41.135,
-0,2,2,,150,KeithCARROLL,8449,USA,41.238,
-0,3,3,,145,DmitryMYASNIKOV,7616,RUS,41.452,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,FinalB,1,1,1,,93,ZHANGHongchao,8678,CHN,41.135,
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,FinalB,1,2,2,,150,KeithCARROLL,8449,USA,41.238,
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,FinalB,1,3,3,,145,DmitryMYASNIKOV,7616,RUS,41.452,

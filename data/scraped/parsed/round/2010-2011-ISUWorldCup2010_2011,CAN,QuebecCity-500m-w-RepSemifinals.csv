@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,49,PatrycjaMALISZEWSKA,6154,POL,45.785,Q
-0,2,2,,63,EmilySCOTT,7823,USA,45.819,Q
-0,3,4,,33,VIVIANIElena,7583,ITA,45.915,
-0,4,3,,45,SannevanKERKHOF,6835,NED,46.607,
-1,1,1,,5,Marie-EveDROLET,6059,CAN,44.981,Q
-1,2,2,,24,CharlotteGILMARTIN,7136,GBR,45.306,Q
-1,3,3,,52,ValeriyaREZNIK,6573,RUS,45.324,
-1,4,4,,40,InnaSIMONOVA,7241,KAZ,46.234,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,1,1,1,,49,PatrycjaMALISZEWSKA,6154,POL,45.785,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,1,2,2,,63,EmilySCOTT,7823,USA,45.819,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,1,3,4,,33,VIVIANIElena,7583,ITA,45.915,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,1,4,3,,45,SannevanKERKHOF,6835,NED,46.607,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,2,1,1,,5,Marie-EveDROLET,6059,CAN,44.981,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,2,2,2,,24,CharlotteGILMARTIN,7136,GBR,45.306,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,2,3,3,,52,ValeriyaREZNIK,6573,RUS,45.324,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,RepSemifinals,2,4,4,,40,InnaSIMONOVA,7241,KAZ,46.234,

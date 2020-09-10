@@ -1,29 +1,29 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,31,KIMMin-Jee,6614,KOR,1:36.761,Q
-0,2,3,,11,WANGMeng,6594,CHN,1:36.777,Q
-0,3,2,,22,JoannaWILLIAMS,6639,GBR,1:37.320,q
-0,4,5,,16,CelineLECOMPERE,6556,FRA,1:38.189,
-0,5,4,,24,YukaKAMINO,6945,JPN,1:40.303,
-1,1,3,,40,NinaEVTEEVA,6511,RUS,1:37.486,Q
-1,2,4,,21,SarahLINDSAY,6056,GBR,1:37.605,Q
-1,3,2,,10,AnneMALTAIS,6355,CAN,1:37.966,q
-1,4,1,,23,IkueTESHIGAWARA,6315,JPN,1:38.062,
-2,1,3,,2,EvgeniaRADANOVA,6775,BUL,1:41.807,Q
-2,2,1,,12,WANGWei,6575,CHN,1:42.042,Q
-2,3,4,,25,AtsukoTAKATA,6316,JPN,1:42.942,
-2,4,2,,1,YulyiaYELSAKOVA,6021,BLR,1:42.990,
-3,1,3,,6,AmelieGOULET-NADON,6661,CAN,1:37.975,Q
-3,2,4,,19,AikaKLEIN,6359,GER,1:38.074,Q
-3,3,1,,43,MariaGARCIA,7082,USA,1:38.390,
-3,4,2,,4,DanielaVLAEVA,6774,BUL,1:38.539,
-4,2,1,,9,AmandaOVERLAND,7079,CAN,1:39.163,Q
-4,3,3,,18,ChristinPRIEBST,6078,GER,1:39.597,
-4,4,2,,36,MarinaTRETIAKOVA,6696,RUS,1:42.039,
-5,1,2,,29,CHOIEun-Kyung,6943,KOR,1:39.651,Q
-5,2,4,,42,AllisonBAVER,6533,USA,1:40.094,Q
-5,3,1,,39,ElizavetaIVLJEVA,6910,RUS,1:40.249,
-5,4,3,,28,FrancescaJACKSON,6356,NZL,1:46.321,
-6,1,2,,14,FUTianYu,6650,CHN,1:38.257,Q
-6,2,3,,41,CarolineHALLISEY,6529,USA,1:38.322,Q
-6,3,1,,17,YvonneKUNZE,6363,GER,1:38.398,
-6,4,4,,5,GerganaPATSOVA,6794,BUL,1:46.554,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,1,1,1,,31,KIMMin-Jee,6614,KOR,1:36.761,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,1,2,3,,11,WANGMeng,6594,CHN,1:36.777,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,1,3,2,,22,JoannaWILLIAMS,6639,GBR,1:37.320,q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,1,4,5,,16,CelineLECOMPERE,6556,FRA,1:38.189,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,1,5,4,,24,YukaKAMINO,6945,JPN,1:40.303,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,2,1,3,,40,NinaEVTEEVA,6511,RUS,1:37.486,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,2,2,4,,21,SarahLINDSAY,6056,GBR,1:37.605,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,2,3,2,,10,AnneMALTAIS,6355,CAN,1:37.966,q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,2,4,1,,23,IkueTESHIGAWARA,6315,JPN,1:38.062,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,3,1,3,,2,EvgeniaRADANOVA,6775,BUL,1:41.807,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,3,2,1,,12,WANGWei,6575,CHN,1:42.042,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,3,3,4,,25,AtsukoTAKATA,6316,JPN,1:42.942,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,3,4,2,,1,YulyiaYELSAKOVA,6021,BLR,1:42.990,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,4,1,3,,6,AmelieGOULET-NADON,6661,CAN,1:37.975,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,4,2,4,,19,AikaKLEIN,6359,GER,1:38.074,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,4,3,1,,43,MariaGARCIA,7082,USA,1:38.390,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,4,4,2,,4,DanielaVLAEVA,6774,BUL,1:38.539,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,5,2,1,,9,AmandaOVERLAND,7079,CAN,1:39.163,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,5,3,3,,18,ChristinPRIEBST,6078,GER,1:39.597,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,5,4,2,,36,MarinaTRETIAKOVA,6696,RUS,1:42.039,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,6,1,2,,29,CHOIEun-Kyung,6943,KOR,1:39.651,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,6,2,4,,42,AllisonBAVER,6533,USA,1:40.094,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,6,3,1,,39,ElizavetaIVLJEVA,6910,RUS,1:40.249,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,6,4,3,,28,FrancescaJACKSON,6356,NZL,1:46.321,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,7,1,2,,14,FUTianYu,6650,CHN,1:38.257,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,7,2,3,,41,CarolineHALLISEY,6529,USA,1:38.322,Q
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,7,3,1,,17,YvonneKUNZE,6363,GER,1:38.398,
+2003-2004,"2003 World Cup 4, China, Beijing",1000M,w,Heats,7,4,4,,5,GerganaPATSOVA,6794,BUL,1:46.554,

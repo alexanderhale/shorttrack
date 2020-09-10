@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,807,Francois-LouisTREMBLAY,6704,CAN,42.190,Q
-0,2,2,,811,OlivierJEAN,6756,CAN,42.222,Q
-0,3,3,,845,KIMHyun-Kon,7101,KOR,42.320,
-0,4,4,,828,DenisBELLOTTI,6807,ITA,42.689,
-1,1,3,,848,KIMByeongJun,7287,KOR,45.383,Q
-1,2,4,,864,JeffSIMON,7280,USA,45.398,Q
-1,DQ,1,,808,HAMELINCharles,6610,CAN,DQ,
-1,DQ,2,,817,LIUXiaoLiang,6233,CHN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,1,1,1,,807,Francois-LouisTREMBLAY,6704,CAN,42.190,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,1,2,2,,811,OlivierJEAN,6756,CAN,42.222,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,1,3,3,,845,KIMHyun-Kon,7101,KOR,42.320,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,1,4,4,,828,DenisBELLOTTI,6807,ITA,42.689,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,2,1,3,,848,KIMByeongJun,7287,KOR,45.383,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,2,2,4,,864,JeffSIMON,7280,USA,45.398,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,2,DQ,1,,808,HAMELINCharles,6610,CAN,DQ,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",500m,m,Seminfinals,2,DQ,2,,817,LIUXiaoLiang,6233,CHN,DQ,

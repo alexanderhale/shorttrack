@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,13,TAOJiaying,8667,CHN,2:41.972,
-0,2,6,,59,ZAKHAROVAEvgeniya,7715,RUS,2:42.307,
-0,3,1,,20,CharlotteGILMARTIN,7136,GBR,2:42.357,
-0,4,2,,58,EkaterinaSTRELKOVA,8378,RUS,2:42.407,
-0,5,5,,35,HitomiSAITO,7576,JPN,2:43.533,
-0,6,3,,6,ValerieMALTAIS,6216,CAN,3:02.602,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,1,4,,13,TAOJiaying,8667,CHN,2:41.972,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,2,6,,59,ZAKHAROVAEvgeniya,7715,RUS,2:42.307,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,3,1,,20,CharlotteGILMARTIN,7136,GBR,2:42.357,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,4,2,,58,EkaterinaSTRELKOVA,8378,RUS,2:42.407,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,5,5,,35,HitomiSAITO,7576,JPN,2:43.533,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1500m,w,FinalB,1,6,3,,6,ValerieMALTAIS,6216,CAN,3:02.602,

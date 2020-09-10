@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,42,JUNGEun-Ju,6297,KOR,1:35.744,Q
-0,2,2,,18,ZHUMiLei,6576,CHN,1:36.288,Q
-0,3,4,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.442,
-0,DQ,1,,6,AnneMALTAIS,6355,CAN,DQ,
-1,1,1,,15,ZHOUYang,6222,CHN,1:35.018,Q
-1,3,4,,20,CHENGXiaoLei,7094,CHN,1:35.324,
-1,4,3,,34,MartaCAPURSO,6328,ITA,1:35.605,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,1,1,3,,42,JUNGEun-Ju,6297,KOR,1:35.744,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,1,2,2,,18,ZHUMiLei,6576,CHN,1:36.288,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,1,3,4,,4,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.442,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,1,DQ,1,,6,AnneMALTAIS,6355,CAN,DQ,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,2,1,1,,15,ZHOUYang,6222,CHN,1:35.018,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,2,3,4,,20,CHENGXiaoLei,7094,CHN,1:35.324,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",1000m,w,SemiFinals,2,4,3,,34,MartaCAPURSO,6328,ITA,1:35.605,

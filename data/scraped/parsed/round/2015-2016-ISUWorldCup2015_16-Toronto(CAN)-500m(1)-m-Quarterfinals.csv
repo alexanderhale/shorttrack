@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,131,ArtemKOZLOV,8638,RUS,41.047,Q
-0,2,1,,19,SamuelGIRARD,8600,CAN,41.082,Q
-0,3,4,,20,FreekvanderWART,7269,NED,41.315,
-0,4,3,,176,ThomasInsukHONG,8084,USA,41.587,
-1,1,3,,149,AlexanderFATHOULLIN,8546,CAN,41.662,Q
-1,2,4,,151,FERCOQQuentin,8605,FRA,41.740,Q
-1,3,2,,7,SHIJingnan,7728,CHN,41.744,
-1,4,1,,30,NIKISHADenis,8396,KAZ,41.791,
-2,1,1,,6,ShaolinSandorLIU,7928,HUN,41.049,Q
-2,2,2,,18,LEPAPESebastien,7554,FRA,41.270,Q
-2,PEN,4,,4,HAMELINCharles,6610,CAN,PEN,
-3,1,1,,44,VladimirGRIGOREV,7826,RUS,41.172,Q
-3,2,2,,57,CHENGuang,8387,CHN,41.366,Q
-3,3,4,,48,ShaoangLIU,8564,HUN,41.470,
-3,4,3,,28,KeithCARROLL,8449,USA,42.470,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,1,1,2,,131,ArtemKOZLOV,8638,RUS,41.047,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,1,2,1,,19,SamuelGIRARD,8600,CAN,41.082,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,1,3,4,,20,FreekvanderWART,7269,NED,41.315,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,1,4,3,,176,ThomasInsukHONG,8084,USA,41.587,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,2,1,3,,149,AlexanderFATHOULLIN,8546,CAN,41.662,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,2,2,4,,151,FERCOQQuentin,8605,FRA,41.740,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,2,3,2,,7,SHIJingnan,7728,CHN,41.744,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,2,4,1,,30,NIKISHADenis,8396,KAZ,41.791,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,3,1,1,,6,ShaolinSandorLIU,7928,HUN,41.049,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,3,2,2,,18,LEPAPESebastien,7554,FRA,41.270,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,3,PEN,4,,4,HAMELINCharles,6610,CAN,PEN,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,4,1,1,,44,VladimirGRIGOREV,7826,RUS,41.172,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,4,2,2,,57,CHENGuang,8387,CHN,41.366,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,4,3,4,,48,ShaoangLIU,8564,HUN,41.470,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Quarterfinals,4,4,3,,28,KeithCARROLL,8449,USA,42.470,

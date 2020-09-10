@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,152,TinekedenDULK,9121,NED,1:32.411,Q
-0,2,1,,92,WATANABEAoi,8744,JPN,1:33.107,
-0,3,3,,109,BOTTERGOMEZNicole,8741,ITA,1:33.191,
-0,4,5,,103,MiladaDOSLA,8729,CZE,1:33.728,
-0,5,4,,81,PENCHEVAZornica,8461,BUL,1:34.073,
-1,1,2,,55,WALTERBianca,7232,GER,1:32.560,Q
-1,2,5,,68,PatrycjaMALISZEWSKA,6154,POL,1:32.757,
-1,3,4,,57,KAMINAGAShione,8743,JPN,1:32.959,
-1,PEN,3,,72,ZAKHAROVAEvgeniya,7715,RUS,PEN,
-1,PEN,1,,113,KIKUCHIMoemi,7584,JPN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,1,1,2,,152,TinekedenDULK,9121,NED,1:32.411,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,1,2,1,,92,WATANABEAoi,8744,JPN,1:33.107,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,1,3,3,,109,BOTTERGOMEZNicole,8741,ITA,1:33.191,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,1,4,5,,103,MiladaDOSLA,8729,CZE,1:33.728,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,1,5,4,,81,PENCHEVAZornica,8461,BUL,1:34.073,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,2,1,2,,55,WALTERBianca,7232,GER,1:32.560,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,2,2,5,,68,PatrycjaMALISZEWSKA,6154,POL,1:32.757,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,2,3,4,,57,KAMINAGAShione,8743,JPN,1:32.959,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,2,PEN,3,,72,ZAKHAROVAEvgeniya,7715,RUS,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Semifinals,2,PEN,1,,113,KIKUCHIMoemi,7584,JPN,PEN,

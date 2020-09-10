@@ -1,32 +1,32 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,10,WANGMeng,6594,CHN,1:38.974,Q
-0,2,2,,20,AikaKLEIN,6359,GER,1:39.714,Q
-0,3,4,,42,ElizavetaIVLJEVA,6910,RUS,1:41.369,
-0,4,3,,3,KimdeDAPPER,6854,BEL,1:45.226,
-1,1,4,,40,NinaEVTEEVA,6511,RUS,1:38.524,Q
-1,2,2,,6,AlannaKRAUS,6659,CAN,1:38.924,Q
-1,3,3,,32,LiesbethMAUASAM,6444,NED,1:39.021,
-1,4,1,,23,RozsaDARAZS,6797,HUN,1:40.193,
-2,1,3,,14,KaterinaNOVOTNA,6647,CZE,1:40.020,Q
-2,2,2,,27,MartaCAPURSO,6328,ITA,1:40.182,Q
-2,3,4,,7,AmandaOVERLAND,7079,CAN,1:40.407,
-2,4,1,,24,ErikaHUSZAR,6373,HUN,1:43.920,
-3,2,2,,31,MaraZINI,6326,ITA,1:40.887,Q
-3,3,4,,25,SzandraLAJTOS,6339,HUN,1:41.280,
-3,4,1,,45,TatianaZIMOVA,7104,SVK,1:42.564,
-4,1,1,,37,KOGi-Hyun,6073,KOR,1:41.673,Q
-4,2,4,,9,FUTianYu,6650,CHN,1:41.792,Q
-4,3,3,,2,YulyiaYELSAKOVA,6021,BLR,1:42.046,
-4,4,2,,21,UlrikeLEHMANN,6361,GER,1:42.960,
-5,1,3,,1,VeronikaWINDISCH,6427,AUT,1:39.089,Q
-5,2,2,,41,MarinaTRETIAKOVA,6696,RUS,1:39.170,Q
-5,3,1,,19,ChristinPRIEBST,6078,GER,1:39.298,
-5,4,4,,44,RenataKARABOVA,6839,SVK,1:43.021,
-6,1,1,,5,AmelieGOULET-NADON,6661,CAN,1:41.162,Q
-6,2,3,,33,MarielleLOOTSMA,6066,NED,1:41.460,Q
-6,DNS,2,,16,ZuzanaJURISOVA,6764,CZE,DNS,
-6,DQ,4,,46,AllisonBAVER,6533,USA,DQ,
-7,1,4,,38,BYUNChun-Sa,7103,KOR,1:41.294,Q
-7,2,2,,11,CHENGXiaoLei,7094,CHN,1:41.411,Q
-7,3,3,,29,KatiaZINI,6076,ITA,1:41.557,
-7,4,1,,17,LucieSVITILOVA,6474,CZE,1:43.763,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,1,1,1,,10,WANGMeng,6594,CHN,1:38.974,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,1,2,2,,20,AikaKLEIN,6359,GER,1:39.714,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,1,3,4,,42,ElizavetaIVLJEVA,6910,RUS,1:41.369,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,1,4,3,,3,KimdeDAPPER,6854,BEL,1:45.226,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,2,1,4,,40,NinaEVTEEVA,6511,RUS,1:38.524,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,2,2,2,,6,AlannaKRAUS,6659,CAN,1:38.924,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,2,3,3,,32,LiesbethMAUASAM,6444,NED,1:39.021,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,2,4,1,,23,RozsaDARAZS,6797,HUN,1:40.193,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,3,1,3,,14,KaterinaNOVOTNA,6647,CZE,1:40.020,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,3,2,2,,27,MartaCAPURSO,6328,ITA,1:40.182,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,3,3,4,,7,AmandaOVERLAND,7079,CAN,1:40.407,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,3,4,1,,24,ErikaHUSZAR,6373,HUN,1:43.920,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,4,2,2,,31,MaraZINI,6326,ITA,1:40.887,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,4,3,4,,25,SzandraLAJTOS,6339,HUN,1:41.280,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,4,4,1,,45,TatianaZIMOVA,7104,SVK,1:42.564,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,5,1,1,,37,KOGi-Hyun,6073,KOR,1:41.673,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,5,2,4,,9,FUTianYu,6650,CHN,1:41.792,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,5,3,3,,2,YulyiaYELSAKOVA,6021,BLR,1:42.046,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,5,4,2,,21,UlrikeLEHMANN,6361,GER,1:42.960,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,6,1,3,,1,VeronikaWINDISCH,6427,AUT,1:39.089,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,6,2,2,,41,MarinaTRETIAKOVA,6696,RUS,1:39.170,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,6,3,1,,19,ChristinPRIEBST,6078,GER,1:39.298,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,6,4,4,,44,RenataKARABOVA,6839,SVK,1:43.021,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,7,1,1,,5,AmelieGOULET-NADON,6661,CAN,1:41.162,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,7,2,3,,33,MarielleLOOTSMA,6066,NED,1:41.460,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,7,DNS,2,,16,ZuzanaJURISOVA,6764,CZE,DNS,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,7,DQ,4,,46,AllisonBAVER,6533,USA,DQ,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,8,1,4,,38,BYUNChun-Sa,7103,KOR,1:41.294,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,8,2,2,,11,CHENGXiaoLei,7094,CHN,1:41.411,Q
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,8,3,3,,29,KatiaZINI,6076,ITA,1:41.557,
+2003-2004,"2004 World Cup 5, Czech Republic",1000M,w,Heats,8,4,1,,17,LucieSVITILOVA,6474,CZE,1:43.763,

@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,1005,ITALY,7301,ITA,7:07.061,Q
-0,2,3,,1001,FRANCE,7319,FRA,7:07.514,Q
-0,3,1,,1006,NETHERLANDS,7321,NED,7:14.928,
-0,4,4,,1010,SLOVAKIA,7328,SVK,7:21.189,
-1,1,1,,1003,GREATBRITAIN,7320,GBR,7:12.076,Q
-1,2,4,,1002,GERMANY,7302,GER,7:12.083,Q
-1,3,3,,1004,HUNGARY,7324,HUN,7:17.621,
-1,4,5,,1011,UKRAINE,7308,UKR,7:20.559,
-1,DQ,2,,1007,POLAND,7326,POL,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,1,1,2,,1005,ITALY,7301,ITA,7:07.061,Q
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,1,2,3,,1001,FRANCE,7319,FRA,7:07.514,Q
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,1,3,1,,1006,NETHERLANDS,7321,NED,7:14.928,
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,1,4,4,,1010,SLOVAKIA,7328,SVK,7:21.189,
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,2,1,1,,1003,GREATBRITAIN,7320,GBR,7:12.076,Q
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,2,2,4,,1002,GERMANY,7302,GER,7:12.083,Q
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,2,3,3,,1004,HUNGARY,7324,HUN,7:17.621,
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,2,4,5,,1011,UKRAINE,7308,UKR,7:20.559,
+2005-2006,"2006 European Championships, Poland",5000MRelay,m,SemiFinals,2,DQ,2,,1007,POLAND,7326,POL,DQ,

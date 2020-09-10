@@ -1,61 +1,61 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,135,LEEHyeon-Sung,7207,KOR,2:23.575,Q
-0,2,2,,106,RemiBEAULIEU,6299,CAN,2:23.705,Q
-0,3,3,,124,DenisBELLOTTI,6807,ITA,2:23.716,Q
-0,4,6,,152,TomasGRESCHNER,6633,SVK,2:25.902,
-0,5,1,,158,OleksiyKOSHELENKO,7121,UKR,2:26.719,
-0,DNS,5,,105,FelipedeSOUZA,6114,BRA,DNS,
-1,1,3,,170,BenoitANTERIEUX,6193,FRA,2:26.942,Q
-1,2,5,,145,KURBATOVEvgeniy,7209,RUS,2:30.631,Q
-1,3,1,,150,MiodragPOPOVIC,6244,SRB,2:31.182,Q
-1,4,6,,151,DavidGROSSENBACHER,6962,SUI,2:41.696,
-1,DQ,2,,119,AnthonyDOUGLAS,6301,GBR,DQ,
-1,DNS,4,,121,ThomasBAUER,7092,GER,DNS,
-2,1,2,,134,CHONam-Kyu,6908,KOR,2:27.474,Q
-2,2,5,,116,ZHAOQinyu,6169,CHN,2:27.525,Q
-2,3,1,,128,NicolaRODIGARI,6332,ITA,2:27.543,Q
-2,4,3,,132,DaisukeUEMURA,6118,JPN,2:27.799,
-2,5,4,,141,JakubJAWORSKI,6816,POL,2:29.932,
-2,6,6,,164,FRANKNick,6957,USA,2:31.798,
-3,1,6,,172,ThibautFAUCONNET,6785,FRA,2:30.896,Q
-3,2,5,,107,MathieuGIROUX,6852,CAN,2:31.118,Q
-3,3,1,,104,SiarheiYAKUSHKOU,6923,BLR,2:31.184,Q
-3,4,3,,167,KIRKPATRICKLevi,7214,USA,2:31.497,
-3,5,2,,148,VOSKRESENSKIYMikhail,7212,RUS,2:35.125,
-3,DNS,4,,118,RUUSUDanila,7203,EST,DNS,
-4,1,3,,133,JumpeiYOSHIZAWA,6577,JPN,2:28.191,Q
-4,2,5,,169,JeanCharlesMATTEI,6057,FRA,2:28.213,Q
-4,3,1,,103,VitaliBAZYLENKO,7042,BLR,2:28.850,Q
-4,4,6,,160,SerhiyLIFYRENKO,6826,UKR,2:29.992,
-4,5,2,,156,LINChueh,6829,TPE,2:35.991,
-4,DNS,4,,122,AndreHARTWIG,6635,GER,DNS,
-5,1,5,,125,CONFORTOLAYuri,6561,ITA,2:26.882,Q
-5,2,6,,111,GuillaumeBLAISDUFOUR,7201,CAN,2:27.044,Q
-5,3,3,,102,AliaksandrANTANENKA,6850,BLR,2:27.524,Q
-5,4,2,,142,DariuszKULESZA,6817,POL,2:33.484,
-5,5,4,,147,SOKOLOVMikhail,7211,RUS,2:38.330,
-5,DNS,1,,149,UrbanKALSEK,6821,SLO,DNS,
-6,1,1,,113,MAYunfeng,7284,CHN,2:28.699,Q
-6,2,3,,129,TakahiroFUJIMOTO,6277,JPN,2:29.025,Q
-6,3,6,,168,JeremyMASSON,6173,FRA,2:29.392,Q
-6,4,2,,123,TamasTUTRAI,6197,HUN,2:29.602,
-6,5,4,,157,VolodymyrCHERNEGA,6041,UKR,2:34.417,
-6,6,5,,140,AdamFILIPOWICZ,6156,POL,2:39.413,
-7,1,1,,136,LEESeung-Hoon,6185,KOR,2:25.761,Q
-7,2,3,,109,RichardSHOEBRIDGE,6117,CAN,2:26.856,Q
-7,3,6,,165,DerekGRAY,7050,USA,2:27.275,Q
-7,4,5,,153,MatusUZAK,6510,SVK,2:29.764,
-7,5,2,,131,TOMONOKiyotaka,7206,JPN,2:29.884,
-7,DQ,4,,115,WANGYuxiao,7202,CHN,DQ,
-8,1,1,,112,HANJialiang,6168,CHN,2:30.992,Q
-8,2,2,,137,SUNGSi-Bak,6811,KOR,2:31.233,Q
-8,3,3,,139,ZbigniewBRODKA,6096,POL,2:32.638,Q
-8,4,5,,144,KHODYREVIgor,7208,RUS,2:41.587,
-8,5,4,,120,JONESBen,7205,GBR,2:43.124,
-8,6,6,,154,MAIChia-Hung,6825,TPE,2:49.387,
-9,1,2,,163,KyleCARR,6134,USA,2:31.091,Q
-9,2,6,,101,AndrePULEC,6054,AUT,2:31.258,Q
-9,3,1,,126,GianluigiNOVER,7260,ITA,2:32.068,Q
-9,4,3,,155,TSAIPing-Yuan,6583,TPE,2:35.548,
-9,5,4,,117,IvanDOLINIC,6669,CRO,2:36.038,
-9,DQ,5,,161,DmytroPOLTAVETS,7221,UKR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,1,4,,135,LEEHyeon-Sung,7207,KOR,2:23.575,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,2,2,,106,RemiBEAULIEU,6299,CAN,2:23.705,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,3,3,,124,DenisBELLOTTI,6807,ITA,2:23.716,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,4,6,,152,TomasGRESCHNER,6633,SVK,2:25.902,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,5,1,,158,OleksiyKOSHELENKO,7121,UKR,2:26.719,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,1,DNS,5,,105,FelipedeSOUZA,6114,BRA,DNS,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,1,3,,170,BenoitANTERIEUX,6193,FRA,2:26.942,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,2,5,,145,KURBATOVEvgeniy,7209,RUS,2:30.631,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,3,1,,150,MiodragPOPOVIC,6244,SRB,2:31.182,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,4,6,,151,DavidGROSSENBACHER,6962,SUI,2:41.696,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,DQ,2,,119,AnthonyDOUGLAS,6301,GBR,DQ,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,2,DNS,4,,121,ThomasBAUER,7092,GER,DNS,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,1,2,,134,CHONam-Kyu,6908,KOR,2:27.474,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,2,5,,116,ZHAOQinyu,6169,CHN,2:27.525,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,3,1,,128,NicolaRODIGARI,6332,ITA,2:27.543,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,4,3,,132,DaisukeUEMURA,6118,JPN,2:27.799,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,5,4,,141,JakubJAWORSKI,6816,POL,2:29.932,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,3,6,6,,164,FRANKNick,6957,USA,2:31.798,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,1,6,,172,ThibautFAUCONNET,6785,FRA,2:30.896,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,2,5,,107,MathieuGIROUX,6852,CAN,2:31.118,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,3,1,,104,SiarheiYAKUSHKOU,6923,BLR,2:31.184,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,4,3,,167,KIRKPATRICKLevi,7214,USA,2:31.497,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,5,2,,148,VOSKRESENSKIYMikhail,7212,RUS,2:35.125,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,4,DNS,4,,118,RUUSUDanila,7203,EST,DNS,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,1,3,,133,JumpeiYOSHIZAWA,6577,JPN,2:28.191,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,2,5,,169,JeanCharlesMATTEI,6057,FRA,2:28.213,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,3,1,,103,VitaliBAZYLENKO,7042,BLR,2:28.850,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,4,6,,160,SerhiyLIFYRENKO,6826,UKR,2:29.992,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,5,2,,156,LINChueh,6829,TPE,2:35.991,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,5,DNS,4,,122,AndreHARTWIG,6635,GER,DNS,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,1,5,,125,CONFORTOLAYuri,6561,ITA,2:26.882,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,2,6,,111,GuillaumeBLAISDUFOUR,7201,CAN,2:27.044,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,3,3,,102,AliaksandrANTANENKA,6850,BLR,2:27.524,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,4,2,,142,DariuszKULESZA,6817,POL,2:33.484,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,5,4,,147,SOKOLOVMikhail,7211,RUS,2:38.330,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,6,DNS,1,,149,UrbanKALSEK,6821,SLO,DNS,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,1,1,,113,MAYunfeng,7284,CHN,2:28.699,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,2,3,,129,TakahiroFUJIMOTO,6277,JPN,2:29.025,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,3,6,,168,JeremyMASSON,6173,FRA,2:29.392,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,4,2,,123,TamasTUTRAI,6197,HUN,2:29.602,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,5,4,,157,VolodymyrCHERNEGA,6041,UKR,2:34.417,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,7,6,5,,140,AdamFILIPOWICZ,6156,POL,2:39.413,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,1,1,,136,LEESeung-Hoon,6185,KOR,2:25.761,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,2,3,,109,RichardSHOEBRIDGE,6117,CAN,2:26.856,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,3,6,,165,DerekGRAY,7050,USA,2:27.275,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,4,5,,153,MatusUZAK,6510,SVK,2:29.764,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,5,2,,131,TOMONOKiyotaka,7206,JPN,2:29.884,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,8,DQ,4,,115,WANGYuxiao,7202,CHN,DQ,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,1,1,,112,HANJialiang,6168,CHN,2:30.992,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,2,2,,137,SUNGSi-Bak,6811,KOR,2:31.233,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,3,3,,139,ZbigniewBRODKA,6096,POL,2:32.638,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,4,5,,144,KHODYREVIgor,7208,RUS,2:41.587,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,5,4,,120,JONESBen,7205,GBR,2:43.124,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,9,6,6,,154,MAIChia-Hung,6825,TPE,2:49.387,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,1,2,,163,KyleCARR,6134,USA,2:31.091,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,2,6,,101,AndrePULEC,6054,AUT,2:31.258,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,3,1,,126,GianluigiNOVER,7260,ITA,2:32.068,Q
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,4,3,,155,TSAIPing-Yuan,6583,TPE,2:35.548,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,5,4,,117,IvanDOLINIC,6669,CRO,2:36.038,
+2006-2007,"23rd Winter Universade, Italy, Torino",1500m,m,Heats,10,DQ,5,,161,DmytroPOLTAVETS,7221,UKR,DQ,

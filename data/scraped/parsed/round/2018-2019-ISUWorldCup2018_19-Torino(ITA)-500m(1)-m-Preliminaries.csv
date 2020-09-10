@@ -1,55 +1,55 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,HWANGDaeHeon,9115,KOR,40.859,Q
-0,2,5,,170,JonathanSO,9442,USA,41.744,Q
-0,3,2,,29,JUNGHyunWoo(Andy),8575,AUS,42.050,q
-0,4,3,,46,ARADHYAAkash,7739,IND,44.871,
-0,PEN,4,,149,VIGANTSEndijs,9118,LAT,PEN,
-1,1,3,,215,YANGShuai,9447,CHN,41.735,Q
-1,2,2,,157,JasperBRUNSMANN,9122,NED,42.016,Q
-1,3,1,,185,HANDEIVolodymyr,8525,UKR,43.051,
-1,4,5,,123,SkylerKAH,9215,AUS,43.549,
-1,5,4,,132,FERCOQQuentin,8605,FRA,49.679,
-2,1,1,,55,CharleCOURNOYER,8063,CAN,41.545,Q
-2,2,2,,210,EYBOGDaniil,8661,RUS,41.631,Q
-2,3,4,,216,JONGKwangBom,9598,PRK,41.790,q
-2,4,5,,145,TeppeiKIKUCHI,8686,JPN,42.120,
-2,5,3,,97,NEMIRONikita,9212,UKR,43.619,
-3,1,3,,44,MIGUNOVDmitry,9334,FRA,41.250,Q
-3,2,2,,65,BREEUWSMADaan,7218,NED,41.464,Q
-3,3,1,,52,KOLENCMartin,8604,CRO,42.010,q
-3,4,5,,140,GIORDANOMarco,8616,ITA,42.144,
-3,5,4,,104,DavutTAHTACI,8647,TUR,42.301,
-4,1,3,,60,SHULGINOVAlexander,8752,RUS,42.603,Q
-4,2,2,,73,ZHAXYBAYEVMersaid,8623,KAZ,43.259,Q
-4,3,1,,102,VANHOORENRino,8721,BEL,44.198,
-4,4,5,,87,TriphopTHONGNGAM,9328,THA,44.314,
-4,5,4,,124,BLAISCedrik,8998,CAN,48.621,
-5,1,5,,7,RENZiwei,8601,CHN,41.474,Q
-5,2,2,,67,NurbergenZHUMAGAZIYEV,7349,KAZ,41.572,Q
-5,3,1,,28,YauheniRYZHOU,7772,BLR,42.463,q
-5,4,3,,117,NIESCIERKarol,9126,POL,43.078,
-5,5,4,,122,JoshuaKAH,9214,AUS,notime,
-6,1,4,,2,ShaolinSandorLIU,7928,HUN,41.923,Q
-6,2,3,,116,WILCZYKSzymon,8472,POL,42.544,Q
-6,3,1,,148,ReinisBERZINS,9267,LAT,42.686,q
-6,4,5,,141,DavideVISCARDI,7440,ITA,42.740,
-6,5,2,,194,FlorianBECKER,9305,GER,44.083,
-7,1,1,,10,SamuelGIRARD,8600,CAN,41.238,Q
-7,2,4,,204,KIKUCHIKota,8620,JPN,41.375,Q
-7,3,3,,82,FiratYARDIMCI,8520,TUR,42.980,q
-7,4,2,,115,MARTINICIvan,8700,CRO,44.016,
-7,5,5,,50,HazimSHAHRUM,9272,MAS,45.924,
-8,1,1,,155,PARKJiWon,8765,KOR,41.830,Q
-8,2,4,,166,SITNIKOVPavel,9133,RUS,41.882,Q
-8,3,2,,105,TunaySIMSEK,8758,TUR,42.880,q
-8,4,3,,42,TREACYFarrell,8392,GBR,notime,
-9,1,5,,143,HirokiYOKOYAMA,7932,JPN,41.818,Q
-9,2,2,,9,NIKISHADenis,8396,KAZ,41.974,Q
-9,3,1,,136,AlexVARNYU,8337,HUN,42.503,q
-9,4,4,,162,MateuszKRZEMINSKI,9412,POL,43.848,
-9,5,3,,195,LucaLOEFFLER,9241,GER,44.384,
-10,1,5,,129,JIAHaidong,9229,CHN,43.044,Q
-10,2,1,,208,Mellevan'TWOUT,9550,NED,43.109,Q
-10,3,4,,214,HEOAndrew,9443,USA,43.748,
-10,4,3,,118,MOODYJonathan,9102,GBR,44.144,
-10,5,2,,199,AndrasSZIKLASI,9053,HUN,1:07.101,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,1,1,1,,3,HWANGDaeHeon,9115,KOR,40.859,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,1,2,5,,170,JonathanSO,9442,USA,41.744,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,1,3,2,,29,JUNGHyunWoo(Andy),8575,AUS,42.050,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,1,4,3,,46,ARADHYAAkash,7739,IND,44.871,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,1,PEN,4,,149,VIGANTSEndijs,9118,LAT,PEN,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,2,1,3,,215,YANGShuai,9447,CHN,41.735,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,2,2,2,,157,JasperBRUNSMANN,9122,NED,42.016,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,2,3,1,,185,HANDEIVolodymyr,8525,UKR,43.051,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,2,4,5,,123,SkylerKAH,9215,AUS,43.549,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,2,5,4,,132,FERCOQQuentin,8605,FRA,49.679,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,3,1,1,,55,CharleCOURNOYER,8063,CAN,41.545,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,3,2,2,,210,EYBOGDaniil,8661,RUS,41.631,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,3,3,4,,216,JONGKwangBom,9598,PRK,41.790,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,3,4,5,,145,TeppeiKIKUCHI,8686,JPN,42.120,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,3,5,3,,97,NEMIRONikita,9212,UKR,43.619,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,4,1,3,,44,MIGUNOVDmitry,9334,FRA,41.250,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,4,2,2,,65,BREEUWSMADaan,7218,NED,41.464,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,4,3,1,,52,KOLENCMartin,8604,CRO,42.010,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,4,4,5,,140,GIORDANOMarco,8616,ITA,42.144,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,4,5,4,,104,DavutTAHTACI,8647,TUR,42.301,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,5,1,3,,60,SHULGINOVAlexander,8752,RUS,42.603,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,5,2,2,,73,ZHAXYBAYEVMersaid,8623,KAZ,43.259,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,5,3,1,,102,VANHOORENRino,8721,BEL,44.198,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,5,4,5,,87,TriphopTHONGNGAM,9328,THA,44.314,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,5,5,4,,124,BLAISCedrik,8998,CAN,48.621,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,6,1,5,,7,RENZiwei,8601,CHN,41.474,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,6,2,2,,67,NurbergenZHUMAGAZIYEV,7349,KAZ,41.572,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,6,3,1,,28,YauheniRYZHOU,7772,BLR,42.463,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,6,4,3,,117,NIESCIERKarol,9126,POL,43.078,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,6,5,4,,122,JoshuaKAH,9214,AUS,notime,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,7,1,4,,2,ShaolinSandorLIU,7928,HUN,41.923,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,7,2,3,,116,WILCZYKSzymon,8472,POL,42.544,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,7,3,1,,148,ReinisBERZINS,9267,LAT,42.686,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,7,4,5,,141,DavideVISCARDI,7440,ITA,42.740,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,7,5,2,,194,FlorianBECKER,9305,GER,44.083,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,8,1,1,,10,SamuelGIRARD,8600,CAN,41.238,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,8,2,4,,204,KIKUCHIKota,8620,JPN,41.375,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,8,3,3,,82,FiratYARDIMCI,8520,TUR,42.980,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,8,4,2,,115,MARTINICIvan,8700,CRO,44.016,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,8,5,5,,50,HazimSHAHRUM,9272,MAS,45.924,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,9,1,1,,155,PARKJiWon,8765,KOR,41.830,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,9,2,4,,166,SITNIKOVPavel,9133,RUS,41.882,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,9,3,2,,105,TunaySIMSEK,8758,TUR,42.880,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,9,4,3,,42,TREACYFarrell,8392,GBR,notime,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,10,1,5,,143,HirokiYOKOYAMA,7932,JPN,41.818,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,10,2,2,,9,NIKISHADenis,8396,KAZ,41.974,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,10,3,1,,136,AlexVARNYU,8337,HUN,42.503,q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,10,4,4,,162,MateuszKRZEMINSKI,9412,POL,43.848,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,10,5,3,,195,LucaLOEFFLER,9241,GER,44.384,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,11,1,5,,129,JIAHaidong,9229,CHN,43.044,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,11,2,1,,208,Mellevan'TWOUT,9550,NED,43.109,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,11,3,4,,214,HEOAndrew,9443,USA,43.748,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,11,4,3,,118,MOODYJonathan,9102,GBR,44.144,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Preliminaries,11,5,2,,199,AndrasSZIKLASI,9053,HUN,1:07.101,

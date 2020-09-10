@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,304,BELGIUM,9013,BEL,7:40.978,Q
-0,2,4,,319,GREATBRITAIN,9019,GBR,7:41.493,
-0,3,2,,342,POLAND,9028,POL,7:42.037,
-0,DNS,3,,348,UKRAINE,9031,UKR,DNS,
-1,1,1,,314,FRANCE,9018,FRA,7:02.863,Q
-1,2,3,,316,GERMANY,9020,GER,7:02.959,
-1,3,4,,301,AUSTRIA,9074,AUT,7:16.015,
-1,YC,2,,337,LATVIA,9034,LAT,YC,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,1,1,1,,304,BELGIUM,9013,BEL,7:40.978,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,1,2,4,,319,GREATBRITAIN,9019,GBR,7:41.493,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,1,3,2,,342,POLAND,9028,POL,7:42.037,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,1,DNS,3,,348,UKRAINE,9031,UKR,DNS,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,2,1,1,,314,FRANCE,9018,FRA,7:02.863,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,2,2,3,,316,GERMANY,9020,GER,7:02.959,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,2,3,4,,301,AUSTRIA,9074,AUT,7:16.015,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),5000mRelay,m,Repechage,2,YC,2,,337,LATVIA,9034,LAT,YC,

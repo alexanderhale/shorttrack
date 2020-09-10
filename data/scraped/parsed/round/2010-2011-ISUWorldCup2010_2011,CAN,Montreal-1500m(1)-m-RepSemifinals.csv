@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,113,YUYongjun,7824,CHN,,Q
-0,2,2,,153,NielsKERSTHOLT,7067,NED,,Q
-0,3,3,,151,SAULITISJekabs,7267,LAT,,Q
-0,4,5,,135,EdoardoREGGIANI,7161,ITA,,ADV
-0,5,6,,159,BartoszKONOPKO,7169,POL,,
-0,PEN,4,,120,LEPAPESebastien,7554,FRA,PEN,
-1,2,1,,136,NicolaRODIGARI,6332,ITA,2:21.715,Q
-1,3,3,,119,JeremyMASSON,6173,FRA,2:22.637,Q
-1,4,5,,142,WATANABEKeita,7605,JPN,2:22.773,
-1,5,2,,156,KoenHAKKENBERG,7610,NED,2:23.545,ADV
-1,PEN,6,,123,RobertBECKER,7258,GER,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,1,1,,113,YUYongjun,7824,CHN,,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,2,2,,153,NielsKERSTHOLT,7067,NED,,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,3,3,,151,SAULITISJekabs,7267,LAT,,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,4,5,,135,EdoardoREGGIANI,7161,ITA,,ADV
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,5,6,,159,BartoszKONOPKO,7169,POL,,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,1,PEN,4,,120,LEPAPESebastien,7554,FRA,PEN,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,2,2,1,,136,NicolaRODIGARI,6332,ITA,2:21.715,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,2,3,3,,119,JeremyMASSON,6173,FRA,2:22.637,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,2,4,5,,142,WATANABEKeita,7605,JPN,2:22.773,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,2,5,2,,156,KoenHAKKENBERG,7610,NED,2:23.545,ADV
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepSemifinals,2,PEN,6,,123,RobertBECKER,7258,GER,PEN,

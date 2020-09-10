@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,3,,807,NETHERLANDS,7321,NED,6:43.655,Q,
-0,2,2,,804,GERMANY,7302,GER,6:44.243,Q,
-0,PEN,4,,802,FRANCE,7319,FRA,PEN,,
-0,PEN,1,,803,GREATBRITAIN,7320,GBR,PEN,,
-1,1,1,,809,RUSSIA,7307,RUS,6:48.483,Q,
-1,2,3,,806,ITALY,7301,ITA,6:48.888,Q,
-1,3,2,,805,HUNGARY,7324,HUN,6:55.503,,
-1,4,4,,811,UKRAINE,7308,UKR,7:03.464,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,1,1,3,,807,NETHERLANDS,7321,NED,6:43.655,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,1,2,2,,804,GERMANY,7302,GER,6:44.243,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,1,PEN,4,,802,FRANCE,7319,FRA,PEN,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,1,PEN,1,,803,GREATBRITAIN,7320,GBR,PEN,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,2,1,1,,809,RUSSIA,7307,RUS,6:48.483,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,2,2,3,,806,ITALY,7301,ITA,6:48.888,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,2,3,2,,805,HUNGARY,7324,HUN,6:55.503,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,5000mRelay,m,Semifinals,2,4,4,,811,UKRAINE,7308,UKR,7:03.464,,

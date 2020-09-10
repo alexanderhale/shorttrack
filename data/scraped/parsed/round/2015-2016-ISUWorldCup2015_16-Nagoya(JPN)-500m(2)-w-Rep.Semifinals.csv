@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,56,EkaterinaSTRELKOVA,8378,RUS,45.977,Q
-0,2,1,,110,CHOIJiHyun,7711,KOR,46.037,
-0,3,3,,122,WeronikaSUROWIEC,9051,POL,46.112,
-0,4,4,,112,MonikaGRZADKOWSKA,9007,POL,46.854,
-1,1,2,,14,KIKUCHIMoemi,7584,JPN,45.935,Q
-1,2,4,,111,RozaKOOYSTRA,8495,NED,46.049,
-1,3,3,,50,LEEEunByul,7421,KOR,46.133,
-1,4,1,,68,HIRAIAmi,8618,JPN,46.271,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,1,1,2,,56,EkaterinaSTRELKOVA,8378,RUS,45.977,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,1,2,1,,110,CHOIJiHyun,7711,KOR,46.037,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,1,3,3,,122,WeronikaSUROWIEC,9051,POL,46.112,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,1,4,4,,112,MonikaGRZADKOWSKA,9007,POL,46.854,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,2,1,2,,14,KIKUCHIMoemi,7584,JPN,45.935,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,2,2,4,,111,RozaKOOYSTRA,8495,NED,46.049,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,2,3,3,,50,LEEEunByul,7421,KOR,46.133,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Rep.Semifinals,2,4,1,,68,HIRAIAmi,8618,JPN,46.271,

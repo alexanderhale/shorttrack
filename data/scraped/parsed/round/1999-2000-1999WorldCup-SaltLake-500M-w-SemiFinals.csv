@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,,AnniePERREAULT,6660,CAN,45.950,
-0,2,3,,,YANGsYang,6651,CHN,45.980,
-0,3,4,,,EvelinaRODIGARI,6329,ITA,53.157,
-1,1,2,,,ChikageTANAKA,6314,JPN,46.028,
-1,2,1,,,SUNDandan,6653,CHN,46.096,
-1,3,4,,,ANSang-Mi,6481,KOR,46.118,
-1,4,3,,,KatiaZINI,6076,ITA,46.606,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,1,1,2,,,AnniePERREAULT,6660,CAN,45.950,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,1,2,3,,,YANGsYang,6651,CHN,45.980,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,1,3,4,,,EvelinaRODIGARI,6329,ITA,53.157,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,2,1,2,,,ChikageTANAKA,6314,JPN,46.028,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,2,2,1,,,SUNDandan,6653,CHN,46.096,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,2,3,4,,,ANSang-Mi,6481,KOR,46.118,
+1999-2000,1999 World Cup - Salt Lake,500M,w,SemiFinals,2,4,3,,,KatiaZINI,6076,ITA,46.606,

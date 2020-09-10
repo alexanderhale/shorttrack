@@ -1,46 +1,46 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,805,RichardSHOEBRIDGE,6117,CAN,42.338,Q
-0,2,1,,811,WANGHongYang,6084,CHN,42.380,Q
-0,3,2,,889,SergeyPRANKEVICH,7048,RUS,42.471,
-0,4,3,,795,AliaksandrANTANENKA,6850,BLR,44.266,
-1,1,2,,883,SUNGSi-Bak,6811,KOR,41.996,Q
-1,2,3,,830,DavidManoLOTH,6804,HUN,43.671,Q
-1,3,1,,854,AzamatSULTANALIYEV,7348,KAZ,1:05.125,
-2,1,4,,836,NicolaRODIGARI,6332,ITA,41.890,Q
-2,2,2,,881,BartoszKONOPKO,7169,POL,42.011,Q
-2,3,1,,849,RyosukeSAKAZUME,7542,JPN,43.094,
-2,4,3,,820,RobertBECKER,7258,GER,43.501,
-3,1,2,,804,MichaelGILDAY,6195,CAN,42.209,Q
-3,2,1,,826,PaulWORTH,6802,GBR,42.555,Q
-3,3,4,,815,StephanePERIER,7478,FRA,42.659,
-3,4,3,,793,JeremyBECK,7283,AUS,42.958,
-4,1,3,,332,JeffSIMON,7280,USA,42.302,Q
-4,2,2,,829,PeterDARAZS,6465,HUN,44.227,Q
-4,3,1,,892,AlexanderGERTSIKOV,6570,RUS,57.589,
-5,1,2,,813,ThibautFAUCONNET,6785,FRA,42.793,Q
-5,2,3,,885,LEEJungSu,7266,KOR,42.923,Q
-5,3,1,,897,ViktorKOROLOV,7177,UKR,43.275,
-5,4,4,,873,RudyKOEK,7225,NED,43.396,
-6,1,2,,334,TravisJAYNER,6300,USA,42.423,Q
-6,2,1,,807,SUIBaoKu,6416,CHN,42.545,Q
-6,3,4,,824,OliverHORSEPOOL,6276,GBR,43.431,
-6,4,3,,859,MunkhdoriGANTUMUR,7351,MGL,50.682,
-7,1,4,,847,SatoshiSAKASHITA,6183,JPN,43.566,Q
-7,2,1,,794,AndrePULEC,6054,AUT,44.235,Q
-7,3,2,,858,SAULITISJekabs,7267,LAT,44.339,
-7,4,3,,816,LEPAPESebastien,7554,FRA,1:06.401,
-8,1,1,,802,OlivierJEAN,6756,CAN,41.852,Q
-8,2,2,,823,JonELEY,6592,GBR,42.066,Q
-8,3,3,,851,NurbergenZHUMAGAZIYEV,7349,KAZ,43.032,
-9,1,1,,850,ArturSULTANGALIYEV,6158,KAZ,43.444,Q
-9,2,2,,837,RobertoSERRA,6463,ITA,44.923,Q
-9,DQ,3,,886,PARKJin-Hwan,7543,KOR,DQ,
-9,DQ,4,,890,RuslanZAKHAROV,6935,RUS,DQ,
-10,1,4,,872,NielsKERSTHOLT,7067,NED,43.592,Q
-10,2,2,,844,YuzoTAKAMIDO,7158,JPN,43.712,Q
-10,3,1,,822,DennisWALZER,7144,GER,44.008,
-10,4,3,,810,ZHANGZhiqiang,7359,CHN,44.124,
-11,1,4,,335,CharlesRyanLEVEILLE,7122,USA,43.397,Q
-11,2,1,,874,FreekvanderWART,7269,NED,43.523,Q
-11,3,3,,896,SerhiyLIFYRENKO,6826,UKR,43.708,
-11,4,2,,879,ThomasPEARCE,7407,NZL,1:08.641,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,1,1,4,,805,RichardSHOEBRIDGE,6117,CAN,42.338,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,1,2,1,,811,WANGHongYang,6084,CHN,42.380,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,1,3,2,,889,SergeyPRANKEVICH,7048,RUS,42.471,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,1,4,3,,795,AliaksandrANTANENKA,6850,BLR,44.266,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,2,1,2,,883,SUNGSi-Bak,6811,KOR,41.996,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,2,2,3,,830,DavidManoLOTH,6804,HUN,43.671,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,2,3,1,,854,AzamatSULTANALIYEV,7348,KAZ,1:05.125,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,3,1,4,,836,NicolaRODIGARI,6332,ITA,41.890,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,3,2,2,,881,BartoszKONOPKO,7169,POL,42.011,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,3,3,1,,849,RyosukeSAKAZUME,7542,JPN,43.094,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,3,4,3,,820,RobertBECKER,7258,GER,43.501,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,4,1,2,,804,MichaelGILDAY,6195,CAN,42.209,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,4,2,1,,826,PaulWORTH,6802,GBR,42.555,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,4,3,4,,815,StephanePERIER,7478,FRA,42.659,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,4,4,3,,793,JeremyBECK,7283,AUS,42.958,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,5,1,3,,332,JeffSIMON,7280,USA,42.302,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,5,2,2,,829,PeterDARAZS,6465,HUN,44.227,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,5,3,1,,892,AlexanderGERTSIKOV,6570,RUS,57.589,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,6,1,2,,813,ThibautFAUCONNET,6785,FRA,42.793,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,6,2,3,,885,LEEJungSu,7266,KOR,42.923,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,6,3,1,,897,ViktorKOROLOV,7177,UKR,43.275,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,6,4,4,,873,RudyKOEK,7225,NED,43.396,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,7,1,2,,334,TravisJAYNER,6300,USA,42.423,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,7,2,1,,807,SUIBaoKu,6416,CHN,42.545,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,7,3,4,,824,OliverHORSEPOOL,6276,GBR,43.431,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,7,4,3,,859,MunkhdoriGANTUMUR,7351,MGL,50.682,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,8,1,4,,847,SatoshiSAKASHITA,6183,JPN,43.566,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,8,2,1,,794,AndrePULEC,6054,AUT,44.235,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,8,3,2,,858,SAULITISJekabs,7267,LAT,44.339,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,8,4,3,,816,LEPAPESebastien,7554,FRA,1:06.401,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,9,1,1,,802,OlivierJEAN,6756,CAN,41.852,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,9,2,2,,823,JonELEY,6592,GBR,42.066,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,9,3,3,,851,NurbergenZHUMAGAZIYEV,7349,KAZ,43.032,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,10,1,1,,850,ArturSULTANGALIYEV,6158,KAZ,43.444,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,10,2,2,,837,RobertoSERRA,6463,ITA,44.923,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,10,DQ,3,,886,PARKJin-Hwan,7543,KOR,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,10,DQ,4,,890,RuslanZAKHAROV,6935,RUS,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,11,1,4,,872,NielsKERSTHOLT,7067,NED,43.592,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,11,2,2,,844,YuzoTAKAMIDO,7158,JPN,43.712,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,11,3,1,,822,DennisWALZER,7144,GER,44.008,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,11,4,3,,810,ZHANGZhiqiang,7359,CHN,44.124,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,12,1,4,,335,CharlesRyanLEVEILLE,7122,USA,43.397,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,12,2,1,,874,FreekvanderWART,7269,NED,43.523,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,12,3,3,,896,SerhiyLIFYRENKO,6826,UKR,43.708,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Preliminaries,12,4,2,,879,ThomasPEARCE,7407,NZL,1:08.641,

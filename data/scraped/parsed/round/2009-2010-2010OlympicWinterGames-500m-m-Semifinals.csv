@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,205,HAMELINCharles,6610,CAN,40.964,QA
-0,2,2,,244,SUNGSi-Bak,6811,KOR,41.126,QA
-0,3,5,,226,TysonHEUNG,6240,GER,41.455,QB
-0,4,4,,220,JonELEY,6592,GBR,41.504,QB
-0,DQ,3,,207,OlivierJEAN,6756,CAN,DQ,
-1,1,4,,256,ApoloAntonOHNO,6497,USA,41.460,QA
-1,2,2,,208,Francois-LouisTREMBLAY,6704,CAN,41.515,QA
-1,3,3,,241,KWAKYoon-Gy,6120,KOR,41.620,QB
-1,4,1,,242,LEEHo-Suk,6856,KOR,1:24.514,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,1,1,1,,205,HAMELINCharles,6610,CAN,40.964,QA
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,1,2,2,,244,SUNGSi-Bak,6811,KOR,41.126,QA
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,1,3,5,,226,TysonHEUNG,6240,GER,41.455,QB
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,1,4,4,,220,JonELEY,6592,GBR,41.504,QB
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,1,DQ,3,,207,OlivierJEAN,6756,CAN,DQ,
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,2,1,4,,256,ApoloAntonOHNO,6497,USA,41.460,QA
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,2,2,2,,208,Francois-LouisTREMBLAY,6704,CAN,41.515,QA
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,2,3,3,,241,KWAKYoon-Gy,6120,KOR,41.620,QB
+2009-2010,2010 Olympic Winter Games,500m,m,Semifinals,2,4,1,,242,LEEHo-Suk,6856,KOR,1:24.514,QB

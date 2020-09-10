@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,150,KIMTaeSung,9540,KOR,41.225,QA
-0,2,3,,104,SUNLong,9454,CHN,41.609,QA
-0,3,5,,161,Jensvan'TWOUT,9551,NED,41.804,QB
-0,4,4,,171,DaniilKRASNOKUTSKII,9558,RUS,42.628,QB
-0,5,2,,102,LIKongchao,9516,CHN,43.294,
-1,1,1,,168,BALBEKOVVladimir,9738,RUS,42.480,QA
-1,2,2,,151,LEEJeongmin,9733,KOR,42.666,QA
-1,3,3,,105,ZHANGTianyi,9713,CHN,42.967,QB
-1,4,4,,135,LucaSPECHENHAUSER,9398,ITA,43.039,QB
-1,5,5,,160,NielsKINGMA,9552,NED,43.075,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,1,1,1,,150,KIMTaeSung,9540,KOR,41.225,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,1,2,3,,104,SUNLong,9454,CHN,41.609,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,1,3,5,,161,Jensvan'TWOUT,9551,NED,41.804,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,1,4,4,,171,DaniilKRASNOKUTSKII,9558,RUS,42.628,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,1,5,2,,102,LIKongchao,9516,CHN,43.294,
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,2,1,1,,168,BALBEKOVVladimir,9738,RUS,42.480,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,2,2,2,,151,LEEJeongmin,9733,KOR,42.666,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,2,3,3,,105,ZHANGTianyi,9713,CHN,42.967,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,2,4,4,,135,LucaSPECHENHAUSER,9398,ITA,43.039,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),500m,m,Semifinals,2,5,5,,160,NielsKINGMA,9552,NED,43.075,

@@ -1,42 +1,42 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,161,SONGKyung-Taek,6574,KOR,1:32.030,Q
-0,2,3,,107,Marc-AndreMONETTE,6270,CAN,1:32.071,Q
-0,3,4,,133,FabioCARTA,6001,ITA,1:36.757,ADV
-0,DQ,1,,166,ViacheslavKURGINIAN,6934,RUS,DQ,
-1,1,1,,111,SUIBaoKu,6416,CHN,1:33.003,Q
-1,2,2,,180,CharlesRyanLEVEILLE,7122,USA,1:33.081,Q
-1,3,4,,168,RuslanZAKHAROV,6935,RUS,1:33.326,q
-1,4,3,,121,GregoryDURAND,6646,FRA,1:35.125,
-2,1,3,,162,LEEHo-Suk,6856,KOR,1:34.507,Q
-2,2,2,,131,AnthonyDOUGLAS,6301,GBR,1:36.053,Q
-2,3,1,,153,RudyKOEK,7225,NED,1:36.122,q
-2,4,5,,126,RobertSEIFERT,6176,GER,1:37.251,
-2,5,4,,144,AndreySMETANIN,6459,KAZ,1:37.940,
-3,1,4,,104,MichaelGILDAY,6195,CAN,1:33.826,Q
-3,2,3,,150,BREEUWSMADaan,7218,NED,1:34.947,Q
-3,3,2,,175,AntonSIMON,6026,UKR,1:36.400,q
-3,4,1,,119,JeremyMASSON,6173,FRA,1:49.353,
-4,1,3,,106,HAMELINCharles,6610,CAN,1:34.945,Q
-4,2,1,,181,ShaniDAVIS,6498,USA,1:35.235,Q
-4,3,2,,157,JakubJAWORSKI,6816,POL,1:35.409,q
-4,4,4,,146,AzamatSULTANALIYEV,7348,KAZ,1:37.798,
-5,1,1,,177,JordanMALONE,6201,USA,1:37.460,Q
-5,2,3,,102,JeremyBECK,7283,AUS,1:38.830,Q
-5,3,2,,159,TomaszWROBLEWSKI,6214,POL,1:39.946,
-5,DQ,4,,173,AndriyKOZHUKH,6133,UKR,DQ,
-6,1,1,,141,FumihikoKAKUBARI,6024,JPN,1:34.070,Q
-6,2,2,,115,ZHANGZhiqiang,7359,CHN,1:34.158,Q
-6,3,4,,123,PaulHERRMANN,6803,GER,1:34.300,q
-6,4,3,,117,JeanCharlesMATTEI,6057,FRA,1:34.620,
-7,2,3,,140,JunjiITO,6579,JPN,1:37.320,Q
-7,3,1,,124,SebastianPRAUS,6364,GER,1:37.483,
-7,4,4,,152,KNEGTSjinkie,7352,NED,1:38.858,
-8,1,1,,134,CONFORTOLAYuri,6561,ITA,1:35.868,Q
-8,2,2,,101,LachlanHAY,6845,AUS,1:36.146,Q
-8,3,3,,143,ShotaroTANAKA,7347,JPN,1:36.420,q
-8,4,4,,169,AlexanderGERTSIKOV,6570,RUS,1:36.674,
-9,1,1,,136,NicolaRODIGARI,6332,ITA,1:34.765,Q
-9,2,5,,114,SONGWeilong,7156,CHN,1:34.986,Q
-9,3,3,,129,TomIVESON,6898,GBR,1:35.126,q
-9,4,2,,147,AslanDAUMOV,6119,KAZ,1:36.740,
-9,5,4,,132,BYKANOVVladislav,6178,ISR,1:37.436,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,1,1,2,,161,SONGKyung-Taek,6574,KOR,1:32.030,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,1,2,3,,107,Marc-AndreMONETTE,6270,CAN,1:32.071,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,1,3,4,,133,FabioCARTA,6001,ITA,1:36.757,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,1,DQ,1,,166,ViacheslavKURGINIAN,6934,RUS,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,2,1,1,,111,SUIBaoKu,6416,CHN,1:33.003,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,2,2,2,,180,CharlesRyanLEVEILLE,7122,USA,1:33.081,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,2,3,4,,168,RuslanZAKHAROV,6935,RUS,1:33.326,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,2,4,3,,121,GregoryDURAND,6646,FRA,1:35.125,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,3,1,3,,162,LEEHo-Suk,6856,KOR,1:34.507,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,3,2,2,,131,AnthonyDOUGLAS,6301,GBR,1:36.053,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,3,3,1,,153,RudyKOEK,7225,NED,1:36.122,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,3,4,5,,126,RobertSEIFERT,6176,GER,1:37.251,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,3,5,4,,144,AndreySMETANIN,6459,KAZ,1:37.940,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,4,1,4,,104,MichaelGILDAY,6195,CAN,1:33.826,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,4,2,3,,150,BREEUWSMADaan,7218,NED,1:34.947,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,4,3,2,,175,AntonSIMON,6026,UKR,1:36.400,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,4,4,1,,119,JeremyMASSON,6173,FRA,1:49.353,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,5,1,3,,106,HAMELINCharles,6610,CAN,1:34.945,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,5,2,1,,181,ShaniDAVIS,6498,USA,1:35.235,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,5,3,2,,157,JakubJAWORSKI,6816,POL,1:35.409,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,5,4,4,,146,AzamatSULTANALIYEV,7348,KAZ,1:37.798,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,6,1,1,,177,JordanMALONE,6201,USA,1:37.460,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,6,2,3,,102,JeremyBECK,7283,AUS,1:38.830,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,6,3,2,,159,TomaszWROBLEWSKI,6214,POL,1:39.946,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,6,DQ,4,,173,AndriyKOZHUKH,6133,UKR,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,7,1,1,,141,FumihikoKAKUBARI,6024,JPN,1:34.070,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,7,2,2,,115,ZHANGZhiqiang,7359,CHN,1:34.158,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,7,3,4,,123,PaulHERRMANN,6803,GER,1:34.300,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,7,4,3,,117,JeanCharlesMATTEI,6057,FRA,1:34.620,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,8,2,3,,140,JunjiITO,6579,JPN,1:37.320,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,8,3,1,,124,SebastianPRAUS,6364,GER,1:37.483,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,8,4,4,,152,KNEGTSjinkie,7352,NED,1:38.858,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,9,1,1,,134,CONFORTOLAYuri,6561,ITA,1:35.868,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,9,2,2,,101,LachlanHAY,6845,AUS,1:36.146,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,9,3,3,,143,ShotaroTANAKA,7347,JPN,1:36.420,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,9,4,4,,169,AlexanderGERTSIKOV,6570,RUS,1:36.674,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,10,1,1,,136,NicolaRODIGARI,6332,ITA,1:34.765,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,10,2,5,,114,SONGWeilong,7156,CHN,1:34.986,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,10,3,3,,129,TomIVESON,6898,GBR,1:35.126,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,10,4,2,,147,AslanDAUMOV,6119,KAZ,1:36.740,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(2),m,Preliminaries,10,5,4,,132,BYKANOVVladislav,6178,ISR,1:37.436,

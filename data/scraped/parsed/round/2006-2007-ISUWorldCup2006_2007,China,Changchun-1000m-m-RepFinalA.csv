@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,828,DenisBELLOTTI,6807,ITA,1:29.342,Q
-0,2,3,,863,ShaniDAVIS,6498,USA,1:29.399,Q
-0,3,2,,849,SergeyPRANKEVICH,7048,RUS,1:29.455,
-0,4,4,,804,ElliottSHRIANE,6846,AUS,1:29.619,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,m,RepFinalA,1,1,1,,828,DenisBELLOTTI,6807,ITA,1:29.342,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,m,RepFinalA,1,2,3,,863,ShaniDAVIS,6498,USA,1:29.399,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,m,RepFinalA,1,3,2,,849,SergeyPRANKEVICH,7048,RUS,1:29.455,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,m,RepFinalA,1,4,4,,804,ElliottSHRIANE,6846,AUS,1:29.619,

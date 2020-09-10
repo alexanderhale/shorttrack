@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,122,JackWHELBOURNE,7437,GBR,2:21.790,Q
-0,2,1,,134,BYKANOVVladislav,6178,ISR,2:22.065,
-0,3,3,,146,WATANABEKeita,7605,JPN,2:22.183,
-0,4,5,,90,TimothyDEWISPELAERE,7590,BEL,2:22.814,
-0,5,6,,93,LachlanHAY,6845,AUS,3:02.072,
-0,PEN,4,,135,CASSINELLIAndrea,7741,ITA,PEN,
-1,1,1,,154,KIMYun-Jae,7443,KOR,2:21.957,Q
-1,2,2,,102,LiamMcFARLANE,7200,CAN,2:22.722,
-1,3,7,,129,CsabaBURJAN,7738,HUN,2:22.875,
-1,4,3,,121,IanUPCOTT,7257,GBR,2:23.094,
-1,5,5,,126,ChristophMILZ,6175,GER,2:23.401,
-1,6,6,,186,DmytroPOLTAVETS,7221,UKR,2:23.914,
-1,PEN,4,,103,CHENDequan,7918,CHN,PEN,
-2,1,4,,173,VictorAN,8344,RUS,2:28.579,Q
-2,2,5,,115,LEPAPESebastien,7554,FRA,2:28.816,
-2,3,1,,123,PaulHERRMANN,6803,GER,2:28.982,
-2,4,2,,167,BlakeSKJELLERUP,6549,NZL,2:30.678,
-2,5,3,,94,NathanielHENRY,7966,AUS,3:08.214,
-2,YC,6,,165,JeroenSONNEVELD,7624,NED,YC,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,1,2,,122,JackWHELBOURNE,7437,GBR,2:21.790,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,2,1,,134,BYKANOVVladislav,6178,ISR,2:22.065,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,3,3,,146,WATANABEKeita,7605,JPN,2:22.183,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,4,5,,90,TimothyDEWISPELAERE,7590,BEL,2:22.814,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,5,6,,93,LachlanHAY,6845,AUS,3:02.072,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,1,PEN,4,,135,CASSINELLIAndrea,7741,ITA,PEN,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,1,1,,154,KIMYun-Jae,7443,KOR,2:21.957,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,2,2,,102,LiamMcFARLANE,7200,CAN,2:22.722,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,3,7,,129,CsabaBURJAN,7738,HUN,2:22.875,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,4,3,,121,IanUPCOTT,7257,GBR,2:23.094,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,5,5,,126,ChristophMILZ,6175,GER,2:23.401,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,6,6,,186,DmytroPOLTAVETS,7221,UKR,2:23.914,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,2,PEN,4,,103,CHENDequan,7918,CHN,PEN,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,1,4,,173,VictorAN,8344,RUS,2:28.579,Q
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,2,5,,115,LEPAPESebastien,7554,FRA,2:28.816,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,3,1,,123,PaulHERRMANN,6803,GER,2:28.982,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,4,2,,167,BlakeSKJELLERUP,6549,NZL,2:30.678,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,5,3,,94,NathanielHENRY,7966,AUS,3:08.214,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1500m,m,RepSemifinals,3,YC,6,,165,JeroenSONNEVELD,7624,NED,YC,

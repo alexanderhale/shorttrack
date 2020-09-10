@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,,CANADA,7312,CAN,4:28.490,,
-0,2,2,,,ITALY,7317,ITA,4:30.314,,
-0,3,4,,,UNITEDSTATES,7316,USA,4:41.703,,
-0,4,3,,,GERMANY,7313,GER,4:44.038,,
-1,1,3,,,KOREA,7314,KOR,4:23.429,,
-1,2,1,,,JAPAN,7310,JPN,4:24.936,,
-1,3,2,,,CHINA,7311,CHN,4:29.646,,
-1,4,4,,,NETHERLANDS,7322,NED,4:32.238,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,1,1,1,,,CANADA,7312,CAN,4:28.490,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,1,2,2,,,ITALY,7317,ITA,4:30.314,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,1,3,4,,,UNITEDSTATES,7316,USA,4:41.703,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,1,4,3,,,GERMANY,7313,GER,4:44.038,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,2,1,3,,,KOREA,7314,KOR,4:23.429,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,2,2,1,,,JAPAN,7310,JPN,4:24.936,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,2,3,2,,,CHINA,7311,CHN,4:29.646,,
+1996-1997,1997 World Championships,3000MRelay,w,SemiFinals,2,4,4,,,NETHERLANDS,7322,NED,4:32.238,,

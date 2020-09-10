@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,9,NIKISHADenis,8396,KAZ,1:26.902,Q
-0,2,4,,78,DennisVISSER,8498,NED,1:27.613,
-0,3,1,,73,ZHAXYBAYEVMersaid,8623,KAZ,1:32.370,
-0,4,5,,44,MIGUNOVDmitry,9334,FRA,1:49.279,
-0,5,3,,110,AugustinGERE,9270,LUX,notime,
-1,1,5,,144,HijiriIWASHITA,8395,JPN,1:38.412,Q
-1,2,1,,132,FERCOQQuentin,8605,FRA,2:02.718,
-1,3,4,,141,DavideVISCARDI,7440,ITA,notime,
-1,PEN,2,,139,ANTONIOLIMattia,8572,ITA,PEN,
-1,PEN,3,,169,AaronHEO,9302,USA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,1,1,2,,9,NIKISHADenis,8396,KAZ,1:26.902,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,1,2,4,,78,DennisVISSER,8498,NED,1:27.613,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,1,3,1,,73,ZHAXYBAYEVMersaid,8623,KAZ,1:32.370,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,1,4,5,,44,MIGUNOVDmitry,9334,FRA,1:49.279,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,1,5,3,,110,AugustinGERE,9270,LUX,notime,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,2,1,5,,144,HijiriIWASHITA,8395,JPN,1:38.412,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,2,2,1,,132,FERCOQQuentin,8605,FRA,2:02.718,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,2,3,4,,141,DavideVISCARDI,7440,ITA,notime,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,2,PEN,2,,139,ANTONIOLIMattia,8572,ITA,PEN,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(1),m,Rep.Semifinals,2,PEN,3,,169,AaronHEO,9302,USA,PEN,

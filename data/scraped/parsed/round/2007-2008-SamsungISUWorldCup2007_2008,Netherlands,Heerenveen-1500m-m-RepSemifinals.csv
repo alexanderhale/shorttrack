@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,1051,ShinichiTAGAMI,6929,JPN,2:21.188,Q
-0,2,6,,1030,AnthonyDOUGLAS,6301,GBR,2:22.605,Q
-0,3,1,,1087,AlexanderGERTSIKOV,6570,RUS,2:22.751,Q
-0,3,5,,1075,JakubJAWORSKI,6816,POL,2:22.751,Q
-0,5,2,,1033,PaulHERRMANN,6803,GER,2:22.948,
-0,6,3,,1045,FabioCARTA,6001,ITA,2:23.319,
-1,1,2,,1044,NicolaRODIGARI,6332,ITA,2:21.624,Q
-1,2,6,,1078,RuslanZAKHAROV,6935,RUS,2:21.692,Q
-1,3,5,,1047,SatoshiSAKASHITA,6183,JPN,2:21.778,Q
-1,4,1,,1002,LachlanHAY,6845,AUS,2:22.144,
-1,5,4,,1098,RyanBEDFORD,6956,USA,2:22.203,
-1,6,3,,1032,SebastianPRAUS,6364,GER,2:32.928,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,1,4,,1051,ShinichiTAGAMI,6929,JPN,2:21.188,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,2,6,,1030,AnthonyDOUGLAS,6301,GBR,2:22.605,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,3,1,,1087,AlexanderGERTSIKOV,6570,RUS,2:22.751,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,3,5,,1075,JakubJAWORSKI,6816,POL,2:22.751,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,5,2,,1033,PaulHERRMANN,6803,GER,2:22.948,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,1,6,3,,1045,FabioCARTA,6001,ITA,2:23.319,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,1,2,,1044,NicolaRODIGARI,6332,ITA,2:21.624,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,2,6,,1078,RuslanZAKHAROV,6935,RUS,2:21.692,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,3,5,,1047,SatoshiSAKASHITA,6183,JPN,2:21.778,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,4,1,,1002,LachlanHAY,6845,AUS,2:22.144,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,5,4,,1098,RyanBEDFORD,6956,USA,2:22.203,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,RepSemifinals,2,6,3,,1032,SebastianPRAUS,6364,GER,2:32.928,

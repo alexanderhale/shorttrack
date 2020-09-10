@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,,EvgeniaRADANOVA,6775,BUL,1:38.226,
-0,2,4,,,AnniePERREAULT,6660,CAN,1:43.607,
-0,3,3,,,WANGChunlu,6648,CHN,2:10.856,
-0,DQ,1,,,CHOIMin-Kyung,6548,KOR,DQ,
-1,2,3,,,YANGsYang,6651,CHN,1:39.200,
-1,3,1,,,PARKHye-Won,7085,KOR,1:39.242,
-1,4,4,,,TaniaVICENT,6662,CAN,1:39.430,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,1,1,2,,,EvgeniaRADANOVA,6775,BUL,1:38.226,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,1,2,4,,,AnniePERREAULT,6660,CAN,1:43.607,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,1,3,3,,,WANGChunlu,6648,CHN,2:10.856,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,1,DQ,1,,,CHOIMin-Kyung,6548,KOR,DQ,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,2,2,3,,,YANGsYang,6651,CHN,1:39.200,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,2,3,1,,,PARKHye-Won,7085,KOR,1:39.242,
+1999-2000,1999 World Cup - Changchun,1000M,w,SemiFinals,2,4,4,,,TaniaVICENT,6662,CAN,1:39.430,

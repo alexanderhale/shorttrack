@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,153,KIMByeongJun,7287,KOR,42.027,Q
-0,2,1,,150,SatoruTERAO,6320,JPN,42.078,Q
-0,3,3,,141,DenisBELLOTTI,6807,ITA,42.111,
-1,1,1,,113,Francois-LouisTREMBLAY,6704,CAN,41.489,Q
-1,2,3,,120,LIHaonan,6658,CHN,41.594,Q
-1,3,2,,185,JPKEPKA,6501,USA,41.657,
-1,4,4,,144,RobertoSERRA,6463,ITA,42.316,
-1,5,5,,108,WimdeDEYNE,6699,BEL,45.438,
-2,1,1,,117,OlivierJEAN,6756,CAN,42.048,Q
-2,2,2,,121,HUZe,6926,CHN,42.113,Q
-2,3,3,,135,JonELEY,6592,GBR,42.336,
-2,4,4,,146,JumpeiYOSHIZAWA,6577,JPN,43.174,
-3,1,2,,114,JeffSCHOLTEN,6604,CAN,42.127,
-3,2,4,,155,LEEHo-Suk,6856,KOR,42.171,
-3,3,3,,122,LIUXiaoLiang,6233,CHN,43.364,
-3,4,1,,132,RobertSEIFERT,6176,GER,51.307,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,1,1,2,,153,KIMByeongJun,7287,KOR,42.027,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,1,2,1,,150,SatoruTERAO,6320,JPN,42.078,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,1,3,3,,141,DenisBELLOTTI,6807,ITA,42.111,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,2,1,1,,113,Francois-LouisTREMBLAY,6704,CAN,41.489,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,2,2,3,,120,LIHaonan,6658,CHN,41.594,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,2,3,2,,185,JPKEPKA,6501,USA,41.657,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,2,4,4,,144,RobertoSERRA,6463,ITA,42.316,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,2,5,5,,108,WimdeDEYNE,6699,BEL,45.438,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,3,1,1,,117,OlivierJEAN,6756,CAN,42.048,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,3,2,2,,121,HUZe,6926,CHN,42.113,Q
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,3,3,3,,135,JonELEY,6592,GBR,42.336,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,3,4,4,,146,JumpeiYOSHIZAWA,6577,JPN,43.174,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,4,1,2,,114,JeffSCHOLTEN,6604,CAN,42.127,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,4,2,4,,155,LEEHo-Suk,6856,KOR,42.171,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,4,3,3,,122,LIUXiaoLiang,6233,CHN,43.364,
+2006-2007,"ISU World Cup 2006/2007, Canada, Saguenay",500m(1),m,QuarterFinals,4,4,1,,132,RobertSEIFERT,6176,GER,51.307,

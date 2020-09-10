@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,,WANGChunlu,6648,CHN,44.997,
-0,3,4,,,CHOIEun-Kyung,6943,KOR,45.071,
-0,4,3,,,PARKHye-Rim,6615,KOR,47.885,
-1,1,2,,,SUNDandan,6653,CHN,45.572,
-1,2,1,,,CHOIMin-Kyung,6548,KOR,45.606,
-1,3,4,,,AlannaKRAUS,6659,CAN,45.705,
-1,4,3,,,NataliaSVERCHKOVA,6732,UKR,45.952,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,1,2,2,,,WANGChunlu,6648,CHN,44.997,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,1,3,4,,,CHOIEun-Kyung,6943,KOR,45.071,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,1,4,3,,,PARKHye-Rim,6615,KOR,47.885,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,2,1,2,,,SUNDandan,6653,CHN,45.572,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,2,2,1,,,CHOIMin-Kyung,6548,KOR,45.606,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,2,3,4,,,AlannaKRAUS,6659,CAN,45.705,
+2000-2001,2000 World Cup - Chang Chun,500M,w,SemiFinals,2,4,3,,,NataliaSVERCHKOVA,6732,UKR,45.952,

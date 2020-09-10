@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,14,ShaoangLIU,8564,HUN,1:25.086,QA
-0,2,1,,154,LEEJuneSeo,9370,KOR,1:25.202,QA
-0,3,2,,72,AZHGALIYEVAbzal,7685,KAZ,1:25.321,qA
-0,4,3,,22,DIONPascal,8999,CAN,1:25.541,QB
-0,PEN,5,,124,BLAISCedrik,8998,CAN,PEN,
-1,1,1,,8,KNEGTSjinkie,7352,NED,1:26.024,QA
-1,2,3,,31,DESMETStijn,8706,BEL,1:26.335,QA
-1,3,5,,27,deLAATItzhak,7746,NED,1:26.759,QB
-1,4,2,,57,WATANABEKeita,7605,JPN,1:27.192,QB
-1,5,4,,55,CharleCOURNOYER,8063,CAN,1:47.763,qB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,1,1,4,,14,ShaoangLIU,8564,HUN,1:25.086,QA
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,1,2,1,,154,LEEJuneSeo,9370,KOR,1:25.202,QA
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,1,3,2,,72,AZHGALIYEVAbzal,7685,KAZ,1:25.321,qA
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,1,4,3,,22,DIONPascal,8999,CAN,1:25.541,QB
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,1,PEN,5,,124,BLAISCedrik,8998,CAN,PEN,
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,2,1,1,,8,KNEGTSjinkie,7352,NED,1:26.024,QA
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,2,2,3,,31,DESMETStijn,8706,BEL,1:26.335,QA
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,2,3,5,,27,deLAATItzhak,7746,NED,1:26.759,QB
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,2,4,2,,57,WATANABEKeita,7605,JPN,1:27.192,QB
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,m,Semifinals,2,5,4,,55,CharleCOURNOYER,8063,CAN,1:47.763,qB

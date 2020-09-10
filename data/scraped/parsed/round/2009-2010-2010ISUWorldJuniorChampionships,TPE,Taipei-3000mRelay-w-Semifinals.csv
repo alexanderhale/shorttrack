@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,138,KOREA,7314,KOR,4:26.972,Q,
-0,2,3,,136,ITALY,7317,ITA,4:33.342,Q,
-0,3,2,,137,JAPAN,7304,JPN,4:34.394,,
-0,4,4,,135,HUNGARY,7323,HUN,4:34.479,,
-1,1,1,,133,CHINA,7311,CHN,4:29.187,Q,
-1,2,3,,132,CANADA,7312,CAN,4:31.483,Q,
-1,3,2,,141,UNITEDSTATES,7316,USA,4:33.217,,
-1,4,4,,139,RUSSIA,7315,RUS,4:43.613,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,1,1,1,,138,KOREA,7314,KOR,4:26.972,Q,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,1,2,3,,136,ITALY,7317,ITA,4:33.342,Q,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,1,3,2,,137,JAPAN,7304,JPN,4:34.394,,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,1,4,4,,135,HUNGARY,7323,HUN,4:34.479,,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,2,1,1,,133,CHINA,7311,CHN,4:29.187,Q,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,2,2,3,,132,CANADA,7312,CAN,4:31.483,Q,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,2,3,2,,141,UNITEDSTATES,7316,USA,4:33.217,,
+2009-2010,"2010 ISU World Junior Championships, TPE, Taipei",3000mRelay,w,Semifinals,2,4,4,,139,RUSSIA,7315,RUS,4:43.613,,

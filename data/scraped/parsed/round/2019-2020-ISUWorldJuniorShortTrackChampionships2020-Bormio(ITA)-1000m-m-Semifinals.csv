@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,148,AHNHyunJun,9541,KOR,1:23.981,QA
-0,2,4,,168,BALBEKOVVladimir,9738,RUS,1:24.224,QA
-0,3,5,,110,SELLIERDiane,9237,FRA,1:25.906,qA
-0,4,2,,132,LucaLIM,9145,USA,1:27.882,QB
-0,PEN,3,,153,KRUZBERGSRoberts,9117,LAT,PEN,
-1,1,5,,161,Jensvan'TWOUT,9551,NED,1:30.882,QA
-1,2,3,,104,SUNLong,9454,CHN,1:30.927,QA
-1,3,2,,151,LEEJeongmin,9733,KOR,1:31.037,QB
-1,4,1,,189,BrandonKIM,9303,USA,1:31.239,QB
-1,5,4,,169,IVLIEVKonstantin,9417,RUS,1:31.297,qB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,1,1,1,,148,AHNHyunJun,9541,KOR,1:23.981,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,1,2,4,,168,BALBEKOVVladimir,9738,RUS,1:24.224,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,1,3,5,,110,SELLIERDiane,9237,FRA,1:25.906,qA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,1,4,2,,132,LucaLIM,9145,USA,1:27.882,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,1,PEN,3,,153,KRUZBERGSRoberts,9117,LAT,PEN,
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,2,1,5,,161,Jensvan'TWOUT,9551,NED,1:30.882,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,2,2,3,,104,SUNLong,9454,CHN,1:30.927,QA
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,2,3,2,,151,LEEJeongmin,9733,KOR,1:31.037,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,2,4,1,,189,BrandonKIM,9303,USA,1:31.239,QB
+2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),1000m,m,Semifinals,2,5,4,,169,IVLIEVKonstantin,9417,RUS,1:31.297,qB

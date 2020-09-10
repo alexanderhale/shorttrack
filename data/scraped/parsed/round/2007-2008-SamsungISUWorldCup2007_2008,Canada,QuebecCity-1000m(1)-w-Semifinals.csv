@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,63,PARKSeung-Hi,7164,KOR,1:34.162,QA
-0,2,4,,5,EvgeniaRADANOVA,6775,BUL,1:34.340,QA
-0,3,3,,10,JessicaGREGG,6141,CAN,1:35.499,QB
-0,DQ,2,,16,WANGMeng,6594,CHN,DQ,
-1,1,3,,64,SHINSae-Bom,7162,KOR,1:37.880,QA
-1,2,1,,14,KalynaROBERGE,6284,CAN,1:38.046,QA
-1,3,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:38.159,QB
-1,4,4,,68,ValeriyaREZNIK,6573,RUS,1:38.349,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,1,1,1,,63,PARKSeung-Hi,7164,KOR,1:34.162,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,1,2,4,,5,EvgeniaRADANOVA,6775,BUL,1:34.340,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,1,3,3,,10,JessicaGREGG,6141,CAN,1:35.499,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,1,DQ,2,,16,WANGMeng,6594,CHN,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,2,1,3,,64,SHINSae-Bom,7162,KOR,1:37.880,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,2,2,1,,14,KalynaROBERGE,6284,CAN,1:38.046,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,2,3,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:38.159,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Semifinals,2,4,4,,68,ValeriyaREZNIK,6573,RUS,1:38.349,QB

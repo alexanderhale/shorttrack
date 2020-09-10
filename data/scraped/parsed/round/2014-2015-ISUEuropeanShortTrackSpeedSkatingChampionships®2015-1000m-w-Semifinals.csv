@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,120,CharlotteGILMARTIN,7136,GBR,1:33.170,QA,
-0,2,4,,148,PROSVIRNOVASofia,8509,RUS,1:33.228,QA,
-0,3,1,,138,vanKERKHOFYara,7422,NED,1:33.235,QB,
-0,4,3,,150,ZAKHAROVAEvgeniya,7715,RUS,1:33.654,QB,
-1,1,4,,135,AgneSEREIKAITE,7708,LTU,1:33.605,QA,
-1,2,5,,128,AriannaFONTANA,6227,ITA,1:33.902,QA,
-1,3,2,,101,VeronikaWINDISCH,6427,AUT,1:35.341,QB,
-1,4,3,,121,AnnaSEIDEL,8562,GER,1:59.492,QB,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,1,1,2,,120,CharlotteGILMARTIN,7136,GBR,1:33.170,QA,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,1,2,4,,148,PROSVIRNOVASofia,8509,RUS,1:33.228,QA,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,1,3,1,,138,vanKERKHOFYara,7422,NED,1:33.235,QB,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,1,4,3,,150,ZAKHAROVAEvgeniya,7715,RUS,1:33.654,QB,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,2,1,4,,135,AgneSEREIKAITE,7708,LTU,1:33.605,QA,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,2,2,5,,128,AriannaFONTANA,6227,ITA,1:33.902,QA,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,2,3,2,,101,VeronikaWINDISCH,6427,AUT,1:35.341,QB,
+2014-2015,ISU European Short Track Speed Skating Championships® 2015,1000m,w,Semifinals,2,4,3,,121,AnnaSEIDEL,8562,GER,1:59.492,QB,

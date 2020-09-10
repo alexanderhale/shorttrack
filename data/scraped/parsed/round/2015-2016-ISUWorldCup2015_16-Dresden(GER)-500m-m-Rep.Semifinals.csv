@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,14,ViktorKNOCH,6177,HUN,41.144,Q
-0,2,2,,175,AydarBEKZHANOV,7623,KAZ,41.526,
-0,3,3,,189,BLACKBURNMackenzie,7434,TPE,41.713,
-0,4,4,,32,JUNGHyunWoo(Andy),8575,AUS,42.073,
-1,1,3,,195,ChrisCREVELING,8440,USA,42.258,Q
-1,2,1,,158,CharleCOURNOYER,8063,CAN,1:07.511,ADV
-1,3,2,,19,SamuelGIRARD,8600,CAN,1:07.591,ADV
-1,PEN,4,,30,NIKISHADenis,8396,KAZ,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,1,1,1,,14,ViktorKNOCH,6177,HUN,41.144,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,1,2,2,,175,AydarBEKZHANOV,7623,KAZ,41.526,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,1,3,3,,189,BLACKBURNMackenzie,7434,TPE,41.713,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,1,4,4,,32,JUNGHyunWoo(Andy),8575,AUS,42.073,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,2,1,3,,195,ChrisCREVELING,8440,USA,42.258,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,2,2,1,,158,CharleCOURNOYER,8063,CAN,1:07.511,ADV
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,2,3,2,,19,SamuelGIRARD,8600,CAN,1:07.591,ADV
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),500m,m,Rep.Semifinals,2,PEN,4,,30,NIKISHADenis,8396,KAZ,PEN,

@@ -1,25 +1,25 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,55,SIGHELArianna,8088,ITA,1:40.361,Q
-0,2,6,,169,HAYWARDCharlotte,9520,GBR,1:42.827,Q
-0,3,2,,27,BACSKAISaraLuca,8609,HUN,1:55.524,ADV
-0,4,4,,87,JACOBSGina,8607,GER,1:58.099,
-0,5,1,,53,GAGNONClaudia,9381,CAN,notime,
-0,DNF,5,,165,ZYCHMagdalena,9553,POL,DNF,
-1,1,3,,77,BLAISDanae,9090,CAN,1:33.625,Q
-1,2,1,,49,KONSTANTINOVAEkaterina,8510,RUS,1:33.777,Q
-1,3,2,,107,STODDARDCorinne,9464,USA,1:33.901,q
-1,4,4,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,1:34.248,
-1,5,5,,102,ECKSTEINLisa,9488,GER,1:35.308,
-1,6,6,,145,DUBROVAUliana,9436,UKR,notime,
-2,1,1,,46,KIKUCHIYuki,8669,JPN,1:34.813,Q
-2,2,2,,13,PIERRONVeronique,6196,FRA,1:34.866,Q
-2,3,3,,84,VALCEPINAArianna,7705,ITA,1:34.888,
-2,4,4,,90,TALAYEVAVolha,6792,BLR,1:36.181,
-2,5,6,,116,BURICKatarina,8550,CRO,1:36.956,
-2,6,5,,159,ROBERTSIsabelle,9322,GBR,1:37.049,
-3,1,3,,94,TIKHONOVAOlga,8621,KAZ,1:38.198,Q
-3,2,2,,121,SZILICZEI-NEMETRebeka,8737,HUN,1:38.278,Q
-3,3,6,,76,MANOILOVAKatrin,8539,BUL,1:38.443,
-3,4,4,,162,ZHANBUSINOVAMadina,9111,KAZ,1:38.707,
-3,5,1,,134,TOPOLSKAGabriela,9411,POL,1:38.876,
-3,6,5,,105,MYKHALCHUKDiana,7426,UKR,1:39.981,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,1,3,,55,SIGHELArianna,8088,ITA,1:40.361,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,2,6,,169,HAYWARDCharlotte,9520,GBR,1:42.827,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,3,2,,27,BACSKAISaraLuca,8609,HUN,1:55.524,ADV
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,4,4,,87,JACOBSGina,8607,GER,1:58.099,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,5,1,,53,GAGNONClaudia,9381,CAN,notime,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,1,DNF,5,,165,ZYCHMagdalena,9553,POL,DNF,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,1,3,,77,BLAISDanae,9090,CAN,1:33.625,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,2,1,,49,KONSTANTINOVAEkaterina,8510,RUS,1:33.777,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,3,2,,107,STODDARDCorinne,9464,USA,1:33.901,q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,4,4,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,1:34.248,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,5,5,,102,ECKSTEINLisa,9488,GER,1:35.308,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,2,6,6,,145,DUBROVAUliana,9436,UKR,notime,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,1,1,,46,KIKUCHIYuki,8669,JPN,1:34.813,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,2,2,,13,PIERRONVeronique,6196,FRA,1:34.866,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,3,3,,84,VALCEPINAArianna,7705,ITA,1:34.888,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,4,4,,90,TALAYEVAVolha,6792,BLR,1:36.181,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,5,6,,116,BURICKatarina,8550,CRO,1:36.956,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,3,6,5,,159,ROBERTSIsabelle,9322,GBR,1:37.049,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,1,3,,94,TIKHONOVAOlga,8621,KAZ,1:38.198,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,2,2,,121,SZILICZEI-NEMETRebeka,8737,HUN,1:38.278,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,3,6,,76,MANOILOVAKatrin,8539,BUL,1:38.443,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,4,4,,162,ZHANBUSINOVAMadina,9111,KAZ,1:38.707,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,5,1,,134,TOPOLSKAGabriela,9411,POL,1:38.876,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1000m(2),w,Rep.Quarterfinals,4,6,5,,105,MYKHALCHUKDiana,7426,UKR,1:39.981,

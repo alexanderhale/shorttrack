@@ -1,41 +1,41 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,381,KWAKYoon-Gy,6120,KOR,41.618,Q
-0,2,1,,344,RobertSEIFERT,6176,GER,41.935,Q
-0,3,3,,376,ArturSULTANGALIYEV,6158,KAZ,42.068,q
-0,4,4,,329,OndrejSUCHY,7131,CZE,43.009,
-1,1,2,,322,HANJialiang,6168,CHN,42.051,Q
-1,2,3,,353,PeterDARAZS,6465,HUN,42.285,Q
-1,3,1,,363,NicolaRODIGARI,6332,ITA,42.351,
-1,4,4,,398,DariuszKULESZA,6817,POL,1:05.769,
-2,1,1,,380,SUNGSi-Bak,6811,KOR,41.427,Q
-2,2,4,,367,SatoruTERAO,6320,JPN,42.323,Q
-2,3,2,,419,CharlesRyanLEVEILLE,7122,USA,42.381,
-2,4,3,,352,GaborGALAMBOS,6010,HUN,42.591,
-3,1,4,,416,AnthonyLOBELLO,6958,USA,41.470,Q
-3,2,2,,360,CONFORTOLAYuri,6561,ITA,41.753,Q
-3,3,1,,388,FreekvanderWART,7269,NED,51.614,
-3,4,3,,404,SemenELISTRATOV,7293,RUS,1:03.294,
-4,1,1,,319,OlivierJEAN,6756,CAN,41.770,Q
-4,2,3,,339,JonELEY,6592,GBR,41.966,Q
-4,3,2,,324,LIANGWenhao,7594,CHN,42.018,q
-4,4,4,,334,LEPAPESebastien,7554,FRA,1:00.976,
-5,1,1,,354,ViktorKNOCH,6177,HUN,42.175,Q
-5,2,2,,347,TysonHEUNG,6240,GER,42.181,Q
-5,3,3,,340,PaulSTANLEY,7054,GBR,42.288,
-5,4,4,,369,TakahiroFUJIMOTO,6277,JPN,43.088,
-6,2,2,,321,WANGHongYang,6084,CHN,41.752,Q
-6,3,3,,402,EvgeniiKOZULIN,7272,RUS,42.250,q
-6,4,4,,311,AssenPANDOV,6778,BUL,42.744,
-7,1,1,,382,HaraldsSILOVS,6458,LAT,42.061,Q
-7,2,4,,417,ApoloAntonOHNO,6497,USA,42.190,Q
-7,3,3,,372,AydarBEKZHANOV,7623,KAZ,42.555,
-7,4,2,,368,SatoshiSAKASHITA,6183,JPN,1:15.112,
-8,1,1,,317,Francois-LouisTREMBLAY,6704,CAN,41.415,Q
-8,2,2,,392,KNEGTSjinkie,7352,NED,41.974,Q
-8,3,4,,364,RobertoSERRA,6463,ITA,42.069,q
-8,4,5,,332,JeremyMASSON,6173,FRA,43.246,
-8,5,3,,300,JeremyBECK,7283,AUS,43.518,
-9,1,1,,379,LEESeung-Jae,6621,KOR,42.198,Q
-9,2,3,,335,ThibautFAUCONNET,6785,FRA,42.277,Q
-9,3,2,,393,BlakeSKJELLERUP,6549,NZL,42.480,
-9,4,4,,397,BartoszKONOPKO,7169,POL,42.703,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,1,1,2,,381,KWAKYoon-Gy,6120,KOR,41.618,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,1,2,1,,344,RobertSEIFERT,6176,GER,41.935,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,1,3,3,,376,ArturSULTANGALIYEV,6158,KAZ,42.068,q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,1,4,4,,329,OndrejSUCHY,7131,CZE,43.009,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,2,1,2,,322,HANJialiang,6168,CHN,42.051,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,2,2,3,,353,PeterDARAZS,6465,HUN,42.285,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,2,3,1,,363,NicolaRODIGARI,6332,ITA,42.351,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,2,4,4,,398,DariuszKULESZA,6817,POL,1:05.769,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,3,1,1,,380,SUNGSi-Bak,6811,KOR,41.427,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,3,2,4,,367,SatoruTERAO,6320,JPN,42.323,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,3,3,2,,419,CharlesRyanLEVEILLE,7122,USA,42.381,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,3,4,3,,352,GaborGALAMBOS,6010,HUN,42.591,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,4,1,4,,416,AnthonyLOBELLO,6958,USA,41.470,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,4,2,2,,360,CONFORTOLAYuri,6561,ITA,41.753,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,4,3,1,,388,FreekvanderWART,7269,NED,51.614,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,4,4,3,,404,SemenELISTRATOV,7293,RUS,1:03.294,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,5,1,1,,319,OlivierJEAN,6756,CAN,41.770,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,5,2,3,,339,JonELEY,6592,GBR,41.966,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,5,3,2,,324,LIANGWenhao,7594,CHN,42.018,q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,5,4,4,,334,LEPAPESebastien,7554,FRA,1:00.976,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,6,1,1,,354,ViktorKNOCH,6177,HUN,42.175,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,6,2,2,,347,TysonHEUNG,6240,GER,42.181,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,6,3,3,,340,PaulSTANLEY,7054,GBR,42.288,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,6,4,4,,369,TakahiroFUJIMOTO,6277,JPN,43.088,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,7,2,2,,321,WANGHongYang,6084,CHN,41.752,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,7,3,3,,402,EvgeniiKOZULIN,7272,RUS,42.250,q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,7,4,4,,311,AssenPANDOV,6778,BUL,42.744,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,8,1,1,,382,HaraldsSILOVS,6458,LAT,42.061,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,8,2,4,,417,ApoloAntonOHNO,6497,USA,42.190,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,8,3,3,,372,AydarBEKZHANOV,7623,KAZ,42.555,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,8,4,2,,368,SatoshiSAKASHITA,6183,JPN,1:15.112,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,9,1,1,,317,Francois-LouisTREMBLAY,6704,CAN,41.415,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,9,2,2,,392,KNEGTSjinkie,7352,NED,41.974,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,9,3,4,,364,RobertoSERRA,6463,ITA,42.069,q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,9,4,5,,332,JeremyMASSON,6173,FRA,43.246,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,9,5,3,,300,JeremyBECK,7283,AUS,43.518,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,10,1,1,,379,LEESeung-Jae,6621,KOR,42.198,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,10,2,3,,335,ThibautFAUCONNET,6785,FRA,42.277,Q
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,10,3,2,,393,BlakeSKJELLERUP,6549,NZL,42.480,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",500m,m,Preliminaries,10,4,4,,397,BartoszKONOPKO,7169,POL,42.703,

@@ -1,85 +1,85 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,84,SteveROBILLARD,6494,CAN,47.341,Q
-0,2,3,,137,GellertPATAKI,6025,,48.964,Q
-0,3,2,,159,TamasHELFRIH,6827,SCG,49.536,
-0,4,1,,123,HaraldsSILOVS,6458,LAT,58.481,
-1,1,3,,112,JunjiITO,6579,JPN,45.675,Q
-1,2,1,,134,JakubJAWORSKI,6816,POL,45.773,Q
-1,3,2,,104,SergeiKASTOV,6591,ISR,45.887,q
-1,4,5,,131,JeremyBECK,6550,NZL,46.322,
-1,5,4,,150,MAIChia-Hung,6825,TPE,49.524,
-2,1,3,,83,HAMELINCharles,6610,CAN,45.125,Q
-2,2,1,,151,TSAIPing-Yuan,6583,TPE,47.438,Q
-2,3,5,,132,MatthewFULLER,6448,NZL,47.706,
-2,4,4,,125,GanbatJARGALANCHULUUN,6543,MGL,50.667,
-2,5,2,,78,SAPUNENKAAleh,6877,BLR,1:22.629,
-3,1,3,,121,SUNGSi-Bak,6811,KOR,45.539,Q
-3,2,4,,136,DariuszKULESZA,6817,POL,45.958,Q
-3,3,2,,138,ZsoltIstvanPATAKI,6818,ROU,46.446,
-3,4,1,,160,THAKURSANDEEPSingh,6828,SCG,55.151,
-4,1,5,,135,JURKIEWICZPrzemyslaw,6450,POL,44.413,Q
-4,2,3,,133,BlakeSKJELLERUP,6549,NZL,44.667,Q
-4,3,4,,98,PaulHERRMANN,6803,GER,45.052,q
-4,4,2,,130,StefanZWAGER,6815,NED,46.806,
-4,5,1,,116,AlexyKHROMOCHKIN,6460,KAZ,1:01.550,
-5,1,1,,155,AlexIZYKOWSKI,6627,USA,44.215,Q
-5,2,3,,89,DELMEDICOVincent,7100,FRA,44.413,Q
-5,3,4,,77,VitaliBAZYLENKO,7042,BLR,46.595,
-5,4,2,,66,LachlanHAY,6845,AUS,47.839,
-5,5,5,,148,MikaelMESSING,6824,SWE,48.238,
-6,1,1,,82,MathieuGIROUX,6852,CAN,44.380,Q
-6,2,4,,91,GuillaumeMATHIEU,6871,FRA,45.560,Q
-6,3,3,,87,JakubJANECKO,6023,CZE,48.733,
-6,4,2,,153,AntonSIMON,6026,UKR,49.306,
-7,1,4,,115,JumpeiYOSHIZAWA,6577,JPN,45.330,Q
-7,2,3,,111,DavideURBANI,6872,ITA,45.668,Q
-7,3,5,,143,BulatVALIULLIN,6820,RUS,46.153,
-7,4,2,,69,BenjaminKOCH,6847,AUT,46.445,
-7,DQ,1,,85,IvanDOLINIC,6669,CRO,DQ,
-8,1,5,,154,DerekGRAY,7050,USA,45.272,Q
-8,2,3,,99,SaschaHOFMANN,6581,GER,45.552,Q
-8,3,4,,124,HelmutsSILOVS,6457,LAT,48.103,
-8,4,2,,68,ElliottSHRIANE,6846,AUS,55.482,
-8,DQ,1,,100,PeterDARAZS,6465,HUN,DQ,
-9,1,4,,141,SergeyPRANKEVICH,7048,RUS,44.206,Q
-9,2,1,,101,AdamKOVACS,6337,HUN,44.316,Q
-9,3,2,,128,ThomasMOGENDORFF,6814,NED,44.981,q
-9,4,5,,67,HOULAHANLee,6739,AUS,46.430,
-9,5,3,,80,AsenYORDANOV,6851,BUL,47.334,
-10,1,3,,96,ThomasBAUER,7092,GER,44.669,Q
-10,2,2,,109,CONFORTOLAYuri,6561,ITA,44.732,Q
-10,3,1,,106,VAINEREvgeni,6051,ISR,45.672,q
-10,4,4,,144,UrbanKALSEK,6821,SLO,51.350,
-10,DNF,5,,81,TeodorYOTOV,6730,BUL,DNF,
-11,1,4,,120,LEEHo-Suk,6856,KOR,44.599,Q
-11,2,3,,142,MikhailRAJINE,6569,RUS,45.099,Q
-11,3,1,,73,JelledeBRUYN,6783,BEL,46.230,
-11,4,2,,147,SalamAL-ALI,6823,SWE,46.684,
-12,1,3,,88,KOCARNIKJan,6800,CZE,47.239,Q
-12,2,5,,156,JPKEPKA,6501,USA,48.375,Q
-12,3,4,,118,AndreySMETANIN,6459,KAZ,49.723,
-12,4,1,,145,BENKOTomas,6822,SVK,49.945,
-12,5,2,,74,ThomasdeWITTE,6784,BEL,1:04.987,
-13,1,2,,119,KIMHyun-Kon,7101,KOR,47.018,Q
-13,2,1,,93,JonELEY,6592,GBR,54.878,Q
-13,3,3,,158,DOJKICViktor,7056,SCG,1:26.537,
-13,DQ,4,,75,AmirLIGATA,6849,BIH,DQ,
-14,1,3,,113,FumihikoKAKUBARI,6024,JPN,44.892,Q
-14,2,2,,90,ThibautFAUCONNET,6785,FRA,45.376,Q
-14,3,1,,76,AliaksandrANTANENKA,6850,BLR,46.386,
-14,4,5,,140,BenjaminSTUTHRIDGE,7102,RSA,49.126,
-14,DNS,4,,72,ROKITASebastian,7105,AUT,DNS,
-15,1,2,,79,AssenPANDOV,6778,BUL,45.979,Q
-15,2,1,,94,PaulSTANLEY,7054,GBR,46.095,Q
-15,3,3,,71,AndrePULEC,6054,AUT,46.096,
-15,4,4,,139,LaszloVRENCEAN,6819,,47.021,
-15,5,5,,86,TomislavDUGI,6032,CRO,52.000,
-16,1,4,,95,PaulWORTH,6802,GBR,45.944,Q
-16,2,2,,107,VERNIKOVEvgeni,6806,ISR,47.231,Q
-16,3,3,,102,DavidManoLOTH,6804,HUN,47.508,
-16,DQ,1,,127,ArjenKLAVERSMA,6813,NED,DQ,
-16,DQ,5,,146,MatusMICHALIK,6950,SVK,DQ,
-17,1,2,,108,DenisBELLOTTI,6807,ITA,47.810,Q
-17,2,4,,152,SerhiyLIFYRENKO,6826,UKR,48.494,Q
-17,3,1,,117,PIVNENKOVadim,6810,KAZ,50.606,
-17,4,3,,126,SHIJIRBAATARShagdar,6564,MGL,52.645,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,1,1,4,,84,SteveROBILLARD,6494,CAN,47.341,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,1,2,3,,137,GellertPATAKI,6025,,48.964,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,1,3,2,,159,TamasHELFRIH,6827,SCG,49.536,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,1,4,1,,123,HaraldsSILOVS,6458,LAT,58.481,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,2,1,3,,112,JunjiITO,6579,JPN,45.675,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,2,2,1,,134,JakubJAWORSKI,6816,POL,45.773,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,2,3,2,,104,SergeiKASTOV,6591,ISR,45.887,q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,2,4,5,,131,JeremyBECK,6550,NZL,46.322,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,2,5,4,,150,MAIChia-Hung,6825,TPE,49.524,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,3,1,3,,83,HAMELINCharles,6610,CAN,45.125,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,3,2,1,,151,TSAIPing-Yuan,6583,TPE,47.438,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,3,3,5,,132,MatthewFULLER,6448,NZL,47.706,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,3,4,4,,125,GanbatJARGALANCHULUUN,6543,MGL,50.667,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,3,5,2,,78,SAPUNENKAAleh,6877,BLR,1:22.629,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,4,1,3,,121,SUNGSi-Bak,6811,KOR,45.539,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,4,2,4,,136,DariuszKULESZA,6817,POL,45.958,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,4,3,2,,138,ZsoltIstvanPATAKI,6818,ROU,46.446,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,4,4,1,,160,THAKURSANDEEPSingh,6828,SCG,55.151,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,5,1,5,,135,JURKIEWICZPrzemyslaw,6450,POL,44.413,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,5,2,3,,133,BlakeSKJELLERUP,6549,NZL,44.667,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,5,3,4,,98,PaulHERRMANN,6803,GER,45.052,q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,5,4,2,,130,StefanZWAGER,6815,NED,46.806,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,5,5,1,,116,AlexyKHROMOCHKIN,6460,KAZ,1:01.550,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,6,1,1,,155,AlexIZYKOWSKI,6627,USA,44.215,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,6,2,3,,89,DELMEDICOVincent,7100,FRA,44.413,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,6,3,4,,77,VitaliBAZYLENKO,7042,BLR,46.595,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,6,4,2,,66,LachlanHAY,6845,AUS,47.839,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,6,5,5,,148,MikaelMESSING,6824,SWE,48.238,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,7,1,1,,82,MathieuGIROUX,6852,CAN,44.380,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,7,2,4,,91,GuillaumeMATHIEU,6871,FRA,45.560,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,7,3,3,,87,JakubJANECKO,6023,CZE,48.733,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,7,4,2,,153,AntonSIMON,6026,UKR,49.306,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,8,1,4,,115,JumpeiYOSHIZAWA,6577,JPN,45.330,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,8,2,3,,111,DavideURBANI,6872,ITA,45.668,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,8,3,5,,143,BulatVALIULLIN,6820,RUS,46.153,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,8,4,2,,69,BenjaminKOCH,6847,AUT,46.445,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,8,DQ,1,,85,IvanDOLINIC,6669,CRO,DQ,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,9,1,5,,154,DerekGRAY,7050,USA,45.272,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,9,2,3,,99,SaschaHOFMANN,6581,GER,45.552,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,9,3,4,,124,HelmutsSILOVS,6457,LAT,48.103,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,9,4,2,,68,ElliottSHRIANE,6846,AUS,55.482,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,9,DQ,1,,100,PeterDARAZS,6465,HUN,DQ,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,10,1,4,,141,SergeyPRANKEVICH,7048,RUS,44.206,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,10,2,1,,101,AdamKOVACS,6337,HUN,44.316,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,10,3,2,,128,ThomasMOGENDORFF,6814,NED,44.981,q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,10,4,5,,67,HOULAHANLee,6739,AUS,46.430,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,10,5,3,,80,AsenYORDANOV,6851,BUL,47.334,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,11,1,3,,96,ThomasBAUER,7092,GER,44.669,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,11,2,2,,109,CONFORTOLAYuri,6561,ITA,44.732,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,11,3,1,,106,VAINEREvgeni,6051,ISR,45.672,q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,11,4,4,,144,UrbanKALSEK,6821,SLO,51.350,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,11,DNF,5,,81,TeodorYOTOV,6730,BUL,DNF,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,12,1,4,,120,LEEHo-Suk,6856,KOR,44.599,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,12,2,3,,142,MikhailRAJINE,6569,RUS,45.099,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,12,3,1,,73,JelledeBRUYN,6783,BEL,46.230,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,12,4,2,,147,SalamAL-ALI,6823,SWE,46.684,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,13,1,3,,88,KOCARNIKJan,6800,CZE,47.239,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,13,2,5,,156,JPKEPKA,6501,USA,48.375,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,13,3,4,,118,AndreySMETANIN,6459,KAZ,49.723,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,13,4,1,,145,BENKOTomas,6822,SVK,49.945,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,13,5,2,,74,ThomasdeWITTE,6784,BEL,1:04.987,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,14,1,2,,119,KIMHyun-Kon,7101,KOR,47.018,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,14,2,1,,93,JonELEY,6592,GBR,54.878,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,14,3,3,,158,DOJKICViktor,7056,SCG,1:26.537,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,14,DQ,4,,75,AmirLIGATA,6849,BIH,DQ,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,15,1,3,,113,FumihikoKAKUBARI,6024,JPN,44.892,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,15,2,2,,90,ThibautFAUCONNET,6785,FRA,45.376,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,15,3,1,,76,AliaksandrANTANENKA,6850,BLR,46.386,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,15,4,5,,140,BenjaminSTUTHRIDGE,7102,RSA,49.126,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,15,DNS,4,,72,ROKITASebastian,7105,AUT,DNS,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,16,1,2,,79,AssenPANDOV,6778,BUL,45.979,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,16,2,1,,94,PaulSTANLEY,7054,GBR,46.095,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,16,3,3,,71,AndrePULEC,6054,AUT,46.096,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,16,4,4,,139,LaszloVRENCEAN,6819,,47.021,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,16,5,5,,86,TomislavDUGI,6032,CRO,52.000,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,17,1,4,,95,PaulWORTH,6802,GBR,45.944,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,17,2,2,,107,VERNIKOVEvgeni,6806,ISR,47.231,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,17,3,3,,102,DavidManoLOTH,6804,HUN,47.508,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,17,DQ,1,,127,ArjenKLAVERSMA,6813,NED,DQ,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,17,DQ,5,,146,MatusMICHALIK,6950,SVK,DQ,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,18,1,2,,108,DenisBELLOTTI,6807,ITA,47.810,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,18,2,4,,152,SerhiyLIFYRENKO,6826,UKR,48.494,Q
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,18,3,1,,117,PIVNENKOVadim,6810,KAZ,50.606,
+2002-2003,2003 World Junior Championships Hungary,500M,m,Preliminaries,18,4,3,,126,SHIJIRBAATARShagdar,6564,MGL,52.645,

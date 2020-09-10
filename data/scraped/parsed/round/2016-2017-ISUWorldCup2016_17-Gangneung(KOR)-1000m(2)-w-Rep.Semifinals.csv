@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,20,JessicaKOOREMAN,7649,USA,1:36.966,Q
-0,2,1,,33,KaterinaNOVOTNA,6647,CZE,1:37.225,
-0,3,2,,75,SZILICZEI-NEMETRebeka,8737,HUN,1:37.456,
-0,4,6,,81,PetraVANKOVA,8705,CZE,1:37.965,
-0,5,5,,129,TinekedenDULK,9121,NED,1:53.871,
-0,PEN,4,,77,CeciliaMAFFEI,6559,ITA,PEN,
-1,1,2,,118,KIMGeonHee,9188,KOR,1:32.331,Q
-1,2,3,,116,KONYAZsofia,7701,HUN,1:32.537,
-1,3,5,,134,YuliaSHISHKINA,8680,RUS,1:32.724,
-1,4,1,,123,IongAKIM,9192,KAZ,1:32.848,
-1,5,4,,47,TatianaBORODULINA,7483,RUS,1:32.994,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,1,3,,20,JessicaKOOREMAN,7649,USA,1:36.966,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,2,1,,33,KaterinaNOVOTNA,6647,CZE,1:37.225,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,3,2,,75,SZILICZEI-NEMETRebeka,8737,HUN,1:37.456,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,4,6,,81,PetraVANKOVA,8705,CZE,1:37.965,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,5,5,,129,TinekedenDULK,9121,NED,1:53.871,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,1,PEN,4,,77,CeciliaMAFFEI,6559,ITA,PEN,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,2,1,2,,118,KIMGeonHee,9188,KOR,1:32.331,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,2,2,3,,116,KONYAZsofia,7701,HUN,1:32.537,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,2,3,5,,134,YuliaSHISHKINA,8680,RUS,1:32.724,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,2,4,1,,123,IongAKIM,9192,KAZ,1:32.848,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),1000m(2),w,Rep.Semifinals,2,5,4,,47,TatianaBORODULINA,7483,RUS,1:32.994,

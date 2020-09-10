@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,2,ShaolinSandorLIU,7928,HUN,40.781,QA
-0,2,1,,10,SamuelGIRARD,8600,CAN,40.879,QA
-0,3,2,,60,SHULGINOVAlexander,8752,RUS,40.919,QB
-0,4,5,,204,KIKUCHIKota,8620,JPN,41.105,QB
-0,PEN,3,,215,YANGShuai,9447,CHN,PEN,
-1,1,1,,3,HWANGDaeHeon,9115,KOR,40.802,QA
-1,2,3,,124,BLAISCedrik,8998,CAN,40.871,QA
-1,3,2,,7,RENZiwei,8601,CHN,40.930,QB
-1,4,4,,155,PARKJiWon,8765,KOR,40.952,QB
-1,5,5,,55,CharleCOURNOYER,8063,CAN,41.392,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,1,1,4,,2,ShaolinSandorLIU,7928,HUN,40.781,QA
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,1,2,1,,10,SamuelGIRARD,8600,CAN,40.879,QA
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,1,3,2,,60,SHULGINOVAlexander,8752,RUS,40.919,QB
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,1,4,5,,204,KIKUCHIKota,8620,JPN,41.105,QB
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,1,PEN,3,,215,YANGShuai,9447,CHN,PEN,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,2,1,1,,3,HWANGDaeHeon,9115,KOR,40.802,QA
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,2,2,3,,124,BLAISCedrik,8998,CAN,40.871,QA
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,2,3,2,,7,RENZiwei,8601,CHN,40.930,QB
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,2,4,4,,155,PARKJiWon,8765,KOR,40.952,QB
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(1),m,Semifinals,2,5,5,,55,CharleCOURNOYER,8063,CAN,41.392,

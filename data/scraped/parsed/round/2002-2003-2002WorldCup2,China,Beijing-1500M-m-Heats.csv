@@ -1,34 +1,34 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,72,NicolaRODIGARI,6332,ITA,2:32.823,Q
-0,2,6,,55,LIYe,6655,CHN,2:32.906,Q
-0,3,4,,61,SebastianPRAUS,6364,GER,2:33.155,Q
-0,4,1,,89,VolodymyrCHERNEGA,6041,UKR,2:36.011,
-0,DQ,2,,80,TSOGGERELDavaanyam,6562,MGL,DQ,
-0,DQ,5,,48,LubomirPOPOVSKI,6598,BUL,DQ,
-1,1,5,,83,LEESeung-Jae,6621,KOR,2:29.850,Q
-1,2,3,,43,MarkMcNEE,6432,AUS,2:30.036,Q
-1,3,1,,50,Francois-LouisTREMBLAY,6704,CAN,2:30.069,Q
-1,4,6,,67,JonELEY,6592,GBR,2:30.457,
-1,5,4,,90,MOMSIKSergei,6752,UKR,2:34.195,
-1,DQ,2,,81,SHIJIRBAATARShagdar,6564,MGL,DQ,
-2,1,6,,54,Jean-FrancoisMONETTE,7096,CAN,2:24.126,Q
-2,2,2,,58,LIUYingBao,6554,CHN,2:24.178,Q
-2,3,3,,71,NicolaFRANCESCHINA,6331,ITA,2:24.264,Q
-2,4,5,,60,ArianNACHBAR,6637,GER,2:24.458,
-2,5,1,,76,TakehiroKODERA,6324,JPN,2:25.101,
-2,6,4,,88,YevgenYAKOVLEV,6751,UKR,2:28.496,
-3,2,2,,78,HayatoSUEYOSHI,6321,JPN,2:31.335,Q
-3,3,1,,65,LeonFLACK,6641,GBR,2:31.513,Q
-3,4,4,,46,KirilPANDOV,6779,BUL,2:31.996,
-3,5,3,,79,GanbatJARGALANCHULUUN,6543,MGL,2:53.522,
-4,1,4,,87,AHNHyun-Soo,6618,KOR,2:43.560,Q
-4,2,3,,40,AlexMcEWAN,6428,AUS,2:44.362,Q
-4,3,2,,45,SimonvanVOSSEL,7098,BEL,2:44.598,Q
-4,4,1,,47,AssenPANDOV,6778,BUL,2:44.809,
-4,DQ,5,,66,TomIVESON,6898,GBR,DQ,
-5,1,5,,74,SatoruTERAO,6320,JPN,2:23.400,Q
-5,2,4,,86,YEOJun-Hyung,6948,KOR,2:23.425,Q
-5,3,2,,57,GUOWei,6654,CHN,2:23.588,Q
-5,4,6,,63,AndreHARTWIG,6635,GER,2:24.389,
-5,5,3,,42,StephenLEE,6002,AUS,2:26.217,
-5,DQ,1,,52,EricBEDARD,6703,CAN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,1,3,,72,NicolaRODIGARI,6332,ITA,2:32.823,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,2,6,,55,LIYe,6655,CHN,2:32.906,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,3,4,,61,SebastianPRAUS,6364,GER,2:33.155,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,4,1,,89,VolodymyrCHERNEGA,6041,UKR,2:36.011,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,DQ,2,,80,TSOGGERELDavaanyam,6562,MGL,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,1,DQ,5,,48,LubomirPOPOVSKI,6598,BUL,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,1,5,,83,LEESeung-Jae,6621,KOR,2:29.850,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,2,3,,43,MarkMcNEE,6432,AUS,2:30.036,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,3,1,,50,Francois-LouisTREMBLAY,6704,CAN,2:30.069,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,4,6,,67,JonELEY,6592,GBR,2:30.457,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,5,4,,90,MOMSIKSergei,6752,UKR,2:34.195,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,2,DQ,2,,81,SHIJIRBAATARShagdar,6564,MGL,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,1,6,,54,Jean-FrancoisMONETTE,7096,CAN,2:24.126,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,2,2,,58,LIUYingBao,6554,CHN,2:24.178,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,3,3,,71,NicolaFRANCESCHINA,6331,ITA,2:24.264,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,4,5,,60,ArianNACHBAR,6637,GER,2:24.458,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,5,1,,76,TakehiroKODERA,6324,JPN,2:25.101,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,3,6,4,,88,YevgenYAKOVLEV,6751,UKR,2:28.496,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,4,2,2,,78,HayatoSUEYOSHI,6321,JPN,2:31.335,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,4,3,1,,65,LeonFLACK,6641,GBR,2:31.513,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,4,4,4,,46,KirilPANDOV,6779,BUL,2:31.996,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,4,5,3,,79,GanbatJARGALANCHULUUN,6543,MGL,2:53.522,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,5,1,4,,87,AHNHyun-Soo,6618,KOR,2:43.560,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,5,2,3,,40,AlexMcEWAN,6428,AUS,2:44.362,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,5,3,2,,45,SimonvanVOSSEL,7098,BEL,2:44.598,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,5,4,1,,47,AssenPANDOV,6778,BUL,2:44.809,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,5,DQ,5,,66,TomIVESON,6898,GBR,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,1,5,,74,SatoruTERAO,6320,JPN,2:23.400,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,2,4,,86,YEOJun-Hyung,6948,KOR,2:23.425,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,3,2,,57,GUOWei,6654,CHN,2:23.588,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,4,6,,63,AndreHARTWIG,6635,GER,2:24.389,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,5,3,,42,StephenLEE,6002,AUS,2:26.217,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,Heats,6,DQ,1,,52,EricBEDARD,6703,CAN,DQ,

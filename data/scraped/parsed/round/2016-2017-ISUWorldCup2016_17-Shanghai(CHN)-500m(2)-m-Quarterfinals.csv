@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,ShaolinSandorLIU,7928,HUN,41.134,Q
-0,2,2,,62,KNEGTSjinkie,7352,NED,41.531,Q
-0,3,4,,84,CASSINELLIAndrea,7741,ITA,42.202,
-0,4,5,,80,JoshuaCHEETHAM,7925,GBR,42.352,
-0,5,3,,60,LEEJungSu,7266,KOR,42.560,
-1,1,1,,6,WUDajing,7729,CHN,40.496,Q
-1,2,2,,101,AydarBEKZHANOV,7623,KAZ,41.178,Q
-1,3,5,,13,John-HenryKRUEGER,7763,USA,41.250,
-1,4,3,,29,JUNGHyunWoo(Andy),8575,AUS,41.574,
-1,5,4,,179,HOOGERWERFDylan,8497,NED,41.737,
-2,2,2,,93,CsabaBURJAN,7738,HUN,41.624,Q
-2,3,5,,97,RENZiwei,8601,CHN,41.858,
-2,4,4,,95,AdwinSNELLINK,7935,NED,1:07.821,
-2,PEN,3,,61,FrancoisHAMELIN,6167,CAN,PEN,
-3,1,3,,52,SemenELISTRATOV,7293,RUS,41.119,Q
-3,2,2,,53,CharleCOURNOYER,8063,CAN,41.211,Q
-3,3,4,,1,HANTianyu,8388,CHN,41.466,
-3,4,6,,176,DIONPascal,8999,CAN,41.699,
-3,5,1,,8,SEOYiRa,7940,KOR,41.856,
-3,6,5,,186,EYBOGDaniil,8661,RUS,42.583,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,1,1,1,,3,ShaolinSandorLIU,7928,HUN,41.134,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,1,2,2,,62,KNEGTSjinkie,7352,NED,41.531,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,1,3,4,,84,CASSINELLIAndrea,7741,ITA,42.202,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,1,4,5,,80,JoshuaCHEETHAM,7925,GBR,42.352,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,1,5,3,,60,LEEJungSu,7266,KOR,42.560,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,2,1,1,,6,WUDajing,7729,CHN,40.496,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,2,2,2,,101,AydarBEKZHANOV,7623,KAZ,41.178,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,2,3,5,,13,John-HenryKRUEGER,7763,USA,41.250,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,2,4,3,,29,JUNGHyunWoo(Andy),8575,AUS,41.574,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,2,5,4,,179,HOOGERWERFDylan,8497,NED,41.737,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,3,2,2,,93,CsabaBURJAN,7738,HUN,41.624,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,3,3,5,,97,RENZiwei,8601,CHN,41.858,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,3,4,4,,95,AdwinSNELLINK,7935,NED,1:07.821,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,3,PEN,3,,61,FrancoisHAMELIN,6167,CAN,PEN,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,1,3,,52,SemenELISTRATOV,7293,RUS,41.119,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,2,2,,53,CharleCOURNOYER,8063,CAN,41.211,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,3,4,,1,HANTianyu,8388,CHN,41.466,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,4,6,,176,DIONPascal,8999,CAN,41.699,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,5,1,,8,SEOYiRa,7940,KOR,41.856,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),m,Quarterfinals,4,6,5,,186,EYBOGDaniil,8661,RUS,42.583,

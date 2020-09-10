@@ -1,32 +1,32 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,9,MathieuTURCOTTE,6705,CAN,1:29.246,Q
-0,2,2,,41,EitokuIKE,6346,JPN,1:29.724,Q
-0,3,4,,33,PaulSTANLEY,7054,GBR,1:30.277,
-0,DQ,3,,21,MaximeCHATAIGNIER,6106,FRA,DQ,
-1,1,2,,32,JonELEY,6592,GBR,1:30.123,Q
-1,2,3,,12,LIYe,6655,CHN,1:30.152,Q
-1,3,4,,36,CONFORTOLAYuri,6561,ITA,1:30.247,
-1,4,1,,55,AlexanderSEKISOV,6107,RUS,1:30.569,
-2,1,4,,52,SONGKyung-Taek,6574,KOR,1:29.483,Q
-2,2,2,,37,NicolaFRANCESCHINA,6331,ITA,1:29.566,Q
-2,3,3,,23,MatthieudeBOISSET,6467,FRA,1:29.619,
-2,4,1,,66,ShaniDAVIS,6498,USA,1:54.178,
-3,1,1,,50,LEESeung-Jae,6621,KOR,1:30.645,Q
-3,2,2,,42,TakafumiNISHITANI,6323,JPN,1:30.709,Q
-3,3,3,,25,ArianNACHBAR,6637,GER,1:30.812,
-3,4,4,,56,AlexanderGERTSIKOV,6570,RUS,1:30.888,
-4,2,3,,10,HAMELINCharles,6610,CAN,1:31.017,Q
-4,3,2,,45,HaraldsSILOVS,6458,LAT,1:32.407,
-4,4,4,,62,VolodymyrCHERNEGA,6041,UKR,1:33.436,
-5,1,2,,8,SteveROBILLARD,6494,CAN,1:33.712,Q
-5,2,4,,65,ApoloAntonOHNO,6497,USA,1:33.846,Q
-5,3,1,,61,VolodymyrGRYGORIEV,6741,UKR,1:33.982,
-5,4,3,,48,MatthewFULLER,6448,NZL,1:35.261,
-6,1,2,,11,LIJiajun,7095,CHN,1:32.476,Q
-6,2,3,,26,AndreHARTWIG,6635,GER,1:32.645,Q
-6,3,1,,22,JeanCharlesMATTEI,6057,FRA,1:33.340,
-6,DQ,4,,64,RustySMITH,6496,USA,DQ,
-7,1,2,,38,NicolaRODIGARI,6332,ITA,1:32.723,Q
-7,2,4,,13,LIHaonan,6658,CHN,1:32.748,Q
-7,3,1,,27,SebastianPRAUS,6364,GER,1:32.773,
-7,4,3,,1,AlexMcEWAN,6428,AUS,1:33.517,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,1,1,1,,9,MathieuTURCOTTE,6705,CAN,1:29.246,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,1,2,2,,41,EitokuIKE,6346,JPN,1:29.724,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,1,3,4,,33,PaulSTANLEY,7054,GBR,1:30.277,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,1,DQ,3,,21,MaximeCHATAIGNIER,6106,FRA,DQ,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,2,1,2,,32,JonELEY,6592,GBR,1:30.123,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,2,2,3,,12,LIYe,6655,CHN,1:30.152,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,2,3,4,,36,CONFORTOLAYuri,6561,ITA,1:30.247,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,2,4,1,,55,AlexanderSEKISOV,6107,RUS,1:30.569,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,3,1,4,,52,SONGKyung-Taek,6574,KOR,1:29.483,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,3,2,2,,37,NicolaFRANCESCHINA,6331,ITA,1:29.566,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,3,3,3,,23,MatthieudeBOISSET,6467,FRA,1:29.619,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,3,4,1,,66,ShaniDAVIS,6498,USA,1:54.178,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,4,1,1,,50,LEESeung-Jae,6621,KOR,1:30.645,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,4,2,2,,42,TakafumiNISHITANI,6323,JPN,1:30.709,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,4,3,3,,25,ArianNACHBAR,6637,GER,1:30.812,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,4,4,4,,56,AlexanderGERTSIKOV,6570,RUS,1:30.888,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,5,2,3,,10,HAMELINCharles,6610,CAN,1:31.017,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,5,3,2,,45,HaraldsSILOVS,6458,LAT,1:32.407,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,5,4,4,,62,VolodymyrCHERNEGA,6041,UKR,1:33.436,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,6,1,2,,8,SteveROBILLARD,6494,CAN,1:33.712,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,6,2,4,,65,ApoloAntonOHNO,6497,USA,1:33.846,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,6,3,1,,61,VolodymyrGRYGORIEV,6741,UKR,1:33.982,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,6,4,3,,48,MatthewFULLER,6448,NZL,1:35.261,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,7,1,2,,11,LIJiajun,7095,CHN,1:32.476,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,7,2,3,,26,AndreHARTWIG,6635,GER,1:32.645,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,7,3,1,,22,JeanCharlesMATTEI,6057,FRA,1:33.340,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,7,DQ,4,,64,RustySMITH,6496,USA,DQ,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,8,1,2,,38,NicolaRODIGARI,6332,ITA,1:32.723,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,8,2,4,,13,LIHaonan,6658,CHN,1:32.748,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,8,3,1,,27,SebastianPRAUS,6364,GER,1:32.773,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,m,Heats,8,4,3,,1,AlexMcEWAN,6428,AUS,1:33.517,

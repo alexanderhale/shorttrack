@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,17,LIUQiuhong,6286,CHN,44.615,QA
-0,2,2,,42,AriannaFONTANA,6227,ITA,44.720,QA
-0,3,3,,59,PARKSeung-Hi,7164,KOR,44.923,QB
-0,4,4,,35,ErikaHUSZAR,6373,HUN,45.638,QB
-1,1,3,,15,FUTianYu,6650,CHN,44.969,QA
-1,2,1,,18,ZHAONannan,7150,CHN,44.997,QA
-1,3,4,,11,TaniaVICENT,6662,CAN,45.101,QB
-1,4,2,,4,EvgeniaRADANOVA,6775,BUL,45.811,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,1,1,1,,17,LIUQiuhong,6286,CHN,44.615,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,1,2,2,,42,AriannaFONTANA,6227,ITA,44.720,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,1,3,3,,59,PARKSeung-Hi,7164,KOR,44.923,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,1,4,4,,35,ErikaHUSZAR,6373,HUN,45.638,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,2,1,3,,15,FUTianYu,6650,CHN,44.969,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,2,2,1,,18,ZHAONannan,7150,CHN,44.997,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,2,3,4,,11,TaniaVICENT,6662,CAN,45.101,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(2),w,Semifinals,2,4,2,,4,EvgeniaRADANOVA,6775,BUL,45.811,QB

@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,113,XIAOHan,7962,CHN,45.630,Q,
-0,2,4,,145,vanRUIJVENLara,7710,NED,46.490,Q,
-0,3,3,,134,VIVIANIElena,7583,ITA,1:29.205,ADV,
-1,1,1,,133,VALCEPINAMartina,7159,ITA,45.215,Q,
-1,2,2,,114,LINMeng,7697,CHN,45.524,Q,
-1,3,3,,132,VALCEPINAArianna,7705,ITA,45.746,,
-1,4,4,,126,VeronikaDENES,7394,HUN,46.496,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,1,1,1,,113,XIAOHan,7962,CHN,45.630,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,1,2,4,,145,vanRUIJVENLara,7710,NED,46.490,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,1,3,3,,134,VIVIANIElena,7583,ITA,1:29.205,ADV,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,2,1,1,,133,VALCEPINAMartina,7159,ITA,45.215,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,2,2,2,,114,LINMeng,7697,CHN,45.524,Q,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,2,3,3,,132,VALCEPINAArianna,7705,ITA,45.746,,
+2010-2011,"2011 ISU World Junior Championships, ITA, Courmayeur",500m,w,Semifinals,2,4,4,,126,VeronikaDENES,7394,HUN,46.496,,

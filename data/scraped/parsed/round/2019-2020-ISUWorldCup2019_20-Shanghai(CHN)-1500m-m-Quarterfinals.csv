@@ -1,43 +1,43 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,19,SHULGINOVAlexander,8752,RUS,2:15.848,Q
-0,2,1,,13,CONFORTOLAYuri,6561,ITA,2:16.143,Q
-0,3,5,,182,CASSINELLIAndrea,7741,ITA,2:16.236,q
-0,4,4,,144,KRUZBERGSKarlis,8629,LAT,2:16.321,
-0,5,3,,180,PIVIROTTORyan,8650,USA,2:16.897,
-0,6,6,,113,ADAMSKIPawel,9284,POL,2:21.542,
-1,1,6,,158,HANTianyu,8388,CHN,2:27.000,Q
-1,2,1,,97,ANKai,9168,CHN,2:27.079,Q
-1,3,3,,27,KRUZBERGSRoberts,9117,LAT,2:27.248,q
-1,4,2,,29,GALIAKHMETOVAdil,9260,KAZ,2:27.683,
-1,5,4,,143,CHOEUnSong,9063,PRK,2:27.784,
-1,6,5,,24,BYKANOVVladislav,6178,ISR,2:28.177,
-2,1,7,,3,SemenELISTRATOV,7293,RUS,2:48.356,Q
-2,2,2,,64,DIONPascal,8999,CAN,2:48.632,Q
-2,3,4,,80,EMONSFriso,9276,NED,2:49.014,
-2,4,3,,104,KAZHGALINurtilek,8676,KAZ,2:49.318,
-2,5,6,,94,SUNLong,9454,CHN,2:49.979,
-2,6,1,,159,SELLIERDiane,9237,FRA,2:58.792,
-2,DNF,5,,170,KIMDagyeom,8766,KOR,DNF,
-3,1,1,,21,LEPAPESebastien,7554,FRA,2:26.884,Q
-3,2,3,,23,YOSHINAGAKazuki,8745,JPN,2:26.973,Q
-3,3,2,,36,HANDEIOleh,9073,UKR,2:27.353,q
-3,4,4,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:27.377,
-3,5,6,,114,MateuszKRZEMINSKI,9412,POL,2:29.578,
-3,6,5,,77,BREEUWSMADaan,7218,NED,notime,
-4,2,1,,164,HAYASHIIbuki,9403,JPN,2:17.444,Q
-4,3,5,,22,TRANAaron,8528,USA,2:17.988,q
-4,4,4,,193,DaniilKRASNOKUTSKII,9558,RUS,2:18.136,
-4,5,2,,130,NEMIROVladyslav,8719,UKR,2:21.585,
-4,6,3,,15,LUEDTKEAdrian,9104,GER,notime,
-5,1,2,,7,LEEJuneSeo,9370,KOR,2:36.788,Q
-5,2,5,,16,deLAATItzhak,7746,NED,2:36.897,Q
-5,3,4,,186,SebastienGAGNON,8547,CAN,2:37.082,
-5,4,3,,141,HEOAndrew,9443,USA,2:37.847,
-5,5,6,,121,MURPHYPeter,9269,LUX,2:41.049,
-5,PEN,1,,25,BLUNDENKeanu,8593,AUS,PEN,
-6,1,2,,190,MIYATAShogo,9460,JPN,2:33.374,Q
-6,2,1,,11,DOTTITommaso,7604,ITA,2:33.427,Q
-6,3,5,,9,DUBOISSteven,9092,CAN,2:33.508,q
-6,4,3,,93,ColeWilliamIsaacKRUEGER,9329,HUN,2:33.530,
-6,5,4,,33,AlexVARNYU,8337,HUN,2:33.658,
-6,6,6,,184,AleksandrZHERMANOV,9615,BLR,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,1,2,,19,SHULGINOVAlexander,8752,RUS,2:15.848,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,2,1,,13,CONFORTOLAYuri,6561,ITA,2:16.143,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,3,5,,182,CASSINELLIAndrea,7741,ITA,2:16.236,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,4,4,,144,KRUZBERGSKarlis,8629,LAT,2:16.321,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,5,3,,180,PIVIROTTORyan,8650,USA,2:16.897,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,1,6,6,,113,ADAMSKIPawel,9284,POL,2:21.542,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,1,6,,158,HANTianyu,8388,CHN,2:27.000,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,2,1,,97,ANKai,9168,CHN,2:27.079,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,3,3,,27,KRUZBERGSRoberts,9117,LAT,2:27.248,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,4,2,,29,GALIAKHMETOVAdil,9260,KAZ,2:27.683,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,5,4,,143,CHOEUnSong,9063,PRK,2:27.784,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,2,6,5,,24,BYKANOVVladislav,6178,ISR,2:28.177,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,1,7,,3,SemenELISTRATOV,7293,RUS,2:48.356,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,2,2,,64,DIONPascal,8999,CAN,2:48.632,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,3,4,,80,EMONSFriso,9276,NED,2:49.014,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,4,3,,104,KAZHGALINurtilek,8676,KAZ,2:49.318,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,5,6,,94,SUNLong,9454,CHN,2:49.979,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,6,1,,159,SELLIERDiane,9237,FRA,2:58.792,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,3,DNF,5,,170,KIMDagyeom,8766,KOR,DNF,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,1,1,,21,LEPAPESebastien,7554,FRA,2:26.884,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,2,3,,23,YOSHINAGAKazuki,8745,JPN,2:26.973,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,3,2,,36,HANDEIOleh,9073,UKR,2:27.353,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,4,4,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:27.377,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,5,6,,114,MateuszKRZEMINSKI,9412,POL,2:29.578,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,4,6,5,,77,BREEUWSMADaan,7218,NED,notime,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,5,2,1,,164,HAYASHIIbuki,9403,JPN,2:17.444,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,5,3,5,,22,TRANAaron,8528,USA,2:17.988,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,5,4,4,,193,DaniilKRASNOKUTSKII,9558,RUS,2:18.136,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,5,5,2,,130,NEMIROVladyslav,8719,UKR,2:21.585,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,5,6,3,,15,LUEDTKEAdrian,9104,GER,notime,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,1,2,,7,LEEJuneSeo,9370,KOR,2:36.788,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,2,5,,16,deLAATItzhak,7746,NED,2:36.897,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,3,4,,186,SebastienGAGNON,8547,CAN,2:37.082,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,4,3,,141,HEOAndrew,9443,USA,2:37.847,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,5,6,,121,MURPHYPeter,9269,LUX,2:41.049,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,6,PEN,1,,25,BLUNDENKeanu,8593,AUS,PEN,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,1,2,,190,MIYATAShogo,9460,JPN,2:33.374,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,2,1,,11,DOTTITommaso,7604,ITA,2:33.427,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,3,5,,9,DUBOISSteven,9092,CAN,2:33.508,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,4,3,,93,ColeWilliamIsaacKRUEGER,9329,HUN,2:33.530,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,5,4,,33,AlexVARNYU,8337,HUN,2:33.658,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),1500m,m,Quarterfinals,7,6,6,,184,AleksandrZHERMANOV,9615,BLR,notime,

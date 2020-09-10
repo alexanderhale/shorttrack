@@ -1,41 +1,41 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,82,FiratYARDIMCI,8520,TUR,41.938,Q
-0,2,2,,207,NielsKINGMA,9552,NED,42.037,
-0,3,3,,123,SkylerKAH,9215,AUS,42.104,
-0,4,5,,92,EdinBRANKOVIC,7256,BIH,44.126,
-0,5,4,,198,TENZERRobin,9528,GER,50.256,
-1,1,1,,139,ANTONIOLIMattia,8572,ITA,42.234,Q
-1,2,3,,185,HANDEIVolodymyr,8525,UKR,42.685,
-1,3,5,,195,LucaLOEFFLER,9241,GER,44.350,
-1,4,4,,36,NicolasLABORDE,9096,COL,1:03.350,
-1,PEN,2,,85,JackBURROWS,9101,GBR,PEN,
-2,1,2,,24,PETREWard,8708,BEL,42.170,Q
-2,2,3,,28,YauheniRYZHOU,7772,BLR,42.214,
-2,3,1,,205,KiichiSHIGEHIRO,9110,JPN,42.339,
-2,4,4,,46,ARADHYAAkash,7739,IND,44.123,
-2,5,5,,211,ZenShengSianKOH,9421,SGP,45.421,
-3,1,1,,62,CASSINELLIAndrea,7741,ITA,41.594,Q
-3,2,2,,203,SIGHELPietro,9251,ITA,41.705,
-3,3,3,,189,BLUNDENKeanu,8593,AUS,42.628,
-3,4,4,,148,ReinisBERZINS,9267,LAT,43.329,
-3,5,5,,50,HazimSHAHRUM,9272,MAS,49.027,
-4,1,3,,166,SITNIKOVPavel,9133,RUS,40.910,Q
-4,2,2,,129,JIAHaidong,9229,CHN,41.024,q
-4,3,1,,169,AaronHEO,9302,USA,42.383,
-4,4,4,,115,MARTINICIvan,8700,CRO,45.466,
-4,5,5,,212,LINChun-Chieh,8756,TPE,notime,
-5,1,5,,68,HOOGERWERFDylan,8497,NED,41.953,Q
-5,2,2,,26,HANDEIOleh,9073,UKR,42.219,
-5,3,1,,162,MateuszKRZEMINSKI,9412,POL,42.398,
-5,4,3,,194,FlorianBECKER,9305,GER,43.138,
-5,5,4,,193,FAJKUSRadek,9335,CZE,55.891,
-6,1,1,,145,TeppeiKIKUCHI,8686,JPN,42.479,Q
-6,2,4,,105,TunaySIMSEK,8758,TUR,42.537,
-6,3,3,,134,TREACYEthan,9323,GBR,42.733,
-6,4,2,,45,ANIKEJRafal,8749,POL,42.735,
-6,5,5,,184,KANCHARINNatthapat,9428,THA,44.165,
-7,1,1,,199,AndrasSZIKLASI,9053,HUN,42.885,Q
-7,2,2,,170,JonathanSO,9442,USA,43.167,ADV
-7,3,4,,160,KUCZYNSKILukasz,8712,POL,43.519,
-7,4,5,,149,VIGANTSEndijs,9118,LAT,44.756,
-7,PEN,3,,206,YevgeniyREBIK,8714,KAZ,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,1,1,1,,82,FiratYARDIMCI,8520,TUR,41.938,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,1,2,2,,207,NielsKINGMA,9552,NED,42.037,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,1,3,3,,123,SkylerKAH,9215,AUS,42.104,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,1,4,5,,92,EdinBRANKOVIC,7256,BIH,44.126,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,1,5,4,,198,TENZERRobin,9528,GER,50.256,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,2,1,1,,139,ANTONIOLIMattia,8572,ITA,42.234,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,2,2,3,,185,HANDEIVolodymyr,8525,UKR,42.685,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,2,3,5,,195,LucaLOEFFLER,9241,GER,44.350,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,2,4,4,,36,NicolasLABORDE,9096,COL,1:03.350,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,2,PEN,2,,85,JackBURROWS,9101,GBR,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,3,1,2,,24,PETREWard,8708,BEL,42.170,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,3,2,3,,28,YauheniRYZHOU,7772,BLR,42.214,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,3,3,1,,205,KiichiSHIGEHIRO,9110,JPN,42.339,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,3,4,4,,46,ARADHYAAkash,7739,IND,44.123,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,3,5,5,,211,ZenShengSianKOH,9421,SGP,45.421,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,4,1,1,,62,CASSINELLIAndrea,7741,ITA,41.594,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,4,2,2,,203,SIGHELPietro,9251,ITA,41.705,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,4,3,3,,189,BLUNDENKeanu,8593,AUS,42.628,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,4,4,4,,148,ReinisBERZINS,9267,LAT,43.329,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,4,5,5,,50,HazimSHAHRUM,9272,MAS,49.027,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,5,1,3,,166,SITNIKOVPavel,9133,RUS,40.910,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,5,2,2,,129,JIAHaidong,9229,CHN,41.024,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,5,3,1,,169,AaronHEO,9302,USA,42.383,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,5,4,4,,115,MARTINICIvan,8700,CRO,45.466,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,5,5,5,,212,LINChun-Chieh,8756,TPE,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,6,1,5,,68,HOOGERWERFDylan,8497,NED,41.953,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,6,2,2,,26,HANDEIOleh,9073,UKR,42.219,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,6,3,1,,162,MateuszKRZEMINSKI,9412,POL,42.398,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,6,4,3,,194,FlorianBECKER,9305,GER,43.138,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,6,5,4,,193,FAJKUSRadek,9335,CZE,55.891,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,7,1,1,,145,TeppeiKIKUCHI,8686,JPN,42.479,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,7,2,4,,105,TunaySIMSEK,8758,TUR,42.537,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,7,3,3,,134,TREACYEthan,9323,GBR,42.733,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,7,4,2,,45,ANIKEJRafal,8749,POL,42.735,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,7,5,5,,184,KANCHARINNatthapat,9428,THA,44.165,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,8,1,1,,199,AndrasSZIKLASI,9053,HUN,42.885,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,8,2,2,,170,JonathanSO,9442,USA,43.167,ADV
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,8,3,4,,160,KUCZYNSKILukasz,8712,POL,43.519,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,8,4,5,,149,VIGANTSEndijs,9118,LAT,44.756,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),500m,m,Rep.Quarterfinals,8,PEN,3,,206,YevgeniyREBIK,8714,KAZ,PEN,

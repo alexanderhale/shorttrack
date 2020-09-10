@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,46,VALCEPINAMartina,7159,ITA,46.042,Q,
-0,2,4,,6,EvgeniaRADANOVA,6775,BUL,46.116,Q,
-0,3,2,,33,RozsaDARAZS,6797,HUN,46.203,,
-0,4,3,,52,AnnitavanDOORN,6440,NED,1:24.666,,
-1,2,2,,32,ErikaHUSZAR,6373,HUN,44.924,Q,
-1,3,4,,60,AidaBELLA,7538,POL,44.989,,
-1,4,5,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.102,,
-1,5,3,,20,ChristinPRIEBST,6078,GER,45.751,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,1,1,1,,46,VALCEPINAMartina,7159,ITA,46.042,Q,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,1,2,4,,6,EvgeniaRADANOVA,6775,BUL,46.116,Q,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,1,3,2,,33,RozsaDARAZS,6797,HUN,46.203,,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,1,4,3,,52,AnnitavanDOORN,6440,NED,1:24.666,,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,2,2,2,,32,ErikaHUSZAR,6373,HUN,44.924,Q,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,2,3,4,,60,AidaBELLA,7538,POL,44.989,,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,2,4,5,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.102,,
+2008-2009,"2009 ISU European Championships, Italy",500M,w,Semifinals,2,5,3,,20,ChristinPRIEBST,6078,GER,45.751,,

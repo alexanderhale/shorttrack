@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,159,LEEHan-Bin,7444,KOR,41.935,Q
-0,2,2,,150,TakayukiMURATAKE,7442,JPN,42.471,
-0,3,4,,161,SINdaWoon,8035,KOR,45.782,
-0,4,1,,113,LIANGWenhao,7594,CHN,1:14.538,
-1,1,1,,165,NielsKERSTHOLT,7067,NED,41.923,Q
-1,2,2,,137,BenceBERES,7438,HUN,42.349,
-1,PEN,3,,119,LEPAPESebastien,7554,FRA,PEN,
-1,PEN,4,,126,JonELEY,6592,GBR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,1,1,3,,159,LEEHan-Bin,7444,KOR,41.935,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,1,2,2,,150,TakayukiMURATAKE,7442,JPN,42.471,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,1,3,4,,161,SINdaWoon,8035,KOR,45.782,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,1,4,1,,113,LIANGWenhao,7594,CHN,1:14.538,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,2,1,1,,165,NielsKERSTHOLT,7067,NED,41.923,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,2,2,2,,137,BenceBERES,7438,HUN,42.349,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,2,PEN,3,,119,LEPAPESebastien,7554,FRA,PEN,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,RepSemifinals,2,PEN,4,,126,JonELEY,6592,GBR,PEN,

@@ -1,33 +1,33 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,242,PARKSeYeong,7750,KOR,41.566,Q
-0,2,3,,231,SatoshiSAKASHITA,6183,JPN,41.629,Q
-0,3,1,,225,BYKANOVVladislav,6178,ISR,41.769,
-0,4,4,,201,PierreBODA,7588,AUS,42.702,
-1,1,1,,203,CharleCOURNOYER,8063,CAN,41.180,Q
-1,2,2,,249,FreekvanderWART,7269,NED,41.190,Q
-1,3,4,,224,ShaolinSandorLIU,7928,HUN,41.683,
-1,4,3,,228,AnthonyLOBELLO,8441,ITA,42.133,
-2,1,3,,210,LIANGWenhao,7594,CHN,41.647,Q
-2,2,1,,240,LEEHan-Bin,7444,KOR,41.982,Q
-2,3,2,,226,CONFORTOLAYuri,6561,ITA,42.042,
-2,4,4,,256,EduardoALVAREZ,7617,USA,1:15.108,
-3,1,3,,209,HANTianyu,8388,CHN,41.592,Q
-3,2,2,,252,VladimirGRIGOREV,7826,RUS,41.883,Q
-3,3,1,,216,LEPAPESebastien,7554,FRA,42.167,
-3,4,4,,219,JackWHELBOURNE,7437,GBR,42.513,
-4,1,4,,250,VictorAN,8344,RUS,41.450,Q
-4,2,2,,217,JonELEY,6592,GBR,41.554,Q
-4,3,1,,235,AydarBEKZHANOV,7623,KAZ,41.800,
-4,4,3,,260,JordanMALONE,6201,USA,42.533,
-5,1,2,,212,WUDajing,7729,CHN,41.712,Q
-5,2,1,,223,ViktorKNOCH,6177,HUN,42.261,Q
-5,3,3,,247,NielsKERSTHOLT,7067,NED,42.441,
-5,4,4,,238,NurbergenZHUMAGAZIYEV,7349,KAZ,42.680,
-6,1,4,,207,OlivierJEAN,6756,CAN,41.616,Q
-6,2,2,,258,J.R.CELSKI,7279,USA,41.717,Q
-6,3,3,,255,BLACKBURNMackenzie,7434,TPE,42.337,
-6,4,1,,215,ThibautFAUCONNET,6785,FRA,42.368,
-7,1,1,,248,KNEGTSjinkie,7352,NED,41.235,Q
-7,2,4,,251,SemenELISTRATOV,7293,RUS,41.355,Q
-7,3,2,,220,RobertSEIFERT,6176,GER,41.624,
-7,4,3,,205,HAMELINCharles,6610,CAN,1:18.871,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,1,1,2,,242,PARKSeYeong,7750,KOR,41.566,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,1,2,3,,231,SatoshiSAKASHITA,6183,JPN,41.629,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,1,3,1,,225,BYKANOVVladislav,6178,ISR,41.769,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,1,4,4,,201,PierreBODA,7588,AUS,42.702,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,2,1,1,,203,CharleCOURNOYER,8063,CAN,41.180,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,2,2,2,,249,FreekvanderWART,7269,NED,41.190,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,2,3,4,,224,ShaolinSandorLIU,7928,HUN,41.683,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,2,4,3,,228,AnthonyLOBELLO,8441,ITA,42.133,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,3,1,3,,210,LIANGWenhao,7594,CHN,41.647,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,3,2,1,,240,LEEHan-Bin,7444,KOR,41.982,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,3,3,2,,226,CONFORTOLAYuri,6561,ITA,42.042,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,3,4,4,,256,EduardoALVAREZ,7617,USA,1:15.108,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,4,1,3,,209,HANTianyu,8388,CHN,41.592,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,4,2,2,,252,VladimirGRIGOREV,7826,RUS,41.883,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,4,3,1,,216,LEPAPESebastien,7554,FRA,42.167,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,4,4,4,,219,JackWHELBOURNE,7437,GBR,42.513,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,5,1,4,,250,VictorAN,8344,RUS,41.450,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,5,2,2,,217,JonELEY,6592,GBR,41.554,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,5,3,1,,235,AydarBEKZHANOV,7623,KAZ,41.800,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,5,4,3,,260,JordanMALONE,6201,USA,42.533,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,6,1,2,,212,WUDajing,7729,CHN,41.712,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,6,2,1,,223,ViktorKNOCH,6177,HUN,42.261,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,6,3,3,,247,NielsKERSTHOLT,7067,NED,42.441,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,6,4,4,,238,NurbergenZHUMAGAZIYEV,7349,KAZ,42.680,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,7,1,4,,207,OlivierJEAN,6756,CAN,41.616,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,7,2,2,,258,J.R.CELSKI,7279,USA,41.717,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,7,3,3,,255,BLACKBURNMackenzie,7434,TPE,42.337,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,7,4,1,,215,ThibautFAUCONNET,6785,FRA,42.368,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,8,1,1,,248,KNEGTSjinkie,7352,NED,41.235,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,8,2,4,,251,SemenELISTRATOV,7293,RUS,41.355,Q
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,8,3,2,,220,RobertSEIFERT,6176,GER,41.624,
+2013-2014,Sochi 2014 Olympic Winter Games,500m,m,Heats,8,4,3,,205,HAMELINCharles,6610,CAN,1:18.871,

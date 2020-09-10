@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,,ANYulong,6656,CHN,43.267,
-0,2,1,,,MaurizioCARNINO,6333,ITA,43.363,
-0,3,4,,,LIYe,6655,CHN,43.411,
-0,4,3,,,YevgenYAKOVLEV,6751,UKR,43.917,
-1,1,3,,,FENGKai,6058,CHN,43.258,
-1,2,2,,,JeffSCHOLTEN,6604,CAN,43.389,
-1,3,1,,,ArianNACHBAR,6637,GER,43.595,
-1,4,4,,,FabioCARTA,6001,ITA,43.786,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,1,1,2,,,ANYulong,6656,CHN,43.267,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,1,2,1,,,MaurizioCARNINO,6333,ITA,43.363,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,1,3,4,,,LIYe,6655,CHN,43.411,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,1,4,3,,,YevgenYAKOVLEV,6751,UKR,43.917,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,2,1,3,,,FENGKai,6058,CHN,43.258,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,2,2,2,,,JeffSCHOLTEN,6604,CAN,43.389,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,2,3,1,,,ArianNACHBAR,6637,GER,43.595,
+1999-2000,2000 World Cup - Heerenveen,500M,m,SemiFinals,2,4,4,,,FabioCARTA,6001,ITA,43.786,

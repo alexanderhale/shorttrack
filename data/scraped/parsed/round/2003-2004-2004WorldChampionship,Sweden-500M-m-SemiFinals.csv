@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,2,1,,68,LIYe,6655,CHN,49.940,Q,
-0,DQ,3,,107,LEESeung-Jae,6621,KOR,DQ,,
-0,DQ,4,,65,Jean-FrancoisMONETTE,7096,CAN,DQ,,
-1,1,1,,106,SONGSuk-Woo,7086,KOR,43.113,Q,
-1,2,3,,69,LIHaonan,6658,CHN,43.155,Q,
-1,3,4,,67,LIJiajun,7095,CHN,43.255,,
-1,4,2,,63,JonathanGUILMETTE,6702,CAN,43.401,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,1,2,1,,68,LIYe,6655,CHN,49.940,Q,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,1,DQ,3,,107,LEESeung-Jae,6621,KOR,DQ,,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,1,DQ,4,,65,Jean-FrancoisMONETTE,7096,CAN,DQ,,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,2,1,1,,106,SONGSuk-Woo,7086,KOR,43.113,Q,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,2,2,3,,69,LIHaonan,6658,CHN,43.155,Q,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,2,3,4,,67,LIJiajun,7095,CHN,43.255,,
+2003-2004,"2004 World Championship, Sweden",500M,m,SemiFinals,2,4,2,,63,JonathanGUILMETTE,6702,CAN,43.401,,

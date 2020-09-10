@@ -1,25 +1,25 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,15,LUEDTKEAdrian,9104,GER,41.684,Q
-0,2,1,,159,SELLIERDiane,9237,FRA,41.736,q
-0,3,2,,164,HAYASHIIbuki,9403,JPN,41.904,
-0,DNF,4,,144,KRUZBERGSKarlis,8629,LAT,DNF,
-0,PEN,5,,143,CHOEUnSong,9063,PRK,PEN,
-1,1,1,,99,Mellevan'TWOUT,9550,NED,41.567,Q
-1,2,2,,190,MIYATAShogo,9460,JPN,41.640,q
-1,3,4,,36,HANDEIOleh,9073,UKR,41.652,
-1,4,3,,189,OLAHBence,7439,HUN,41.851,
-1,5,5,,121,MURPHYPeter,9269,LUX,45.230,
-2,1,3,,29,GALIAKHMETOVAdil,9260,KAZ,42.245,Q
-2,2,1,,132,KUCZYNSKILukasz,8712,POL,42.478,
-2,3,4,,114,MateuszKRZEMINSKI,9412,POL,42.599,
-2,4,2,,182,CASSINELLIAndrea,7741,ITA,42.950,
-2,5,5,,130,NEMIROVladyslav,8719,UKR,44.086,
-3,1,1,,33,AlexVARNYU,8337,HUN,42.081,Q
-3,2,2,,22,TRANAaron,8528,USA,42.267,
-3,3,4,,46,JUNGHyunWoo(Andy),8575,AUS,42.921,
-3,4,5,,184,AleksandrZHERMANOV,9615,BLR,44.117,
-3,5,3,,27,KRUZBERGSRoberts,9117,LAT,53.436,
-4,1,2,,70,ZHAXYBAYEVMersaid,8623,KAZ,41.420,Q
-4,2,1,,100,SIGHELPietro,9251,ITA,41.508,q
-4,3,3,,90,DavideVISCARDI,7440,ITA,41.660,
-4,4,4,,95,JonathanSO,9442,USA,41.734,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,1,1,3,,15,LUEDTKEAdrian,9104,GER,41.684,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,1,2,1,,159,SELLIERDiane,9237,FRA,41.736,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,1,3,2,,164,HAYASHIIbuki,9403,JPN,41.904,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,1,DNF,4,,144,KRUZBERGSKarlis,8629,LAT,DNF,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,1,PEN,5,,143,CHOEUnSong,9063,PRK,PEN,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,2,1,1,,99,Mellevan'TWOUT,9550,NED,41.567,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,2,2,2,,190,MIYATAShogo,9460,JPN,41.640,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,2,3,4,,36,HANDEIOleh,9073,UKR,41.652,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,2,4,3,,189,OLAHBence,7439,HUN,41.851,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,2,5,5,,121,MURPHYPeter,9269,LUX,45.230,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,3,1,3,,29,GALIAKHMETOVAdil,9260,KAZ,42.245,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,3,2,1,,132,KUCZYNSKILukasz,8712,POL,42.478,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,3,3,4,,114,MateuszKRZEMINSKI,9412,POL,42.599,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,3,4,2,,182,CASSINELLIAndrea,7741,ITA,42.950,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,3,5,5,,130,NEMIROVladyslav,8719,UKR,44.086,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,4,1,1,,33,AlexVARNYU,8337,HUN,42.081,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,4,2,2,,22,TRANAaron,8528,USA,42.267,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,4,3,4,,46,JUNGHyunWoo(Andy),8575,AUS,42.921,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,4,4,5,,184,AleksandrZHERMANOV,9615,BLR,44.117,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,4,5,3,,27,KRUZBERGSRoberts,9117,LAT,53.436,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,5,1,2,,70,ZHAXYBAYEVMersaid,8623,KAZ,41.420,Q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,5,2,1,,100,SIGHELPietro,9251,ITA,41.508,q
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,5,3,3,,90,DavideVISCARDI,7440,ITA,41.660,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),500m(2),m,Rep.Quarterfinals,5,4,4,,95,JonathanSO,9442,USA,41.734,

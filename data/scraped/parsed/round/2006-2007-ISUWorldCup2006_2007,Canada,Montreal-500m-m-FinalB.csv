@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,145,SatoruTERAO,6320,JPN,43.073,
-0,2,3,,109,WimdeDEYNE,6699,BEL,46.099,
-0,DQ,1,,130,JonELEY,6592,GBR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",500m,m,FinalB,1,1,2,,145,SatoruTERAO,6320,JPN,43.073,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",500m,m,FinalB,1,2,3,,109,WimdeDEYNE,6699,BEL,46.099,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",500m,m,FinalB,1,DQ,1,,130,JonELEY,6592,GBR,DQ,

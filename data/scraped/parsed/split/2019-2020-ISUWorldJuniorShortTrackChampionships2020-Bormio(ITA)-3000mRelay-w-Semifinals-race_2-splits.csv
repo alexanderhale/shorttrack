@@ -1,28 +1,28 @@
-KOREA POSITION,KOREA LAP TIME,KOREA ELAPSED TIME,NETHERLANDS POSITION,NETHERLANDS LAP TIME,NETHERLANDS ELAPSED TIME,POLAND POSITION,POLAND LAP TIME,POLAND ELAPSED TIME,JAPAN POSITION,JAPAN LAP TIME,JAPAN ELAPSED TIME
-4,17.64,17.64,1,12.42,12.42,2,12.71,12.71,3,13.15,
-4,9.41,27.05,1,9.21,21.63,2,9.38,22.09,3,9.31,
-4,9.25,36.30,1,9.30,30.93,2,9.38,31.47,3,9.18,
-3,8.98,45.28,1,9.46,40.39,4,18.49,49.96,2,9.17,
-3,9.23,54.51,1,9.53,49.92,4,11.16,1:01.12,2,9.69,
-3,9.09,1:03.60,1,9.17,59.09,4,10.00,1:11.12,2,9.80,
-3,9.10,1:12.70,1,9.11,1:08.20,4,9.76,1:20.88,2,9.63,
-3,9.22,1:21.92,1,9.26,1:17.46,4,9.68,1:30.56,2,9.39,
-3,9.10,1:31.02,1,9.47,1:26.93,4,10.18,1:40.74,2,9.66,
-3,9.11,1:40.13,1,9.67,1:36.60,4,10.20,1:50.94,2,9.71,
-3,9.42,1:49.55,1,9.84,1:46.44,4,9.71,2:00.65,2,10.03,
-3,9.44,1:58.99,1,9.36,1:55.80,4,9.73,2:10.38,2,9.90,
-2,9.28,2:08.27,1,9.36,2:05.16,4,9.69,2:20.07,3,9.69,
-2,9.32,2:17.59,1,9.53,2:14.69,4,9.69,2:29.76,3,9.38,
-2,9.30,2:26.89,1,9.66,2:24.35,4,10.25,2:40.01,3,9.41,
-2,9.16,2:36.05,1,9.78,2:34.13,4,10.26,2:50.27,3,9.63,
-2,9.45,2:45.50,1,9.57,2:43.70,4,9.92,3:00.19,3,10.27,
-2,9.44,2:54.94,1,9.40,2:53.10,4,10.01,3:10.20,3,9.96,
-2,9.71,3:04.65,1,9.37,3:02.47,4,9.91,3:20.11,3,9.94,
-2,9.69,3:14.34,1,9.54,3:12.01,4,9.82,3:29.93,3,9.72,
-2,9.62,3:23.96,1,9.99,3:22.00,4,10.30,3:40.23,3,9.92,
-2,9.52,3:33.48,1,9.76,3:31.76,4,10.53,3:50.76,3,9.95,
-2,9.69,3:43.17,1,9.65,3:41.41,4,10.27,4:01.03,3,10.40,
-2,9.61,3:52.78,1,9.37,3:50.78,4,9.98,4:11.01,3,10.20,
-2,9.50,4:02.28,1,9.49,4:00.27,4,9.81,4:20.82,3,10.00,
-2,9.52,4:11.80,1,9.64,4:09.91,4,9.82,4:30.64,3,9.95,
-2,9.69,4:21.49,1,9.88,4:19.79,4,10.12,4:40.76,3,10.21,
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+4,17.64,17.64,1,12.42,12.42,2,12.71,12.71,3,13.15,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+4,9.41,27.05,1,9.21,21.63,2,9.38,22.09,3,9.31,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+4,9.25,36.30,1,9.30,30.93,2,9.38,31.47,3,9.18,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,8.98,45.28,1,9.46,40.39,4,18.49,49.96,2,9.17,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.23,54.51,1,9.53,49.92,4,11.16,1:01.12,2,9.69,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.09,1:03.60,1,9.17,59.09,4,10.00,1:11.12,2,9.80,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.10,1:12.70,1,9.11,1:08.20,4,9.76,1:20.88,2,9.63,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.22,1:21.92,1,9.26,1:17.46,4,9.68,1:30.56,2,9.39,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.10,1:31.02,1,9.47,1:26.93,4,10.18,1:40.74,2,9.66,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.11,1:40.13,1,9.67,1:36.60,4,10.20,1:50.94,2,9.71,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.42,1:49.55,1,9.84,1:46.44,4,9.71,2:00.65,2,10.03,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+3,9.44,1:58.99,1,9.36,1:55.80,4,9.73,2:10.38,2,9.90,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.28,2:08.27,1,9.36,2:05.16,4,9.69,2:20.07,3,9.69,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.32,2:17.59,1,9.53,2:14.69,4,9.69,2:29.76,3,9.38,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.30,2:26.89,1,9.66,2:24.35,4,10.25,2:40.01,3,9.41,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.16,2:36.05,1,9.78,2:34.13,4,10.26,2:50.27,3,9.63,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.45,2:45.50,1,9.57,2:43.70,4,9.92,3:00.19,3,10.27,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.44,2:54.94,1,9.40,2:53.10,4,10.01,3:10.20,3,9.96,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.71,3:04.65,1,9.37,3:02.47,4,9.91,3:20.11,3,9.94,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.69,3:14.34,1,9.54,3:12.01,4,9.82,3:29.93,3,9.72,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.62,3:23.96,1,9.99,3:22.00,4,10.30,3:40.23,3,9.92,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.52,3:33.48,1,9.76,3:31.76,4,10.53,3:50.76,3,9.95,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.69,3:43.17,1,9.65,3:41.41,4,10.27,4:01.03,3,10.40,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.61,3:52.78,1,9.37,3:50.78,4,9.98,4:11.01,3,10.20,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.50,4:02.28,1,9.49,4:00.27,4,9.81,4:20.82,3,10.00,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.52,4:11.80,1,9.64,4:09.91,4,9.82,4:30.64,3,9.95,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2
+2,9.69,4:21.49,1,9.88,4:19.79,4,10.12,4:40.76,3,10.21,,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,Semifinals,2

@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,49,KONSTANTINOVAEkaterina,8510,RUS,1:30.939,Q
-0,2,3,,50,MONVOISINAurelie,8556,FRA,1:31.215,q
-0,3,4,,87,JACOBSGina,8607,GER,1:31.294,
-0,4,2,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,1:32.174,
-0,5,5,,134,TOPOLSKAGabriela,9411,POL,notime,
-1,1,1,,6,PROSVIRNOVASofia,8509,RUS,1:30.743,Q
-1,2,4,,21,HIRAIAmi,8618,JPN,1:30.921,q
-1,3,3,,137,HaileyCHOI,9567,USA,1:31.498,
-1,4,2,,55,SIGHELArianna,8088,ITA,2:04.256,
-1,5,5,,30,RUSNAKOVAPetra,9297,SVK,2:16.155,
-2,1,1,,77,BLAISDanae,9090,CAN,1:31.272,Q
-2,2,4,,72,VIVIANIElena,7583,ITA,1:31.670,q
-2,3,5,,110,LETAIJulie,9441,USA,1:32.424,
-2,4,3,,133,MarijnWIERSMA,9274,NED,notime,
-2,PEN,2,,13,PIERRONVeronique,6196,FRA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,1,1,1,,49,KONSTANTINOVAEkaterina,8510,RUS,1:30.939,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,1,2,3,,50,MONVOISINAurelie,8556,FRA,1:31.215,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,1,3,4,,87,JACOBSGina,8607,GER,1:31.294,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,1,4,2,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,1:32.174,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,1,5,5,,134,TOPOLSKAGabriela,9411,POL,notime,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,2,1,1,,6,PROSVIRNOVASofia,8509,RUS,1:30.743,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,2,2,4,,21,HIRAIAmi,8618,JPN,1:30.921,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,2,3,3,,137,HaileyCHOI,9567,USA,1:31.498,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,2,4,2,,55,SIGHELArianna,8088,ITA,2:04.256,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,2,5,5,,30,RUSNAKOVAPetra,9297,SVK,2:16.155,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,3,1,1,,77,BLAISDanae,9090,CAN,1:31.272,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,3,2,4,,72,VIVIANIElena,7583,ITA,1:31.670,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,3,3,5,,110,LETAIJulie,9441,USA,1:32.424,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,3,4,3,,133,MarijnWIERSMA,9274,NED,notime,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1000m,w,Rep.Quarterfinals,3,PEN,2,,13,PIERRONVeronique,6196,FRA,PEN,

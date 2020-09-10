@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,164,SUNGSi-Bak,6811,KOR,1:28.668,QA
-0,2,1,,113,LIYe,6655,CHN,1:29.101,QA
-0,3,2,,107,GuillaumeBASTILLE,6166,CAN,1:58.498,ADV
-0,DQ,4,,134,JonELEY,6592,GBR,DQ,
-1,1,4,,165,KWAKYoon-Gy,6120,KOR,1:28.680,QA
-1,2,2,,178,CharlesRyanLEVEILLE,7122,USA,1:29.011,QA
-1,3,3,,114,SUIBaoKu,6416,CHN,1:29.052,QB
-1,4,1,,110,Jean-FrancoisMONETTE,7096,CAN,1:29.195,QB
-1,5,5,,118,WANGHongYang,6084,CHN,1:29.965,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,1,1,3,,164,SUNGSi-Bak,6811,KOR,1:28.668,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,1,2,1,,113,LIYe,6655,CHN,1:29.101,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,1,3,2,,107,GuillaumeBASTILLE,6166,CAN,1:58.498,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,1,DQ,4,,134,JonELEY,6592,GBR,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,2,1,4,,165,KWAKYoon-Gy,6120,KOR,1:28.680,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,2,2,2,,178,CharlesRyanLEVEILLE,7122,USA,1:29.011,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,2,3,3,,114,SUIBaoKu,6416,CHN,1:29.052,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,2,4,1,,110,Jean-FrancoisMONETTE,7096,CAN,1:29.195,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),m,Semifinals,2,5,5,,118,WANGHongYang,6084,CHN,1:29.965,

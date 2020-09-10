@@ -1,15 +1,15 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,510,NETHERLANDS,9476,NED,2:38.842,Q
-0,2,4,,512,RUSSIA,9478,RUS,2:39.898,Q
-0,3,1,,504,GREATBRITAIN,9470,GBR,2:40.769,
-0,4,2,,511,POLAND,9477,POL,2:48.298,
-1,1,3,,513,UNITEDSTATES,9479,USA,2:40.032,Q
-1,2,1,,501,CANADA,9467,CAN,2:40.393,Q
-1,PEN,2,,503,FRANCE,9469,FRA,PEN,
-2,1,3,,509,KOREA,9475,KOR,2:40.633,Q
-2,2,2,,505,HUNGARY,9471,HUN,2:40.880,Q
-2,3,1,,506,ITALY,9472,ITA,2:59.107,
-3,1,1,,502,CHINA,9468,CHN,2:38.723,Q
-3,2,4,,508,KAZAKHSTAN,9474,KAZ,2:40.441,Q
-3,3,3,,507,JAPAN,9473,JPN,2:41.292,
-3,4,2,,514,UKRAINE,9480,UKR,2:50.748,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,1,1,3,,510,NETHERLANDS,9476,NED,2:38.842,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,1,2,4,,512,RUSSIA,9478,RUS,2:39.898,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,1,3,1,,504,GREATBRITAIN,9470,GBR,2:40.769,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,1,4,2,,511,POLAND,9477,POL,2:48.298,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,2,1,3,,513,UNITEDSTATES,9479,USA,2:40.032,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,2,2,1,,501,CANADA,9467,CAN,2:40.393,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,2,PEN,2,,503,FRANCE,9469,FRA,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,3,1,3,,509,KOREA,9475,KOR,2:40.633,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,3,2,2,,505,HUNGARY,9471,HUN,2:40.880,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,3,3,1,,506,ITALY,9472,ITA,2:59.107,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,4,1,1,,502,CHINA,9468,CHN,2:38.723,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,4,2,4,,508,KAZAKHSTAN,9474,KAZ,2:40.441,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,4,3,3,,507,JAPAN,9473,JPN,2:41.292,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),MixedRelay,x,Quarterfinals,4,4,2,,514,UKRAINE,9480,UKR,2:50.748,

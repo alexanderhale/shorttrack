@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,122,HUZe,6926,CHN,43.067,Q
-0,2,3,,163,LEESeung-Jae,6621,KOR,43.181,Q
-0,3,1,,110,KirilPANDOV,6779,BUL,43.269,
-0,4,4,,194,CharlesRyanLEVEILLE,7122,USA,43.356,
-1,1,1,,164,LEESeung-Hoon,6185,KOR,42.629,Q
-1,3,4,,104,ElliottSHRIANE,6846,AUS,42.920,
-1,DNS,3,,146,FabioCARTA,6001,ITA,DNS,
-2,1,1,,112,OlivierJEAN,6756,CAN,42.529,Q
-2,2,2,,149,RobertoSERRA,6463,ITA,42.637,Q
-2,3,5,,126,BenoitANTERIEUX,6193,FRA,43.139,
-2,4,3,,120,LIUXiaoLiang,6233,CHN,43.158,
-2,5,4,,139,PeterDARAZS,6465,HUN,53.365,
-3,1,1,,118,LIYe,6655,CHN,43.007,Q
-3,2,4,,109,PieterGYSEL,6425,BEL,43.125,Q
-3,3,3,,128,JonELEY,6592,GBR,43.169,ADV
-3,DQ,2,,116,Marc-AndreMONETTE,6270,CAN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,1,1,2,,122,HUZe,6926,CHN,43.067,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,1,2,3,,163,LEESeung-Jae,6621,KOR,43.181,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,1,3,1,,110,KirilPANDOV,6779,BUL,43.269,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,1,4,4,,194,CharlesRyanLEVEILLE,7122,USA,43.356,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,2,1,1,,164,LEESeung-Hoon,6185,KOR,42.629,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,2,3,4,,104,ElliottSHRIANE,6846,AUS,42.920,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,2,DNS,3,,146,FabioCARTA,6001,ITA,DNS,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,3,1,1,,112,OlivierJEAN,6756,CAN,42.529,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,3,2,2,,149,RobertoSERRA,6463,ITA,42.637,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,3,3,5,,126,BenoitANTERIEUX,6193,FRA,43.139,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,3,4,3,,120,LIUXiaoLiang,6233,CHN,43.158,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,3,5,4,,139,PeterDARAZS,6465,HUN,53.365,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,4,1,1,,118,LIYe,6655,CHN,43.007,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,4,2,4,,109,PieterGYSEL,6425,BEL,43.125,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,4,3,3,,128,JonELEY,6592,GBR,43.169,ADV
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,QuarterFinals,4,DQ,2,,116,Marc-AndreMONETTE,6270,CAN,DQ,

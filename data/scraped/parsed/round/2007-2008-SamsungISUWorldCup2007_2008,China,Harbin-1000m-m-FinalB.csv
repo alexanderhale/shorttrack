@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,86,GAOMing,7154,CHN,1:34.514,
-0,2,2,,110,JunjiITO,6579,JPN,1:34.864,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,FinalB,1,1,1,,86,GAOMing,7154,CHN,1:34.514,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,FinalB,1,2,2,,110,JunjiITO,6579,JPN,1:34.864,

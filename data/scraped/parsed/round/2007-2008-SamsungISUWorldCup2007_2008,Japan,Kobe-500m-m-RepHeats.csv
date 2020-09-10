@@ -1,23 +1,23 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,151,NielsKERSTHOLT,7067,NED,44.283,Q
-0,2,2,,179,TravisJAYNER,6300,USA,44.506,Q
-0,3,3,,145,ArturSULTANGALIYEV,6158,KAZ,44.507,q
-0,4,4,,116,CHENGEricI,6937,TPE,46.810,
-1,1,2,,110,CHENXin,7358,CHN,44.596,Q
-1,2,1,,158,DariuszKULESZA,6817,POL,44.898,Q
-1,3,4,,174,SerhiyLIFYRENKO,6826,UKR,45.555,q
-1,4,3,,125,RobertBECKER,7258,GER,46.764,
-2,1,1,,118,ThibautFAUCONNET,6785,FRA,46.287,Q
-2,2,3,,155,FreekvanderWART,7269,NED,1:13.412,Q
-2,DQ,2,,103,AndrePULEC,6054,AUT,DQ,
-3,1,2,,170,SergeyPRANKEVICH,7048,RUS,45.124,Q
-3,2,1,,154,IngmarvanRIEL,6186,NED,45.458,Q
-3,3,3,,172,DmytroPOLTAVETS,7221,UKR,45.517,q
-3,4,4,,149,AzamatNURMAGAMBETOV,7350,KAZ,1:11.075,
-4,1,2,,178,RyanBEDFORD,6956,USA,43.952,Q
-4,2,1,,128,PaulSTANLEY,7054,GBR,44.214,Q
-4,3,4,,137,RobertoSERRA,6463,ITA,45.548,q
-4,4,3,,148,NurbergenZHUMAGAZIYEV,7349,KAZ,46.350,
-5,1,1,,130,PaulWORTH,6802,GBR,45.071,Q
-5,2,3,,171,VitalyMIKHEENKOV,6234,RUS,46.441,Q
-5,DQ,2,,120,BenoitANTERIEUX,6193,FRA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,1,1,1,,151,NielsKERSTHOLT,7067,NED,44.283,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,1,2,2,,179,TravisJAYNER,6300,USA,44.506,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,1,3,3,,145,ArturSULTANGALIYEV,6158,KAZ,44.507,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,1,4,4,,116,CHENGEricI,6937,TPE,46.810,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,2,1,2,,110,CHENXin,7358,CHN,44.596,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,2,2,1,,158,DariuszKULESZA,6817,POL,44.898,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,2,3,4,,174,SerhiyLIFYRENKO,6826,UKR,45.555,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,2,4,3,,125,RobertBECKER,7258,GER,46.764,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,3,1,1,,118,ThibautFAUCONNET,6785,FRA,46.287,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,3,2,3,,155,FreekvanderWART,7269,NED,1:13.412,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,3,DQ,2,,103,AndrePULEC,6054,AUT,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,4,1,2,,170,SergeyPRANKEVICH,7048,RUS,45.124,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,4,2,1,,154,IngmarvanRIEL,6186,NED,45.458,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,4,3,3,,172,DmytroPOLTAVETS,7221,UKR,45.517,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,4,4,4,,149,AzamatNURMAGAMBETOV,7350,KAZ,1:11.075,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,5,1,2,,178,RyanBEDFORD,6956,USA,43.952,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,5,2,1,,128,PaulSTANLEY,7054,GBR,44.214,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,5,3,4,,137,RobertoSERRA,6463,ITA,45.548,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,5,4,3,,148,NurbergenZHUMAGAZIYEV,7349,KAZ,46.350,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,6,1,1,,130,PaulWORTH,6802,GBR,45.071,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,6,2,3,,171,VitalyMIKHEENKOV,6234,RUS,46.441,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepHeats,6,DQ,2,,120,BenoitANTERIEUX,6193,FRA,DQ,

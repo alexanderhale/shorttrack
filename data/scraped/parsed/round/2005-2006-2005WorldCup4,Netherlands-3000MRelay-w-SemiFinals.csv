@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,901,CANADA,7312,CAN,4:20.614,Q
-0,2,3,,906,GERMANY,7313,GER,4:23.073,Q
-0,3,2,,909,JAPAN,7304,JPN,4:51.736,
-0,DQ,4,,902,CHINA,7311,CHN,DQ,
-1,1,1,,903,KOREA,7314,KOR,4:18.694,Q
-1,2,2,,912,UNITEDSTATES,7316,USA,4:22.974,Q
-1,3,3,,905,FRANCE,7354,FRA,4:24.411,
-1,4,4,,913,RUSSIA,7315,RUS,4:25.467,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,1,1,1,,901,CANADA,7312,CAN,4:20.614,Q
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,1,2,3,,906,GERMANY,7313,GER,4:23.073,Q
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,1,3,2,,909,JAPAN,7304,JPN,4:51.736,
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,1,DQ,4,,902,CHINA,7311,CHN,DQ,
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,2,1,1,,903,KOREA,7314,KOR,4:18.694,Q
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,2,2,2,,912,UNITEDSTATES,7316,USA,4:22.974,Q
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,2,3,3,,905,FRANCE,7354,FRA,4:24.411,
+2005-2006,"2005 World Cup 4, Netherlands",3000MRelay,w,SemiFinals,2,4,4,,913,RUSSIA,7315,RUS,4:25.467,

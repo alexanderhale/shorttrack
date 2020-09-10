@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,1009,CHINA,7311,CHN,4:17.143,Q,
-0,2,3,,1008,CANADA,7312,CAN,4:17.496,Q,
-0,3,4,,1013,UNITEDSTATES,7316,USA,4:20.361,,
-0,4,2,,1011,JAPAN,7310,JPN,4:20.440,,
-1,1,2,,1007,KOREA,7314,KOR,4:18.225,Q,
-1,2,1,,1012,ITALY,7317,ITA,4:18.573,Q,
-1,3,3,,1010,FRANCE,7354,FRA,4:18.931,,
-1,4,4,,1014,GERMANY,7313,GER,4:36.191,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,1,1,1,,1009,CHINA,7311,CHN,4:17.143,Q,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,1,2,3,,1008,CANADA,7312,CAN,4:17.496,Q,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,1,3,4,,1013,UNITEDSTATES,7316,USA,4:20.361,,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,1,4,2,,1011,JAPAN,7310,JPN,4:20.440,,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,2,1,2,,1007,KOREA,7314,KOR,4:18.225,Q,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,2,2,1,,1012,ITALY,7317,ITA,4:18.573,Q,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,2,3,3,,1010,FRANCE,7354,FRA,4:18.931,,
+2005-2006,"2006 World Championships, USA",3000MRelay,w,Heats,2,4,4,,1014,GERMANY,7313,GER,4:36.191,,

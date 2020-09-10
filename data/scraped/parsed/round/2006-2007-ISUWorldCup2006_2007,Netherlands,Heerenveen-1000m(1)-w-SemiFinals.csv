@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,6,EvgeniaRADANOVA,6775,BUL,1:36.015,Q
-0,2,2,,15,MartaCAPURSO,6328,ITA,1:36.502,Q
-0,3,3,,12,SusanneRUDOLPH,6362,GER,1:37.460,
-0,4,4,,38,CheriseWILKINS,7291,USA,1:38.425,
-1,1,1,,10,ChristinPRIEBST,6078,GER,1:37.801,Q
-1,2,3,,19,MaraZINI,6326,ITA,1:38.340,Q
-1,3,4,,36,SarahLANG,6527,USA,1:47.872,ADV
-1,DQ,2,,29,EkaterinaBELOVA,6190,RUS,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,1,1,1,,6,EvgeniaRADANOVA,6775,BUL,1:36.015,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,1,2,2,,15,MartaCAPURSO,6328,ITA,1:36.502,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,1,3,3,,12,SusanneRUDOLPH,6362,GER,1:37.460,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,1,4,4,,38,CheriseWILKINS,7291,USA,1:38.425,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,2,1,1,,10,ChristinPRIEBST,6078,GER,1:37.801,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,2,2,3,,19,MaraZINI,6326,ITA,1:38.340,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,2,3,4,,36,SarahLANG,6527,USA,1:47.872,ADV
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(1),w,SemiFinals,2,DQ,2,,29,EkaterinaBELOVA,6190,RUS,DQ,

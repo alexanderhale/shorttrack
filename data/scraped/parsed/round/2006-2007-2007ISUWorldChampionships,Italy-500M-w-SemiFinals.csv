@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,144,JUNGEun-Ju,6297,KOR,45.381,Q,
-0,2,3,,113,FUTianYu,6650,CHN,45.513,Q,
-0,3,4,,130,MartaCAPURSO,6328,ITA,45.806,,
-0,DQ,2,,109,AnneMALTAIS,6355,CAN,DQ,,
-1,1,2,,107,KalynaROBERGE,6284,CAN,44.849,Q,
-1,2,1,,129,AriannaFONTANA,6227,ITA,44.901,Q,
-1,3,3,,114,ZHOUYang,6222,CHN,44.999,,
-1,4,4,,108,AmandaOVERLAND,7079,CAN,45.946,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,1,1,1,,144,JUNGEun-Ju,6297,KOR,45.381,Q,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,1,2,3,,113,FUTianYu,6650,CHN,45.513,Q,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,1,3,4,,130,MartaCAPURSO,6328,ITA,45.806,,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,1,DQ,2,,109,AnneMALTAIS,6355,CAN,DQ,,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,2,1,2,,107,KalynaROBERGE,6284,CAN,44.849,Q,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,2,2,1,,129,AriannaFONTANA,6227,ITA,44.901,Q,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,2,3,3,,114,ZHOUYang,6222,CHN,44.999,,
+2006-2007,"2007 ISU World Championships, Italy",500M,w,SemiFinals,2,4,4,,108,AmandaOVERLAND,7079,CAN,45.946,,

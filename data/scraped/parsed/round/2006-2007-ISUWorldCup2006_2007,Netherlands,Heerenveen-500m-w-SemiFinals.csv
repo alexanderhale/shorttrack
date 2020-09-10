@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,8,StephanieBOUVIER,6709,FRA,45.529,Q
-0,2,2,,16,AriannaFONTANA,6227,ITA,45.590,Q
-0,3,4,,38,CheriseWILKINS,7291,USA,46.592,
-0,4,3,,12,SusanneRUDOLPH,6362,GER,49.240,
-1,1,3,,14,SarahLINDSAY,6056,GBR,45.447,Q
-1,2,1,,6,EvgeniaRADANOVA,6775,BUL,45.533,Q
-1,3,2,,35,TinaKOENIG,7224,USA,46.760,
-1,DQ,4,,29,EkaterinaBELOVA,6190,RUS,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,1,1,1,,8,StephanieBOUVIER,6709,FRA,45.529,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,1,2,2,,16,AriannaFONTANA,6227,ITA,45.590,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,1,3,4,,38,CheriseWILKINS,7291,USA,46.592,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,1,4,3,,12,SusanneRUDOLPH,6362,GER,49.240,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,2,1,3,,14,SarahLINDSAY,6056,GBR,45.447,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,2,2,1,,6,EvgeniaRADANOVA,6775,BUL,45.533,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,2,3,2,,35,TinaKOENIG,7224,USA,46.760,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,SemiFinals,2,DQ,4,,29,EkaterinaBELOVA,6190,RUS,DQ,

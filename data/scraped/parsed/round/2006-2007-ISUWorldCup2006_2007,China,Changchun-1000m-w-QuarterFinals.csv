@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,738,JEONJi-Soo,6232,KOR,1:35.414,Q
-0,2,1,,713,ZHUMiLei,6576,CHN,1:35.494,Q
-0,3,2,,702,EvgeniaRADANOVA,6775,BUL,1:35.559,
-0,4,4,,724,KatiaZINI,6076,ITA,1:35.724,
-1,1,1,,741,JINSun-Yu,6108,KOR,1:32.664,Q
-1,2,2,,712,CHENGXiaoLei,7094,CHN,1:33.000,Q
-1,3,3,,708,RaphaeleLEMIEUX,6600,CAN,1:33.226,
-1,4,4,,747,KimberlyDERRICK,6246,USA,1:33.898,
-2,1,4,,710,WANGMeng,6594,CHN,1:32.788,Q
-2,2,1,,704,AmandaOVERLAND,7079,CAN,1:32.845,Q
-2,3,2,,723,AriannaFONTANA,6227,ITA,1:32.958,
-2,4,3,,728,MiyukiOZAWA,6317,JPN,1:34.797,
-3,2,2,,706,KalynaROBERGE,6284,CAN,1:34.950,Q
-3,3,1,,722,MartaCAPURSO,6328,ITA,1:35.089,
-3,4,4,,730,BibaSAKURAI,7240,JPN,1:36.224,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,1,1,3,,738,JEONJi-Soo,6232,KOR,1:35.414,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,1,2,1,,713,ZHUMiLei,6576,CHN,1:35.494,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,1,3,2,,702,EvgeniaRADANOVA,6775,BUL,1:35.559,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,1,4,4,,724,KatiaZINI,6076,ITA,1:35.724,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,2,1,1,,741,JINSun-Yu,6108,KOR,1:32.664,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,2,2,2,,712,CHENGXiaoLei,7094,CHN,1:33.000,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,2,3,3,,708,RaphaeleLEMIEUX,6600,CAN,1:33.226,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,2,4,4,,747,KimberlyDERRICK,6246,USA,1:33.898,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,3,1,4,,710,WANGMeng,6594,CHN,1:32.788,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,3,2,1,,704,AmandaOVERLAND,7079,CAN,1:32.845,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,3,3,2,,723,AriannaFONTANA,6227,ITA,1:32.958,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,3,4,3,,728,MiyukiOZAWA,6317,JPN,1:34.797,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,4,2,2,,706,KalynaROBERGE,6284,CAN,1:34.950,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,4,3,1,,722,MartaCAPURSO,6328,ITA,1:35.089,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,QuarterFinals,4,4,4,,730,BibaSAKURAI,7240,JPN,1:36.224,

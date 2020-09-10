@@ -1,65 +1,65 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,64,JonELEY,6592,GBR,44.470,Q
-0,2,1,,118,HaraldsSILOVS,6458,LAT,44.674,Q
-0,3,2,,10,AndrePULEC,6054,AUT,45.063,
-0,4,4,,106,AndreySMETANIN,6459,KAZ,47.101,
-1,1,4,,44,LIJiajun,7095,CHN,45.138,Q
-1,2,3,,4,ElliottSHRIANE,6846,AUS,45.807,Q
-1,3,1,,17,FelipedeSOUZA,6114,BRA,55.095,
-1,4,2,,132,JustinCOPSEY,6126,NZL,1:13.937,
-2,1,1,,175,RustySMITH,6496,USA,44.118,Q
-2,2,2,,130,DaveVERSTEEG,6540,NED,44.438,Q
-2,3,5,,15,PieterGYSEL,6425,BEL,44.447,
-2,4,4,,85,GaborGALAMBOS,6010,HUN,44.669,
-2,5,3,,155,TomasGRESCHNER,6633,SVK,44.724,
-3,1,2,,61,JeanCharlesMATTEI,6057,FRA,44.969,Q
-3,2,1,,3,MarkMcNEE,6432,AUS,44.981,Q
-3,3,3,,25,LubomirPOPOVSKI,6598,BUL,45.619,
-3,4,4,,137,ZsoltIstvanPATAKI,6818,ROU,46.610,
-4,1,4,,114,SONGSuk-Woo,7086,KOR,43.536,Q
-4,2,3,,14,WimdeDEYNE,6699,BEL,44.115,Q
-4,3,1,,86,BalazsKNOCH,6341,HUN,46.353,
-4,DQ,2,,43,LIHaonan,6658,CHN,DQ,
-5,1,3,,102,NicolaFRANCESCHINA,6331,ITA,43.860,Q
-5,2,1,,160,VolodymyrGRYGORIEV,6741,UKR,43.985,Q
-5,3,2,,26,NikolaySTANCHEV,7045,BUL,45.103,
-5,4,4,,9,MichaelKOCH,6680,AUT,47.560,
-6,1,3,,34,Francois-LouisTREMBLAY,6704,CAN,42.724,Q
-6,2,1,,103,NicolaRODIGARI,6332,ITA,43.017,Q
-6,3,4,,173,JordanMALONE,6201,USA,43.843,
-6,DQ,2,,59,ThibautFAUCONNET,6785,FRA,DQ,
-7,1,3,,104,RobertoSERRA,6463,ITA,44.255,Q
-7,2,4,,65,OliverHORSEPOOL,6276,GBR,45.675,Q
-7,3,2,,12,DriesCELIS,6113,BEL,51.121,ADV
-7,DQ,1,,133,BlakeSKJELLERUP,6549,NZL,DQ,
-8,1,3,,77,ArianNACHBAR,6637,GER,45.384,Q
-8,2,1,,51,JarmilHRUZA,6503,CZE,46.153,Q
-8,3,2,,156,PeterJELEN,7077,SVK,46.260,
-8,4,4,,8,BenjaminKOCH,6847,AUT,46.888,
-9,1,1,,33,HAMELINCharles,6610,CAN,46.730,Q
-9,2,4,,151,SaschaLAUBER,6634,SUI,47.493,Q
-9,3,3,,88,DavidManoLOTH,6804,HUN,49.397,
-9,4,2,,120,GanbatJARGALANCHULUUN,6543,MGL,49.817,
-10,1,2,,23,AssenPANDOV,6778,BUL,44.985,Q
-10,2,3,,74,ThomasBAUER,7092,GER,45.197,Q
-10,3,4,,144,ViacheslavKURGINIAN,6934,RUS,45.400,
-10,4,1,,159,VolodymyrCHERNEGA,6041,UKR,45.546,
-11,1,1,,36,MathieuTURCOTTE,6705,CAN,43.965,Q
-11,2,4,,143,YaroslavKARPOUKHIN,6445,RUS,44.155,Q
-11,3,3,,2,StephenLEE,6002,AUS,46.615,
-12,1,3,,78,SebastianPRAUS,6364,GER,44.620,Q
-12,2,5,,46,SUIBaoKu,6416,CHN,45.163,Q
-12,3,2,,163,YevgenYAKOVLEV,6751,UKR,45.337,
-12,4,4,,105,NikolayFEDORENKO,6312,KAZ,46.102,
-12,5,1,,47,IvanDOLINIC,6669,CRO,47.771,
-13,1,3,,112,AHNHyun-Soo,6618,KOR,44.987,Q
-13,2,2,,67,PaulSTANLEY,7054,GBR,45.569,Q
-13,3,4,,129,ThomasMOGENDORFF,6814,NED,45.970,
-13,4,1,,150,DavidGROSSENBACHER,6962,SUI,46.181,
-14,2,2,,145,MikhailRAJINE,6569,RUS,45.255,Q
-14,3,3,,157,MatusUZAK,6510,SVK,45.332,
-14,4,4,,135,ZsoltKALAMARKERTESZ,6125,,47.177,
-15,1,2,,113,LEESeung-Jae,6621,KOR,44.423,Q
-15,2,3,,58,MatthieudeBOISSET,6467,FRA,44.529,Q
-15,3,1,,127,CeesJUFFERMANS,6072,NED,44.749,
-15,4,4,,138,LaszloVRENCEAN,6819,,46.710,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,1,1,3,,64,JonELEY,6592,GBR,44.470,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,1,2,1,,118,HaraldsSILOVS,6458,LAT,44.674,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,1,3,2,,10,AndrePULEC,6054,AUT,45.063,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,1,4,4,,106,AndreySMETANIN,6459,KAZ,47.101,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,2,1,4,,44,LIJiajun,7095,CHN,45.138,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,2,2,3,,4,ElliottSHRIANE,6846,AUS,45.807,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,2,3,1,,17,FelipedeSOUZA,6114,BRA,55.095,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,2,4,2,,132,JustinCOPSEY,6126,NZL,1:13.937,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,3,1,1,,175,RustySMITH,6496,USA,44.118,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,3,2,2,,130,DaveVERSTEEG,6540,NED,44.438,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,3,3,5,,15,PieterGYSEL,6425,BEL,44.447,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,3,4,4,,85,GaborGALAMBOS,6010,HUN,44.669,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,3,5,3,,155,TomasGRESCHNER,6633,SVK,44.724,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,4,1,2,,61,JeanCharlesMATTEI,6057,FRA,44.969,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,4,2,1,,3,MarkMcNEE,6432,AUS,44.981,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,4,3,3,,25,LubomirPOPOVSKI,6598,BUL,45.619,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,4,4,4,,137,ZsoltIstvanPATAKI,6818,ROU,46.610,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,5,1,4,,114,SONGSuk-Woo,7086,KOR,43.536,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,5,2,3,,14,WimdeDEYNE,6699,BEL,44.115,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,5,3,1,,86,BalazsKNOCH,6341,HUN,46.353,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,5,DQ,2,,43,LIHaonan,6658,CHN,DQ,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,6,1,3,,102,NicolaFRANCESCHINA,6331,ITA,43.860,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,6,2,1,,160,VolodymyrGRYGORIEV,6741,UKR,43.985,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,6,3,2,,26,NikolaySTANCHEV,7045,BUL,45.103,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,6,4,4,,9,MichaelKOCH,6680,AUT,47.560,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,7,1,3,,34,Francois-LouisTREMBLAY,6704,CAN,42.724,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,7,2,1,,103,NicolaRODIGARI,6332,ITA,43.017,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,7,3,4,,173,JordanMALONE,6201,USA,43.843,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,7,DQ,2,,59,ThibautFAUCONNET,6785,FRA,DQ,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,8,1,3,,104,RobertoSERRA,6463,ITA,44.255,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,8,2,4,,65,OliverHORSEPOOL,6276,GBR,45.675,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,8,3,2,,12,DriesCELIS,6113,BEL,51.121,ADV
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,8,DQ,1,,133,BlakeSKJELLERUP,6549,NZL,DQ,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,9,1,3,,77,ArianNACHBAR,6637,GER,45.384,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,9,2,1,,51,JarmilHRUZA,6503,CZE,46.153,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,9,3,2,,156,PeterJELEN,7077,SVK,46.260,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,9,4,4,,8,BenjaminKOCH,6847,AUT,46.888,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,10,1,1,,33,HAMELINCharles,6610,CAN,46.730,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,10,2,4,,151,SaschaLAUBER,6634,SUI,47.493,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,10,3,3,,88,DavidManoLOTH,6804,HUN,49.397,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,10,4,2,,120,GanbatJARGALANCHULUUN,6543,MGL,49.817,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,11,1,2,,23,AssenPANDOV,6778,BUL,44.985,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,11,2,3,,74,ThomasBAUER,7092,GER,45.197,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,11,3,4,,144,ViacheslavKURGINIAN,6934,RUS,45.400,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,11,4,1,,159,VolodymyrCHERNEGA,6041,UKR,45.546,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,12,1,1,,36,MathieuTURCOTTE,6705,CAN,43.965,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,12,2,4,,143,YaroslavKARPOUKHIN,6445,RUS,44.155,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,12,3,3,,2,StephenLEE,6002,AUS,46.615,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,13,1,3,,78,SebastianPRAUS,6364,GER,44.620,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,13,2,5,,46,SUIBaoKu,6416,CHN,45.163,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,13,3,2,,163,YevgenYAKOVLEV,6751,UKR,45.337,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,13,4,4,,105,NikolayFEDORENKO,6312,KAZ,46.102,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,13,5,1,,47,IvanDOLINIC,6669,CRO,47.771,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,14,1,3,,112,AHNHyun-Soo,6618,KOR,44.987,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,14,2,2,,67,PaulSTANLEY,7054,GBR,45.569,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,14,3,4,,129,ThomasMOGENDORFF,6814,NED,45.970,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,14,4,1,,150,DavidGROSSENBACHER,6962,SUI,46.181,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,15,2,2,,145,MikhailRAJINE,6569,RUS,45.255,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,15,3,3,,157,MatusUZAK,6510,SVK,45.332,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,15,4,4,,135,ZsoltKALAMARKERTESZ,6125,,47.177,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,16,1,2,,113,LEESeung-Jae,6621,KOR,44.423,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,16,2,3,,58,MatthieudeBOISSET,6467,FRA,44.529,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,16,3,1,,127,CeesJUFFERMANS,6072,NED,44.749,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,Preliminaries,16,4,4,,138,LaszloVRENCEAN,6819,,46.710,

@@ -1,14 +1,14 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,154,SHAMUKHANOVYerkebulan,8672,KAZ,2:15.594,Q
-0,2,7,,94,NicolaRODIGARI,6332,ITA,2:15.790,
-0,3,1,,22,JensALMEY,8595,BEL,2:16.000,
-0,4,6,,83,SHULGINOVAlexander,8752,RUS,2:16.557,
-0,5,4,,24,SCHUBERTChristoph,7734,GER,2:17.228,
-0,6,2,,80,JoshuaCHEETHAM,7925,GBR,2:18.501,
-0,7,3,,151,RyanMcANUFF,9197,IRL,2:18.744,
-1,1,2,,1,HANTianyu,8388,CHN,2:14.196,Q
-1,2,3,,74,HirokiYOKOYAMA,7932,JPN,2:14.844,
-1,3,6,,118,FabriceDUFBERGSUH,8642,SWE,2:15.399,
-1,4,1,,99,DESMETStijn,8706,BEL,2:16.515,
-1,5,4,,92,ZHAXYBAYEVMersaid,8623,KAZ,2:17.725,
-1,6,5,,20,KeithCARROLL,8449,USA,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,1,5,,154,SHAMUKHANOVYerkebulan,8672,KAZ,2:15.594,Q
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,2,7,,94,NicolaRODIGARI,6332,ITA,2:15.790,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,3,1,,22,JensALMEY,8595,BEL,2:16.000,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,4,6,,83,SHULGINOVAlexander,8752,RUS,2:16.557,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,5,4,,24,SCHUBERTChristoph,7734,GER,2:17.228,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,6,2,,80,JoshuaCHEETHAM,7925,GBR,2:18.501,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,1,7,3,,151,RyanMcANUFF,9197,IRL,2:18.744,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,1,2,,1,HANTianyu,8388,CHN,2:14.196,Q
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,2,3,,74,HirokiYOKOYAMA,7932,JPN,2:14.844,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,3,6,,118,FabriceDUFBERGSUH,8642,SWE,2:15.399,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,4,1,,99,DESMETStijn,8706,BEL,2:16.515,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,5,4,,92,ZHAXYBAYEVMersaid,8623,KAZ,2:17.725,
+2016-2017,ISU World Cup 2016/17 - Calgary (CAN),1500m,m,Rep.Semifinals,2,6,5,,20,KeithCARROLL,8449,USA,notime,

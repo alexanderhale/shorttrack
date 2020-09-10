@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,802,CANADA,7312,CAN,4:23.383,Q
-0,2,1,,806,ITALY,7317,ITA,4:23.710,Q
-0,3,2,,808,KAZAKHSTAN,7355,KAZ,4:46.437,
-0,4,3,,811,RUSSIA,7315,RUS,4:47.296,
-1,2,1,,809,NETHERLANDS,7322,NED,4:29.922,Q
-1,3,4,,805,GERMANY,7313,GER,4:30.749,q
-1,4,3,,801,BULGARIA,7335,BUL,4:40.066,
-2,1,2,,810,KOREA,7314,KOR,4:25.642,Q
-2,2,3,,807,JAPAN,7304,JPN,4:27.769,Q
-2,3,1,,813,FRANCE,7354,FRA,4:31.312,q
-2,DQ,4,,812,UNITEDSTATES,7316,USA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,1,1,4,,802,CANADA,7312,CAN,4:23.383,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,1,2,1,,806,ITALY,7317,ITA,4:23.710,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,1,3,2,,808,KAZAKHSTAN,7355,KAZ,4:46.437,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,1,4,3,,811,RUSSIA,7315,RUS,4:47.296,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,2,2,1,,809,NETHERLANDS,7322,NED,4:29.922,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,2,3,4,,805,GERMANY,7313,GER,4:30.749,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,2,4,3,,801,BULGARIA,7335,BUL,4:40.066,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,3,1,2,,810,KOREA,7314,KOR,4:25.642,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,3,2,3,,807,JAPAN,7304,JPN,4:27.769,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,3,3,1,,813,FRANCE,7354,FRA,4:31.312,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",3000mRelay,w,Heats,3,DQ,4,,812,UNITEDSTATES,7316,USA,DQ,

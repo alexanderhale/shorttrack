@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,212,JordanMALONE,6201,USA,2:38.662,
-0,2,4,,117,OlivierJEAN,6756,CAN,2:38.832,
-0,3,1,,119,GuillaumeBASTILLE,6166,CAN,2:38.922,
-0,4,2,,164,FumihikoKAKUBARI,6024,JPN,2:39.887,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, KOR, Seoul",1500m,m,FinalB,1,1,3,,212,JordanMALONE,6201,USA,2:38.662,
+2009-2010,"ISU World Cup 2009/2010, KOR, Seoul",1500m,m,FinalB,1,2,4,,117,OlivierJEAN,6756,CAN,2:38.832,
+2009-2010,"ISU World Cup 2009/2010, KOR, Seoul",1500m,m,FinalB,1,3,1,,119,GuillaumeBASTILLE,6166,CAN,2:38.922,
+2009-2010,"ISU World Cup 2009/2010, KOR, Seoul",1500m,m,FinalB,1,4,2,,164,FumihikoKAKUBARI,6024,JPN,2:39.887,

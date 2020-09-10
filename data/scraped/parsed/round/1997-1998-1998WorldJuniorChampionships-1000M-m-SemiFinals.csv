@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,Francois-LouisTREMBLAY,6704,CAN,1:37.905,
-0,2,3,,,LEESeung-Jae,6621,KOR,1:37.953,
-0,3,2,,,SimoneRODIGARI,6053,ITA,1:38.024,
-0,4,4,,,ApoloAntonOHNO,6497,USA,1:38.859,
-1,1,3,,,BAEKKuk-Kun,6375,KOR,1:36.659,
-1,2,1,,,LAHEYAndrew,6469,CAN,1:36.804,
-1,3,4,,,NicolaRODIGARI,6332,ITA,1:36.959,
-1,4,2,,,DanielWEINSTEIN,6940,USA,1:37.185,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,1,1,1,,,Francois-LouisTREMBLAY,6704,CAN,1:37.905,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,1,2,3,,,LEESeung-Jae,6621,KOR,1:37.953,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,1,3,2,,,SimoneRODIGARI,6053,ITA,1:38.024,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,1,4,4,,,ApoloAntonOHNO,6497,USA,1:38.859,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,2,1,3,,,BAEKKuk-Kun,6375,KOR,1:36.659,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,2,2,1,,,LAHEYAndrew,6469,CAN,1:36.804,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,2,3,4,,,NicolaRODIGARI,6332,ITA,1:36.959,
+1997-1998,1998 World Junior Championships,1000M,m,SemiFinals,2,4,2,,,DanielWEINSTEIN,6940,USA,1:37.185,

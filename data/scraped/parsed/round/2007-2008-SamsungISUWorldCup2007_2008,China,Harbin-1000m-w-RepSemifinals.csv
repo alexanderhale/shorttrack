@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:39.655,Q
-0,2,3,,11,AndreaDO-DUC,6215,CAN,1:39.910,Q
-0,3,2,,62,EkaterinaBELOVA,6190,RUS,1:40.044,
-0,4,4,,58,KatalinKRISTO,6514,ROU,1:40.093,
-1,1,1,,27,WANGXinyue,7340,HKG,1:36.987,Q
-1,2,2,,60,OlgaBELYAKOVA,7112,RUS,1:37.091,Q
-1,3,3,,25,CHRISTIEElise,7135,GBR,1:37.447,
-1,DNF,4,,49,AnoukZOUTENDIJK,6147,NED,DNF,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,1,1,1,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:39.655,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,1,2,3,,11,AndreaDO-DUC,6215,CAN,1:39.910,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,1,3,2,,62,EkaterinaBELOVA,6190,RUS,1:40.044,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,1,4,4,,58,KatalinKRISTO,6514,ROU,1:40.093,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,2,1,1,,27,WANGXinyue,7340,HKG,1:36.987,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,2,2,2,,60,OlgaBELYAKOVA,7112,RUS,1:37.091,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,2,3,3,,25,CHRISTIEElise,7135,GBR,1:37.447,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,RepSemifinals,2,DNF,4,,49,AnoukZOUTENDIJK,6147,NED,DNF,

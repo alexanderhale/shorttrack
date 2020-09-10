@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,18,LIUQiuhong,6286,CHN,1:34.659,
-0,2,2,,17,LIJianrou,7910,CHN,1:34.757,
-0,3,1,,9,JessicaHEWITT,7548,CAN,1:34.865,
-0,4,4,,34,AriannaFONTANA,6227,ITA,1:43.010,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1000m,w,FinalB,1,1,3,,18,LIUQiuhong,6286,CHN,1:34.659,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1000m,w,FinalB,1,2,2,,17,LIJianrou,7910,CHN,1:34.757,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1000m,w,FinalB,1,3,1,,9,JessicaHEWITT,7548,CAN,1:34.865,
+2012-2013,"ISU World Cup 2012/2013, Montreal (CAN)",1000m,w,FinalB,1,4,4,,34,AriannaFONTANA,6227,ITA,1:43.010,

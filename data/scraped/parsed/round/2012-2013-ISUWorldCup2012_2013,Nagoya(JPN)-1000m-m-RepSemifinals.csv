@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,161,LEEHan-Bin,7444,KOR,1:28.607,Q
-0,2,3,,135,RobertSEIFERT,6176,GER,1:29.174,
-0,3,5,,125,JeremyMASSON,6173,FRA,1:29.356,
-0,4,4,,146,RyosukeSAKAZUME,7542,JPN,1:29.396,
-0,5,2,,147,YumaSAKURAI,6182,JPN,1:54.704,
-1,1,3,,139,ViktorKNOCH,6177,HUN,1:31.219,Q
-1,2,4,,181,IevgenGUTENOV,7178,UKR,1:32.612,
-1,3,2,,138,CsabaBURJAN,7738,HUN,1:34.110,
-1,4,1,,168,FreekvanderWART,7269,NED,1:47.204,
-1,PEN,5,,131,JackWHELBOURNE,7437,GBR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,1,1,1,,161,LEEHan-Bin,7444,KOR,1:28.607,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,1,2,3,,135,RobertSEIFERT,6176,GER,1:29.174,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,1,3,5,,125,JeremyMASSON,6173,FRA,1:29.356,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,1,4,4,,146,RyosukeSAKAZUME,7542,JPN,1:29.396,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,1,5,2,,147,YumaSAKURAI,6182,JPN,1:54.704,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,2,1,3,,139,ViktorKNOCH,6177,HUN,1:31.219,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,2,2,4,,181,IevgenGUTENOV,7178,UKR,1:32.612,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,2,3,2,,138,CsabaBURJAN,7738,HUN,1:34.110,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,2,4,1,,168,FreekvanderWART,7269,NED,1:47.204,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1000m,m,RepSemifinals,2,PEN,5,,131,JackWHELBOURNE,7437,GBR,PEN,

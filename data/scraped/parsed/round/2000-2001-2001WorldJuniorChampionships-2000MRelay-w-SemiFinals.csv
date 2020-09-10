@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,,KOREA,7314,KOR,2:59.778,
-0,2,4,,,JAPAN,7310,JPN,3:02.466,
-0,3,1,,,NETHERLANDS,7322,NED,3:03.988,
-0,4,2,,,RUSSIA,7315,RUS,3:04.811,
-1,1,1,,,CHINA,7311,CHN,2:59.704,
-1,2,3,,,UNITEDSTATES,7316,USA,3:04.815,
-1,3,4,,,ITALY,7317,ITA,3:06.885,
-1,4,2,,,CANADA,7312,CAN,3:10.476,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,1,1,3,,,KOREA,7314,KOR,2:59.778,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,1,2,4,,,JAPAN,7310,JPN,3:02.466,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,1,3,1,,,NETHERLANDS,7322,NED,3:03.988,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,1,4,2,,,RUSSIA,7315,RUS,3:04.811,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,2,1,1,,,CHINA,7311,CHN,2:59.704,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,2,2,3,,,UNITEDSTATES,7316,USA,3:04.815,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,2,3,4,,,ITALY,7317,ITA,3:06.885,
+2000-2001,2001 World Junior Championships,2000MRelay,w,SemiFinals,2,4,2,,,CANADA,7312,CAN,3:10.476,

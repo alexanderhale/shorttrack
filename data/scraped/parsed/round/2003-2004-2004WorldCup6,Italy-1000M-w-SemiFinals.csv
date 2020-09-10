@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,92,WANGMeng,6594,CHN,1:33.355,Q
-0,2,1,,109,MartaCAPURSO,6328,ITA,1:33.452,Q
-0,3,2,,86,AmandaOVERLAND,7079,CAN,1:33.969,
-0,4,3,,98,YvonneKUNZE,6363,GER,1:34.168,
-1,2,5,,91,FUTianYu,6650,CHN,1:32.654,Q
-1,3,3,,87,AnoukLEBLANC-BOUCHER,6795,CAN,1:32.770,
-1,4,4,,111,KatiaZINI,6076,ITA,1:32.830,
-1,5,1,,135,CarolineHALLISEY,6529,USA,1:32.975,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,1,1,4,,92,WANGMeng,6594,CHN,1:33.355,Q
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,1,2,1,,109,MartaCAPURSO,6328,ITA,1:33.452,Q
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,1,3,2,,86,AmandaOVERLAND,7079,CAN,1:33.969,
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,1,4,3,,98,YvonneKUNZE,6363,GER,1:34.168,
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,2,2,5,,91,FUTianYu,6650,CHN,1:32.654,Q
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,2,3,3,,87,AnoukLEBLANC-BOUCHER,6795,CAN,1:32.770,
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,2,4,4,,111,KatiaZINI,6076,ITA,1:32.830,
+2003-2004,"2004 World Cup 6, Italy",1000M,w,SemiFinals,2,5,1,,135,CarolineHALLISEY,6529,USA,1:32.975,

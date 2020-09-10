@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,81,SCHULTINGSuzanne,8493,NED,44.792,Q
-0,2,4,,52,MALAGICHEmina,7989,RUS,44.838,Q
-0,3,3,,44,ValerieMALTAIS,6216,CAN,44.913,
-0,4,1,,61,LuciaPERETTI,7160,ITA,45.334,
-1,1,1,,5,FANKexin,7694,CHN,43.921,Q
-1,2,2,,40,AnnaSEIDEL,8562,GER,43.983,Q
-1,3,3,,7,KimBOUTIN,8542,CAN,43.989,
-1,4,4,,104,SelmaPOUTSMA,9004,FRA,44.336,
-1,5,5,,109,KAMINAGAShione,8743,JPN,45.952,
-2,1,1,,101,AudreyPHANEUF,8360,CAN,44.425,Q
-2,2,2,,30,vanKERKHOFYara,7422,NED,44.482,Q
-2,3,4,,56,EkaterinaSTRELKOVA,8378,RUS,44.624,
-2,4,3,,69,VALCEPINAArianna,7705,ITA,44.801,
-3,1,1,,3,SHIMSukHee,8092,KOR,44.479,Q
-3,2,2,,48,KONSTANTINOVAEkaterina,8510,RUS,44.577,Q
-3,3,3,,14,KIKUCHIMoemi,7584,JPN,45.404,
-3,4,4,,124,YAKIMOVAAnna,8702,BUL,47.380,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,1,1,2,,81,SCHULTINGSuzanne,8493,NED,44.792,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,1,2,4,,52,MALAGICHEmina,7989,RUS,44.838,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,1,3,3,,44,ValerieMALTAIS,6216,CAN,44.913,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,1,4,1,,61,LuciaPERETTI,7160,ITA,45.334,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,2,1,1,,5,FANKexin,7694,CHN,43.921,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,2,2,2,,40,AnnaSEIDEL,8562,GER,43.983,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,2,3,3,,7,KimBOUTIN,8542,CAN,43.989,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,2,4,4,,104,SelmaPOUTSMA,9004,FRA,44.336,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,2,5,5,,109,KAMINAGAShione,8743,JPN,45.952,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,3,1,1,,101,AudreyPHANEUF,8360,CAN,44.425,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,3,2,2,,30,vanKERKHOFYara,7422,NED,44.482,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,3,3,4,,56,EkaterinaSTRELKOVA,8378,RUS,44.624,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,3,4,3,,69,VALCEPINAArianna,7705,ITA,44.801,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,4,1,1,,3,SHIMSukHee,8092,KOR,44.479,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,4,2,2,,48,KONSTANTINOVAEkaterina,8510,RUS,44.577,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,4,3,3,,14,KIKUCHIMoemi,7584,JPN,45.404,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),w,Quarterfinals,4,4,4,,124,YAKIMOVAAnna,8702,BUL,47.380,

@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,162,KIMByeongJun,7287,KOR,41.635,Q
-0,2,1,,179,VladimirGRIGOREV,7826,RUS,41.976,Q
-0,3,3,,111,VincentCOURNOYER,7432,CAN,42.005,
-0,4,2,,120,YUJiyang,8435,CHN,54.359,
-1,1,3,,131,PaulSTANLEY,7054,GBR,41.579,Q
-1,2,2,,174,FreekvanderWART,7269,NED,43.041,Q
-1,3,1,,116,LIANGWenhao,7594,CHN,58.658,ADV
-1,PEN,4,,197,J.R.CELSKI,7279,USA,PEN,
-2,1,1,,117,WUDajing,7729,CHN,41.489,Q
-2,2,4,,129,JonELEY,6592,GBR,41.937,Q
-2,3,2,,165,LEEHan-Bin,7444,KOR,42.080,
-2,4,3,,114,OlivierJEAN,6756,CAN,1:22.078,
-3,2,4,,136,RobertSEIFERT,6176,GER,41.450,Q
-3,3,2,,172,KNEGTSjinkie,7352,NED,41.933,
-3,4,5,,132,JackWHELBOURNE,7437,GBR,45.444,
-3,5,3,,124,ThibautFAUCONNET,6785,FRA,1:40.599,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,1,1,4,,162,KIMByeongJun,7287,KOR,41.635,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,1,2,1,,179,VladimirGRIGOREV,7826,RUS,41.976,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,1,3,3,,111,VincentCOURNOYER,7432,CAN,42.005,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,1,4,2,,120,YUJiyang,8435,CHN,54.359,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,2,1,3,,131,PaulSTANLEY,7054,GBR,41.579,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,2,2,2,,174,FreekvanderWART,7269,NED,43.041,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,2,3,1,,116,LIANGWenhao,7594,CHN,58.658,ADV
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,2,PEN,4,,197,J.R.CELSKI,7279,USA,PEN,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,3,1,1,,117,WUDajing,7729,CHN,41.489,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,3,2,4,,129,JonELEY,6592,GBR,41.937,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,3,3,2,,165,LEEHan-Bin,7444,KOR,42.080,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,3,4,3,,114,OlivierJEAN,6756,CAN,1:22.078,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,4,2,4,,136,RobertSEIFERT,6176,GER,41.450,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,4,3,2,,172,KNEGTSjinkie,7352,NED,41.933,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,4,4,5,,132,JackWHELBOURNE,7437,GBR,45.444,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),m,Quarterfinals,4,5,3,,124,ThibautFAUCONNET,6785,FRA,1:40.599,

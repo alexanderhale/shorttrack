@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,205,HAMELINCharles,6610,CAN,40.770OR,Q
-0,2,3,,244,SUNGSi-Bak,6811,KOR,40.821,Q
-0,3,2,,253,SimonCHO,7188,USA,41.211,
-0,4,4,,246,NielsKERSTHOLT,7067,NED,42.128,
-1,1,4,,220,JonELEY,6592,GBR,41.875,Q
-1,2,1,,256,ApoloAntonOHNO,6497,USA,42.004,Q
-1,3,3,,226,TysonHEUNG,6240,GER,48.554,ADV
-1,4,2,,215,ThibautFAUCONNET,6785,FRA,51.339,
-2,1,1,,242,LEEHo-Suk,6856,KOR,41.269,Q
-2,2,2,,207,OlivierJEAN,6756,CAN,41.275,Q
-2,3,3,,209,HANJialiang,6168,CHN,41.443,
-2,4,4,,238,JumpeiYOSHIZAWA,6577,JPN,41.906,
-3,1,1,,208,Francois-LouisTREMBLAY,6704,CAN,41.326,Q
-3,2,3,,241,KWAKYoon-Gy,6120,KOR,41.761,Q
-3,3,2,,245,HaraldsSILOVS,6458,LAT,41.837,
-3,4,4,,202,PieterGYSEL,6425,BEL,41.980,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,1,1,1,,205,HAMELINCharles,6610,CAN,40.770OR,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,1,2,3,,244,SUNGSi-Bak,6811,KOR,40.821,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,1,3,2,,253,SimonCHO,7188,USA,41.211,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,1,4,4,,246,NielsKERSTHOLT,7067,NED,42.128,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,2,1,4,,220,JonELEY,6592,GBR,41.875,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,2,2,1,,256,ApoloAntonOHNO,6497,USA,42.004,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,2,3,3,,226,TysonHEUNG,6240,GER,48.554,ADV
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,2,4,2,,215,ThibautFAUCONNET,6785,FRA,51.339,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,3,1,1,,242,LEEHo-Suk,6856,KOR,41.269,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,3,2,2,,207,OlivierJEAN,6756,CAN,41.275,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,3,3,3,,209,HANJialiang,6168,CHN,41.443,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,3,4,4,,238,JumpeiYOSHIZAWA,6577,JPN,41.906,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,4,1,1,,208,Francois-LouisTREMBLAY,6704,CAN,41.326,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,4,2,3,,241,KWAKYoon-Gy,6120,KOR,41.761,Q
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,4,3,2,,245,HaraldsSILOVS,6458,LAT,41.837,
+2009-2010,2010 Olympic Winter Games,500m,m,Quarterfinals,4,4,4,,202,PieterGYSEL,6425,BEL,41.980,

@@ -1,46 +1,46 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,103,SONGWeilong,7156,CHN,2:21.722,Q
-0,2,5,,128,FabioCARTA,6001,ITA,2:21.744,Q
-0,3,2,,137,ShinichiTAGAMI,6929,JPN,2:21.803,
-0,4,6,,168,RuslanZAKHAROV,6935,RUS,2:22.525,
-0,5,3,,164,AdamFILIPOWICZ,6156,POL,2:26.885,
-0,6,4,,91,ViktorDIMITROV,7128,BUL,2:27.315,
-1,1,1,,147,LEEHo-Suk,6856,KOR,2:25.346,Q
-1,2,3,,95,SteveROBILLARD,6494,CAN,2:25.814,Q
-1,3,4,,89,PieterGYSEL,6425,BEL,2:25.844,
-1,4,5,,169,SergeyPRANKEVICH,7048,RUS,2:26.738,
-1,5,2,,155,RudyKOEK,7225,NED,2:27.085,
-1,6,6,,84,AliaksandrANTANENKA,6850,BLR,2:28.779,
-2,1,5,,177,RyanBEDFORD,6956,USA,2:23.272,Q
-2,2,6,,82,LachlanHAY,6845,AUS,2:23.339,Q
-2,3,1,,139,ShinyuFUJIMOTO,7390,JPN,2:24.026,
-2,4,4,,176,AntonSIMON,6026,UKR,2:25.988,
-2,5,3,,127,BYKANOVVladislav,6178,ISR,2:26.652,
-2,6,2,,142,AslanDAUMOV,6119,KAZ,2:27.844,
-3,1,1,,129,CONFORTOLAYuri,6561,ITA,2:24.190,Q
-3,2,2,,100,SUIBaoKu,6416,CHN,2:24.398,Q
-3,3,5,,118,TomIVESON,6898,GBR,2:24.879,
-3,4,3,,122,ViktorKNOCH,6177,HUN,2:25.270,
-3,5,4,,112,RobertBECKER,7258,GER,2:25.576,
-4,2,2,,151,HaraldsSILOVS,6458,LAT,2:26.747,Q
-4,3,3,,178,TravisJAYNER,6300,USA,2:27.094,
-4,4,5,,120,AnthonyDOUGLAS,6301,GBR,2:30.245,
-4,5,1,,124,TamasTUTRAI,6197,HUN,2:31.690,
-4,DNS,4,,161,DariuszKULESZA,6817,POL,DNS,
-5,1,4,,97,Marc-AndreMONETTE,6270,CAN,2:27.664,Q
-5,2,2,,132,NicolaRODIGARI,6332,ITA,2:27.779,Q
-5,3,3,,170,AlexanderGERTSIKOV,6570,RUS,2:27.931,
-5,4,6,,158,FreekvanderWART,7269,NED,2:28.645,
-5,5,1,,144,AzamatNURMAGAMBETOV,7350,KAZ,2:31.370,
-5,6,5,,90,AsenYORDANOV,6851,BUL,2:31.555,
-6,1,6,,180,JordanMALONE,6201,USA,2:24.931,Q
-6,2,4,,154,KNEGTSjinkie,7352,NED,2:25.363,Q
-6,3,1,,83,AndrePULEC,6054,AUT,2:25.368,
-6,4,2,,138,JunjiITO,6579,JPN,2:27.320,
-6,5,5,,175,AndriyKOZHUKH,6133,UKR,2:28.815,
-6,6,3,,106,OndrejSUCHY,7131,CZE,2:29.702,
-7,1,2,,146,SONGKyung-Taek,6574,KOR,2:23.886,Q
-7,2,3,,98,MathieuGIROUX,6852,CAN,2:23.980,Q
-7,3,1,,105,ZHANGZhiqiang,7359,CHN,2:24.107,
-7,4,4,,109,SebastianPRAUS,6364,GER,2:24.583,
-7,5,5,,140,AndreySMETANIN,6459,KAZ,2:28.842,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,1,1,,103,SONGWeilong,7156,CHN,2:21.722,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,2,5,,128,FabioCARTA,6001,ITA,2:21.744,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,3,2,,137,ShinichiTAGAMI,6929,JPN,2:21.803,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,4,6,,168,RuslanZAKHAROV,6935,RUS,2:22.525,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,5,3,,164,AdamFILIPOWICZ,6156,POL,2:26.885,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,1,6,4,,91,ViktorDIMITROV,7128,BUL,2:27.315,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,1,1,,147,LEEHo-Suk,6856,KOR,2:25.346,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,2,3,,95,SteveROBILLARD,6494,CAN,2:25.814,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,3,4,,89,PieterGYSEL,6425,BEL,2:25.844,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,4,5,,169,SergeyPRANKEVICH,7048,RUS,2:26.738,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,5,2,,155,RudyKOEK,7225,NED,2:27.085,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,2,6,6,,84,AliaksandrANTANENKA,6850,BLR,2:28.779,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,1,5,,177,RyanBEDFORD,6956,USA,2:23.272,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,2,6,,82,LachlanHAY,6845,AUS,2:23.339,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,3,1,,139,ShinyuFUJIMOTO,7390,JPN,2:24.026,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,4,4,,176,AntonSIMON,6026,UKR,2:25.988,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,5,3,,127,BYKANOVVladislav,6178,ISR,2:26.652,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,3,6,2,,142,AslanDAUMOV,6119,KAZ,2:27.844,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,4,1,1,,129,CONFORTOLAYuri,6561,ITA,2:24.190,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,4,2,2,,100,SUIBaoKu,6416,CHN,2:24.398,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,4,3,5,,118,TomIVESON,6898,GBR,2:24.879,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,4,4,3,,122,ViktorKNOCH,6177,HUN,2:25.270,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,4,5,4,,112,RobertBECKER,7258,GER,2:25.576,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,5,2,2,,151,HaraldsSILOVS,6458,LAT,2:26.747,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,5,3,3,,178,TravisJAYNER,6300,USA,2:27.094,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,5,4,5,,120,AnthonyDOUGLAS,6301,GBR,2:30.245,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,5,5,1,,124,TamasTUTRAI,6197,HUN,2:31.690,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,5,DNS,4,,161,DariuszKULESZA,6817,POL,DNS,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,1,4,,97,Marc-AndreMONETTE,6270,CAN,2:27.664,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,2,2,,132,NicolaRODIGARI,6332,ITA,2:27.779,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,3,3,,170,AlexanderGERTSIKOV,6570,RUS,2:27.931,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,4,6,,158,FreekvanderWART,7269,NED,2:28.645,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,5,1,,144,AzamatNURMAGAMBETOV,7350,KAZ,2:31.370,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,6,6,5,,90,AsenYORDANOV,6851,BUL,2:31.555,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,1,6,,180,JordanMALONE,6201,USA,2:24.931,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,2,4,,154,KNEGTSjinkie,7352,NED,2:25.363,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,3,1,,83,AndrePULEC,6054,AUT,2:25.368,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,4,2,,138,JunjiITO,6579,JPN,2:27.320,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,5,5,,175,AndriyKOZHUKH,6133,UKR,2:28.815,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,7,6,3,,106,OndrejSUCHY,7131,CZE,2:29.702,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,8,1,2,,146,SONGKyung-Taek,6574,KOR,2:23.886,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,8,2,3,,98,MathieuGIROUX,6852,CAN,2:23.980,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,8,3,1,,105,ZHANGZhiqiang,7359,CHN,2:24.107,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,8,4,4,,109,SebastianPRAUS,6364,GER,2:24.583,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(2),m,Heats,8,5,5,,140,AndreySMETANIN,6459,KAZ,2:28.842,

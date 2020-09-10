@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,42,JamieMACDONALD,8997,CAN,44.443,Q
-0,2,3,,10,CharlotteGILMARTIN,7136,GBR,44.462,
-0,3,2,,118,KIMGeonHee,9188,KOR,45.244,
-0,4,4,,24,DeannaLOCKETT,7956,AUS,45.306,
-1,1,1,,5,SCHULTINGSuzanne,8493,NED,44.492,Q
-1,2,2,,125,Marie-EveDROLET,6059,CAN,44.521,
-1,3,3,,17,LuciaPERETTI,7160,ITA,58.632,
-1,PEN,4,,122,KatherineREUTTER-ADAMEK,7255,USA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,1,1,1,,42,JamieMACDONALD,8997,CAN,44.443,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,1,2,3,,10,CharlotteGILMARTIN,7136,GBR,44.462,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,1,3,2,,118,KIMGeonHee,9188,KOR,45.244,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,1,4,4,,24,DeannaLOCKETT,7956,AUS,45.306,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,2,1,1,,5,SCHULTINGSuzanne,8493,NED,44.492,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,2,2,2,,125,Marie-EveDROLET,6059,CAN,44.521,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,2,3,3,,17,LuciaPERETTI,7160,ITA,58.632,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),500m(2),w,Rep.Semifinals,2,PEN,4,,122,KatherineREUTTER-ADAMEK,7255,USA,PEN,

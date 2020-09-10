@@ -1,39 +1,39 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,6,,16,MASCITTOCynthia,9193,ITA,2:25.566,Q
-0,2,4,,23,SARAULTCourtneyLee,9223,CAN,2:25.645,Q
-0,3,2,,107,STODDARDCorinne,9464,USA,2:26.254,q
-0,4,5,,11,AnnaSEIDEL,8562,GER,2:26.505,
-0,5,1,,8,ZANGYize,8725,CHN,2:27.428,
-0,6,3,,138,AprilSHIN,8526,USA,2:27.738,
-1,1,5,,1,SCHULTINGSuzanne,8493,NED,2:33.137,Q
-1,2,3,,50,MONVOISINAurelie,8556,FRA,2:33.303,Q
-1,3,4,,77,BLAISDanae,9090,CAN,2:33.807,
-1,4,2,,119,TerezaPFEIFEROVA,9321,CZE,2:35.047,
-1,5,1,,19,HUOTMARCHANDTifany,7976,FRA,2:36.569,
-2,1,1,,48,HANYuTong,8365,CHN,2:33.211,Q
-2,2,5,,124,AriannaFONTANA,6227,ITA,2:33.405,Q
-2,3,6,,21,HIRAIAmi,8618,JPN,2:33.700,q
-2,4,2,,130,NOHDoHee,7986,KOR,2:34.169,
-2,5,4,,79,STORMOWSKAKamila,9008,POL,2:34.446,
-2,6,3,,125,YunaKOIKE,8670,JPN,2:34.655,
-3,1,3,,118,ZHANGYuting,9331,CHN,2:25.697,Q
-3,2,6,,57,ZAKHAROVAEvgeniya,7715,RUS,2:26.430,Q
-3,3,1,,121,SZILICZEI-NEMETRebeka,8737,HUN,2:26.675,q
-3,4,4,,12,deVRIESRianne,8333,NED,2:28.764,
-3,5,2,,137,HaileyCHOI,9567,USA,2:29.080,
-3,PEN,5,,10,DESMETHanne,8699,BEL,PEN,
-4,1,5,,3,KimBOUTIN,8542,CAN,2:24.447,Q
-4,2,2,,129,KIMAlang,8484,KOR,2:24.773,Q
-4,3,4,,71,KAMINAGAShione,8743,JPN,2:25.183,q
-4,4,1,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,2:26.256,
-4,5,3,,134,TOPOLSKAGabriela,9411,POL,2:27.141,
-5,1,5,,2,CHOIMinJeong,8625,KOR,2:40.392,Q
-5,2,4,,55,SIGHELArianna,8088,ITA,2:40.483,Q
-5,3,1,,33,FILIPOVALucia,9426,SVK,2:40.946,
-5,4,2,,27,BACSKAISaraLuca,8609,HUN,2:42.446,
-5,5,3,,136,TetyanaZARVANSKA,9300,UKR,2:44.664,
-6,1,4,,15,EFREMENKOVAEkaterina,8750,RUS,2:19.528,Q
-6,2,1,,123,DeannaLOCKETT,9603,HUN,2:19.629,Q
-6,3,3,,49,KONSTANTINOVAEkaterina,8510,RUS,2:19.926,q
-6,4,2,,133,MarijnWIERSMA,9274,NED,2:23.487,
-6,5,5,,35,UZAKOVAMariia-Mahdalyna,8759,UKR,2:30.060,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,1,6,,16,MASCITTOCynthia,9193,ITA,2:25.566,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,2,4,,23,SARAULTCourtneyLee,9223,CAN,2:25.645,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,3,2,,107,STODDARDCorinne,9464,USA,2:26.254,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,4,5,,11,AnnaSEIDEL,8562,GER,2:26.505,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,5,1,,8,ZANGYize,8725,CHN,2:27.428,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,1,6,3,,138,AprilSHIN,8526,USA,2:27.738,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,2,1,5,,1,SCHULTINGSuzanne,8493,NED,2:33.137,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,2,2,3,,50,MONVOISINAurelie,8556,FRA,2:33.303,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,2,3,4,,77,BLAISDanae,9090,CAN,2:33.807,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,2,4,2,,119,TerezaPFEIFEROVA,9321,CZE,2:35.047,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,2,5,1,,19,HUOTMARCHANDTifany,7976,FRA,2:36.569,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,1,1,,48,HANYuTong,8365,CHN,2:33.211,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,2,5,,124,AriannaFONTANA,6227,ITA,2:33.405,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,3,6,,21,HIRAIAmi,8618,JPN,2:33.700,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,4,2,,130,NOHDoHee,7986,KOR,2:34.169,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,5,4,,79,STORMOWSKAKamila,9008,POL,2:34.446,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,3,6,3,,125,YunaKOIKE,8670,JPN,2:34.655,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,1,3,,118,ZHANGYuting,9331,CHN,2:25.697,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,2,6,,57,ZAKHAROVAEvgeniya,7715,RUS,2:26.430,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,3,1,,121,SZILICZEI-NEMETRebeka,8737,HUN,2:26.675,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,4,4,,12,deVRIESRianne,8333,NED,2:28.764,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,5,2,,137,HaileyCHOI,9567,USA,2:29.080,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,4,PEN,5,,10,DESMETHanne,8699,BEL,PEN,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,5,1,5,,3,KimBOUTIN,8542,CAN,2:24.447,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,5,2,2,,129,KIMAlang,8484,KOR,2:24.773,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,5,3,4,,71,KAMINAGAShione,8743,JPN,2:25.183,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,5,4,1,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,2:26.256,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,5,5,3,,134,TOPOLSKAGabriela,9411,POL,2:27.141,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,6,1,5,,2,CHOIMinJeong,8625,KOR,2:40.392,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,6,2,4,,55,SIGHELArianna,8088,ITA,2:40.483,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,6,3,1,,33,FILIPOVALucia,9426,SVK,2:40.946,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,6,4,2,,27,BACSKAISaraLuca,8609,HUN,2:42.446,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,6,5,3,,136,TetyanaZARVANSKA,9300,UKR,2:44.664,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,7,1,4,,15,EFREMENKOVAEkaterina,8750,RUS,2:19.528,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,7,2,1,,123,DeannaLOCKETT,9603,HUN,2:19.629,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,7,3,3,,49,KONSTANTINOVAEkaterina,8510,RUS,2:19.926,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,7,4,2,,133,MarijnWIERSMA,9274,NED,2:23.487,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",1500m,w,Quarterfinals,7,5,5,,35,UZAKOVAMariia-Mahdalyna,8759,UKR,2:30.060,

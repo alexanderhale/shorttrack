@@ -1,2 +1,2 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,41,YuiSAKAI,6229,JPN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",1000m,w,FinalB,1,1,1,,41,YuiSAKAI,6229,JPN,notime,

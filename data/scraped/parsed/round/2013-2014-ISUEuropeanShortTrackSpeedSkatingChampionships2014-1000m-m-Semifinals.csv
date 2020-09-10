@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,3,,136,CONFORTOLAYuri,6561,ITA,1:28.490,Q,
-0,2,4,,155,SemenELISTRATOV,7293,RUS,1:28.530,Q,
-0,3,1,,147,KNEGTSjinkie,7352,NED,2:10.450,,
-0,YC,2,,116,ThibautFAUCONNET,6785,FRA,YC,,
-1,2,3,,156,VladimirGRIGOREV,7826,RUS,1:25.091,Q,
-1,3,4,,148,FreekvanderWART,7269,NED,1:25.158,,
-1,4,2,,133,ShaolinSandorLIU,7928,HUN,1:25.377,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,1,3,,136,CONFORTOLAYuri,6561,ITA,1:28.490,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,2,4,,155,SemenELISTRATOV,7293,RUS,1:28.530,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,3,1,,147,KNEGTSjinkie,7352,NED,2:10.450,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,YC,2,,116,ThibautFAUCONNET,6785,FRA,YC,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,2,3,,156,VladimirGRIGOREV,7826,RUS,1:25.091,Q,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,3,4,,148,FreekvanderWART,7269,NED,1:25.158,,
+2013-2014,ISU European Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,4,2,,133,ShaolinSandorLIU,7928,HUN,1:25.377,,

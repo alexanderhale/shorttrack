@@ -1,45 +1,45 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,11,YOSHINAGAKazuki,8745,JPN,1:25.042,Q
-0,2,3,,153,KIMGunWoo,9461,KOR,1:25.173,Q
-0,3,4,,22,DIONPascal,8999,CAN,1:25.462,q
-0,4,2,,24,PETREWard,8708,BEL,1:26.721,
-1,1,3,,32,AYRAPETYANDenis,8098,RUS,1:27.595,Q
-1,2,2,,137,ColeWilliamIsaacKRUEGER,9329,HUN,1:28.167,Q
-1,3,4,,61,NAVARROTristan,8559,FRA,1:28.227,
-1,4,1,,133,TREACYNiall,9390,GBR,1:29.001,
-2,1,2,,152,HONGKyungHwan,9190,KOR,1:26.987,Q
-2,2,3,,42,TREACYFarrell,8392,GBR,2:06.405,Q
-2,3,5,,30,SCHUBERTChristoph,7734,GER,2:11.354,ADV
-2,4,1,,174,KAZHGALINurtilek,8676,KAZ,notime,
-2,YC,4,,170,JonathanSO,9442,USA,YC,
-3,1,5,,41,BYKANOVVladislav,6178,ISR,1:26.207,Q
-3,2,3,,130,LIWenlong,9453,CHN,1:27.291,Q
-3,3,2,,162,MateuszKRZEMINSKI,9412,POL,1:28.327,
-3,4,1,,173,CHUSidneyK,9056,HKG,1:30.467,
-3,PEN,4,,125,DUBOISSteven,9092,CAN,PEN,
-4,1,2,,19,CONFORTOLAYuri,6561,ITA,1:26.101,Q
-4,2,4,,166,SITNIKOVPavel,9133,RUS,1:26.234,Q
-4,3,3,,26,HANDEIOleh,9073,UKR,1:26.391,
-4,4,1,,117,NIESCIERKarol,9126,POL,1:28.624,
-5,1,1,,136,AlexVARNYU,8337,HUN,1:32.655,Q
-5,2,3,,23,DOTTITommaso,7604,ITA,1:32.800,Q
-5,3,4,,143,HirokiYOKOYAMA,7932,JPN,1:34.312,
-5,PEN,2,,171,AdamCALLISTER,7954,USA,PEN,
-6,1,4,,57,WATANABEKeita,7605,JPN,1:24.985,Q
-6,2,3,,60,SHULGINOVAlexander,8752,RUS,1:25.053,Q
-6,3,1,,156,EMONSFriso,9276,NED,1:25.101,q
-6,4,2,,108,MURPHYPeter,9269,LUX,1:29.701,
-7,1,2,,172,WANGPengyu,9231,CHN,1:25.864,Q
-7,2,4,,55,CharleCOURNOYER,8063,CAN,1:25.991,Q
-7,3,3,,141,DavideVISCARDI,7440,ITA,1:26.117,
-7,4,1,,122,JoshuaKAH,9214,AUS,1:26.569,
-7,5,5,,78,DennisVISSER,8498,NED,1:28.432,
-8,1,2,,27,deLAATItzhak,7746,NED,1:27.726,Q
-8,2,1,,80,LEPAPESebastien,7554,FRA,1:27.976,Q
-8,3,4,,151,SHAMUKHANOVYerkebulan,8672,KAZ,1:29.287,
-8,4,3,,161,ADAMSKIPawel,9284,POL,1:30.284,
-9,1,1,,70,TRANAaron,8528,USA,1:25.228,Q
-9,2,3,,18,ThibautFAUCONNET,6785,FRA,1:25.439,Q
-9,3,5,,128,YUSongnan,9388,CHN,1:25.794,q
-9,4,2,,66,BillySIMMS,7926,GBR,1:29.793,
-9,5,4,,158,MarcGONZALES,9409,PHI,1:31.757,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,1,1,1,,11,YOSHINAGAKazuki,8745,JPN,1:25.042,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,1,2,3,,153,KIMGunWoo,9461,KOR,1:25.173,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,1,3,4,,22,DIONPascal,8999,CAN,1:25.462,q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,1,4,2,,24,PETREWard,8708,BEL,1:26.721,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,2,1,3,,32,AYRAPETYANDenis,8098,RUS,1:27.595,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,2,2,2,,137,ColeWilliamIsaacKRUEGER,9329,HUN,1:28.167,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,2,3,4,,61,NAVARROTristan,8559,FRA,1:28.227,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,2,4,1,,133,TREACYNiall,9390,GBR,1:29.001,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,3,1,2,,152,HONGKyungHwan,9190,KOR,1:26.987,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,3,2,3,,42,TREACYFarrell,8392,GBR,2:06.405,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,3,3,5,,30,SCHUBERTChristoph,7734,GER,2:11.354,ADV
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,3,4,1,,174,KAZHGALINurtilek,8676,KAZ,notime,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,3,YC,4,,170,JonathanSO,9442,USA,YC,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,4,1,5,,41,BYKANOVVladislav,6178,ISR,1:26.207,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,4,2,3,,130,LIWenlong,9453,CHN,1:27.291,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,4,3,2,,162,MateuszKRZEMINSKI,9412,POL,1:28.327,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,4,4,1,,173,CHUSidneyK,9056,HKG,1:30.467,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,4,PEN,4,,125,DUBOISSteven,9092,CAN,PEN,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,5,1,2,,19,CONFORTOLAYuri,6561,ITA,1:26.101,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,5,2,4,,166,SITNIKOVPavel,9133,RUS,1:26.234,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,5,3,3,,26,HANDEIOleh,9073,UKR,1:26.391,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,5,4,1,,117,NIESCIERKarol,9126,POL,1:28.624,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,6,1,1,,136,AlexVARNYU,8337,HUN,1:32.655,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,6,2,3,,23,DOTTITommaso,7604,ITA,1:32.800,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,6,3,4,,143,HirokiYOKOYAMA,7932,JPN,1:34.312,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,6,PEN,2,,171,AdamCALLISTER,7954,USA,PEN,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,7,1,4,,57,WATANABEKeita,7605,JPN,1:24.985,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,7,2,3,,60,SHULGINOVAlexander,8752,RUS,1:25.053,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,7,3,1,,156,EMONSFriso,9276,NED,1:25.101,q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,7,4,2,,108,MURPHYPeter,9269,LUX,1:29.701,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,8,1,2,,172,WANGPengyu,9231,CHN,1:25.864,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,8,2,4,,55,CharleCOURNOYER,8063,CAN,1:25.991,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,8,3,3,,141,DavideVISCARDI,7440,ITA,1:26.117,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,8,4,1,,122,JoshuaKAH,9214,AUS,1:26.569,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,8,5,5,,78,DennisVISSER,8498,NED,1:28.432,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,9,1,2,,27,deLAATItzhak,7746,NED,1:27.726,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,9,2,1,,80,LEPAPESebastien,7554,FRA,1:27.976,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,9,3,4,,151,SHAMUKHANOVYerkebulan,8672,KAZ,1:29.287,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,9,4,3,,161,ADAMSKIPawel,9284,POL,1:30.284,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,10,1,1,,70,TRANAaron,8528,USA,1:25.228,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,10,2,3,,18,ThibautFAUCONNET,6785,FRA,1:25.439,Q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,10,3,5,,128,YUSongnan,9388,CHN,1:25.794,q
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,10,4,2,,66,BillySIMMS,7926,GBR,1:29.793,
+2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),1000m(2),m,Preliminaries,10,5,4,,158,MarcGONZALES,9409,PHI,1:31.757,

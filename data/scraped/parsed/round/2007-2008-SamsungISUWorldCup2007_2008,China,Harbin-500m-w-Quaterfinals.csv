@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,13,WANGMeng,6594,CHN,43.694,Q
-0,2,2,,55,PARKSeung-Hi,7164,KOR,43.925,Q
-0,3,4,,45,LiesbethMAUASAM,6444,NED,45.835,
-0,4,3,,27,WANGXinyue,7340,HKG,48.181,
-1,1,3,,12,JessicaGREGG,6141,CAN,45.071,Q
-1,2,4,,57,CHOHa-Ri,7028,KOR,50.166,Q
-1,3,1,,18,ZHAONannan,7150,CHN,51.856,ADV
-1,DQ,2,,68,LanaGEHRING,7254,USA,DQ,
-2,1,1,,14,FUTianYu,6650,CHN,44.079,Q
-2,2,4,,56,SHINSae-Bom,7162,KOR,44.199,Q
-2,3,2,,2,EvgeniaRADANOVA,6775,BUL,44.233,
-2,4,3,,8,AnneMALTAIS,6355,CAN,44.553,
-3,1,2,,7,KalynaROBERGE,6284,CAN,44.759,Q
-3,2,1,,46,AnnitavanDOORN,6440,NED,45.124,Q
-3,3,3,,62,EkaterinaBELOVA,6190,RUS,45.200,
-3,4,4,,19,KaterinaNOVOTNA,6647,CZE,45.252,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,1,1,1,,13,WANGMeng,6594,CHN,43.694,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,1,2,2,,55,PARKSeung-Hi,7164,KOR,43.925,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,1,3,4,,45,LiesbethMAUASAM,6444,NED,45.835,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,1,4,3,,27,WANGXinyue,7340,HKG,48.181,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,2,1,3,,12,JessicaGREGG,6141,CAN,45.071,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,2,2,4,,57,CHOHa-Ri,7028,KOR,50.166,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,2,3,1,,18,ZHAONannan,7150,CHN,51.856,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,2,DQ,2,,68,LanaGEHRING,7254,USA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,3,1,1,,14,FUTianYu,6650,CHN,44.079,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,3,2,4,,56,SHINSae-Bom,7162,KOR,44.199,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,3,3,2,,2,EvgeniaRADANOVA,6775,BUL,44.233,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,3,4,3,,8,AnneMALTAIS,6355,CAN,44.553,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,4,1,2,,7,KalynaROBERGE,6284,CAN,44.759,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,4,2,1,,46,AnnitavanDOORN,6440,NED,45.124,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,4,3,3,,62,EkaterinaBELOVA,6190,RUS,45.200,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,w,Quaterfinals,4,4,4,,19,KaterinaNOVOTNA,6647,CZE,45.252,

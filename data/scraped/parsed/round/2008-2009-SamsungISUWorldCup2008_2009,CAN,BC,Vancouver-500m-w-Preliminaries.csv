@@ -1,40 +1,40 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,355,AriannaFONTANA,6227,ITA,45.532,Q
-0,2,2,,368,SayuriSHIMIZU,7544,JPN,45.600,Q
-0,3,4,,599,LanaGEHRING,7254,USA,45.803,
-0,4,1,,354,VeraKATSOV,6226,ISR,50.119,
-1,1,4,,323,MarianneST-GELAIS,7216,CAN,45.379,Q
-1,2,1,,307,TatianaBORODULINA,6684,AUS,45.791,Q
-1,3,3,,363,YuiSAKAI,6229,JPN,46.149,
-1,4,2,,350,AndreaKESZLER,7147,HUN,46.197,
-2,1,2,,338,SusanneRUDOLPH,6362,GER,46.012,Q
-2,2,1,,384,AidaBELLA,7538,POL,46.105,Q
-2,3,3,,364,AyukoITO,6791,JPN,46.176,
-2,4,4,,597,MariaGARCIA,7082,USA,46.598,
-3,1,3,,329,LIUQiuhong,6286,CHN,44.847,Q
-3,2,1,,341,WALTERBianca,7232,GER,46.589,Q
-3,3,2,,313,KristinaVUTEVA,6060,BUL,46.767,
-3,4,4,,385,AnnaROMANOWICZ,6027,POL,47.539,
-4,1,4,,391,PARKSeung-Hi,7164,KOR,45.586,Q
-4,2,3,,343,AlexSTANLEY,7140,GBR,47.622,Q
-4,3,1,,399,LiaSTEPANOVA,6150,RUS,47.699,
-4,4,2,,314,GerganaPATSOVA,6794,BUL,47.927,
-5,1,4,,330,ZHAONannan,7150,CHN,45.096,Q
-5,2,2,,390,YANGShin-Young,7163,KOR,45.311,Q
-5,3,1,,379,PatrycjaMALISZEWSKA,6154,POL,46.320,
-5,4,3,,352,PatriciaTOTH,7535,HUN,48.089,
-6,1,4,,319,JessicaGREGG,6141,CAN,45.718,Q
-6,2,1,,374,MaaikeVOS,7180,NED,45.866,Q
-6,3,2,,348,RozsaDARAZS,6797,HUN,46.167,
-6,4,3,,370,EvitaKRIEVANE,6833,LAT,47.251,
-7,2,4,,346,WANGXinyue,7340,HKG,45.183,Q
-7,3,1,,337,ChristinPRIEBST,6078,GER,46.011,
-7,4,2,,359,DeboraSECCHI,7238,ITA,46.889,
-8,1,2,,485,AlysonDUDEK,7290,USA,45.604,Q
-8,2,3,,334,KaterinaNOVOTNA,6647,CZE,45.658,Q
-8,3,1,,371,AnnitavanDOORN,6440,NED,45.746,
-8,4,4,,360,VALCEPINAMartina,7159,ITA,47.121,
-9,1,3,,389,JUNGBa-Ra,7537,KOR,45.705,Q
-9,2,1,,317,AnneMALTAIS,6355,CAN,46.011,Q
-9,3,4,,376,LiesbethMAUASAM,6444,NED,46.102,
-9,4,2,,393,KingaKOVACS,6953,ROU,47.446,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,1,1,3,,355,AriannaFONTANA,6227,ITA,45.532,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,1,2,2,,368,SayuriSHIMIZU,7544,JPN,45.600,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,1,3,4,,599,LanaGEHRING,7254,USA,45.803,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,1,4,1,,354,VeraKATSOV,6226,ISR,50.119,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,2,1,4,,323,MarianneST-GELAIS,7216,CAN,45.379,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,2,2,1,,307,TatianaBORODULINA,6684,AUS,45.791,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,2,3,3,,363,YuiSAKAI,6229,JPN,46.149,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,2,4,2,,350,AndreaKESZLER,7147,HUN,46.197,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,3,1,2,,338,SusanneRUDOLPH,6362,GER,46.012,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,3,2,1,,384,AidaBELLA,7538,POL,46.105,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,3,3,3,,364,AyukoITO,6791,JPN,46.176,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,3,4,4,,597,MariaGARCIA,7082,USA,46.598,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,4,1,3,,329,LIUQiuhong,6286,CHN,44.847,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,4,2,1,,341,WALTERBianca,7232,GER,46.589,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,4,3,2,,313,KristinaVUTEVA,6060,BUL,46.767,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,4,4,4,,385,AnnaROMANOWICZ,6027,POL,47.539,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,5,1,4,,391,PARKSeung-Hi,7164,KOR,45.586,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,5,2,3,,343,AlexSTANLEY,7140,GBR,47.622,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,5,3,1,,399,LiaSTEPANOVA,6150,RUS,47.699,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,5,4,2,,314,GerganaPATSOVA,6794,BUL,47.927,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,6,1,4,,330,ZHAONannan,7150,CHN,45.096,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,6,2,2,,390,YANGShin-Young,7163,KOR,45.311,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,6,3,1,,379,PatrycjaMALISZEWSKA,6154,POL,46.320,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,6,4,3,,352,PatriciaTOTH,7535,HUN,48.089,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,7,1,4,,319,JessicaGREGG,6141,CAN,45.718,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,7,2,1,,374,MaaikeVOS,7180,NED,45.866,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,7,3,2,,348,RozsaDARAZS,6797,HUN,46.167,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,7,4,3,,370,EvitaKRIEVANE,6833,LAT,47.251,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,8,2,4,,346,WANGXinyue,7340,HKG,45.183,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,8,3,1,,337,ChristinPRIEBST,6078,GER,46.011,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,8,4,2,,359,DeboraSECCHI,7238,ITA,46.889,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,9,1,2,,485,AlysonDUDEK,7290,USA,45.604,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,9,2,3,,334,KaterinaNOVOTNA,6647,CZE,45.658,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,9,3,1,,371,AnnitavanDOORN,6440,NED,45.746,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,9,4,4,,360,VALCEPINAMartina,7159,ITA,47.121,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,10,1,3,,389,JUNGBa-Ra,7537,KOR,45.705,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,10,2,1,,317,AnneMALTAIS,6355,CAN,46.011,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,10,3,4,,376,LiesbethMAUASAM,6444,NED,46.102,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",500m,w,Preliminaries,10,4,2,,393,KingaKOVACS,6953,ROU,47.446,

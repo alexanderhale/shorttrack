@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,6,,26,DESMETHanne,8699,BEL,2:26.876,Q
-0,2,5,,16,HitomiSAITO,7576,JPN,2:26.887,Q
-0,3,3,,33,KaterinaNOVOTNA,6647,CZE,2:26.943,
-0,4,4,,63,AyukoITO,6791,JPN,2:27.085,
-0,5,1,,64,KIKUCHISumire,7980,JPN,2:27.142,
-0,6,2,,131,TIKHONOVAOlga,8621,KAZ,2:29.513,
-0,7,7,,98,UZAKOVAMariia-Mahdalyna,8759,UKR,2:29.717,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,1,6,,26,DESMETHanne,8699,BEL,2:26.876,Q
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,2,5,,16,HitomiSAITO,7576,JPN,2:26.887,Q
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,3,3,,33,KaterinaNOVOTNA,6647,CZE,2:26.943,
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,4,4,,63,AyukoITO,6791,JPN,2:27.085,
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,5,1,,64,KIKUCHISumire,7980,JPN,2:27.142,
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,6,2,,131,TIKHONOVAOlga,8621,KAZ,2:29.513,
+2016-2017,ISU World Cup 2016/17 - Minsk (BLR),1500m,w,Rep.Semifinals,1,7,7,,98,UZAKOVAMariia-Mahdalyna,8759,UKR,2:29.717,

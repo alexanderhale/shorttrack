@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,81,KimberlyDERRICK,6246,USA,1:48.913,Q
-0,2,3,,50,TinaGRASSOW,6855,GER,1:48.969,Q
-0,3,1,,61,YuiSAKAI,6229,JPN,1:49.191,
-1,1,3,,60,BibaSAKURAI,7240,JPN,1:44.334,Q
-1,2,2,,63,YelenaSKACHKOVA,6231,KAZ,1:44.695,Q
-1,3,1,,79,YANGSzu-Han,6841,TPE,1:47.708,
-2,1,2,,84,CheriseWILKINS,7291,USA,1:42.868,Q
-2,2,3,,74,OlgaMASKAIKINA,6685,RUS,1:43.616,Q
-2,3,1,,67,AidaPOPIOLEK,6683,POL,1:45.087,
-3,1,2,,75,EkaterinaBELOVA,6190,RUS,1:44.775,Q
-3,2,1,,55,MaraZINI,6326,ITA,1:44.933,Q
-3,3,3,,62,YasukoSAKASHITA,6189,JPN,1:45.229,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,1,1,2,,81,KimberlyDERRICK,6246,USA,1:48.913,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,1,2,3,,50,TinaGRASSOW,6855,GER,1:48.969,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,1,3,1,,61,YuiSAKAI,6229,JPN,1:49.191,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,2,1,3,,60,BibaSAKURAI,7240,JPN,1:44.334,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,2,2,2,,63,YelenaSKACHKOVA,6231,KAZ,1:44.695,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,2,3,1,,79,YANGSzu-Han,6841,TPE,1:47.708,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,3,1,2,,84,CheriseWILKINS,7291,USA,1:42.868,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,3,2,3,,74,OlgaMASKAIKINA,6685,RUS,1:43.616,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,3,3,1,,67,AidaPOPIOLEK,6683,POL,1:45.087,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,4,1,2,,75,EkaterinaBELOVA,6190,RUS,1:44.775,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,4,2,1,,55,MaraZINI,6326,ITA,1:44.933,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(1),w,RepQuarterFinals,4,3,3,,62,YasukoSAKASHITA,6189,JPN,1:45.229,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,1022,WEIJiguang,7155,CHN,43.575,Q
-0,2,3,,1019,SUIBaoKu,6416,CHN,43.800,Q
-0,3,1,,1076,TomaszWROBLEWSKI,6214,POL,43.852,
-0,4,4,,1046,ClaudioRINALDI,7261,ITA,44.344,
-1,1,1,,1018,LIUXiaoLiang,6233,CHN,43.279,Q
-1,2,2,,1009,AssenPANDOV,6778,BUL,43.399,Q
-1,3,3,,1100,TravisJAYNER,6300,USA,43.561,
-1,4,4,,1052,ShinyuFUJIMOTO,7390,JPN,1:20.137,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,1,1,2,,1022,WEIJiguang,7155,CHN,43.575,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,1,2,3,,1019,SUIBaoKu,6416,CHN,43.800,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,1,3,1,,1076,TomaszWROBLEWSKI,6214,POL,43.852,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,1,4,4,,1046,ClaudioRINALDI,7261,ITA,44.344,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,2,1,1,,1018,LIUXiaoLiang,6233,CHN,43.279,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,2,2,2,,1009,AssenPANDOV,6778,BUL,43.399,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,2,3,3,,1100,TravisJAYNER,6300,USA,43.561,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepSemifinals,2,4,4,,1052,ShinyuFUJIMOTO,7390,JPN,1:20.137,

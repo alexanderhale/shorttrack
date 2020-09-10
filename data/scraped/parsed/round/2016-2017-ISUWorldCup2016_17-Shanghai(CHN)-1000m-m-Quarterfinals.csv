@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,144,VictorAN,8344,RUS,1:25.666,Q
-0,2,1,,15,BYKANOVVladislav,6178,ISR,1:25.672,Q
-0,3,2,,161,AYRAPETYANDenis,8098,RUS,1:26.455,q
-0,4,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,1:26.567,
-0,5,3,,2,HAMELINCharles,6610,CAN,notime,
-1,2,6,,27,ViktorKNOCH,6177,HUN,1:27.756,Q
-1,3,3,,43,DOTTITommaso,7604,ITA,1:27.938,
-1,4,5,,32,YOSHINAGAKazuki,8745,JPN,1:27.946,
-1,5,4,,155,HANSeungSoo,8673,KOR,2:02.056,ADV
-1,YC,1,,7,SamuelGIRARD,8600,CAN,YC,
-2,1,2,,156,HONGKyungHwan,9190,KOR,1:27.103,Q
-2,2,1,,168,ZHANGHongchao,8678,CHN,1:27.278,Q
-2,3,5,,181,XUHongzhi,8070,CHN,1:27.291,q
-2,4,3,,90,WATANABEKeita,7605,JPN,1:27.458,
-2,5,4,,86,BREEUWSMADaan,7218,NED,1:28.671,
-3,1,1,,5,ShaoangLIU,8564,HUN,1:27.404,Q
-3,2,5,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,1:28.019,Q
-3,3,3,,28,DennisVISSER,8498,NED,1:28.378,
-3,4,2,,55,PatrickDUFFY,7917,CAN,1:46.945,ADV
-3,PEN,4,,31,deLAATItzhak,7746,NED,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,1,1,4,,144,VictorAN,8344,RUS,1:25.666,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,1,2,1,,15,BYKANOVVladislav,6178,ISR,1:25.672,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,1,3,2,,161,AYRAPETYANDenis,8098,RUS,1:26.455,q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,1,4,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,1:26.567,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,1,5,3,,2,HAMELINCharles,6610,CAN,notime,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,2,2,6,,27,ViktorKNOCH,6177,HUN,1:27.756,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,2,3,3,,43,DOTTITommaso,7604,ITA,1:27.938,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,2,4,5,,32,YOSHINAGAKazuki,8745,JPN,1:27.946,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,2,5,4,,155,HANSeungSoo,8673,KOR,2:02.056,ADV
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,2,YC,1,,7,SamuelGIRARD,8600,CAN,YC,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,3,1,2,,156,HONGKyungHwan,9190,KOR,1:27.103,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,3,2,1,,168,ZHANGHongchao,8678,CHN,1:27.278,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,3,3,5,,181,XUHongzhi,8070,CHN,1:27.291,q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,3,4,3,,90,WATANABEKeita,7605,JPN,1:27.458,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,3,5,4,,86,BREEUWSMADaan,7218,NED,1:28.671,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,4,1,1,,5,ShaoangLIU,8564,HUN,1:27.404,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,4,2,5,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,1:28.019,Q
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,4,3,3,,28,DennisVISSER,8498,NED,1:28.378,
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,4,4,2,,55,PatrickDUFFY,7917,CAN,1:46.945,ADV
+2016-2017,ISU World Cup 2016/17 - Shanghai (CHN),1000m,m,Quarterfinals,4,PEN,4,,31,deLAATItzhak,7746,NED,PEN,

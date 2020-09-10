@@ -1,39 +1,39 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,105,AlexBOISVERT-LACROIX,7346,CAN,43.981,Q
-0,2,2,,130,PaulWORTH,6802,GBR,44.072,Q
-0,3,3,,171,VitalyMIKHEENKOV,6234,RUS,46.070,
-0,4,1,,116,CHENGEricI,6937,TPE,1:15.188,
-1,2,1,,139,TakahiroFUJIMOTO,6277,JPN,43.312,Q
-1,3,2,,158,DariuszKULESZA,6817,POL,44.494,
-1,4,3,,148,NurbergenZHUMAGAZIYEV,7349,KAZ,45.835,
-2,1,1,,164,SUNGSi-Bak,6811,KOR,43.318,Q
-2,2,2,,142,SatoshiSAKASHITA,6183,JPN,43.699,Q
-2,3,3,,154,IngmarvanRIEL,6186,NED,44.833,
-2,4,4,,172,DmytroPOLTAVETS,7221,UKR,45.515,
-3,1,2,,112,LIUXiaoLiang,6233,CHN,44.163,Q
-3,2,4,,176,JeffSIMON,7280,USA,44.185,Q
-3,3,1,,128,PaulSTANLEY,7054,GBR,44.317,
-3,4,3,,149,AzamatNURMAGAMBETOV,7350,KAZ,46.551,
-4,1,4,,113,WEIJiguang,7155,CHN,45.299,Q
-4,2,3,,151,NielsKERSTHOLT,7067,NED,45.505,Q
-4,3,1,,103,AndrePULEC,6054,AUT,45.888,
-4,4,2,,174,SerhiyLIFYRENKO,6826,UKR,46.405,
-5,1,2,,122,TysonHEUNG,6240,GER,44.432,Q
-5,2,4,,138,SatoruTERAO,6320,JPN,44.447,Q
-5,3,1,,110,CHENXin,7358,CHN,44.730,
-5,4,3,,179,TravisJAYNER,6300,USA,45.034,
-6,1,1,,165,KWAKYoon-Gy,6120,KOR,44.469,Q
-6,2,3,,167,EvgeniiKOZULIN,7272,RUS,44.567,Q
-6,3,2,,178,RyanBEDFORD,6956,USA,44.822,
-6,4,4,,125,RobertBECKER,7258,GER,46.228,
-7,1,4,,108,SteveROBILLARD,6494,CAN,44.814,Q
-7,2,2,,156,BartoszKONOPKO,7169,POL,45.013,Q
-7,3,1,,145,ArturSULTANGALIYEV,6158,KAZ,45.401,
-7,4,3,,137,RobertoSERRA,6463,ITA,46.581,
-8,1,3,,163,LEESeung-Hoon,6185,KOR,44.215,Q
-8,2,4,,170,SergeyPRANKEVICH,7048,RUS,45.220,Q
-8,3,2,,120,BenoitANTERIEUX,6193,FRA,46.031,
-8,DQ,1,,135,ClaudioRINALDI,7261,ITA,DQ,
-9,1,1,,127,JonELEY,6592,GBR,44.174,Q
-9,2,3,,118,ThibautFAUCONNET,6785,FRA,44.438,Q
-9,3,2,,155,FreekvanderWART,7269,NED,47.221,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,1,1,4,,105,AlexBOISVERT-LACROIX,7346,CAN,43.981,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,1,2,2,,130,PaulWORTH,6802,GBR,44.072,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,1,3,3,,171,VitalyMIKHEENKOV,6234,RUS,46.070,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,1,4,1,,116,CHENGEricI,6937,TPE,1:15.188,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,2,2,1,,139,TakahiroFUJIMOTO,6277,JPN,43.312,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,2,3,2,,158,DariuszKULESZA,6817,POL,44.494,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,2,4,3,,148,NurbergenZHUMAGAZIYEV,7349,KAZ,45.835,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,3,1,1,,164,SUNGSi-Bak,6811,KOR,43.318,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,3,2,2,,142,SatoshiSAKASHITA,6183,JPN,43.699,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,3,3,3,,154,IngmarvanRIEL,6186,NED,44.833,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,3,4,4,,172,DmytroPOLTAVETS,7221,UKR,45.515,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,4,1,2,,112,LIUXiaoLiang,6233,CHN,44.163,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,4,2,4,,176,JeffSIMON,7280,USA,44.185,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,4,3,1,,128,PaulSTANLEY,7054,GBR,44.317,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,4,4,3,,149,AzamatNURMAGAMBETOV,7350,KAZ,46.551,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,5,1,4,,113,WEIJiguang,7155,CHN,45.299,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,5,2,3,,151,NielsKERSTHOLT,7067,NED,45.505,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,5,3,1,,103,AndrePULEC,6054,AUT,45.888,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,5,4,2,,174,SerhiyLIFYRENKO,6826,UKR,46.405,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,6,1,2,,122,TysonHEUNG,6240,GER,44.432,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,6,2,4,,138,SatoruTERAO,6320,JPN,44.447,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,6,3,1,,110,CHENXin,7358,CHN,44.730,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,6,4,3,,179,TravisJAYNER,6300,USA,45.034,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,7,1,1,,165,KWAKYoon-Gy,6120,KOR,44.469,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,7,2,3,,167,EvgeniiKOZULIN,7272,RUS,44.567,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,7,3,2,,178,RyanBEDFORD,6956,USA,44.822,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,7,4,4,,125,RobertBECKER,7258,GER,46.228,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,8,1,4,,108,SteveROBILLARD,6494,CAN,44.814,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,8,2,2,,156,BartoszKONOPKO,7169,POL,45.013,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,8,3,1,,145,ArturSULTANGALIYEV,6158,KAZ,45.401,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,8,4,3,,137,RobertoSERRA,6463,ITA,46.581,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,9,1,3,,163,LEESeung-Hoon,6185,KOR,44.215,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,9,2,4,,170,SergeyPRANKEVICH,7048,RUS,45.220,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,9,3,2,,120,BenoitANTERIEUX,6193,FRA,46.031,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,9,DQ,1,,135,ClaudioRINALDI,7261,ITA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,10,1,1,,127,JonELEY,6592,GBR,44.174,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,10,2,3,,118,ThibautFAUCONNET,6785,FRA,44.438,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,Preliminaries,10,3,2,,155,FreekvanderWART,7269,NED,47.221,

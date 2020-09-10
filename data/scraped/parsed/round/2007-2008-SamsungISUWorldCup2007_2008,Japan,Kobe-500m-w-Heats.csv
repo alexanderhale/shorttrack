@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,12,ZHAONannan,7150,CHN,45.807,Q
-0,2,2,,13,KaterinaNOVOTNA,6647,CZE,46.350,Q
-0,3,3,,30,YukaKAMINO,6945,JPN,46.692,q
-0,4,4,,16,PIERRONVeronique,6196,FRA,46.699,
-1,1,1,,51,CHOHa-Ri,7028,KOR,45.728,Q
-1,2,4,,2,JessicaGREGG,6141,CAN,45.825,Q
-1,3,2,,25,AriannaFONTANA,6227,ITA,46.275,q
-1,4,3,,53,ValeriyaREZNIK,6573,RUS,46.394,
-2,1,1,,8,FUTianYu,6650,CHN,46.303,Q
-2,2,2,,59,LanaGEHRING,7254,USA,46.832,Q
-2,3,4,,21,SusanneRUDOLPH,6362,GER,47.117,q
-2,4,3,,39,LiesbethMAUASAM,6444,NED,47.220,
-3,2,2,,50,SHINSae-Bom,7162,KOR,45.483,Q
-3,3,4,,34,YuiSAKAI,6229,JPN,47.378,
-3,4,3,,45,PatrycjaMALISZEWSKA,6154,POL,47.892,
-4,1,1,,49,PARKSeung-Hi,7164,KOR,44.817,Q
-4,2,2,,5,KalynaROBERGE,6284,CAN,45.048,Q
-4,3,3,,56,EkaterinaBELOVA,6190,RUS,46.873,q
-4,4,4,,27,LuciaPERETTI,7160,ITA,47.617,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,1,1,1,,12,ZHAONannan,7150,CHN,45.807,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,1,2,2,,13,KaterinaNOVOTNA,6647,CZE,46.350,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,1,3,3,,30,YukaKAMINO,6945,JPN,46.692,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,1,4,4,,16,PIERRONVeronique,6196,FRA,46.699,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,2,1,1,,51,CHOHa-Ri,7028,KOR,45.728,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,2,2,4,,2,JessicaGREGG,6141,CAN,45.825,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,2,3,2,,25,AriannaFONTANA,6227,ITA,46.275,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,2,4,3,,53,ValeriyaREZNIK,6573,RUS,46.394,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,3,1,1,,8,FUTianYu,6650,CHN,46.303,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,3,2,2,,59,LanaGEHRING,7254,USA,46.832,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,3,3,4,,21,SusanneRUDOLPH,6362,GER,47.117,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,3,4,3,,39,LiesbethMAUASAM,6444,NED,47.220,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,4,2,2,,50,SHINSae-Bom,7162,KOR,45.483,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,4,3,4,,34,YuiSAKAI,6229,JPN,47.378,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,4,4,3,,45,PatrycjaMALISZEWSKA,6154,POL,47.892,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,5,1,1,,49,PARKSeung-Hi,7164,KOR,44.817,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,5,2,2,,5,KalynaROBERGE,6284,CAN,45.048,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,5,3,3,,56,EkaterinaBELOVA,6190,RUS,46.873,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,w,Heats,5,4,4,,27,LuciaPERETTI,7160,ITA,47.617,

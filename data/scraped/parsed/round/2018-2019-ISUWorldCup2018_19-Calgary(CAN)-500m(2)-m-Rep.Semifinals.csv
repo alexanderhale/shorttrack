@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,26,HANDEIOleh,9073,UKR,41.672,Q
-0,2,4,,168,BrandonKIM,9303,USA,42.095,
-0,3,1,,9,NIKISHADenis,8396,KAZ,notime,ADV
-0,PEN,3,,22,DIONPascal,8999,CAN,PEN,
-0,PEN,2,,31,DESMETStijn,8706,BEL,PEN,
-1,1,3,,80,LEPAPESebastien,7554,FRA,41.092,Q
-1,2,2,,57,WATANABEKeita,7605,JPN,41.147,
-1,3,1,,110,AugustinGERE,9270,LUX,41.518,
-1,4,4,,146,ShutaMATSUZU,9257,JPN,41.552,
-1,5,5,,162,MateuszKRZEMINSKI,9412,POL,41.692,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,1,1,5,,26,HANDEIOleh,9073,UKR,41.672,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,1,2,4,,168,BrandonKIM,9303,USA,42.095,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,1,3,1,,9,NIKISHADenis,8396,KAZ,notime,ADV
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,1,PEN,3,,22,DIONPascal,8999,CAN,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,1,PEN,2,,31,DESMETStijn,8706,BEL,PEN,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,2,1,3,,80,LEPAPESebastien,7554,FRA,41.092,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,2,2,2,,57,WATANABEKeita,7605,JPN,41.147,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,2,3,1,,110,AugustinGERE,9270,LUX,41.518,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,2,4,4,,146,ShutaMATSUZU,9257,JPN,41.552,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(2),m,Rep.Semifinals,2,5,5,,162,MateuszKRZEMINSKI,9412,POL,41.692,

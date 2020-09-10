@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,301,CHINA,7311,CHN,4:16.919,Q,
-0,2,3,,304,JAPAN,7304,JPN,4:18.086,Q,
-0,3,2,,305,ITALY,7317,ITA,4:18.802,,
-0,4,4,,308,HUNGARY,7323,HUN,4:24.165,,
-1,1,4,,303,KOREA,7314,KOR,4:15.233,Q,
-1,2,2,,302,CANADA,7312,CAN,4:19.466,Q,
-1,3,1,,306,NETHERLANDS,7322,NED,4:21.000,,
-1,4,3,,307,RUSSIA,7315,RUS,4:21.572,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,1,1,1,,301,CHINA,7311,CHN,4:16.919,Q,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,1,2,3,,304,JAPAN,7304,JPN,4:18.086,Q,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,1,3,2,,305,ITALY,7317,ITA,4:18.802,,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,1,4,4,,308,HUNGARY,7323,HUN,4:24.165,,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,2,1,4,,303,KOREA,7314,KOR,4:15.233,Q,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,2,2,2,,302,CANADA,7312,CAN,4:19.466,Q,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,2,3,1,,306,NETHERLANDS,7322,NED,4:21.000,,
+2012-2013,"2013 ISU World Championships, Debrecen (HUN)",3000mRelay,w,Semifinals,2,4,3,,307,RUSSIA,7315,RUS,4:21.572,,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,110,Jean-FrancoisMONETTE,7096,CAN,43.150,QA
-0,2,2,,113,LIYe,6655,CHN,43.284,QA
-0,3,4,,160,DariuszKULESZA,6817,POL,43.419,QB
-0,4,3,,169,SergeyPRANKEVICH,7048,RUS,47.973,QB
-1,1,1,,119,ThibautFAUCONNET,6785,FRA,43.811,QA
-1,2,4,,177,JeffSIMON,7280,USA,43.836,QA
-1,3,2,,142,TakahiroFUJIMOTO,6277,JPN,44.146,QB
-1,4,3,,171,SerhiyLIFYRENKO,6826,UKR,44.384,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,1,1,1,,110,Jean-FrancoisMONETTE,7096,CAN,43.150,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,1,2,2,,113,LIYe,6655,CHN,43.284,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,1,3,4,,160,DariuszKULESZA,6817,POL,43.419,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,1,4,3,,169,SergeyPRANKEVICH,7048,RUS,47.973,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,2,1,1,,119,ThibautFAUCONNET,6785,FRA,43.811,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,2,2,4,,177,JeffSIMON,7280,USA,43.836,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,2,3,2,,142,TakahiroFUJIMOTO,6277,JPN,44.146,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepSemifinals,2,4,3,,171,SerhiyLIFYRENKO,6826,UKR,44.384,QB

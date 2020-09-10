@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,8,JessicaGREGG,6141,CAN,1:31.589,Q
-0,2,1,,26,AndreaKESZLER,7147,HUN,1:31.853,
-0,3,4,,32,VIVIANIElena,7583,ITA,1:33.515,
-0,4,5,,58,TatianaBODOVA,7250,SVK,1:34.916,
-0,5,2,,24,RozsaDARAZS,6797,HUN,1:37.570,
-1,1,3,,30,VALCEPINAMartina,7159,ITA,1:35.990,Q
-1,2,1,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.061,
-1,3,2,,36,YasukoSAKASHITA,6189,JPN,1:38.375,ADV
-1,PEN,4,,23,WANGXinyue,7340,HKG,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,1,1,3,,8,JessicaGREGG,6141,CAN,1:31.589,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,1,2,1,,26,AndreaKESZLER,7147,HUN,1:31.853,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,1,3,4,,32,VIVIANIElena,7583,ITA,1:33.515,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,1,4,5,,58,TatianaBODOVA,7250,SVK,1:34.916,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,1,5,2,,24,RozsaDARAZS,6797,HUN,1:37.570,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,2,1,3,,30,VALCEPINAMartina,7159,ITA,1:35.990,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,2,2,1,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.061,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,2,3,2,,36,YasukoSAKASHITA,6189,JPN,1:38.375,ADV
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",1000m(1),w,RepSemifinals,2,PEN,4,,23,WANGXinyue,7340,HKG,PEN,

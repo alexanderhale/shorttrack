@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,9,MyrtilleGOLLIN,6714,FRA,1:37.126,Q
-0,2,4,,4,KimdeDAPPER,6854,BEL,1:37.717,Q
-0,3,2,,31,OlgaMASKAIKINA,6685,RUS,1:38.370,
-0,DQ,1,,22,JorienterMORS,6146,NED,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepFinalA,1,1,3,,9,MyrtilleGOLLIN,6714,FRA,1:37.126,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepFinalA,1,2,4,,4,KimdeDAPPER,6854,BEL,1:37.717,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepFinalA,1,3,2,,31,OlgaMASKAIKINA,6685,RUS,1:38.370,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepFinalA,1,DQ,1,,22,JorienterMORS,6146,NED,DQ,

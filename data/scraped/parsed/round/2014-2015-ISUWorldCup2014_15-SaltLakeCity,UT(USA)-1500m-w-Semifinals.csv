@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,323,AriannaFONTANA,6227,ITA,2:28.545,QA
-0,2,2,,310,HANYuTong,8365,CHN,2:28.581,QA
-0,3,3,,305,ValerieMALTAIS,6216,CAN,2:29.615,QB
-0,4,1,,344,deVRIESRianne,8333,NED,2:29.816,QB
-0,5,4,,330,KIKUCHISumire,7980,JPN,2:30.122,
-0,6,6,,309,GUOYihan,8364,CHN,2:30.893,
-1,1,1,,318,CHRISTIEElise,7135,GBR,2:25.995,QA
-1,2,4,,312,TAOJiaying,8667,CHN,2:26.119,QA
-1,3,2,,341,LEEEunByul,7421,KOR,2:26.653,QB
-1,4,5,,320,BernadettHEIDUM,6798,HUN,2:26.844,QB
-1,5,3,,361,EmilySCOTT,7823,USA,2:26.953,
-1,6,6,,351,KONSTANTINOVAEkaterina,8510,RUS,2:28.093,
-2,1,6,,342,SHIMSukHee,8092,KOR,2:25.061,QA
-2,2,1,,340,KIMAlang,8484,KOR,2:25.153,QA
-2,3,5,,301,DeannaLOCKETT,7956,AUS,2:25.578,QB
-2,4,2,,302,KimBOUTIN,8542,CAN,2:25.832,QB
-2,5,4,,355,ZAKHAROVAEvgeniya,7715,RUS,2:26.054,
-2,6,7,,354,EkaterinaSTRELKOVA,8378,RUS,2:27.010,
-2,7,3,,331,KIKUCHIYuki,8669,JPN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,1,5,,323,AriannaFONTANA,6227,ITA,2:28.545,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,2,2,,310,HANYuTong,8365,CHN,2:28.581,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,3,3,,305,ValerieMALTAIS,6216,CAN,2:29.615,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,4,1,,344,deVRIESRianne,8333,NED,2:29.816,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,5,4,,330,KIKUCHISumire,7980,JPN,2:30.122,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,1,6,6,,309,GUOYihan,8364,CHN,2:30.893,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,1,1,,318,CHRISTIEElise,7135,GBR,2:25.995,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,2,4,,312,TAOJiaying,8667,CHN,2:26.119,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,3,2,,341,LEEEunByul,7421,KOR,2:26.653,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,4,5,,320,BernadettHEIDUM,6798,HUN,2:26.844,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,5,3,,361,EmilySCOTT,7823,USA,2:26.953,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,2,6,6,,351,KONSTANTINOVAEkaterina,8510,RUS,2:28.093,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,1,6,,342,SHIMSukHee,8092,KOR,2:25.061,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,2,1,,340,KIMAlang,8484,KOR,2:25.153,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,3,5,,301,DeannaLOCKETT,7956,AUS,2:25.578,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,4,2,,302,KimBOUTIN,8542,CAN,2:25.832,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,5,4,,355,ZAKHAROVAEvgeniya,7715,RUS,2:26.054,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,6,7,,354,EkaterinaSTRELKOVA,8378,RUS,2:27.010,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1500m,w,Semifinals,3,7,3,,331,KIKUCHIYuki,8669,JPN,notime,

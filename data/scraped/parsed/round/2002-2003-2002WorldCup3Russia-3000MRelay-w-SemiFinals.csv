@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,1018,CHINA,7311,CHN,4:19.627,Q
-0,2,4,,1023,RUSSIA,7315,RUS,4:20.112,Q
-0,3,1,,1017,ITALY,7317,ITA,4:21.762,
-0,4,3,,1015,JAPAN,7310,JPN,4:29.133,
-1,1,2,,1016,KOREA,7314,KOR,4:21.916,Q
-1,2,3,,1019,CANADA,7312,CAN,4:22.277,Q
-1,3,1,,1024,GERMANY,7313,GER,4:22.450,
-1,4,4,,1020,BULGARIA,7335,BUL,4:23.161,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,1,1,2,,1018,CHINA,7311,CHN,4:19.627,Q
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,1,2,4,,1023,RUSSIA,7315,RUS,4:20.112,Q
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,1,3,1,,1017,ITALY,7317,ITA,4:21.762,
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,1,4,3,,1015,JAPAN,7310,JPN,4:29.133,
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,2,1,2,,1016,KOREA,7314,KOR,4:21.916,Q
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,2,2,3,,1019,CANADA,7312,CAN,4:22.277,Q
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,2,3,1,,1024,GERMANY,7313,GER,4:22.450,
+2002-2003,2002 World Cup 3   Russia,3000MRelay,w,SemiFinals,2,4,4,,1020,BULGARIA,7335,BUL,4:23.161,

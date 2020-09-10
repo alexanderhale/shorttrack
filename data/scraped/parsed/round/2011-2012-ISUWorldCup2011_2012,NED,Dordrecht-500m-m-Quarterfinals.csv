@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,6,GuillaumeBASTILLE,6166,CAN,42.536,Q
-0,2,4,,28,PaulHERRMANN,6803,GER,42.702,Q
-0,3,5,,33,ViktorKNOCH,6177,HUN,42.846,QC
-0,4,2,,61,NielsKERSTHOLT,7067,NED,44.642,ADV
-0,PEN,3,,85,John-HenryKRUEGER,7763,USA,PEN,
-1,1,1,,10,Francois-LouisTREMBLAY,6704,CAN,42.167,Q
-1,2,2,,12,GONGQiuwen,7593,CHN,42.844,Q
-1,3,4,,65,JakubJAWORSKI,6816,POL,43.002,QC
-1,4,3,,25,JeremyMASSON,6173,FRA,43.093,
-2,1,2,,31,RobertSEIFERT,6176,GER,42.007,Q
-2,2,4,,83,SimonCHO,7188,USA,42.201,Q
-2,3,3,,63,FreekvanderWART,7269,NED,42.341,QC
-2,4,1,,9,LiamMcFARLANE,7200,CAN,42.366,
-3,1,3,,68,VladimirGRIGOREV,7826,RUS,42.100,Q
-3,2,2,,51,KWAKYoon-Gy,6120,KOR,42.232,Q
-3,3,1,,13,LIANGWenhao,7594,CHN,42.519,QC
-3,4,4,YC,78,OleksiyKOSHELENKO,7121,UKR,42.803,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,1,1,1,,6,GuillaumeBASTILLE,6166,CAN,42.536,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,1,2,4,,28,PaulHERRMANN,6803,GER,42.702,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,1,3,5,,33,ViktorKNOCH,6177,HUN,42.846,QC
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,1,4,2,,61,NielsKERSTHOLT,7067,NED,44.642,ADV
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,1,PEN,3,,85,John-HenryKRUEGER,7763,USA,PEN,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,2,1,1,,10,Francois-LouisTREMBLAY,6704,CAN,42.167,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,2,2,2,,12,GONGQiuwen,7593,CHN,42.844,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,2,3,4,,65,JakubJAWORSKI,6816,POL,43.002,QC
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,2,4,3,,25,JeremyMASSON,6173,FRA,43.093,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,3,1,2,,31,RobertSEIFERT,6176,GER,42.007,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,3,2,4,,83,SimonCHO,7188,USA,42.201,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,3,3,3,,63,FreekvanderWART,7269,NED,42.341,QC
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,3,4,1,,9,LiamMcFARLANE,7200,CAN,42.366,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,4,1,3,,68,VladimirGRIGOREV,7826,RUS,42.100,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,4,2,2,,51,KWAKYoon-Gy,6120,KOR,42.232,Q
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,4,3,1,,13,LIANGWenhao,7594,CHN,42.519,QC
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,m,Quarterfinals,4,4,4,YC,78,OleksiyKOSHELENKO,7121,UKR,42.803,

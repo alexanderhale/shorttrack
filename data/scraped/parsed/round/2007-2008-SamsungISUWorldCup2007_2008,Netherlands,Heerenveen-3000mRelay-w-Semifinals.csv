@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1114,KOREA,7314,KOR,4:21.485,QA
-0,2,2,,1115,RUSSIA,7315,RUS,4:28.975,QA
-0,3,3,,1111,JAPAN,7304,JPN,4:32.673,QB
-0,4,4,,1113,POLAND,7332,POL,4:36.956,QB
-1,2,5,,1110,ITALY,7317,ITA,4:33.599,QA
-1,3,3,,1108,GERMANY,7313,GER,4:34.959,QB
-1,4,4,,1112,NETHERLANDS,7322,NED,4:35.638,QB
-1,DQ,2,,1116,UNITEDSTATES,7316,USA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,1,1,1,,1114,KOREA,7314,KOR,4:21.485,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,1,2,2,,1115,RUSSIA,7315,RUS,4:28.975,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,1,3,3,,1111,JAPAN,7304,JPN,4:32.673,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,1,4,4,,1113,POLAND,7332,POL,4:36.956,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,2,2,5,,1110,ITALY,7317,ITA,4:33.599,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,2,3,3,,1108,GERMANY,7313,GER,4:34.959,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,2,4,4,,1112,NETHERLANDS,7322,NED,4:35.638,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",3000mRelay,w,Semifinals,2,DQ,2,,1116,UNITEDSTATES,7316,USA,DQ,

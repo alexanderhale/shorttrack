@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,2,3,,67,LIJiajun,7095,CHN,1:27.014,Q,
-0,3,2,,66,SteveROBILLARD,6494,CAN,1:27.075,,
-0,4,4,,65,Jean-FrancoisMONETTE,7096,CAN,1:27.558,,
-1,1,3,,63,JonathanGUILMETTE,6702,CAN,1:28.723,Q,
-1,2,1,,93,FabioCARTA,6001,ITA,1:28.796,Q,
-1,3,4,,107,LEESeung-Jae,6621,KOR,1:29.981,ADV,
-1,DQ,2,,135,ApoloAntonOHNO,6497,USA,DQ,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,1,2,3,,67,LIJiajun,7095,CHN,1:27.014,Q,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,1,3,2,,66,SteveROBILLARD,6494,CAN,1:27.075,,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,1,4,4,,65,Jean-FrancoisMONETTE,7096,CAN,1:27.558,,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,2,1,3,,63,JonathanGUILMETTE,6702,CAN,1:28.723,Q,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,2,2,1,,93,FabioCARTA,6001,ITA,1:28.796,Q,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,2,3,4,,107,LEESeung-Jae,6621,KOR,1:29.981,ADV,
+2003-2004,"2004 World Championship, Sweden",1000M,m,SemiFinals,2,DQ,2,,135,ApoloAntonOHNO,6497,USA,DQ,,

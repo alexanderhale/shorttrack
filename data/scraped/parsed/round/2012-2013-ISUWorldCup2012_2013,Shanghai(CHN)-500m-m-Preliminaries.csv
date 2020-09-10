@@ -1,41 +1,41 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,165,NielsKERSTHOLT,7067,NED,41.342,Q
-0,2,3,,128,PaulSTANLEY,7054,GBR,41.608,Q
-0,3,1,,148,DavideVISCARDI,7440,ITA,42.283,
-0,4,4,,183,ValentynDANILOVSKYI,7895,UKR,42.520,
-1,1,2,,113,LIANGWenhao,7594,CHN,41.170,Q
-1,2,1,,174,EvgeniiKOZULIN,7272,RUS,41.689,Q
-1,3,4,,150,TakayukiMURATAKE,7442,JPN,41.800,q
-1,4,5,,135,SCHUBERTChristoph,7734,GER,44.661,
-1,5,3,,143,SubodhBalavantPATIL,6241,IND,51.544,
-2,1,2,,156,KIMByeongJun,7287,KOR,41.263,Q
-2,2,3,,111,FrancoisHAMELIN,6167,CAN,41.579,Q
-2,3,4,,140,ShaolinSandorLIU,7928,HUN,42.146,q
-2,4,1,,101,PierreBODA,7588,AUS,42.681,
-3,1,1,,133,RobertSEIFERT,6176,GER,42.257,Q
-3,2,5,,159,LEEHan-Bin,7444,KOR,42.384,Q
-3,3,2,,184,SerhiyLIFYRENKO,6826,UKR,43.072,
-3,4,4,,177,LucasNG,8067,SGP,46.467,
-3,PEN,3,,151,RyosukeSAKAZUME,7542,JPN,PEN,
-4,2,1,,127,RichardSHOEBRIDGE,7825,GBR,42.830,Q
-4,3,4,,122,JeremyMASSON,6173,FRA,43.478,
-4,4,5,,149,DOTTITommaso,7604,ITA,43.790,
-4,5,2,,178,JoseCAVALLI,7756,SUI,44.501,
-5,1,3,,114,GONGQiuwen,7593,CHN,42.277,Q
-5,2,1,,161,SINdaWoon,8035,KOR,42.316,Q
-5,3,2,,155,WATANABEKeita,7605,JPN,43.336,
-5,4,5,,105,YauheniRYZHOU,7772,BLR,43.420,
-5,5,4,,175,AndreyMIKHASEV,8455,RUS,43.730,
-6,1,2,,173,VladimirGRIGOREV,7826,RUS,42.017,Q
-6,2,3,,167,BREEUWSMADaan,7218,NED,42.163,Q
-6,3,1,,139,ViktorKNOCH,6177,HUN,42.268,
-6,4,4,,102,RonaldCALDECUTT,7589,AUS,45.070,
-7,1,2,,115,WUDajing,7729,CHN,41.839,Q
-7,2,1,,119,LEPAPESebastien,7554,FRA,42.169,Q
-7,3,3,,163,SAULITISJekabs,7267,LAT,45.778,
-7,4,4,,126,JonELEY,6592,GBR,1:27.451,
-8,1,4,,112,LiamMcFARLANE,7200,CAN,41.506,Q
-8,2,2,,164,KNEGTSjinkie,7352,NED,42.500,Q
-8,3,1,,182,IevgenGUTENOV,7178,UKR,42.727,
-8,4,5,,137,BenceBERES,7438,HUN,42.771,
-8,5,3,,124,VincentJEANNE,7890,FRA,43.246,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,1,1,2,,165,NielsKERSTHOLT,7067,NED,41.342,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,1,2,3,,128,PaulSTANLEY,7054,GBR,41.608,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,1,3,1,,148,DavideVISCARDI,7440,ITA,42.283,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,1,4,4,,183,ValentynDANILOVSKYI,7895,UKR,42.520,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,2,1,2,,113,LIANGWenhao,7594,CHN,41.170,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,2,2,1,,174,EvgeniiKOZULIN,7272,RUS,41.689,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,2,3,4,,150,TakayukiMURATAKE,7442,JPN,41.800,q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,2,4,5,,135,SCHUBERTChristoph,7734,GER,44.661,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,2,5,3,,143,SubodhBalavantPATIL,6241,IND,51.544,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,3,1,2,,156,KIMByeongJun,7287,KOR,41.263,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,3,2,3,,111,FrancoisHAMELIN,6167,CAN,41.579,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,3,3,4,,140,ShaolinSandorLIU,7928,HUN,42.146,q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,3,4,1,,101,PierreBODA,7588,AUS,42.681,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,4,1,1,,133,RobertSEIFERT,6176,GER,42.257,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,4,2,5,,159,LEEHan-Bin,7444,KOR,42.384,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,4,3,2,,184,SerhiyLIFYRENKO,6826,UKR,43.072,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,4,4,4,,177,LucasNG,8067,SGP,46.467,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,4,PEN,3,,151,RyosukeSAKAZUME,7542,JPN,PEN,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,5,2,1,,127,RichardSHOEBRIDGE,7825,GBR,42.830,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,5,3,4,,122,JeremyMASSON,6173,FRA,43.478,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,5,4,5,,149,DOTTITommaso,7604,ITA,43.790,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,5,5,2,,178,JoseCAVALLI,7756,SUI,44.501,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,6,1,3,,114,GONGQiuwen,7593,CHN,42.277,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,6,2,1,,161,SINdaWoon,8035,KOR,42.316,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,6,3,2,,155,WATANABEKeita,7605,JPN,43.336,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,6,4,5,,105,YauheniRYZHOU,7772,BLR,43.420,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,6,5,4,,175,AndreyMIKHASEV,8455,RUS,43.730,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,7,1,2,,173,VladimirGRIGOREV,7826,RUS,42.017,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,7,2,3,,167,BREEUWSMADaan,7218,NED,42.163,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,7,3,1,,139,ViktorKNOCH,6177,HUN,42.268,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,7,4,4,,102,RonaldCALDECUTT,7589,AUS,45.070,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,8,1,2,,115,WUDajing,7729,CHN,41.839,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,8,2,1,,119,LEPAPESebastien,7554,FRA,42.169,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,8,3,3,,163,SAULITISJekabs,7267,LAT,45.778,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,8,4,4,,126,JonELEY,6592,GBR,1:27.451,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,9,1,4,,112,LiamMcFARLANE,7200,CAN,41.506,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,9,2,2,,164,KNEGTSjinkie,7352,NED,42.500,Q
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,9,3,1,,182,IevgenGUTENOV,7178,UKR,42.727,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,9,4,5,,137,BenceBERES,7438,HUN,42.771,
+2012-2013,"ISU World Cup 2012/2013, Shanghai (CHN)",500m,m,Preliminaries,9,5,3,,124,VincentJEANNE,7890,FRA,43.246,

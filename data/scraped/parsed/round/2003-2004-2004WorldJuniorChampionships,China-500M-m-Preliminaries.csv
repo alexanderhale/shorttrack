@@ -1,59 +1,59 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,118,SergeyPRANKEVICH,7048,RUS,43.488,Q
-0,2,3,,109,BlakeSKJELLERUP,6549,NZL,43.697,Q
-0,3,4,,63,AndrePULEC,6054,AUT,43.931,q
-0,4,2,,99,KOPTELOVDmitry,7049,KAZ,45.998,
-1,1,1,,92,DenisBELLOTTI,6807,ITA,44.160,Q
-1,2,4,,79,PaulWORTH,6802,GBR,44.247,Q
-1,3,2,,91,SergeiKASTOV,6591,ISR,45.020,
-1,4,3,,86,DavidManoLOTH,6804,HUN,45.086,
-2,1,4,,76,ThibautFAUCONNET,6785,FRA,44.359,Q
-2,2,3,,96,ShinichiTAGAMI,6929,JPN,44.621,Q
-2,3,1,,89,VAINEREvgeni,6051,ISR,45.086,
-2,4,2,,126,MOMing-Jui,6011,TPE,45.211,
-3,1,4,,102,KWONKi-Deok,6931,KOR,45.088,Q
-3,2,1,,129,AnthonyLOBELLO,6958,USA,47.207,Q
-3,3,2,,123,CHENGEricI,6937,TPE,48.255,
-3,4,3,,106,TSOGGERELDavaanyam,6562,MGL,56.986,
-4,1,2,,73,HUZe,6926,CHN,44.433,Q
-4,2,1,,82,GuidoHEGENER,6466,GER,44.472,Q
-4,3,3,,127,RyanBEDFORD,6956,USA,44.618,q
-5,1,2,,93,CONFORTOLAYuri,6561,ITA,44.561,Q
-5,2,1,,81,PhilipBROJAKA,6801,GBR,44.676,Q
-5,3,4,,124,LINChueh,6829,TPE,47.882,
-5,4,3,,65,SiarheiYAKUSHKOU,6923,BLR,1:16.512,
-6,1,1,,85,PeterDARAZS,6465,HUN,44.240,Q
-6,2,4,,70,MalcolmTHERRIEN,6925,CAN,44.346,Q
-6,3,3,,77,CHARPENTIERXavier,6927,FRA,45.651,
-6,4,2,,115,LaszloVRENCEAN,6819,,45.927,
-7,1,1,,104,YOOJi-Hoon,6932,KOR,45.245,Q
-7,2,4,,71,CUILiang,6906,CHN,45.262,Q
-7,3,3,,61,LachlanHAY,6845,AUS,45.514,
-7,4,2,,122,MikaelMESSING,6824,SWE,46.377,
-8,1,1,,94,DavideURBANI,6872,ITA,43.992,Q
-8,2,2,,95,JumpeiYOSHIZAWA,6577,JPN,44.050,Q
-8,3,3,,66,AliaksandrANTANENKA,6850,BLR,45.720,
-8,4,4,,101,AndreySMETANIN,6459,KAZ,47.292,
-9,1,4,,68,MathieuGIROUX,6852,CAN,45.379,Q
-9,2,2,,97,TakahiroFUJIMOTO,6277,JPN,47.469,Q
-9,3,1,,107,SHIJIRBAATARShagdar,6564,MGL,52.050,
-9,4,3,,120,RuslanZAKHAROV,6935,RUS,59.598,
-10,1,3,,111,ZbigniewBRODKA,6096,POL,44.485,Q
-10,2,4,,83,PaulHERRMANN,6803,GER,44.643,Q
-10,3,1,,62,ElliottSHRIANE,6846,AUS,45.203,
-10,4,2,,64,BenjaminKOCH,6847,AUT,57.589,
-11,1,1,,80,JonELEY,6592,GBR,43.509,Q
-11,2,3,,112,DariuszKULESZA,6817,POL,43.609,Q
-11,3,4,,108,QUIGLEYHALDERNathan,6933,NZL,48.753,
-11,4,2,,105,GanbatJARGALANCHULUUN,6543,MGL,1:00.514,
-12,1,1,,69,LEFRANCOIS-GAUVREAUMathieu,6924,CAN,43.806,Q
-12,2,2,,87,GaborGALAMBOS,6010,HUN,44.154,Q
-12,3,3,,119,ViacheslavKURGINIAN,6934,RUS,45.035,
-12,4,4,,128,FRANKNick,6957,USA,45.133,
-13,1,1,,72,SUIBaoKu,6416,CHN,44.925,Q
-13,2,3,,113,JakubJAWORSKI,6816,POL,45.040,Q
-13,3,2,,67,AsenYORDANOV,6851,BUL,48.568,
-13,4,4,,100,GEMIDOYPetr,6930,KAZ,49.335,
-14,1,2,,103,LEEHo-Suk,6856,KOR,44.787,Q
-14,2,1,,75,DELMEDICOVincent,7100,FRA,44.895,Q
-14,3,3,,90,VERNIKOVEvgeni,6806,ISR,46.692,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,1,1,1,,118,SergeyPRANKEVICH,7048,RUS,43.488,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,1,2,3,,109,BlakeSKJELLERUP,6549,NZL,43.697,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,1,3,4,,63,AndrePULEC,6054,AUT,43.931,q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,1,4,2,,99,KOPTELOVDmitry,7049,KAZ,45.998,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,2,1,1,,92,DenisBELLOTTI,6807,ITA,44.160,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,2,2,4,,79,PaulWORTH,6802,GBR,44.247,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,2,3,2,,91,SergeiKASTOV,6591,ISR,45.020,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,2,4,3,,86,DavidManoLOTH,6804,HUN,45.086,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,3,1,4,,76,ThibautFAUCONNET,6785,FRA,44.359,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,3,2,3,,96,ShinichiTAGAMI,6929,JPN,44.621,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,3,3,1,,89,VAINEREvgeni,6051,ISR,45.086,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,3,4,2,,126,MOMing-Jui,6011,TPE,45.211,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,4,1,4,,102,KWONKi-Deok,6931,KOR,45.088,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,4,2,1,,129,AnthonyLOBELLO,6958,USA,47.207,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,4,3,2,,123,CHENGEricI,6937,TPE,48.255,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,4,4,3,,106,TSOGGERELDavaanyam,6562,MGL,56.986,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,5,1,2,,73,HUZe,6926,CHN,44.433,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,5,2,1,,82,GuidoHEGENER,6466,GER,44.472,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,5,3,3,,127,RyanBEDFORD,6956,USA,44.618,q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,6,1,2,,93,CONFORTOLAYuri,6561,ITA,44.561,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,6,2,1,,81,PhilipBROJAKA,6801,GBR,44.676,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,6,3,4,,124,LINChueh,6829,TPE,47.882,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,6,4,3,,65,SiarheiYAKUSHKOU,6923,BLR,1:16.512,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,7,1,1,,85,PeterDARAZS,6465,HUN,44.240,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,7,2,4,,70,MalcolmTHERRIEN,6925,CAN,44.346,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,7,3,3,,77,CHARPENTIERXavier,6927,FRA,45.651,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,7,4,2,,115,LaszloVRENCEAN,6819,,45.927,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,8,1,1,,104,YOOJi-Hoon,6932,KOR,45.245,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,8,2,4,,71,CUILiang,6906,CHN,45.262,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,8,3,3,,61,LachlanHAY,6845,AUS,45.514,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,8,4,2,,122,MikaelMESSING,6824,SWE,46.377,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,9,1,1,,94,DavideURBANI,6872,ITA,43.992,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,9,2,2,,95,JumpeiYOSHIZAWA,6577,JPN,44.050,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,9,3,3,,66,AliaksandrANTANENKA,6850,BLR,45.720,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,9,4,4,,101,AndreySMETANIN,6459,KAZ,47.292,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,10,1,4,,68,MathieuGIROUX,6852,CAN,45.379,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,10,2,2,,97,TakahiroFUJIMOTO,6277,JPN,47.469,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,10,3,1,,107,SHIJIRBAATARShagdar,6564,MGL,52.050,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,10,4,3,,120,RuslanZAKHAROV,6935,RUS,59.598,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,11,1,3,,111,ZbigniewBRODKA,6096,POL,44.485,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,11,2,4,,83,PaulHERRMANN,6803,GER,44.643,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,11,3,1,,62,ElliottSHRIANE,6846,AUS,45.203,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,11,4,2,,64,BenjaminKOCH,6847,AUT,57.589,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,12,1,1,,80,JonELEY,6592,GBR,43.509,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,12,2,3,,112,DariuszKULESZA,6817,POL,43.609,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,12,3,4,,108,QUIGLEYHALDERNathan,6933,NZL,48.753,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,12,4,2,,105,GanbatJARGALANCHULUUN,6543,MGL,1:00.514,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,13,1,1,,69,LEFRANCOIS-GAUVREAUMathieu,6924,CAN,43.806,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,13,2,2,,87,GaborGALAMBOS,6010,HUN,44.154,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,13,3,3,,119,ViacheslavKURGINIAN,6934,RUS,45.035,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,13,4,4,,128,FRANKNick,6957,USA,45.133,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,14,1,1,,72,SUIBaoKu,6416,CHN,44.925,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,14,2,3,,113,JakubJAWORSKI,6816,POL,45.040,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,14,3,2,,67,AsenYORDANOV,6851,BUL,48.568,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,14,4,4,,100,GEMIDOYPetr,6930,KAZ,49.335,
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,15,1,2,,103,LEEHo-Suk,6856,KOR,44.787,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,15,2,1,,75,DELMEDICOVincent,7100,FRA,44.895,Q
+2003-2004,"2004 World Junior Championships, China",500M,m,Preliminaries,15,3,3,,90,VERNIKOVEvgeni,6806,ISR,46.692,

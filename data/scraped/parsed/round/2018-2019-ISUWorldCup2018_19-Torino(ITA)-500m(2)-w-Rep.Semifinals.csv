@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,27,GUOYihan,8364,CHN,44.581,Q
-0,2,1,,95,GAGNONClaudia,9381,CAN,44.642,
-0,3,2,,56,KasandraBRADETTE,8058,CAN,44.834,
-0,4,4,,135,STODDARDCorinne,9464,USA,44.913,
-1,1,1,,154,SONGYang,9207,CHN,44.875,Q
-1,2,4,,102,WANGXiran,9451,CHN,44.978,
-1,3,3,,61,KIKUCHIYuki,8669,JPN,45.244,
-1,4,2,,75,STORMOWSKAKamila,9008,POL,45.255,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,1,1,3,,27,GUOYihan,8364,CHN,44.581,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,1,2,1,,95,GAGNONClaudia,9381,CAN,44.642,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,1,3,2,,56,KasandraBRADETTE,8058,CAN,44.834,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,1,4,4,,135,STODDARDCorinne,9464,USA,44.913,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,2,1,1,,154,SONGYang,9207,CHN,44.875,Q
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,2,2,4,,102,WANGXiran,9451,CHN,44.978,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,2,3,3,,61,KIKUCHIYuki,8669,JPN,45.244,
+2018-2019,ISU World Cup 2018/19 - Torino (ITA),500m(2),w,Rep.Semifinals,2,4,2,,75,STORMOWSKAKamila,9008,POL,45.255,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,10,ShaolinSandorLIU,7928,HUN,41.016,QA
-0,2,3,,58,HWANGDaeHeon,9115,KOR,41.216,QA
-0,3,1,,3,SamuelGIRARD,8600,CAN,41.390,QB
-0,4,4,,19,WATANABEKeita,7605,JPN,41.465,QB
-1,1,2,,6,WUDajing,7729,CHN,41.177,QA
-1,2,1,,189,LIMHyoJun,9324,KOR,41.287,QA
-1,3,4,,76,AZHGALIYEVAbzal,7685,KAZ,41.435,QB
-1,4,3,,18,HOOGERWERFDylan,8497,NED,41.456,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,1,1,2,,10,ShaolinSandorLIU,7928,HUN,41.016,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,1,2,3,,58,HWANGDaeHeon,9115,KOR,41.216,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,1,3,1,,3,SamuelGIRARD,8600,CAN,41.390,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,1,4,4,,19,WATANABEKeita,7605,JPN,41.465,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,2,1,2,,6,WUDajing,7729,CHN,41.177,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,2,2,1,,189,LIMHyoJun,9324,KOR,41.287,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,2,3,4,,76,AZHGALIYEVAbzal,7685,KAZ,41.435,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,m,Semifinals,2,4,3,,18,HOOGERWERFDylan,8497,NED,41.456,QB

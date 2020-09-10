@@ -1,24 +1,24 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,161,AYRAPETYANDenis,8098,RUS,1:24.042,Q
-0,2,4,,10,SHIJingnan,7728,CHN,1:24.163,Q
-0,3,5,,5,ShaoangLIU,8564,HUN,1:24.427,q
-0,4,6,,61,FrancoisHAMELIN,6167,CAN,1:50.194,
-0,5,1,,65,ThibautFAUCONNET,6785,FRA,notime,ADV
-0,PEN,3,,12,NIKISHADenis,8396,KAZ,PEN,
-1,1,4,,158,LIMKyoungWon,9191,KOR,1:22.476,Q
-1,2,1,,86,BREEUWSMADaan,7218,NED,1:22.545,Q
-1,3,6,,176,DIONPascal,8999,CAN,1:22.594,q
-1,4,5,,20,KeithCARROLL,8449,USA,1:22.669,
-1,5,2,,15,BYKANOVVladislav,6178,ISR,notime,ADV
-2,1,1,,6,WUDajing,7729,CHN,1:24.359,Q
-2,2,6,,157,HWANGDaeHeon,9115,KOR,1:24.789,Q
-2,3,5,,58,DanIWASA,8394,JPN,1:24.844,
-2,4,3,,32,YOSHINAGAKazuki,8745,JPN,1:25.049,
-2,5,4,,83,SHULGINOVAlexander,8752,RUS,1:30.667,ADV
-2,PEN,2,,62,KNEGTSjinkie,7352,NED,PEN,
-3,1,1,,52,SemenELISTRATOV,7293,RUS,1:24.673,Q
-3,2,2,,155,HANSeungSoo,8673,KOR,1:24.763,Q
-3,3,4,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,1:25.069,
-3,4,5,,124,AlexBRYANT,8577,AUS,1:25.852,
-3,5,3,,35,PierreBODA,7588,AUS,1:26.432,
-3,6,6,,68,HironobuMURATAKE,8671,JPN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,1,2,,161,AYRAPETYANDenis,8098,RUS,1:24.042,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,2,4,,10,SHIJingnan,7728,CHN,1:24.163,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,3,5,,5,ShaoangLIU,8564,HUN,1:24.427,q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,4,6,,61,FrancoisHAMELIN,6167,CAN,1:50.194,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,5,1,,65,ThibautFAUCONNET,6785,FRA,notime,ADV
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,1,PEN,3,,12,NIKISHADenis,8396,KAZ,PEN,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,2,1,4,,158,LIMKyoungWon,9191,KOR,1:22.476,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,2,2,1,,86,BREEUWSMADaan,7218,NED,1:22.545,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,2,3,6,,176,DIONPascal,8999,CAN,1:22.594,q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,2,4,5,,20,KeithCARROLL,8449,USA,1:22.669,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,2,5,2,,15,BYKANOVVladislav,6178,ISR,notime,ADV
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,1,1,,6,WUDajing,7729,CHN,1:24.359,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,2,6,,157,HWANGDaeHeon,9115,KOR,1:24.789,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,3,5,,58,DanIWASA,8394,JPN,1:24.844,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,4,3,,32,YOSHINAGAKazuki,8745,JPN,1:25.049,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,5,4,,83,SHULGINOVAlexander,8752,RUS,1:30.667,ADV
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,3,PEN,2,,62,KNEGTSjinkie,7352,NED,PEN,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,1,1,,52,SemenELISTRATOV,7293,RUS,1:24.673,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,2,2,,155,HANSeungSoo,8673,KOR,1:24.763,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,3,4,,21,NurbergenZHUMAGAZIYEV,7349,KAZ,1:25.069,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,4,5,,124,AlexBRYANT,8577,AUS,1:25.852,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,5,3,,35,PierreBODA,7588,AUS,1:26.432,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",1000m,m,Quarterfinals,4,6,6,,68,HironobuMURATAKE,8671,JPN,notime,

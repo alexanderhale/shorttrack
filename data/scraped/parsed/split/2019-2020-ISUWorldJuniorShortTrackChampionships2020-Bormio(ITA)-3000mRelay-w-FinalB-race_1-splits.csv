@@ -1,28 +1,28 @@
-CANADA POSITION,CANADA LAP TIME,CANADA ELAPSED TIME,BELARUS POSITION,BELARUS LAP TIME,BELARUS ELAPSED TIME,POLAND POSITION,POLAND LAP TIME,POLAND ELAPSED TIME
-1,12.31,12.31,3,13.23,13.23,2,12.48,12.48
-1,9.66,21.97,3,9.76,22.99,2,9.65,22.13
-1,9.72,31.69,3,10.07,33.06,2,9.67,31.80
-1,9.66,41.35,3,9.77,42.83,2,9.72,41.52
-1,9.57,50.92,3,9.99,52.82,2,9.48,51.00
-1,9.36,1:00.28,3,9.95,1:02.77,2,9.46,1:00.46
-1,9.61,1:09.89,3,9.74,1:12.51,2,9.50,1:09.96
-1,9.50,1:19.39,3,9.97,1:22.48,2,9.57,1:19.53
-1,9.49,1:28.88,3,9.95,1:32.43,2,9.61,1:29.14
-1,9.52,1:38.40,3,9.85,1:42.28,2,9.51,1:38.65
-1,9.38,1:47.78,3,9.89,1:52.17,2,9.29,1:47.94
-1,9.10,1:56.88,3,10.21,2:02.38,2,9.14,1:57.08
-1,9.20,2:06.08,3,10.20,2:12.58,2,9.12,2:06.20
-1,9.14,2:15.22,3,10.25,2:22.83,2,9.22,2:15.42
-1,9.29,2:24.51,3,10.25,2:33.08,2,9.38,2:24.80
-1,9.35,2:33.86,3,10.04,2:43.12,2,9.60,2:34.40
-1,9.31,2:43.17,3,10.52,2:53.64,2,9.58,2:43.98
-1,9.20,2:52.37,3,10.28,3:03.92,2,9.41,2:53.39
-1,9.36,3:01.73,3,10.58,3:14.50,2,9.34,3:02.73
-1,9.29,3:11.02,3,10.34,3:24.84,2,9.35,3:12.08
-1,9.27,3:20.29,3,10.61,3:35.45,2,9.48,3:21.56
-1,9.67,3:29.96,3,10.55,3:46.00,2,9.76,3:31.32
-1,9.59,3:39.55,3,10.65,3:56.65,2,9.72,3:41.04
-1,9.36,3:48.91,3,10.47,4:07.12,2,9.50,3:50.54
-1,9.55,3:58.46,3,10.38,4:17.50,2,9.46,4:00.00
-1,9.13,4:07.59,3,10.27,4:27.77,2,9.61,4:09.61
-1,9.14,4:16.732,3,10.26,4:38.039,2,9.56,4:19.171
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+1,12.31,12.31,3,13.23,13.23,2,12.48,12.48,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.66,21.97,3,9.76,22.99,2,9.65,22.13,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.72,31.69,3,10.07,33.06,2,9.67,31.80,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.66,41.35,3,9.77,42.83,2,9.72,41.52,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.57,50.92,3,9.99,52.82,2,9.48,51.00,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.36,1:00.28,3,9.95,1:02.77,2,9.46,1:00.46,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.61,1:09.89,3,9.74,1:12.51,2,9.50,1:09.96,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.50,1:19.39,3,9.97,1:22.48,2,9.57,1:19.53,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.49,1:28.88,3,9.95,1:32.43,2,9.61,1:29.14,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.52,1:38.40,3,9.85,1:42.28,2,9.51,1:38.65,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.38,1:47.78,3,9.89,1:52.17,2,9.29,1:47.94,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.10,1:56.88,3,10.21,2:02.38,2,9.14,1:57.08,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.20,2:06.08,3,10.20,2:12.58,2,9.12,2:06.20,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.14,2:15.22,3,10.25,2:22.83,2,9.22,2:15.42,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.29,2:24.51,3,10.25,2:33.08,2,9.38,2:24.80,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.35,2:33.86,3,10.04,2:43.12,2,9.60,2:34.40,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.31,2:43.17,3,10.52,2:53.64,2,9.58,2:43.98,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.20,2:52.37,3,10.28,3:03.92,2,9.41,2:53.39,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.36,3:01.73,3,10.58,3:14.50,2,9.34,3:02.73,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.29,3:11.02,3,10.34,3:24.84,2,9.35,3:12.08,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.27,3:20.29,3,10.61,3:35.45,2,9.48,3:21.56,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.67,3:29.96,3,10.55,3:46.00,2,9.76,3:31.32,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.59,3:39.55,3,10.65,3:56.65,2,9.72,3:41.04,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.36,3:48.91,3,10.47,4:07.12,2,9.50,3:50.54,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.55,3:58.46,3,10.38,4:17.50,2,9.46,4:00.00,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.13,4:07.59,3,10.27,4:27.77,2,9.61,4:09.61,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1
+1,9.14,4:16.732,3,10.26,4:38.039,2,9.56,4:19.171,2019-2020,ISU World Junior Short Track Championships 2020 - Bormio (ITA),3000mRelay,w,FinalB,1

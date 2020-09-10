@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,242,NielsKERSTHOLT,7067,NED,1:25.288,
-0,2,2,,250,JakubJAWORSKI,6816,POL,1:25.867,
-0,3,3,,202,TorstenKROEGER,7141,GER,1:25.966,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,RepFinalB,1,1,1,,242,NielsKERSTHOLT,7067,NED,1:25.288,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,RepFinalB,1,2,2,,250,JakubJAWORSKI,6816,POL,1:25.867,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",1000m,m,RepFinalB,1,3,3,,202,TorstenKROEGER,7141,GER,1:25.966,

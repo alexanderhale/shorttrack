@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,318,JAPAN,9473,JPN,2:43.240,
-0,2,2,,315,ITALY,9472,ITA,2:50.520,
-0,3,3,,338,UNITEDSTATES,9479,USA,2:53.964,
-0,PEN,1,,308,FRANCE,9469,FRA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),2000mRelay,x,FinalB,1,1,4,,318,JAPAN,9473,JPN,2:43.240,
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),2000mRelay,x,FinalB,1,2,2,,315,ITALY,9472,ITA,2:50.520,
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),2000mRelay,x,FinalB,1,3,3,,338,UNITEDSTATES,9479,USA,2:53.964,
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),2000mRelay,x,FinalB,1,PEN,1,,308,FRANCE,9469,FRA,PEN,

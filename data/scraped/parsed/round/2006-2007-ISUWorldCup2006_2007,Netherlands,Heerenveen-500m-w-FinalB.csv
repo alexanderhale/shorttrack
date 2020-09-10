@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,12,SusanneRUDOLPH,6362,GER,46.258,
-0,2,2,,35,TinaKOENIG,7224,USA,46.341,
-0,3,1,,38,CheriseWILKINS,7291,USA,46.564,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,FinalB,1,1,3,,12,SusanneRUDOLPH,6362,GER,46.258,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,FinalB,1,2,2,,35,TinaKOENIG,7224,USA,46.341,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",500m,w,FinalB,1,3,1,,38,CheriseWILKINS,7291,USA,46.564,

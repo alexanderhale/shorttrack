@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,181,JeffSIMON,7280,USA,2:37.175,
-0,2,2,,128,FabioCARTA,6001,ITA,2:37.198,
-0,3,4,,167,ViacheslavKURGINIAN,6934,RUS,2:37.886,
-0,4,3,,83,AndrePULEC,6054,AUT,2:38.082,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(1),m,FinalB,1,1,1,,181,JeffSIMON,7280,USA,2:37.175,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(1),m,FinalB,1,2,2,,128,FabioCARTA,6001,ITA,2:37.198,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(1),m,FinalB,1,3,4,,167,ViacheslavKURGINIAN,6934,RUS,2:37.886,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",1500m(1),m,FinalB,1,4,3,,83,AndrePULEC,6054,AUT,2:38.082,

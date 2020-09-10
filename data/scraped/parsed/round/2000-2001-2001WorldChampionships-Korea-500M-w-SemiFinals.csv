@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,,WANGChunlu,6648,CHN,46.033,,
-0,2,4,,,EvgeniaRADANOVA,6775,BUL,46.090,,
-0,3,1,,,AlannaKRAUS,6659,CAN,46.142,,
-0,4,3,,,OlgaDANILOV,6334,ISR,46.384,,
-1,2,2,,,YANGsYang,6651,CHN,46.618,,
-1,3,4,,,ChikageTANAKA,6314,JPN,46.761,,
-1,4,1,,,KatiaZINI,6076,ITA,46.828,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,1,1,2,,,WANGChunlu,6648,CHN,46.033,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,1,2,4,,,EvgeniaRADANOVA,6775,BUL,46.090,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,1,3,1,,,AlannaKRAUS,6659,CAN,46.142,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,1,4,3,,,OlgaDANILOV,6334,ISR,46.384,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,2,2,2,,,YANGsYang,6651,CHN,46.618,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,2,3,4,,,ChikageTANAKA,6314,JPN,46.761,,
+2000-2001,2001 World Championships - Korea,500M,w,SemiFinals,2,4,1,,,KatiaZINI,6076,ITA,46.828,,

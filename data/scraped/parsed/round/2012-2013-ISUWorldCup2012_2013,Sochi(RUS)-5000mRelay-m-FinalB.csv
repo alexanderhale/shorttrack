@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,402,CANADA,7309,CAN,6:51.611,
-0,2,1,,409,JAPAN,7310,JPN,6:53.674,
-0,4,3,,405,GERMANY,7302,GER,7:09.511,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",5000mRelay,m,FinalB,1,1,2,,402,CANADA,7309,CAN,6:51.611,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",5000mRelay,m,FinalB,1,2,1,,409,JAPAN,7310,JPN,6:53.674,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",5000mRelay,m,FinalB,1,4,3,,405,GERMANY,7302,GER,7:09.511,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,,YANGsYang,6651,CHN,44.856,
-0,3,4,,,IsabelleCHAREST,6700,CAN,45.600,
-0,4,1,,,StephanieBOUVIER,6709,FRA,46.734,
-0,DQ,5,,,JOOMin-Jin,6616,KOR,DQ,
-1,1,2,,,WANGChunlu,6648,CHN,45.730,
-1,2,1,,,MartaCAPURSO,6328,ITA,45.872,
-1,3,3,,,JoannaWILLIAMS,6639,GBR,46.144,
-1,DQ,4,,,AmelieGOULET-NADON,6661,CAN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,1,2,3,,,YANGsYang,6651,CHN,44.856,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,1,3,4,,,IsabelleCHAREST,6700,CAN,45.600,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,1,4,1,,,StephanieBOUVIER,6709,FRA,46.734,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,1,DQ,5,,,JOOMin-Jin,6616,KOR,DQ,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,2,1,2,,,WANGChunlu,6648,CHN,45.730,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,2,2,1,,,MartaCAPURSO,6328,ITA,45.872,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,2,3,3,,,JoannaWILLIAMS,6639,GBR,46.144,
+2001-2002,2001 World Cup - Sofia,500M,w,SemiFinals,2,DQ,4,,,AmelieGOULET-NADON,6661,CAN,DQ,

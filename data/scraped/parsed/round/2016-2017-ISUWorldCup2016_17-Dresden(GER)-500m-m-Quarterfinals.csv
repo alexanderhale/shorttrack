@@ -1,24 +1,24 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,ShaolinSandorLIU,7928,HUN,40.728,Q
-0,2,4,,176,DIONPascal,8999,CAN,40.749,Q
-0,3,3,,91,FERCOQQuentin,8605,FRA,41.217,
-0,4,5,,161,AYRAPETYANDenis,8098,RUS,42.026,
-0,5,6,,30,FelixSPIEGL,7923,GER,42.083,
-0,6,2,,27,ViktorKNOCH,6177,HUN,notime,
-1,1,1,,2,HAMELINCharles,6610,CAN,40.785,Q
-1,2,4,,221,LIMYongJin,8767,KOR,40.801,Q
-1,3,3,,179,HOOGERWERFDylan,8497,NED,40.899,
-1,4,2,,182,BartoszKONOPKO,7169,POL,41.687,
-1,5,5,,229,SITNIKOVPavel,9133,RUS,41.848,
-2,1,1,,5,ShaoangLIU,8564,HUN,40.780,Q
-2,2,4,,83,SHULGINOVAlexander,8752,RUS,40.949,Q
-2,3,2,,36,RobertsZVEJNIEKS,8490,LAT,41.098,
-2,4,6,,65,ThibautFAUCONNET,6785,FRA,41.187,
-2,5,3,,86,BREEUWSMADaan,7218,NED,41.464,
-2,6,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,notime,
-3,1,1,,157,HWANGDaeHeon,9115,KOR,41.342,Q
-3,2,3,,45,ANIKEJRafal,8749,POL,41.569,Q
-3,3,5,,31,deLAATItzhak,7746,NED,41.611,
-3,4,6,,56,KIMJoonChun,8399,KOR,42.660,
-3,5,4,,192,AliaksandrVOLKAU,8536,BLR,42.721,
-3,DNF,2,,7,SamuelGIRARD,8600,CAN,DNF,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,1,1,,3,ShaolinSandorLIU,7928,HUN,40.728,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,2,4,,176,DIONPascal,8999,CAN,40.749,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,3,3,,91,FERCOQQuentin,8605,FRA,41.217,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,4,5,,161,AYRAPETYANDenis,8098,RUS,42.026,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,5,6,,30,FelixSPIEGL,7923,GER,42.083,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,1,6,2,,27,ViktorKNOCH,6177,HUN,notime,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,2,1,1,,2,HAMELINCharles,6610,CAN,40.785,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,2,2,4,,221,LIMYongJin,8767,KOR,40.801,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,2,3,3,,179,HOOGERWERFDylan,8497,NED,40.899,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,2,4,2,,182,BartoszKONOPKO,7169,POL,41.687,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,2,5,5,,229,SITNIKOVPavel,9133,RUS,41.848,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,1,1,,5,ShaoangLIU,8564,HUN,40.780,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,2,4,,83,SHULGINOVAlexander,8752,RUS,40.949,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,3,2,,36,RobertsZVEJNIEKS,8490,LAT,41.098,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,4,6,,65,ThibautFAUCONNET,6785,FRA,41.187,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,5,3,,86,BREEUWSMADaan,7218,NED,41.464,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,3,6,5,,92,ZHAXYBAYEVMersaid,8623,KAZ,notime,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,1,1,,157,HWANGDaeHeon,9115,KOR,41.342,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,2,3,,45,ANIKEJRafal,8749,POL,41.569,Q
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,3,5,,31,deLAATItzhak,7746,NED,41.611,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,4,6,,56,KIMJoonChun,8399,KOR,42.660,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,5,4,,192,AliaksandrVOLKAU,8536,BLR,42.721,
+2016-2017,ISU World Cup 2016/17 - Dresden (GER),500m,m,Quarterfinals,4,DNF,2,,7,SamuelGIRARD,8600,CAN,DNF,

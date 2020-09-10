@@ -1,32 +1,32 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,20,ZHAONannan,7150,CHN,1:44.526,Q
-0,2,3,,29,PIERRONVeronique,6196,FRA,1:44.591,Q
-0,3,1,,70,OlgaMASKAIKINA,6685,RUS,1:45.147,
-0,4,4,,79,TinaKOENIG,7224,USA,1:45.378,
-1,1,2,,14,KalynaROBERGE,6284,CAN,1:34.978,Q
-1,2,4,,68,ValeriyaREZNIK,6573,RUS,1:35.880,Q
-1,3,1,,55,AnnaROMANOWICZ,6027,POL,1:38.179,q
-1,4,3,,51,SannevanKERKHOF,6835,NED,1:41.432,
-2,1,4,,16,WANGMeng,6594,CHN,1:37.503,Q
-2,2,1,,10,JessicaGREGG,6141,CAN,1:37.774,Q
-2,3,3,,77,LanaGEHRING,7254,USA,1:38.081,q
-2,4,2,,31,HeleneYANG,7484,FRA,1:49.378,
-3,1,3,,64,SHINSae-Bom,7162,KOR,1:35.705,Q
-3,2,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.089,Q
-3,3,4,,35,TinaGRASSOW,6855,GER,1:37.313,q
-3,4,1,,47,LiesbethMAUASAM,6444,NED,1:49.558,
-4,1,2,,63,PARKSeung-Hi,7164,KOR,1:41.629,Q
-4,2,3,,69,EkaterinaBELOVA,6190,RUS,1:42.444,Q
-4,3,4,,56,AidaPOPIOLEK,6683,POL,1:42.556,
-4,4,1,,49,MaaikeVOS,7180,NED,1:44.217,
-5,1,1,,5,EvgeniaRADANOVA,6775,BUL,1:37.751,Q
-5,2,3,,37,CHRISTIEElise,7135,GBR,1:38.223,Q
-5,3,2,,44,YuiSAKAI,6229,JPN,1:38.304,
-6,1,1,,76,KimberlyDERRICK,6246,USA,1:35.791,Q
-6,2,4,,17,FUTianYu,6650,CHN,1:35.820,Q
-6,3,3,,42,AyukoITO,6791,JPN,1:36.027,q
-6,4,2,,34,AikaKLEIN,6359,GER,1:36.093,
-7,1,3,,33,SusanneRUDOLPH,6362,GER,1:44.651,Q
-7,2,2,,12,AnneMALTAIS,6355,CAN,1:47.935,Q
-7,3,1,,3,Alix-MyraANDERSON,7353,AUS,1:50.204,
-7,4,4,,53,PatrycjaMALISZEWSKA,6154,POL,2:00.922,ADV
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,1,1,2,,20,ZHAONannan,7150,CHN,1:44.526,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,1,2,3,,29,PIERRONVeronique,6196,FRA,1:44.591,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,1,3,1,,70,OlgaMASKAIKINA,6685,RUS,1:45.147,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,1,4,4,,79,TinaKOENIG,7224,USA,1:45.378,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,2,1,2,,14,KalynaROBERGE,6284,CAN,1:34.978,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,2,2,4,,68,ValeriyaREZNIK,6573,RUS,1:35.880,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,2,3,1,,55,AnnaROMANOWICZ,6027,POL,1:38.179,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,2,4,3,,51,SannevanKERKHOF,6835,NED,1:41.432,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,3,1,4,,16,WANGMeng,6594,CHN,1:37.503,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,3,2,1,,10,JessicaGREGG,6141,CAN,1:37.774,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,3,3,3,,77,LanaGEHRING,7254,USA,1:38.081,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,3,4,2,,31,HeleneYANG,7484,FRA,1:49.378,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,4,1,3,,64,SHINSae-Bom,7162,KOR,1:35.705,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,4,2,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.089,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,4,3,4,,35,TinaGRASSOW,6855,GER,1:37.313,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,4,4,1,,47,LiesbethMAUASAM,6444,NED,1:49.558,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,5,1,2,,63,PARKSeung-Hi,7164,KOR,1:41.629,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,5,2,3,,69,EkaterinaBELOVA,6190,RUS,1:42.444,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,5,3,4,,56,AidaPOPIOLEK,6683,POL,1:42.556,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,5,4,1,,49,MaaikeVOS,7180,NED,1:44.217,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,6,1,1,,5,EvgeniaRADANOVA,6775,BUL,1:37.751,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,6,2,3,,37,CHRISTIEElise,7135,GBR,1:38.223,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,6,3,2,,44,YuiSAKAI,6229,JPN,1:38.304,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,7,1,1,,76,KimberlyDERRICK,6246,USA,1:35.791,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,7,2,4,,17,FUTianYu,6650,CHN,1:35.820,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,7,3,3,,42,AyukoITO,6791,JPN,1:36.027,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,7,4,2,,34,AikaKLEIN,6359,GER,1:36.093,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,8,1,3,,33,SusanneRUDOLPH,6362,GER,1:44.651,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,8,2,2,,12,AnneMALTAIS,6355,CAN,1:47.935,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,8,3,1,,3,Alix-MyraANDERSON,7353,AUS,1:50.204,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",1000m(1),w,Preliminaries,8,4,4,,53,PatrycjaMALISZEWSKA,6154,POL,2:00.922,ADV

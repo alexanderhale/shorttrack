@@ -1,14 +1,14 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,72,VIVIANIElena,7583,ITA,44.915,Q
-0,2,3,,89,DOLGOPOLOVAMariya,8096,UKR,45.310,Q
-0,3,2,,61,HitomiSAITO,7576,JPN,46.423,
-0,4,4,,126,MiwakoYAMAURA,8475,JPN,46.539,
-0,5,5,,136,TetyanaZARVANSKA,9300,UKR,49.045,
-1,1,1,,71,KAMINAGAShione,8743,JPN,44.847,Q
-1,2,2,,43,NOHAhRum,7419,KOR,44.869,Q
-1,3,3,,110,LETAIJulie,9441,USA,45.428,q
-1,4,4,,37,CheyenneGOH,9291,SGP,46.258,
-2,1,2,,4,vanRUIJVENLara,7710,NED,44.016,Q
-2,2,1,,122,KONYAZsofia,7701,HUN,44.091,Q
-2,3,3,,119,TerezaPFEIFEROVA,9321,CZE,44.805,q
-2,4,4,,87,JACOBSGina,8607,GER,46.022,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,1,1,1,,72,VIVIANIElena,7583,ITA,44.915,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,1,2,3,,89,DOLGOPOLOVAMariya,8096,UKR,45.310,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,1,3,2,,61,HitomiSAITO,7576,JPN,46.423,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,1,4,4,,126,MiwakoYAMAURA,8475,JPN,46.539,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,1,5,5,,136,TetyanaZARVANSKA,9300,UKR,49.045,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,2,1,1,,71,KAMINAGAShione,8743,JPN,44.847,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,2,2,2,,43,NOHAhRum,7419,KOR,44.869,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,2,3,3,,110,LETAIJulie,9441,USA,45.428,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,2,4,4,,37,CheyenneGOH,9291,SGP,46.258,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,3,1,2,,4,vanRUIJVENLara,7710,NED,44.016,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,3,2,1,,122,KONYAZsofia,7701,HUN,44.091,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,3,3,3,,119,TerezaPFEIFEROVA,9321,CZE,44.805,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,w,Rep.Quarterfinals,3,4,4,,87,JACOBSGina,8607,GER,46.022,

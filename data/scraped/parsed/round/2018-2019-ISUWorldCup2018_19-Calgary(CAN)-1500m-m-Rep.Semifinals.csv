@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,128,YUSongnan,9388,CHN,2:17.169,Q
-0,2,3,,60,SHULGINOVAlexander,8752,RUS,2:17.697,
-0,3,1,,29,JUNGHyunWoo(Andy),8575,AUS,2:17.851,
-0,4,2,,118,MOODYJonathan,9102,GBR,2:18.411,
-0,5,5,,169,AaronHEO,9302,USA,2:19.396,
-0,6,6,,85,JackBURROWS,9101,GBR,2:24.654,
-1,1,3,,130,LIWenlong,9453,CHN,2:19.232,Q
-1,2,5,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:19.275,
-1,3,1,,170,JonathanSO,9442,USA,2:19.701,
-1,4,4,,61,NAVARROTristan,8559,FRA,2:55.156,
-1,5,2,,70,TRANAaron,8528,USA,2:58.453,
-1,PEN,6,,166,SITNIKOVPavel,9133,RUS,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,1,4,,128,YUSongnan,9388,CHN,2:17.169,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,2,3,,60,SHULGINOVAlexander,8752,RUS,2:17.697,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,3,1,,29,JUNGHyunWoo(Andy),8575,AUS,2:17.851,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,4,2,,118,MOODYJonathan,9102,GBR,2:18.411,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,5,5,,169,AaronHEO,9302,USA,2:19.396,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,1,6,6,,85,JackBURROWS,9101,GBR,2:24.654,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,1,3,,130,LIWenlong,9453,CHN,2:19.232,Q
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,2,5,,151,SHAMUKHANOVYerkebulan,8672,KAZ,2:19.275,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,3,1,,170,JonathanSO,9442,USA,2:19.701,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,4,4,,61,NAVARROTristan,8559,FRA,2:55.156,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,5,2,,70,TRANAaron,8528,USA,2:58.453,
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),1500m,m,Rep.Semifinals,2,PEN,6,,166,SITNIKOVPavel,9133,RUS,PEN,

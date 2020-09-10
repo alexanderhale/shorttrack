@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,306,CHINA,9048,CHN,4:16.193,QA,
-0,2,3,,307,CANADA,9049,CAN,4:16.618,QA,
-0,3,4,,304,NETHERLANDS,9040,NED,4:16.779,QB,
-0,4,1,,305,FRANCE,9042,FRA,4:19.016,QB,
-1,1,4,,302,KOREA,9044,KOR,4:15.231,QA,
-1,2,2,,303,RUSSIA,9046,RUS,4:16.227,QA,
-1,3,1,,308,JAPAN,9047,JPN,4:18.246,QB,
-1,4,3,,301,ITALY,9039,ITA,4:29.866,QB,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,1,1,2,,306,CHINA,9048,CHN,4:16.193,QA,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,1,2,3,,307,CANADA,9049,CAN,4:16.618,QA,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,1,3,4,,304,NETHERLANDS,9040,NED,4:16.779,QB,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,1,4,1,,305,FRANCE,9042,FRA,4:19.016,QB,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,2,1,4,,302,KOREA,9044,KOR,4:15.231,QA,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,2,2,2,,303,RUSSIA,9046,RUS,4:16.227,QA,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,2,3,1,,308,JAPAN,9047,JPN,4:18.246,QB,
+2015-2016,ISU World Short Track Speed Skating Championships® 2016,3000mRelay,w,Semifinals,2,4,3,,301,ITALY,9039,ITA,4:29.866,QB,

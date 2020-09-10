@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,210,HAMELINCharles,6610,CAN,1:28.459,Q,
-0,2,3,,214,LIANGWenhao,7594,CHN,1:28.593,Q,
-0,3,4,,275,JeffSIMON,7280,USA,1:28.706,,
-0,4,2,,254,NielsKERSTHOLT,7067,NED,1:28.838,,
-1,2,2,,211,FrancoisHAMELIN,6167,CAN,1:27.611,Q,
-1,3,5,,221,MaximeCHATAIGNIER,6106,FRA,1:27.758,,
-1,4,4,,212,OlivierJEAN,6756,CAN,1:27.786,,
-1,5,3,,216,SONGWeilong,7156,CHN,1:27.874,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,1,1,1,,210,HAMELINCharles,6610,CAN,1:28.459,Q,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,1,2,3,,214,LIANGWenhao,7594,CHN,1:28.593,Q,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,1,3,4,,275,JeffSIMON,7280,USA,1:28.706,,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,1,4,2,,254,NielsKERSTHOLT,7067,NED,1:28.838,,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,2,2,2,,211,FrancoisHAMELIN,6167,CAN,1:27.611,Q,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,2,3,5,,221,MaximeCHATAIGNIER,6106,FRA,1:27.758,,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,2,4,4,,212,OlivierJEAN,6756,CAN,1:27.786,,
+2010-2011,"2011 ISU World Short Track Championships, Sheffield, GBR",1000m,m,Semifinals,2,5,3,,216,SONGWeilong,7156,CHN,1:27.874,,

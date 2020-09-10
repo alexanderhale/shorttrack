@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,63,PARKSeung-Hi,7164,KOR,44.320,Q
-0,2,2,,27,KaterinaNOVOTNA,6647,CZE,44.626,Q
-0,3,3,,35,TinaGRASSOW,6855,GER,44.954,q
-0,4,4,,47,LiesbethMAUASAM,6444,NED,46.092,
-1,1,1,,64,SHINSae-Bom,7162,KOR,45.017,Q
-1,2,2,,17,FUTianYu,6650,CHN,45.019,Q
-1,3,4,,8,DanielaIVANOVA,6303,BUL,45.241,q
-1,4,3,,51,SannevanKERKHOF,6835,NED,47.057,
-2,2,2,,14,KalynaROBERGE,6284,CAN,44.575,Q
-2,3,3,,34,AikaKLEIN,6359,GER,45.529,q
-2,4,5,,79,TinaKOENIG,7224,USA,46.741,
-2,5,4,,49,MaaikeVOS,7180,NED,47.074,
-3,1,1,,20,ZHAONannan,7150,CHN,44.974,Q
-3,2,3,,12,AnneMALTAIS,6355,CAN,45.198,Q
-3,3,2,,38,SarahLINDSAY,6056,GBR,45.403,q
-3,4,4,,44,YuiSAKAI,6229,JPN,46.002,
-4,1,1,,10,JessicaGREGG,6141,CAN,44.596,Q
-4,2,4,,33,SusanneRUDOLPH,6362,GER,44.712,Q
-4,3,3,,29,PIERRONVeronique,6196,FRA,46.340,
-4,4,2,,78,CarlyWILSON,6153,USA,50.863,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,1,1,1,,63,PARKSeung-Hi,7164,KOR,44.320,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,1,2,2,,27,KaterinaNOVOTNA,6647,CZE,44.626,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,1,3,3,,35,TinaGRASSOW,6855,GER,44.954,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,1,4,4,,47,LiesbethMAUASAM,6444,NED,46.092,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,2,1,1,,64,SHINSae-Bom,7162,KOR,45.017,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,2,2,2,,17,FUTianYu,6650,CHN,45.019,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,2,3,4,,8,DanielaIVANOVA,6303,BUL,45.241,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,2,4,3,,51,SannevanKERKHOF,6835,NED,47.057,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,3,2,2,,14,KalynaROBERGE,6284,CAN,44.575,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,3,3,3,,34,AikaKLEIN,6359,GER,45.529,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,3,4,5,,79,TinaKOENIG,7224,USA,46.741,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,3,5,4,,49,MaaikeVOS,7180,NED,47.074,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,4,1,1,,20,ZHAONannan,7150,CHN,44.974,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,4,2,3,,12,AnneMALTAIS,6355,CAN,45.198,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,4,3,2,,38,SarahLINDSAY,6056,GBR,45.403,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,4,4,4,,44,YuiSAKAI,6229,JPN,46.002,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,5,1,1,,10,JessicaGREGG,6141,CAN,44.596,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,5,2,4,,33,SusanneRUDOLPH,6362,GER,44.712,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,5,3,3,,29,PIERRONVeronique,6196,FRA,46.340,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,w,Heats,5,4,2,,78,CarlyWILSON,6153,USA,50.863,

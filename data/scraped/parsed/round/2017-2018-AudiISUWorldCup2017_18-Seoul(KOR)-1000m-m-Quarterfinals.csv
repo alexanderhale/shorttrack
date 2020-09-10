@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,58,HWANGDaeHeon,9115,KOR,1:24.800,Q
-0,2,5,,3,SamuelGIRARD,8600,CAN,1:24.869,Q
-0,3,4,,19,WATANABEKeita,7605,JPN,1:24.963,
-0,4,1,,9,HANTianyu,8388,CHN,1:25.087,
-0,5,3,,25,NAVARROTristan,8559,FRA,1:26.047,
-1,2,1,,8,HAMELINCharles,6610,CAN,1:24.351,Q
-1,3,6,,105,CONFORTOLAYuri,6561,ITA,1:24.685,q
-1,4,3,,65,deLAATItzhak,7746,NED,1:24.887,
-1,5,5,,32,ThibautFAUCONNET,6785,FRA,1:24.971,
-1,6,2,,27,DOTTITommaso,7604,ITA,1:25.054,
-2,1,4,,2,KNEGTSjinkie,7352,NED,1:24.568,Q
-2,2,3,,1,SEOYiRa,7940,KOR,1:24.652,Q
-2,3,1,,16,RENZiwei,8601,CHN,1:24.753,q
-2,4,2,,15,CharleCOURNOYER,8063,CAN,1:24.932,
-2,PEN,5,,204,RobertoPUKITIS,7785,LAT,PEN,
-3,1,4,,22,BYKANOVVladislav,6178,ISR,1:26.502,Q
-3,2,5,,6,WUDajing,7729,CHN,1:26.543,Q
-3,3,1,,82,SHULGINOVAlexander,8752,RUS,1:31.832,ADV
-3,PEN,3,,44,John-HenryKRUEGER,7763,USA,PEN,
-3,PEN,2,,189,LIMHyoJun,9324,KOR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,1,1,2,,58,HWANGDaeHeon,9115,KOR,1:24.800,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,1,2,5,,3,SamuelGIRARD,8600,CAN,1:24.869,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,1,3,4,,19,WATANABEKeita,7605,JPN,1:24.963,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,1,4,1,,9,HANTianyu,8388,CHN,1:25.087,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,1,5,3,,25,NAVARROTristan,8559,FRA,1:26.047,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,2,2,1,,8,HAMELINCharles,6610,CAN,1:24.351,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,2,3,6,,105,CONFORTOLAYuri,6561,ITA,1:24.685,q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,2,4,3,,65,deLAATItzhak,7746,NED,1:24.887,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,2,5,5,,32,ThibautFAUCONNET,6785,FRA,1:24.971,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,2,6,2,,27,DOTTITommaso,7604,ITA,1:25.054,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,3,1,4,,2,KNEGTSjinkie,7352,NED,1:24.568,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,3,2,3,,1,SEOYiRa,7940,KOR,1:24.652,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,3,3,1,,16,RENZiwei,8601,CHN,1:24.753,q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,3,4,2,,15,CharleCOURNOYER,8063,CAN,1:24.932,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,3,PEN,5,,204,RobertoPUKITIS,7785,LAT,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,4,1,4,,22,BYKANOVVladislav,6178,ISR,1:26.502,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,4,2,5,,6,WUDajing,7729,CHN,1:26.543,Q
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,4,3,1,,82,SHULGINOVAlexander,8752,RUS,1:31.832,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,4,PEN,3,,44,John-HenryKRUEGER,7763,USA,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Quarterfinals,4,PEN,2,,189,LIMHyoJun,9324,KOR,PEN,

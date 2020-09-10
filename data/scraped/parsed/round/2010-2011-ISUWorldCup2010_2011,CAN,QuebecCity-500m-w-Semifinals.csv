@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,26,ErikaHUSZAR,6373,HUN,44.774,QA
-0,3,2,,12,ZHAONannan,7150,CHN,1:12.222,ADV
-0,PEN,4,,32,VALCEPINAMartina,7159,ITA,PEN,
-1,1,2,,29,AriannaFONTANA,6227,ITA,44.835,QA
-1,2,1,,13,FANKexin,7694,CHN,44.892,QA
-1,3,4,,6,ValerieLAMBERT,7132,CAN,45.203,QB
-1,4,3,,10,LIUQiuhong,6286,CHN,47.944,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,1,2,3,,26,ErikaHUSZAR,6373,HUN,44.774,QA
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,1,3,2,,12,ZHAONannan,7150,CHN,1:12.222,ADV
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,1,PEN,4,,32,VALCEPINAMartina,7159,ITA,PEN,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,2,1,2,,29,AriannaFONTANA,6227,ITA,44.835,QA
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,2,2,1,,13,FANKexin,7694,CHN,44.892,QA
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,2,3,4,,6,ValerieLAMBERT,7132,CAN,45.203,QB
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",500m,w,Semifinals,2,4,3,,10,LIUQiuhong,6286,CHN,47.944,QB

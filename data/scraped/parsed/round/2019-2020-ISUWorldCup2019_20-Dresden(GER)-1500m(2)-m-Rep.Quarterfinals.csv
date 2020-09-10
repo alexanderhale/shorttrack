@@ -1,35 +1,35 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,203,ROESSven,9487,NED,2:50.907,Q
-0,2,4,,122,VANHOORENRino,8721,BEL,2:50.914,Q
-0,3,1,,207,DEWAGTEREAdriaan,9376,BEL,2:51.619,ADV
-0,4,3,,214,YATESWestley,9524,GBR,2:51.797,
-0,5,2,,121,MURPHYPeter,9269,LUX,2:53.255,
-0,6,6,,155,WOLFGANGMatthias,8474,AUT,2:53.360,
-0,7,5,,37,HANDEIVolodymyr,8525,UKR,3:19.125,
-1,1,3,,29,GALIAKHMETOVAdil,9260,KAZ,2:14.106,Q
-1,2,6,,11,DOTTITommaso,7604,ITA,2:14.234,Q
-1,3,1,,90,DavideVISCARDI,7440,ITA,2:15.392,q
-1,4,2,,197,SLABODNIKArtsemi,9087,BLR,2:16.884,
-1,5,7,,120,NIESCIERKarol,9126,POL,2:18.314,
-1,6,4,,130,NEMIROVladyslav,8719,UKR,2:19.078,
-1,7,5,,209,VOLCKAERTRobbe,9375,BEL,2:19.255,
-2,1,2,,104,KAZHGALINurtilek,8676,KAZ,2:20.871,Q
-2,2,1,,181,SONGJiaHua,9612,CHN,2:21.027,Q
-2,3,7,,93,ColeWilliamIsaacKRUEGER,9329,HUN,2:21.229,q
-2,4,6,,145,SEJPALZdenek,9336,CZE,2:21.349,
-2,5,4,,38,SeanMcANUFF,9198,IRL,2:22.114,
-2,6,3,,213,ROSS-WADDELLKyle,9526,GBR,2:24.374,
-2,7,5,,210,IlyaDZMITRYINKA,9445,BLR,2:28.801,
-3,2,2,,13,CONFORTOLAYuri,6561,ITA,2:22.572,Q
-3,3,5,,212,AlphonseOUIMETTE,9741,CAN,2:23.617,
-3,4,4,,150,TENZERRobin,9528,GER,2:27.347,
-3,5,6,,154,StriborSUMAN,9235,CRO,2:29.705,
-3,6,7,,206,LIUHeinrich,9082,AUT,2:39.820,
-3,PEN,3,,25,BLUNDENKeanu,8593,AUS,PEN,
-4,1,3,,66,SHAMUKHANOVYerkebulan,8672,KAZ,2:19.456,Q
-4,2,6,,83,NAVARROTristan,8559,FRA,2:19.546,Q
-4,3,5,,101,ANIKEJRafal,8749,POL,2:19.741,q
-4,4,4,,43,GEORGIEVDimitar,8541,BUL,2:21.096,
-4,5,2,,216,OHHanYuan,9743,MAS,2:24.792,
-4,6,7,,125,TunaySIMSEK,8758,TUR,2:33.496,
-4,PEN,1,,118,MetehanATAN,9486,TUR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,1,7,,203,ROESSven,9487,NED,2:50.907,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,2,4,,122,VANHOORENRino,8721,BEL,2:50.914,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,3,1,,207,DEWAGTEREAdriaan,9376,BEL,2:51.619,ADV
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,4,3,,214,YATESWestley,9524,GBR,2:51.797,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,5,2,,121,MURPHYPeter,9269,LUX,2:53.255,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,6,6,,155,WOLFGANGMatthias,8474,AUT,2:53.360,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,1,7,5,,37,HANDEIVolodymyr,8525,UKR,3:19.125,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,1,3,,29,GALIAKHMETOVAdil,9260,KAZ,2:14.106,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,2,6,,11,DOTTITommaso,7604,ITA,2:14.234,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,3,1,,90,DavideVISCARDI,7440,ITA,2:15.392,q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,4,2,,197,SLABODNIKArtsemi,9087,BLR,2:16.884,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,5,7,,120,NIESCIERKarol,9126,POL,2:18.314,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,6,4,,130,NEMIROVladyslav,8719,UKR,2:19.078,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,2,7,5,,209,VOLCKAERTRobbe,9375,BEL,2:19.255,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,1,2,,104,KAZHGALINurtilek,8676,KAZ,2:20.871,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,2,1,,181,SONGJiaHua,9612,CHN,2:21.027,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,3,7,,93,ColeWilliamIsaacKRUEGER,9329,HUN,2:21.229,q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,4,6,,145,SEJPALZdenek,9336,CZE,2:21.349,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,5,4,,38,SeanMcANUFF,9198,IRL,2:22.114,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,6,3,,213,ROSS-WADDELLKyle,9526,GBR,2:24.374,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,3,7,5,,210,IlyaDZMITRYINKA,9445,BLR,2:28.801,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,2,2,,13,CONFORTOLAYuri,6561,ITA,2:22.572,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,3,5,,212,AlphonseOUIMETTE,9741,CAN,2:23.617,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,4,4,,150,TENZERRobin,9528,GER,2:27.347,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,5,6,,154,StriborSUMAN,9235,CRO,2:29.705,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,6,7,,206,LIUHeinrich,9082,AUT,2:39.820,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,4,PEN,3,,25,BLUNDENKeanu,8593,AUS,PEN,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,1,3,,66,SHAMUKHANOVYerkebulan,8672,KAZ,2:19.456,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,2,6,,83,NAVARROTristan,8559,FRA,2:19.546,Q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,3,5,,101,ANIKEJRafal,8749,POL,2:19.741,q
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,4,4,,43,GEORGIEVDimitar,8541,BUL,2:21.096,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,5,2,,216,OHHanYuan,9743,MAS,2:24.792,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,6,7,,125,TunaySIMSEK,8758,TUR,2:33.496,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),1500m(2),m,Rep.Quarterfinals,5,PEN,1,,118,MetehanATAN,9486,TUR,PEN,

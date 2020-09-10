@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,19,FANKexin,7694,CHN,43.161,QA
-0,2,2,,18,LIUQiuhong,6286,CHN,43.221,QA
-0,3,3,,42,AriannaFONTANA,6227,ITA,43.323,QB
-0,4,4,,53,PARKSeung-Hi,7164,KOR,43.387,QB
-1,2,2,,10,MarianneST-GELAIS,7216,CAN,42.664,QA
-1,3,3,,13,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,43.063,QB
-1,4,4,,11,CarolineTRUCHON,7908,CAN,43.899,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,1,1,1,,19,FANKexin,7694,CHN,43.161,QA
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,1,2,2,,18,LIUQiuhong,6286,CHN,43.221,QA
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,1,3,3,,42,AriannaFONTANA,6227,ITA,43.323,QB
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,1,4,4,,53,PARKSeung-Hi,7164,KOR,43.387,QB
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,2,2,2,,10,MarianneST-GELAIS,7216,CAN,42.664,QA
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,2,3,3,,13,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,43.063,QB
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",500m,w,Semifinals,2,4,4,,11,CarolineTRUCHON,7908,CAN,43.899,QB

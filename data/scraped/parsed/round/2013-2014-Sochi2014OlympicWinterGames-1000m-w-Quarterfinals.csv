@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,116,CHRISTIEElise,7135,GBR,1:30.606,Q
-0,2,3,,138,PARKSeung-Hi,7164,KOR,1:30.801,Q
-0,3,2,,104,Marie-EveDROLET,6059,CAN,1:31.668,
-0,PEN,4,,115,PIERRONVeronique,6196,FRA,PEN,
-1,1,1,,107,ValerieMALTAIS,6216,CAN,1:29.037,Q
-1,2,5,,142,JorienterMORS,6146,NED,1:29.119,Q
-1,3,3,,101,DeannaLOCKETT,7956,AUS,1:29.256,
-1,4,2,,131,YuiSAKAI,6229,JPN,1:29.328,
-1,5,4,,102,VeronikaWINDISCH,6427,AUT,1:30.017,
-2,1,1,,139,SHIMSukHee,8092,KOR,1:29.356,Q
-2,2,2,,109,FANKexin,7694,CHN,1:29.380,Q
-2,3,3,,155,EmilySCOTT,7823,USA,1:30.324,
-2,PEN,4,,124,AriannaFONTANA,6227,ITA,PEN,
-3,1,2,,156,JessicaKOOREMAN,7649,USA,1:32.088,Q
-3,2,1,,111,LIJianrou,7910,CHN,1:32.129,Q
-3,3,3,,136,KIMAlang,8484,KOR,1:32.154,
-3,4,4,,146,PatrycjaMALISZEWSKA,6154,POL,1:32.376,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,1,1,1,,116,CHRISTIEElise,7135,GBR,1:30.606,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,1,2,3,,138,PARKSeung-Hi,7164,KOR,1:30.801,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,1,3,2,,104,Marie-EveDROLET,6059,CAN,1:31.668,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,1,PEN,4,,115,PIERRONVeronique,6196,FRA,PEN,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,2,1,1,,107,ValerieMALTAIS,6216,CAN,1:29.037,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,2,2,5,,142,JorienterMORS,6146,NED,1:29.119,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,2,3,3,,101,DeannaLOCKETT,7956,AUS,1:29.256,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,2,4,2,,131,YuiSAKAI,6229,JPN,1:29.328,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,2,5,4,,102,VeronikaWINDISCH,6427,AUT,1:30.017,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,3,1,1,,139,SHIMSukHee,8092,KOR,1:29.356,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,3,2,2,,109,FANKexin,7694,CHN,1:29.380,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,3,3,3,,155,EmilySCOTT,7823,USA,1:30.324,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,3,PEN,4,,124,AriannaFONTANA,6227,ITA,PEN,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,4,1,2,,156,JessicaKOOREMAN,7649,USA,1:32.088,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,4,2,1,,111,LIJianrou,7910,CHN,1:32.129,Q
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,4,3,3,,136,KIMAlang,8484,KOR,1:32.154,
+2013-2014,Sochi 2014 Olympic Winter Games,1000m,w,Quarterfinals,4,4,4,,146,PatrycjaMALISZEWSKA,6154,POL,1:32.376,

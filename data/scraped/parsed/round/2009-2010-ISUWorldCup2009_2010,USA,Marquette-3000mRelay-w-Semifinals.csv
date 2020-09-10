@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,900,CANADA,7312,CAN,4:10.461,QA
-0,3,4,,903,HUNGARY,7323,HUN,4:15.025,QB
-0,4,3,,909,UNITEDSTATES,7316,USA,4:35.768,QB
-1,1,2,,907,KOREA,7314,KOR,4:10.467,QA
-1,2,1,,905,JAPAN,7304,JPN,4:12.571,QA
-1,3,4,,906,NETHERLANDS,7322,NED,4:13.135,QB
-1,4,3,,902,GERMANY,7313,GER,4:16.315,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,1,2,2,,900,CANADA,7312,CAN,4:10.461,QA
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,1,3,4,,903,HUNGARY,7323,HUN,4:15.025,QB
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,1,4,3,,909,UNITEDSTATES,7316,USA,4:35.768,QB
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,2,1,2,,907,KOREA,7314,KOR,4:10.467,QA
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,2,2,1,,905,JAPAN,7304,JPN,4:12.571,QA
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,2,3,4,,906,NETHERLANDS,7322,NED,4:13.135,QB
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",3000mRelay,w,Semifinals,2,4,3,,902,GERMANY,7313,GER,4:16.315,QB

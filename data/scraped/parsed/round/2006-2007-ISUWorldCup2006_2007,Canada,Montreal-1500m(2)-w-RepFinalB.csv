@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,23,JuliaRIEDEL,6287,GER,2:42.304,
-0,2,6,,47,AidaPOPIOLEK,6683,POL,2:42.365,
-0,3,4,,52,OlgaMASKAIKINA,6685,RUS,2:42.482,
-0,4,2,,64,RanyaEZZI,6840,SWE,2:42.517,
-0,5,3,,50,VeraMILIYAEVA,7113,RUS,2:42.634,
-0,6,5,,46,FrancescaJACKSON,6356,NZL,2:48.243,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,1,1,,23,JuliaRIEDEL,6287,GER,2:42.304,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,2,6,,47,AidaPOPIOLEK,6683,POL,2:42.365,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,3,4,,52,OlgaMASKAIKINA,6685,RUS,2:42.482,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,4,2,,64,RanyaEZZI,6840,SWE,2:42.517,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,5,3,,50,VeraMILIYAEVA,7113,RUS,2:42.634,
+2006-2007,"ISU World Cup 2006/2007, Canada, Montreal",1500m(2),w,RepFinalB,1,6,5,,46,FrancescaJACKSON,6356,NZL,2:48.243,

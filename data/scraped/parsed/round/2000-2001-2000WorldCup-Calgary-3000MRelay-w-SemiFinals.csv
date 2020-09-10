@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,KOREA,7314,KOR,4:20.028,
-0,2,2,,,BULGARIA,7335,BUL,4:21.479,
-0,3,4,,,ITALY,7317,ITA,4:22.009,
-0,DQ,3,,,JAPAN,7310,JPN,DQ,
-1,1,1,,,CHINA,7311,CHN,4:21.303,
-1,2,2,,,CANADA,7312,CAN,4:23.457,
-1,3,4,,,NETHERLANDS,7322,NED,4:24.681,
-1,4,3,,,UNITEDSTATES,7316,USA,4:40.891,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,1,1,1,,,KOREA,7314,KOR,4:20.028,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,1,2,2,,,BULGARIA,7335,BUL,4:21.479,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,1,3,4,,,ITALY,7317,ITA,4:22.009,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,1,DQ,3,,,JAPAN,7310,JPN,DQ,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,2,1,1,,,CHINA,7311,CHN,4:21.303,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,2,2,2,,,CANADA,7312,CAN,4:23.457,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,2,3,4,,,NETHERLANDS,7322,NED,4:24.681,
+2000-2001,2000 World Cup - Calgary,3000MRelay,w,SemiFinals,2,4,3,,,UNITEDSTATES,7316,USA,4:40.891,

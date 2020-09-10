@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,126,AriannaFONTANA,6227,ITA,44.470,QA
-0,3,3,,105,ValerieMALTAIS,6216,CAN,46.480,ADV
-0,PEN,2,,144,JorienterMORS,6146,NED,PEN,
-1,1,1,,106,MarianneST-GELAIS,7216,CAN,44.433,QA
-1,2,3,,129,VALCEPINAMartina,7159,ITA,44.536,QA
-1,3,2,,117,PIERRONVeronique,6196,FRA,44.847,QB
-1,4,4,,103,KasandraBRADETTE,8058,CAN,45.207,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,1,1,1,,126,AriannaFONTANA,6227,ITA,44.470,QA
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,1,3,3,,105,ValerieMALTAIS,6216,CAN,46.480,ADV
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,1,PEN,2,,144,JorienterMORS,6146,NED,PEN,
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,2,1,1,,106,MarianneST-GELAIS,7216,CAN,44.433,QA
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,2,2,3,,129,VALCEPINAMartina,7159,ITA,44.536,QA
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,2,3,2,,117,PIERRONVeronique,6196,FRA,44.847,QB
+2011-2012,"ISU World Cup 2011/2012, NED, Dordrecht",500m,w,Semifinals,2,4,4,,103,KasandraBRADETTE,8058,CAN,45.207,QB

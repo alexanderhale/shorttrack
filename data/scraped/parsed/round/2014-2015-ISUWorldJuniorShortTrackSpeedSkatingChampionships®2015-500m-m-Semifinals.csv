@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,151,NIKISHADenis,8396,KAZ,42.075,QA,
-0,3,1,,122,XUHongzhi,8070,CHN,42.230,QB,
-0,4,4,,157,PARKJiWon,8765,KOR,42.433,QB,
-1,1,3,,138,ShaolinSandorLIU,7928,HUN,42.611,QA,
-1,2,2,,137,ShaoangLIU,8564,HUN,42.737,QA,
-1,3,4,,121,RENZiwei,8601,CHN,43.266,QB,
-1,4,1,,116,AlexanderFATHOULLIN,8546,CAN,43.699,QB,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,1,1,2,,151,NIKISHADenis,8396,KAZ,42.075,QA,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,1,3,1,,122,XUHongzhi,8070,CHN,42.230,QB,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,1,4,4,,157,PARKJiWon,8765,KOR,42.433,QB,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,2,1,3,,138,ShaolinSandorLIU,7928,HUN,42.611,QA,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,2,2,2,,137,ShaoangLIU,8564,HUN,42.737,QA,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,2,3,4,,121,RENZiwei,8601,CHN,43.266,QB,
+2014-2015,ISU World Junior Short Track Speed Skating Championships® 2015,500m,m,Semifinals,2,4,1,,116,AlexanderFATHOULLIN,8546,CAN,43.699,QB,

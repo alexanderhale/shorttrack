@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,82,MONVOISINAurelie,8556,FRA,46.128,Q
-0,2,3,,52,MALAGICHEmina,7989,RUS,46.212,Q
-0,3,2,,109,KAMINAGAShione,8743,JPN,46.238,
-0,4,4,,91,LexiBURKHOLDER,7992,USA,47.603,
-1,1,1,,104,SelmaPOUTSMA,9004,FRA,45.964,Q
-1,2,3,,111,RozaKOOYSTRA,8495,NED,46.080,Q
-1,3,2,,79,KatherineRALSTON,7991,USA,47.401,
-1,4,4,,120,UZAKOVAMariia-Mahdalyna,8759,UKR,48.534,
-2,1,2,,108,PatriciaTOTH,7535,HUN,46.942,Q
-2,2,1,,83,KIKUCHISumire,7980,JPN,47.005,Q
-2,3,4,,84,LouiseMILESI,8668,FRA,47.149,
-2,4,3,,112,MonikaGRZADKOWSKA,9007,POL,47.421,
-2,5,5,,116,JerebelleYUTANGCO,9011,USA,48.635,
-3,1,1,,55,NOHDoHee,7986,KOR,47.434,Q
-3,2,2,,117,CeciliaMAFFEI,6559,ITA,47.627,Q
-3,3,4,,113,STORMOWSKAKamila,9008,POL,48.034,
-3,4,3,,62,HitomiSAITO,7576,JPN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,1,1,1,,82,MONVOISINAurelie,8556,FRA,46.128,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,1,2,3,,52,MALAGICHEmina,7989,RUS,46.212,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,1,3,2,,109,KAMINAGAShione,8743,JPN,46.238,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,1,4,4,,91,LexiBURKHOLDER,7992,USA,47.603,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,2,1,1,,104,SelmaPOUTSMA,9004,FRA,45.964,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,2,2,3,,111,RozaKOOYSTRA,8495,NED,46.080,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,2,3,2,,79,KatherineRALSTON,7991,USA,47.401,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,2,4,4,,120,UZAKOVAMariia-Mahdalyna,8759,UKR,48.534,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,3,1,2,,108,PatriciaTOTH,7535,HUN,46.942,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,3,2,1,,83,KIKUCHISumire,7980,JPN,47.005,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,3,3,4,,84,LouiseMILESI,8668,FRA,47.149,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,3,4,3,,112,MonikaGRZADKOWSKA,9007,POL,47.421,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,3,5,5,,116,JerebelleYUTANGCO,9011,USA,48.635,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,4,1,1,,55,NOHDoHee,7986,KOR,47.434,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,4,2,2,,117,CeciliaMAFFEI,6559,ITA,47.627,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,4,3,4,,113,STORMOWSKAKamila,9008,POL,48.034,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(2),w,Rep.Heats,4,4,3,,62,HitomiSAITO,7576,JPN,notime,

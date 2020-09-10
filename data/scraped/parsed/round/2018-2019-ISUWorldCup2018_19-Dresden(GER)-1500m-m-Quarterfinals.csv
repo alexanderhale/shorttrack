@@ -1,61 +1,61 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,41,BYKANOVVladislav,6178,ISR,2:15.327,Q
-0,2,4,,20,CsabaBURJAN,7738,HUN,2:15.421,q
-0,3,3,,171,AdamCALLISTER,7954,USA,2:16.031,
-0,4,6,,137,ColeWilliamIsaacKRUEGER,9329,HUN,2:16.315,
-0,5,7,,208,Mellevan'TWOUT,9550,NED,2:16.807,
-0,6,5,,87,TriphopTHONGNGAM,9328,THA,2:19.175,
-0,7,2,,197,IvanRADEVIC,9242,GER,2:21.603,
-1,2,3,,70,TRANAaron,8528,USA,2:14.248,q
-1,3,4,,189,BLUNDENKeanu,8593,AUS,2:15.024,
-1,4,1,,75,KRUZBERGSKarlis,8629,LAT,2:15.522,
-1,5,6,,73,ZHAXYBAYEVMersaid,8623,KAZ,2:17.706,
-1,6,5,,209,deROSEEthan,9281,NZL,2:21.097,
-1,7,2,,147,SEJPALZdenek,9336,CZE,notime,
-2,1,4,,153,KIMGunWoo,9461,KOR,2:30.255,Q
-2,2,7,,65,BREEUWSMADaan,7218,NED,2:30.395,q
-2,3,6,,210,EYBOGDaniil,8661,RUS,2:30.779,
-2,4,5,,62,CASSINELLIAndrea,7741,ITA,2:30.958,
-2,5,3,,42,TREACYFarrell,8392,GBR,2:31.026,
-2,6,1,,196,TobiasPIETZSCH,8735,GER,notime,
-2,PEN,2,,66,BillySIMMS,7926,GBR,PEN,
-3,1,2,,4,LIMHyoJun,9324,KOR,2:28.101,Q
-3,2,6,,23,DOTTITommaso,7604,ITA,2:28.482,q
-3,3,3,,150,GALIAKHMETOVAdil,9260,KAZ,2:28.854,
-3,4,7,,169,AaronHEO,9302,USA,2:31.400,
-3,5,5,,52,KOLENCMartin,8604,CRO,2:32.042,
-3,6,4,,191,TIANJialong,9518,CHN,notime,
-3,PEN,1,,182,KRUZBERGSRoberts,9117,LAT,PEN,
-4,1,3,,1,HAMELINCharles,6610,CAN,2:13.823,Q
-4,2,1,,19,CONFORTOLAYuri,6561,ITA,2:13.851,q
-4,3,4,,204,KIKUCHIKota,8620,JPN,2:13.978,
-4,4,5,,25,MaksimSIARHEYU,7771,BLR,2:15.261,
-4,5,7,,165,ArtemKOZLOV,8638,RUS,2:15.782,
-4,6,6,,161,ADAMSKIPawel,9284,POL,2:19.014,
-4,7,2,,215,ArtsemALIATDZINAU,9085,BLR,2:20.569,
-5,1,6,,18,ThibautFAUCONNET,6785,FRA,2:13.558,Q
-5,2,2,,80,LEPAPESebastien,7554,FRA,2:13.641,q
-5,3,4,,174,KAZHGALINurtilek,8676,KAZ,2:13.980,
-5,4,7,,26,HANDEIOleh,9073,UKR,2:15.817,
-5,5,5,,187,MetehanATAN,9486,TUR,2:39.377,
-5,6,3,,183,TrevorXuXuanTAN,9420,SGP,2:40.291,
-5,PEN,1,,105,TunaySIMSEK,8758,TUR,PEN,
-6,1,6,,5,SemenELISTRATOV,7293,RUS,2:15.598,Q
-6,2,5,,22,DIONPascal,8999,CAN,2:16.968,q
-6,3,1,,190,LIKongchao,9516,CHN,2:17.328,
-6,4,4,,82,FiratYARDIMCI,8520,TUR,2:17.746,
-6,5,3,,118,MOODYJonathan,9102,GBR,2:18.777,
-6,6,2,,117,NIESCIERKarol,9126,POL,notime,
-7,1,4,,11,YOSHINAGAKazuki,8745,JPN,2:13.857,Q
-7,2,7,,27,deLAATItzhak,7746,NED,2:13.965,q
-7,3,6,,136,AlexVARNYU,8337,HUN,2:15.844,
-7,4,5,,86,LiamO'BRIEN,9163,AUS,2:18.087,
-7,5,2,,94,NEMIROVladyslav,8719,UKR,2:18.789,
-7,6,1,,92,EdinBRANKOVIC,7256,BIH,2:18.922,
-7,7,3,,200,AshwinCalenDSILVA,9246,IND,notime,
-8,1,1,,57,WATANABEKeita,7605,JPN,2:19.788,Q
-8,2,6,,125,DUBOISSteven,9092,CAN,2:19.886,q
-8,3,2,,178,LIUYifan,9481,CHN,2:20.910,
-8,4,5,,102,VANHOORENRino,8721,BEL,2:22.089,
-8,5,3,,38,GEORGIEVDimitar,8541,BUL,2:23.455,
-8,6,4,,162,MateuszKRZEMINSKI,9412,POL,2:24.721,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,1,1,,41,BYKANOVVladislav,6178,ISR,2:15.327,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,2,4,,20,CsabaBURJAN,7738,HUN,2:15.421,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,3,3,,171,AdamCALLISTER,7954,USA,2:16.031,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,4,6,,137,ColeWilliamIsaacKRUEGER,9329,HUN,2:16.315,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,5,7,,208,Mellevan'TWOUT,9550,NED,2:16.807,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,6,5,,87,TriphopTHONGNGAM,9328,THA,2:19.175,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,1,7,2,,197,IvanRADEVIC,9242,GER,2:21.603,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,2,3,,70,TRANAaron,8528,USA,2:14.248,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,3,4,,189,BLUNDENKeanu,8593,AUS,2:15.024,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,4,1,,75,KRUZBERGSKarlis,8629,LAT,2:15.522,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,5,6,,73,ZHAXYBAYEVMersaid,8623,KAZ,2:17.706,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,6,5,,209,deROSEEthan,9281,NZL,2:21.097,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,2,7,2,,147,SEJPALZdenek,9336,CZE,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,1,4,,153,KIMGunWoo,9461,KOR,2:30.255,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,2,7,,65,BREEUWSMADaan,7218,NED,2:30.395,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,3,6,,210,EYBOGDaniil,8661,RUS,2:30.779,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,4,5,,62,CASSINELLIAndrea,7741,ITA,2:30.958,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,5,3,,42,TREACYFarrell,8392,GBR,2:31.026,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,6,1,,196,TobiasPIETZSCH,8735,GER,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,3,PEN,2,,66,BillySIMMS,7926,GBR,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,1,2,,4,LIMHyoJun,9324,KOR,2:28.101,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,2,6,,23,DOTTITommaso,7604,ITA,2:28.482,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,3,3,,150,GALIAKHMETOVAdil,9260,KAZ,2:28.854,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,4,7,,169,AaronHEO,9302,USA,2:31.400,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,5,5,,52,KOLENCMartin,8604,CRO,2:32.042,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,6,4,,191,TIANJialong,9518,CHN,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,4,PEN,1,,182,KRUZBERGSRoberts,9117,LAT,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,1,3,,1,HAMELINCharles,6610,CAN,2:13.823,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,2,1,,19,CONFORTOLAYuri,6561,ITA,2:13.851,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,3,4,,204,KIKUCHIKota,8620,JPN,2:13.978,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,4,5,,25,MaksimSIARHEYU,7771,BLR,2:15.261,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,5,7,,165,ArtemKOZLOV,8638,RUS,2:15.782,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,6,6,,161,ADAMSKIPawel,9284,POL,2:19.014,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,5,7,2,,215,ArtsemALIATDZINAU,9085,BLR,2:20.569,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,1,6,,18,ThibautFAUCONNET,6785,FRA,2:13.558,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,2,2,,80,LEPAPESebastien,7554,FRA,2:13.641,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,3,4,,174,KAZHGALINurtilek,8676,KAZ,2:13.980,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,4,7,,26,HANDEIOleh,9073,UKR,2:15.817,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,5,5,,187,MetehanATAN,9486,TUR,2:39.377,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,6,3,,183,TrevorXuXuanTAN,9420,SGP,2:40.291,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,6,PEN,1,,105,TunaySIMSEK,8758,TUR,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,1,6,,5,SemenELISTRATOV,7293,RUS,2:15.598,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,2,5,,22,DIONPascal,8999,CAN,2:16.968,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,3,1,,190,LIKongchao,9516,CHN,2:17.328,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,4,4,,82,FiratYARDIMCI,8520,TUR,2:17.746,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,5,3,,118,MOODYJonathan,9102,GBR,2:18.777,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,7,6,2,,117,NIESCIERKarol,9126,POL,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,1,4,,11,YOSHINAGAKazuki,8745,JPN,2:13.857,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,2,7,,27,deLAATItzhak,7746,NED,2:13.965,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,3,6,,136,AlexVARNYU,8337,HUN,2:15.844,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,4,5,,86,LiamO'BRIEN,9163,AUS,2:18.087,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,5,2,,94,NEMIROVladyslav,8719,UKR,2:18.789,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,6,1,,92,EdinBRANKOVIC,7256,BIH,2:18.922,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,8,7,3,,200,AshwinCalenDSILVA,9246,IND,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,1,1,,57,WATANABEKeita,7605,JPN,2:19.788,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,2,6,,125,DUBOISSteven,9092,CAN,2:19.886,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,3,2,,178,LIUYifan,9481,CHN,2:20.910,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,4,5,,102,VANHOORENRino,8721,BEL,2:22.089,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,5,3,,38,GEORGIEVDimitar,8541,BUL,2:23.455,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Quarterfinals,9,6,4,,162,MateuszKRZEMINSKI,9412,POL,2:24.721,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,32,PetraJASZAPATI,8611,HUN,43.666,QA,
-0,2,2,,64,PROSVIRNOVASofia,8509,RUS,43.692,QA,
-0,3,3,,16,LIJinyu,9094,CHN,43.834,QB,
-0,4,4,,12,CHARLESAlyson,8722,CAN,43.942,QB,
-1,2,3,,81,BINEYMaame,9144,USA,43.998,QA,
-1,3,2,,50,SEOWhiMin,9263,KOR,44.326,QB,
-1,4,5,,47,HANSooLim,9261,KOR,50.482,QB,
-1,PEN,4,,59,STORMOWSKAKamila,9008,POL,PEN,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,1,1,1,,32,PetraJASZAPATI,8611,HUN,43.666,QA,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,1,2,2,,64,PROSVIRNOVASofia,8509,RUS,43.692,QA,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,1,3,3,,16,LIJinyu,9094,CHN,43.834,QB,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,1,4,4,,12,CHARLESAlyson,8722,CAN,43.942,QB,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,2,2,3,,81,BINEYMaame,9144,USA,43.998,QA,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,2,3,2,,50,SEOWhiMin,9263,KOR,44.326,QB,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,2,4,5,,47,HANSooLim,9261,KOR,50.482,QB,
+2016-2017,ISU World Junior Short Track Speed Skating Championships 2017,500m,w,Semifinals,2,PEN,4,,59,STORMOWSKAKamila,9008,POL,PEN,,

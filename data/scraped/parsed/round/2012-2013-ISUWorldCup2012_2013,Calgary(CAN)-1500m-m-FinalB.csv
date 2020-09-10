@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,173,VictorAN,8344,RUS,2:15.719,
-0,2,2,,136,CONFORTOLAYuri,6561,ITA,2:15.882,
-0,3,4,,96,GuillaumeBASTILLE,6166,CAN,2:16.271,
-0,4,5,,103,CHENDequan,7918,CHN,2:16.287,
-0,5,3,,191,ChrisCREVELING,8440,USA,2:17.475,
-0,6,6,,143,YumaSAKURAI,6182,JPN,2:35.722,
-0,7,7,,189,KyleCARR,6134,USA,2:56.837,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,1,1,,173,VictorAN,8344,RUS,2:15.719,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,2,2,,136,CONFORTOLAYuri,6561,ITA,2:15.882,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,3,4,,96,GuillaumeBASTILLE,6166,CAN,2:16.271,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,4,5,,103,CHENDequan,7918,CHN,2:16.287,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,5,3,,191,ChrisCREVELING,8440,USA,2:17.475,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,6,6,,143,YumaSAKURAI,6182,JPN,2:35.722,
+2012-2013,"ISU World Cup 2012/2013, Calgary (CAN)",1500m,m,FinalB,1,7,7,,189,KyleCARR,6134,USA,2:56.837,

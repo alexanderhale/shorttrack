@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,131,WANGMeng,6594,CHN,1:37.810,QA
-0,2,3,,199,JessicaKOOREMAN,7649,USA,1:43.135,QA
-0,3,4,,157,AriannaFONTANA,6227,ITA,2:16.365,QB
-0,DQ,1,,184,PARKSeung-Hi,7164,KOR,DQ,
-1,1,2,,185,LEEEunByul,7421,KOR,1:32.343,QA
-1,3,3,,183,CHOHa-Ri,7028,KOR,1:32.416,QB
-1,4,4,,132,ZHOUYang,6222,CHN,1:32.742,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,1,1,2,,131,WANGMeng,6594,CHN,1:37.810,QA
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,1,2,3,,199,JessicaKOOREMAN,7649,USA,1:43.135,QA
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,1,3,4,,157,AriannaFONTANA,6227,ITA,2:16.365,QB
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,1,DQ,1,,184,PARKSeung-Hi,7164,KOR,DQ,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,2,1,2,,185,LEEEunByul,7421,KOR,1:32.343,QA
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,2,3,3,,183,CHOHa-Ri,7028,KOR,1:32.416,QB
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1000m,w,Semifinals,2,4,4,,132,ZHOUYang,6222,CHN,1:32.742,QB

@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,102,LIUYang,7414,CHN,1:40.975,Q
-0,2,1,,73,BACSKAISaraLuca,8609,HUN,1:41.072,Q
-0,3,2,,79,KatherineRALSTON,7991,USA,1:41.285,
-0,4,3,,84,LouiseMILESI,8668,FRA,1:41.337,
-1,1,4,,103,ZANGYize,8725,CHN,1:32.978,Q
-1,2,2,,32,KimberlyGOETZ,8649,USA,1:33.822,Q
-1,3,1,,22,PetraJASZAPATI,8611,HUN,1:35.082,
-1,4,3,,76,MALISZEWSKANatalia,8437,POL,1:35.543,
-2,1,3,,29,AlicaPORUBSKA,8514,SVK,1:41.584,Q
-2,2,2,,111,RozaKOOYSTRA,8495,NED,1:41.983,Q
-2,3,1,,69,VALCEPINAArianna,7705,ITA,notime,ADV
-2,PEN,4,,82,MONVOISINAurelie,8556,FRA,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,1,1,4,,102,LIUYang,7414,CHN,1:40.975,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,1,2,1,,73,BACSKAISaraLuca,8609,HUN,1:41.072,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,1,3,2,,79,KatherineRALSTON,7991,USA,1:41.285,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,1,4,3,,84,LouiseMILESI,8668,FRA,1:41.337,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,2,1,4,,103,ZANGYize,8725,CHN,1:32.978,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,2,2,2,,32,KimberlyGOETZ,8649,USA,1:33.822,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,2,3,1,,22,PetraJASZAPATI,8611,HUN,1:35.082,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,2,4,3,,76,MALISZEWSKANatalia,8437,POL,1:35.543,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,3,1,3,,29,AlicaPORUBSKA,8514,SVK,1:41.584,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,3,2,2,,111,RozaKOOYSTRA,8495,NED,1:41.983,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,3,3,1,,69,VALCEPINAArianna,7705,ITA,notime,ADV
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),1000m(1),w,Rep.Heats,3,PEN,4,,82,MONVOISINAurelie,8556,FRA,PEN,

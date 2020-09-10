@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,52,SONGKyung-Taek,6574,KOR,1:30.130,Q
-0,2,3,,64,RustySMITH,6496,USA,1:30.406,Q
-0,3,2,,30,JonELEY,6592,GBR,1:30.462,
-0,4,4,,38,EitokuIKE,6346,JPN,1:30.827,
-1,2,1,,50,LEESeung-Jae,6621,KOR,1:31.735,Q
-1,3,3,,7,JonathanGUILMETTE,6702,CAN,1:31.746,
-1,4,2,,23,ArianNACHBAR,6637,GER,1:32.248,
-2,1,1,,12,LIYe,6655,CHN,1:30.148,Q
-2,2,2,,8,SteveROBILLARD,6494,CAN,1:30.230,Q
-2,3,4,,37,YoshiharuARINO,6075,JPN,1:30.495,
-2,4,3,,20,JeanCharlesMATTEI,6057,FRA,1:30.521,
-3,1,1,,53,AHNHyun-Soo,6618,KOR,1:29.600,Q
-3,2,5,,11,LIJiajun,7095,CHN,1:29.760,Q
-3,3,2,,39,TakafumiNISHITANI,6323,JPN,1:30.109,
-3,4,4,,25,SebastianPRAUS,6364,GER,1:30.298,
-3,5,3,,35,NicolaRODIGARI,6332,ITA,1:32.508,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,1,1,1,,52,SONGKyung-Taek,6574,KOR,1:30.130,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,1,2,3,,64,RustySMITH,6496,USA,1:30.406,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,1,3,2,,30,JonELEY,6592,GBR,1:30.462,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,1,4,4,,38,EitokuIKE,6346,JPN,1:30.827,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,2,2,1,,50,LEESeung-Jae,6621,KOR,1:31.735,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,2,3,3,,7,JonathanGUILMETTE,6702,CAN,1:31.746,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,2,4,2,,23,ArianNACHBAR,6637,GER,1:32.248,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,3,1,1,,12,LIYe,6655,CHN,1:30.148,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,3,2,2,,8,SteveROBILLARD,6494,CAN,1:30.230,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,3,3,4,,37,YoshiharuARINO,6075,JPN,1:30.495,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,3,4,3,,20,JeanCharlesMATTEI,6057,FRA,1:30.521,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,4,1,1,,53,AHNHyun-Soo,6618,KOR,1:29.600,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,4,2,5,,11,LIJiajun,7095,CHN,1:29.760,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,4,3,2,,39,TakafumiNISHITANI,6323,JPN,1:30.109,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,4,4,4,,25,SebastianPRAUS,6364,GER,1:30.298,
+2004-2005,"2004 World Cup 1, China",1000M,m,QuarterFinals,4,5,3,,35,NicolaRODIGARI,6332,ITA,1:32.508,

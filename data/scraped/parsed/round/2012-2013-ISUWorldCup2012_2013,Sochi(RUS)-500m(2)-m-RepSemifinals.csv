@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,195,EduardoALVAREZ,7617,USA,42.144,Q
-0,2,2,,158,AydarBEKZHANOV,7623,KAZ,42.245,
-0,3,4,,200,SIMON_FALSCHJeffrey,8453,USA,42.467,
-0,4,1,,141,ViktorKNOCH,6177,HUN,43.610,
-1,1,2,,147,DOTTITommaso,7604,ITA,42.185,Q
-1,2,3,,167,SINdaWoon,8035,KOR,42.352,
-1,3,1,,170,BREEUWSMADaan,7218,NED,42.552,
-1,4,4,,169,ChristiaanBOKKERINK,7611,NED,42.897,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,1,1,3,,195,EduardoALVAREZ,7617,USA,42.144,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,1,2,2,,158,AydarBEKZHANOV,7623,KAZ,42.245,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,1,3,4,,200,SIMON_FALSCHJeffrey,8453,USA,42.467,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,1,4,1,,141,ViktorKNOCH,6177,HUN,43.610,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,2,1,2,,147,DOTTITommaso,7604,ITA,42.185,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,2,2,3,,167,SINdaWoon,8035,KOR,42.352,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,2,3,1,,170,BREEUWSMADaan,7218,NED,42.552,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,RepSemifinals,2,4,4,,169,ChristiaanBOKKERINK,7611,NED,42.897,

@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,2,HWANGDaeHeon,9115,KOR,39.852,Q
-0,2,4,,32,HOOGERWERFDylan,8497,NED,40.579,Q
-0,3,5,,85,FERCOQQuentin,8605,FRA,41.243,
-0,4,3,,125,TunaySIMSEK,8758,TUR,41.673,
-0,5,2,,159,SELLIERDiane,9237,FRA,notime,
-1,1,1,,8,RENZiwei,8601,CHN,40.433,Q
-1,2,4,,59,ShaoangLIU,8564,HUN,40.517,Q
-1,3,2,,175,VictorAN,8344,RUS,40.568,q
-1,4,3,,176,EYBOGDaniil,8661,RUS,40.799,
-1,5,5,,173,JasperBRUNSMANN,9122,NED,41.071,
-2,1,1,,5,WUDajing,7729,CHN,40.412,Q
-2,2,5,,17,DESMETStijn,8706,BEL,40.606,Q
-2,3,3,,35,SITNIKOVPavel,9133,RUS,40.695,q
-2,4,4,,57,PARKJiWon,8765,KOR,40.828,
-2,5,2,,14,KIKUCHIKota,8620,JPN,41.021,
-3,1,2,,10,ShaolinSandorLIU,7928,HUN,40.718,Q
-3,2,1,,94,SUNLong,9454,CHN,40.914,Q
-3,3,5,,78,NIKISHADenis,8396,KAZ,41.123,
-3,4,3,,68,BLAISCedrik,8998,CAN,41.485,
-3,5,4,,157,MaximeLAOUN,8599,CAN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,1,1,1,,2,HWANGDaeHeon,9115,KOR,39.852,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,1,2,4,,32,HOOGERWERFDylan,8497,NED,40.579,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,1,3,5,,85,FERCOQQuentin,8605,FRA,41.243,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,1,4,3,,125,TunaySIMSEK,8758,TUR,41.673,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,1,5,2,,159,SELLIERDiane,9237,FRA,notime,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,2,1,1,,8,RENZiwei,8601,CHN,40.433,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,2,2,4,,59,ShaoangLIU,8564,HUN,40.517,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,2,3,2,,175,VictorAN,8344,RUS,40.568,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,2,4,3,,176,EYBOGDaniil,8661,RUS,40.799,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,2,5,5,,173,JasperBRUNSMANN,9122,NED,41.071,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,3,1,1,,5,WUDajing,7729,CHN,40.412,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,3,2,5,,17,DESMETStijn,8706,BEL,40.606,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,3,3,3,,35,SITNIKOVPavel,9133,RUS,40.695,q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,3,4,4,,57,PARKJiWon,8765,KOR,40.828,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,3,5,2,,14,KIKUCHIKota,8620,JPN,41.021,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,4,1,2,,10,ShaolinSandorLIU,7928,HUN,40.718,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,4,2,1,,94,SUNLong,9454,CHN,40.914,Q
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,4,3,5,,78,NIKISHADenis,8396,KAZ,41.123,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,4,4,3,,68,BLAISCedrik,8998,CAN,41.485,
+2019-2020,"ISU World Cup 2019/20 - Salt Lake City, UT (USA)",500m(1),m,Quarterfinals,4,5,4,,157,MaximeLAOUN,8599,CAN,notime,

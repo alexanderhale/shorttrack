@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,142,GOEMINNEGert-Jan,8707,BEL,41.675,Q
-0,2,4,,9,JackWHELBOURNE,7437,GBR,41.948,Q
-0,3,1,,84,CASSINELLIAndrea,7741,ITA,42.030,
-0,4,3,,166,BLACKBURNMackenzie,7434,TPE,42.282,
-1,1,2,,175,PIVIROTTORyan,8650,USA,41.225,Q
-1,2,3,,77,TRANAaron,8528,USA,41.363,Q
-1,3,4,,86,BREEUWSMADaan,7218,NED,41.378,
-1,4,1,,29,JUNGHyunWoo(Andy),8575,AUS,42.063,
-2,1,1,,83,SHULGINOVAlexander,8752,RUS,40.854,Q
-2,2,2,,156,HONGKyungHwan,9190,KOR,40.944,Q
-2,3,4,,115,DavutTAHTACI,8647,TUR,43.163,
-2,PEN,3,,31,deLAATItzhak,7746,NED,PEN,
-3,1,2,,88,ThomasInsukHONG,8084,USA,41.926,Q
-3,2,1,,121,PaulBEAUCHAMP,8560,FRA,42.104,Q
-3,3,4,,36,RobertsZVEJNIEKS,8490,LAT,42.466,
-3,PEN,3,,81,TREACYFarrell,8392,GBR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,1,1,2,,142,GOEMINNEGert-Jan,8707,BEL,41.675,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,1,2,4,,9,JackWHELBOURNE,7437,GBR,41.948,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,1,3,1,,84,CASSINELLIAndrea,7741,ITA,42.030,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,1,4,3,,166,BLACKBURNMackenzie,7434,TPE,42.282,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,2,1,2,,175,PIVIROTTORyan,8650,USA,41.225,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,2,2,3,,77,TRANAaron,8528,USA,41.363,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,2,3,4,,86,BREEUWSMADaan,7218,NED,41.378,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,2,4,1,,29,JUNGHyunWoo(Andy),8575,AUS,42.063,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,3,1,1,,83,SHULGINOVAlexander,8752,RUS,40.854,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,3,2,2,,156,HONGKyungHwan,9190,KOR,40.944,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,3,3,4,,115,DavutTAHTACI,8647,TUR,43.163,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,3,PEN,3,,31,deLAATItzhak,7746,NED,PEN,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,4,1,2,,88,ThomasInsukHONG,8084,USA,41.926,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,4,2,1,,121,PaulBEAUCHAMP,8560,FRA,42.104,Q
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,4,3,4,,36,RobertsZVEJNIEKS,8490,LAT,42.466,
+2016-2017,"ISU World Cup 2016/17 - Salt Lake City, UT (USA)",500m,m,Rep.Quarterfinals,4,PEN,3,,81,TREACYFarrell,8392,GBR,PEN,

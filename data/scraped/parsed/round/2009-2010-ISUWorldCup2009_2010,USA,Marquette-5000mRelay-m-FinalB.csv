@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,912,CHINA,7303,CHN,6:47.259,
-0,2,3,,915,GREATBRITAIN,7320,GBR,6:47.518,
-0,DQ,2,,913,FRANCE,7319,FRA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",5000mRelay,m,FinalB,1,1,1,,912,CHINA,7303,CHN,6:47.259,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",5000mRelay,m,FinalB,1,2,3,,915,GREATBRITAIN,7320,GBR,6:47.518,
+2009-2010,"ISU World Cup 2009/2010, USA, Marquette",5000mRelay,m,FinalB,1,DQ,2,,913,FRANCE,7319,FRA,DQ,

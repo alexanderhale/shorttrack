@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,192,SemenELISTRATOV,7293,RUS,2:16.261,
-0,2,4,,203,KyleCARR,6134,USA,2:16.596,
-0,3,5,,117,FrancoisHAMELIN,6167,CAN,2:16.678,
-0,4,2,,161,DaisukeUEMURA,6118,JPN,2:16.681,
-0,5,1,,163,WATANABEKeita,7605,JPN,2:16.743,
-0,6,6,,152,BYKANOVVladislav,6178,ISR,2:18.835,
-0,7,3,,157,DOTTITommaso,7604,ITA,3:01.720,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,1,7,,192,SemenELISTRATOV,7293,RUS,2:16.261,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,2,4,,203,KyleCARR,6134,USA,2:16.596,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,3,5,,117,FrancoisHAMELIN,6167,CAN,2:16.678,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,4,2,,161,DaisukeUEMURA,6118,JPN,2:16.681,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,5,1,,163,WATANABEKeita,7605,JPN,2:16.743,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,6,6,,152,BYKANOVVladislav,6178,ISR,2:18.835,
+2012-2013,"ISU World Cup 2012/2013, Dresden (GER)",1500m(2),m,FinalB,1,7,3,,157,DOTTITommaso,7604,ITA,3:01.720,

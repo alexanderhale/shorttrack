@@ -1,32 +1,32 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,66,KatherineREUTTER-ADAMEK,7255,USA,1:35.000,Q
-0,2,3,,9,TaniaVICENT,6662,CAN,1:35.121,Q
-0,3,1,,35,BibaSAKURAI,7240,JPN,1:35.286,q
-0,4,2,,21,PIERRONVeronique,6196,FRA,1:35.478,
-1,1,1,,13,WANGMeng,6594,CHN,1:39.989,Q
-1,2,3,,53,YANGShin-Young,7163,KOR,1:40.214,Q
-1,3,2,,28,TSOHoYan,7341,HKG,1:51.420,
-2,1,3,,16,LIUQiuhong,6286,CHN,1:34.627,Q
-2,2,4,,10,AmandaOVERLAND,7079,CAN,1:34.735,Q
-2,3,2,,51,PatrycjaMALISZEWSKA,6154,POL,1:36.762,q
-2,4,1,,47,JorienterMORS,6146,NED,1:39.797,
-3,1,1,,52,JINSun-Yu,6108,KOR,1:35.622,Q
-3,2,2,,37,AyukoITO,6791,JPN,1:36.606,Q
-3,3,4,,11,AndreaDO-DUC,6215,CAN,1:36.857,q
-3,4,3,,41,YelenaSKACHKOVA,6231,KAZ,1:42.076,
-4,1,4,,27,WANGXinyue,7340,HKG,1:42.877,Q
-4,2,3,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:42.891,Q
-4,3,1,,33,LuciaPERETTI,7160,ITA,1:42.997,
-4,4,2,,60,OlgaBELYAKOVA,7112,RUS,1:43.753,
-5,1,2,,2,EvgeniaRADANOVA,6775,BUL,1:37.145,Q
-5,2,1,,38,MikaOZAWA,6318,JPN,1:37.429,Q
-5,3,3,,25,CHRISTIEElise,7135,GBR,1:37.603,ADV
-5,DQ,4,,63,NataliaPLUGINA,7345,RUS,DQ,
-6,1,3,,54,JUNGEun-Ju,6297,KOR,1:40.273,Q
-6,2,2,,68,LanaGEHRING,7254,USA,1:40.354,Q
-6,3,4,,62,EkaterinaBELOVA,6190,RUS,1:40.627,
-6,4,1,,43,XeniyaMOTOVA,7343,KAZ,1:47.518,
-7,1,1,,18,ZHAONannan,7150,CHN,1:33.882,Q
-7,2,2,,49,AnoukZOUTENDIJK,6147,NED,1:34.050,Q
-7,3,3,,58,KatalinKRISTO,6514,ROU,1:34.127,q
-7,4,4,,32,CeciliaMAFFEI,6559,ITA,1:34.169,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,1,1,4,,66,KatherineREUTTER-ADAMEK,7255,USA,1:35.000,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,1,2,3,,9,TaniaVICENT,6662,CAN,1:35.121,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,1,3,1,,35,BibaSAKURAI,7240,JPN,1:35.286,q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,1,4,2,,21,PIERRONVeronique,6196,FRA,1:35.478,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,2,1,1,,13,WANGMeng,6594,CHN,1:39.989,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,2,2,3,,53,YANGShin-Young,7163,KOR,1:40.214,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,2,3,2,,28,TSOHoYan,7341,HKG,1:51.420,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,3,1,3,,16,LIUQiuhong,6286,CHN,1:34.627,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,3,2,4,,10,AmandaOVERLAND,7079,CAN,1:34.735,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,3,3,2,,51,PatrycjaMALISZEWSKA,6154,POL,1:36.762,q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,3,4,1,,47,JorienterMORS,6146,NED,1:39.797,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,4,1,1,,52,JINSun-Yu,6108,KOR,1:35.622,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,4,2,2,,37,AyukoITO,6791,JPN,1:36.606,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,4,3,4,,11,AndreaDO-DUC,6215,CAN,1:36.857,q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,4,4,3,,41,YelenaSKACHKOVA,6231,KAZ,1:42.076,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,5,1,4,,27,WANGXinyue,7340,HKG,1:42.877,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,5,2,3,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:42.891,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,5,3,1,,33,LuciaPERETTI,7160,ITA,1:42.997,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,5,4,2,,60,OlgaBELYAKOVA,7112,RUS,1:43.753,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,6,1,2,,2,EvgeniaRADANOVA,6775,BUL,1:37.145,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,6,2,1,,38,MikaOZAWA,6318,JPN,1:37.429,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,6,3,3,,25,CHRISTIEElise,7135,GBR,1:37.603,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,6,DQ,4,,63,NataliaPLUGINA,7345,RUS,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,7,1,3,,54,JUNGEun-Ju,6297,KOR,1:40.273,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,7,2,2,,68,LanaGEHRING,7254,USA,1:40.354,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,7,3,4,,62,EkaterinaBELOVA,6190,RUS,1:40.627,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,7,4,1,,43,XeniyaMOTOVA,7343,KAZ,1:47.518,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,8,1,1,,18,ZHAONannan,7150,CHN,1:33.882,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,8,2,2,,49,AnoukZOUTENDIJK,6147,NED,1:34.050,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,8,3,3,,58,KatalinKRISTO,6514,ROU,1:34.127,q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,w,Preliminaries,8,4,4,,32,CeciliaMAFFEI,6559,ITA,1:34.169,

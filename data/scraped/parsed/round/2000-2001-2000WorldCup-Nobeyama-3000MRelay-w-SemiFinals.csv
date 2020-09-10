@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,KOREA,7314,KOR,4:23.215,
-0,2,3,,,UNITEDSTATES,7316,USA,4:29.922,
-0,3,2,,,BULGARIA,7335,BUL,4:36.176,
-1,1,3,,,CHINA,7311,CHN,4:22.362,
-1,2,1,,,CANADA,7312,CAN,4:23.480,
-1,3,2,,,JAPAN,7310,JPN,4:23.606,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,1,1,1,,,KOREA,7314,KOR,4:23.215,
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,1,2,3,,,UNITEDSTATES,7316,USA,4:29.922,
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,1,3,2,,,BULGARIA,7335,BUL,4:36.176,
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,2,1,3,,,CHINA,7311,CHN,4:22.362,
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,2,2,1,,,CANADA,7312,CAN,4:23.480,
+2000-2001,2000 World Cup - Nobeyama,3000MRelay,w,SemiFinals,2,3,2,,,JAPAN,7310,JPN,4:23.606,

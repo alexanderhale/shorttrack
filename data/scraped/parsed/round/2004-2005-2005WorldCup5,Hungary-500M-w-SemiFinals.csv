@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,39,WANGMeng,6594,CHN,45.259,Q
-0,2,4,,41,YANGAYang,6649,CHN,45.315,Q
-0,3,1,,96,MaraZINI,6326,ITA,45.462,
-1,1,1,,21,EvgeniaRADANOVA,6775,BUL,45.522,Q
-1,2,3,,38,FUTianYu,6650,CHN,45.569,Q
-1,3,4,,110,KANGYun-Mi,6830,KOR,45.659,
-1,4,2,,123,LiesbethMAUASAM,6444,NED,46.030,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,1,1,2,,39,WANGMeng,6594,CHN,45.259,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,1,2,4,,41,YANGAYang,6649,CHN,45.315,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,1,3,1,,96,MaraZINI,6326,ITA,45.462,
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,2,1,1,,21,EvgeniaRADANOVA,6775,BUL,45.522,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,2,2,3,,38,FUTianYu,6650,CHN,45.569,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,2,3,4,,110,KANGYun-Mi,6830,KOR,45.659,
+2004-2005,"2005 World Cup 5, Hungary",500M,w,SemiFinals,2,4,2,,123,LiesbethMAUASAM,6444,NED,46.030,

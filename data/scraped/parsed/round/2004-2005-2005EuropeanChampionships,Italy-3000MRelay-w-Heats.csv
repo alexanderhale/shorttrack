@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1001,GERMANY,7313,GER,4:26.264,Q
-0,2,2,,1002,FRANCE,7354,FRA,4:26.421,Q
-0,3,4,,1005,NETHERLANDS,7322,NED,4:27.972,
-0,4,3,,1003,HUNGARY,7323,HUN,4:28.931,
-1,1,3,,1004,ITALY,7317,ITA,4:32.866,Q
-1,2,4,,1007,RUSSIA,7315,RUS,4:33.666,Q
-1,3,1,,1006,POLAND,7332,POL,4:38.309,
-1,4,2,,1000,BULGARIA,7335,BUL,4:44.805,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,1,1,1,,1001,GERMANY,7313,GER,4:26.264,Q
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,1,2,2,,1002,FRANCE,7354,FRA,4:26.421,Q
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,1,3,4,,1005,NETHERLANDS,7322,NED,4:27.972,
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,1,4,3,,1003,HUNGARY,7323,HUN,4:28.931,
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,2,1,3,,1004,ITALY,7317,ITA,4:32.866,Q
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,2,2,4,,1007,RUSSIA,7315,RUS,4:33.666,Q
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,2,3,1,,1006,POLAND,7332,POL,4:38.309,
+2004-2005,"2005 European Championships, Italy",3000MRelay,w,Heats,2,4,2,,1000,BULGARIA,7335,BUL,4:44.805,

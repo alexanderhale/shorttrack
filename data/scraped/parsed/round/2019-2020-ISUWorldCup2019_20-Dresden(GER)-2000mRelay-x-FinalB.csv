@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,315,KOREA,9475,KOR,2:49.177,
-0,2,2,,313,JAPAN,9473,JPN,2:50.102,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),2000mRelay,x,FinalB,1,1,1,,315,KOREA,9475,KOR,2:49.177,
+2019-2020,ISU World Cup 2019/20 - Dresden (GER),2000mRelay,x,FinalB,1,2,2,,313,JAPAN,9473,JPN,2:50.102,

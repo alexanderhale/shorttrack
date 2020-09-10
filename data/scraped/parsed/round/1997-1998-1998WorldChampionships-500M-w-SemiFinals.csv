@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,4,,,AnniePERREAULT,6660,CAN,45.653,,
-0,2,3,,,MarinellaCANCLINI,6327,ITA,45.913,,
-0,3,1,,,YANGAYang,6649,CHN,1:02.008,,
-0,4,2,,,WONHye-Kyung,6759,KOR,1:04.783,,
-1,1,1,,,WANGChunlu,6648,CHN,44.966,,
-1,2,2,,,EvgeniaRADANOVA,6775,BUL,45.069,,
-1,3,4,,,PYLAEVAMarina,6981,RUS,45.188,,
-1,4,3,,,CHUNLee-Kyung,6869,KOR,45.528,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+1997-1998,1998 World Championships,500M,w,SemiFinals,1,1,4,,,AnniePERREAULT,6660,CAN,45.653,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,1,2,3,,,MarinellaCANCLINI,6327,ITA,45.913,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,1,3,1,,,YANGAYang,6649,CHN,1:02.008,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,1,4,2,,,WONHye-Kyung,6759,KOR,1:04.783,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,2,1,1,,,WANGChunlu,6648,CHN,44.966,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,2,2,2,,,EvgeniaRADANOVA,6775,BUL,45.069,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,2,3,4,,,PYLAEVAMarina,6981,RUS,45.188,,
+1997-1998,1998 World Championships,500M,w,SemiFinals,2,4,3,,,CHUNLee-Kyung,6869,KOR,45.528,,

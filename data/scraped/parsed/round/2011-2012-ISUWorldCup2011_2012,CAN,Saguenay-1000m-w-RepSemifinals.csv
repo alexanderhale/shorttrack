@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,3,DeannaLOCKETT,7956,AUS,1:36.072,Q
-0,2,4,,21,JuliaRIEDEL,6287,GER,1:36.245,
-0,3,1,,65,ZAKHAROVAEvgeniya,7715,RUS,1:36.721,
-0,4,2,,58,MalwinaZAWADA,6155,POL,1:36.921,
-1,1,1,,22,WALTERBianca,7232,GER,1:34.448,Q
-1,2,2,,42,SayuriSHIMIZU,7544,JPN,1:34.896,
-1,3,3,,55,vanKERKHOFYara,7422,NED,1:35.494,
-1,4,4,,51,AgneSEREIKAITE,7708,LTU,1:35.592,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,1,1,3,,3,DeannaLOCKETT,7956,AUS,1:36.072,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,1,2,4,,21,JuliaRIEDEL,6287,GER,1:36.245,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,1,3,1,,65,ZAKHAROVAEvgeniya,7715,RUS,1:36.721,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,1,4,2,,58,MalwinaZAWADA,6155,POL,1:36.921,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,2,1,1,,22,WALTERBianca,7232,GER,1:34.448,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,2,2,2,,42,SayuriSHIMIZU,7544,JPN,1:34.896,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,2,3,3,,55,vanKERKHOFYara,7422,NED,1:35.494,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",1000m,w,RepSemifinals,2,4,4,,51,AgneSEREIKAITE,7708,LTU,1:35.592,

@@ -1,15 +1,15 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,421,YANGJin,7650,CHN,2:18.544,Q
-0,2,7,,470,deLAATItzhak,7746,NED,2:18.700,
-0,3,3,,433,ChristophMILZ,6175,GER,2:18.705,
-0,4,6,,477,DawidRZEMIENIECKI,7879,POL,2:18.971,
-0,5,2,,447,MatteoCOMPAGNONI,7441,ITA,2:18.992,
-0,YC,4,YC,480,EvgeniiKOZULIN,7272,RUS,YC,
-0,PEN,5,,487,JonathanGARCIA,7904,USA,PEN,
-1,1,4,,488,John-HenryKRUEGER,7763,USA,2:16.973,Q
-1,2,2,,452,YoshiakiOGURO,7743,JPN,2:17.263,
-1,3,1,,431,HannesKROEGER,7142,GER,2:19.513,
-1,4,5,,475,JakubJAWORSKI,6816,POL,2:20.103,
-1,5,6,,419,SHIJingnan,7728,CHN,2:26.861,
-1,6,7,,440,BenceBERES,7438,HUN,2:36.885,
-1,7,3,,468,ChristiaanBOKKERINK,7611,NED,2:41.715,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,1,1,,421,YANGJin,7650,CHN,2:18.544,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,2,7,,470,deLAATItzhak,7746,NED,2:18.700,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,3,3,,433,ChristophMILZ,6175,GER,2:18.705,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,4,6,,477,DawidRZEMIENIECKI,7879,POL,2:18.971,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,5,2,,447,MatteoCOMPAGNONI,7441,ITA,2:18.992,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,YC,4,YC,480,EvgeniiKOZULIN,7272,RUS,YC,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,1,PEN,5,,487,JonathanGARCIA,7904,USA,PEN,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,1,4,,488,John-HenryKRUEGER,7763,USA,2:16.973,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,2,2,,452,YoshiakiOGURO,7743,JPN,2:17.263,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,3,1,,431,HannesKROEGER,7142,GER,2:19.513,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,4,5,,475,JakubJAWORSKI,6816,POL,2:20.103,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,5,6,,419,SHIJingnan,7728,CHN,2:26.861,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,6,7,,440,BenceBERES,7438,HUN,2:36.885,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1500m(1),m,RepSemifinals,2,7,3,,468,ChristiaanBOKKERINK,7611,NED,2:41.715,

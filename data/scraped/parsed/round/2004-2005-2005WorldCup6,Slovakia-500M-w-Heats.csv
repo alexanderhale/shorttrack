@@ -1,26 +1,26 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,10,AlannaKRAUS,6659,CAN,45.710,Q
-0,3,2,,29,ErikaHUSZAR,6373,HUN,45.812,q
-0,4,4,,3,YulyiaYELSAKOVA,6021,BLR,46.770,
-1,1,4,,4,EvgeniaRADANOVA,6775,BUL,45.503,Q
-1,2,2,,11,ChantaleSEVIGNY,6771,CAN,45.657,Q
-1,3,1,,40,SatomiSAKAI,6867,JPN,46.305,q
-1,4,3,,23,CelineLECOMPERE,6556,FRA,46.487,
-1,DQ,5,,16,FUTianYu,6650,CHN,DQ,
-2,1,4,,15,YANGAYang,6649,CHN,45.377,Q
-2,2,3,,32,MartaCAPURSO,6328,ITA,45.515,Q
-2,3,1,,37,ChikageTANAKA,6314,JPN,46.085,q
-2,4,2,,45,MelaniedeLANGE,6005,NED,46.106,
-3,1,2,,12,AnoukLEBLANC-BOUCHER,6795,CAN,45.609,Q
-3,2,4,,69,Hyo-JungKIM,6921,USA,45.851,Q
-3,3,1,,59,NataliaDMITRIEVA,6512,RUS,46.715,
-3,4,3,,46,SannevanKERKHOF,6835,NED,46.732,
-4,1,3,,14,WANGMeng,6594,CHN,45.291,Q
-4,2,4,,33,KatiaZINI,6076,ITA,45.994,Q
-4,3,2,,20,ZuzanaJURISOVA,6764,CZE,46.546,q
-4,4,5,,44,MaureendeLANGE,6535,NED,46.765,
-4,DNS,1,,28,TinaGRASSOW,6855,GER,DNS,
-5,1,1,,25,YvonneKUNZE,6363,GER,46.630,Q
-5,2,3,,34,MaraZINI,6326,ITA,46.668,Q
-5,3,4,,50,CHOIEun-Kyung,6943,KOR,46.728,
-5,4,2,,1,VeronikaWINDISCH,6427,AUT,46.808,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,1,1,3,,10,AlannaKRAUS,6659,CAN,45.710,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,1,3,2,,29,ErikaHUSZAR,6373,HUN,45.812,q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,1,4,4,,3,YulyiaYELSAKOVA,6021,BLR,46.770,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,2,1,4,,4,EvgeniaRADANOVA,6775,BUL,45.503,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,2,2,2,,11,ChantaleSEVIGNY,6771,CAN,45.657,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,2,3,1,,40,SatomiSAKAI,6867,JPN,46.305,q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,2,4,3,,23,CelineLECOMPERE,6556,FRA,46.487,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,2,DQ,5,,16,FUTianYu,6650,CHN,DQ,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,3,1,4,,15,YANGAYang,6649,CHN,45.377,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,3,2,3,,32,MartaCAPURSO,6328,ITA,45.515,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,3,3,1,,37,ChikageTANAKA,6314,JPN,46.085,q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,3,4,2,,45,MelaniedeLANGE,6005,NED,46.106,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,4,1,2,,12,AnoukLEBLANC-BOUCHER,6795,CAN,45.609,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,4,2,4,,69,Hyo-JungKIM,6921,USA,45.851,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,4,3,1,,59,NataliaDMITRIEVA,6512,RUS,46.715,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,4,4,3,,46,SannevanKERKHOF,6835,NED,46.732,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,5,1,3,,14,WANGMeng,6594,CHN,45.291,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,5,2,4,,33,KatiaZINI,6076,ITA,45.994,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,5,3,2,,20,ZuzanaJURISOVA,6764,CZE,46.546,q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,5,4,5,,44,MaureendeLANGE,6535,NED,46.765,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,5,DNS,1,,28,TinaGRASSOW,6855,GER,DNS,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,6,1,1,,25,YvonneKUNZE,6363,GER,46.630,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,6,2,3,,34,MaraZINI,6326,ITA,46.668,Q
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,6,3,4,,50,CHOIEun-Kyung,6943,KOR,46.728,
+2004-2005,"2005 World Cup 6, Slovakia",500M,w,Heats,6,4,2,,1,VeronikaWINDISCH,6427,AUT,46.808,

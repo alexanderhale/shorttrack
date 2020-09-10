@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,14,WANGMeng,6594,CHN,notime,
-0,1,1,,16,ZHOUYang,6222,CHN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,FinalB,1,1,2,,14,WANGMeng,6594,CHN,notime,
+2013-2014,"ISU World Cup 2013/2014, Shanghai (CHN)",1000m,w,FinalB,1,1,1,,16,ZHOUYang,6222,CHN,notime,

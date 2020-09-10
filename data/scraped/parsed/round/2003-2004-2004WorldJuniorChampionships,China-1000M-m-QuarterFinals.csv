@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,73,HUZe,6926,CHN,1:31.129,Q
-0,2,4,,80,JonELEY,6592,GBR,1:31.195,Q
-0,3,2,,85,PeterDARAZS,6465,HUN,1:31.376,
-0,DQ,1,,70,MalcolmTHERRIEN,6925,CAN,DQ,
-1,1,4,,103,LEEHo-Suk,6856,KOR,1:37.065,Q
-1,2,1,,92,DenisBELLOTTI,6807,ITA,1:37.107,Q
-1,3,3,,68,MathieuGIROUX,6852,CAN,1:37.176,
-1,4,2,,63,AndrePULEC,6054,AUT,1:38.189,
-2,1,1,,72,SUIBaoKu,6416,CHN,1:29.919,Q
-2,2,3,,93,CONFORTOLAYuri,6561,ITA,1:30.031,Q
-2,3,4,,109,BlakeSKJELLERUP,6549,NZL,1:31.723,
-2,DQ,2,,76,ThibautFAUCONNET,6785,FRA,DQ,
-2,DQ,5,,95,JumpeiYOSHIZAWA,6577,JPN,DQ,
-3,1,2,,102,KWONKi-Deok,6931,KOR,1:35.884,Q
-3,2,3,,69,LEFRANCOIS-GAUVREAUMathieu,6924,CAN,1:35.929,Q
-3,3,1,,94,DavideURBANI,6872,ITA,1:36.105,
-3,4,4,,83,PaulHERRMANN,6803,GER,1:36.241,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,1,1,3,,73,HUZe,6926,CHN,1:31.129,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,1,2,4,,80,JonELEY,6592,GBR,1:31.195,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,1,3,2,,85,PeterDARAZS,6465,HUN,1:31.376,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,1,DQ,1,,70,MalcolmTHERRIEN,6925,CAN,DQ,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,2,1,4,,103,LEEHo-Suk,6856,KOR,1:37.065,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,2,2,1,,92,DenisBELLOTTI,6807,ITA,1:37.107,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,2,3,3,,68,MathieuGIROUX,6852,CAN,1:37.176,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,2,4,2,,63,AndrePULEC,6054,AUT,1:38.189,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,3,1,1,,72,SUIBaoKu,6416,CHN,1:29.919,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,3,2,3,,93,CONFORTOLAYuri,6561,ITA,1:30.031,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,3,3,4,,109,BlakeSKJELLERUP,6549,NZL,1:31.723,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,3,DQ,2,,76,ThibautFAUCONNET,6785,FRA,DQ,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,3,DQ,5,,95,JumpeiYOSHIZAWA,6577,JPN,DQ,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,4,1,2,,102,KWONKi-Deok,6931,KOR,1:35.884,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,4,2,3,,69,LEFRANCOIS-GAUVREAUMathieu,6924,CAN,1:35.929,Q
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,4,3,1,,94,DavideURBANI,6872,ITA,1:36.105,
+2003-2004,"2004 World Junior Championships, China",1000M,m,QuarterFinals,4,4,4,,83,PaulHERRMANN,6803,GER,1:36.241,

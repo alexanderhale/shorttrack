@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,501,CANADA,7312,CAN,4:12.568,Q
-0,2,1,,504,ITALY,7317,ITA,4:12.729,Q
-0,3,2,,503,FRANCE,7354,FRA,4:14.045,q
-1,1,1,,502,CHINA,7311,CHN,4:09.440,Q
-1,2,3,,508,RUSSIA,7315,RUS,4:09.532,Q
-1,3,2,,507,POLAND,7332,POL,4:17.766,
-2,1,3,,506,KOREA,7314,KOR,4:09.889,Q
-2,2,1,,509,UNITEDSTATES,7316,USA,4:12.502,Q
-2,3,2,,505,JAPAN,7304,JPN,4:15.085,q
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,1,1,3,,501,CANADA,7312,CAN,4:12.568,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,1,2,1,,504,ITALY,7317,ITA,4:12.729,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,1,3,2,,503,FRANCE,7354,FRA,4:14.045,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,2,1,1,,502,CHINA,7311,CHN,4:09.440,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,2,2,3,,508,RUSSIA,7315,RUS,4:09.532,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,2,3,2,,507,POLAND,7332,POL,4:17.766,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,3,1,3,,506,KOREA,7314,KOR,4:09.889,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,3,2,1,,509,UNITEDSTATES,7316,USA,4:12.502,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",3000mRelay,w,Heats,3,3,2,,505,JAPAN,7304,JPN,4:15.085,q

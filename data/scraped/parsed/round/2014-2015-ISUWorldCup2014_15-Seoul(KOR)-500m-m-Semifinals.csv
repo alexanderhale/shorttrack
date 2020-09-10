@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,156,SEOYiRa,7940,KOR,41.598,QA
-0,2,4,,162,KNEGTSjinkie,7352,NED,41.695,QA
-0,3,2,,116,SHIJingnan,7728,CHN,1:17.702,QB
-0,PEN,3,,129,ShaoangLIU,8564,HUN,PEN,
-1,1,2,,117,WUDajing,7729,CHN,41.573,QA
-1,2,1,,111,HAMELINCharles,6610,CAN,41.748,QA
-1,3,4,,165,FreekvanderWART,7269,NED,41.888,QB
-1,4,3,,128,ViktorKNOCH,6177,HUN,1:14.708,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,1,1,1,,156,SEOYiRa,7940,KOR,41.598,QA
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,1,2,4,,162,KNEGTSjinkie,7352,NED,41.695,QA
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,1,3,2,,116,SHIJingnan,7728,CHN,1:17.702,QB
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,1,PEN,3,,129,ShaoangLIU,8564,HUN,PEN,
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,2,1,2,,117,WUDajing,7729,CHN,41.573,QA
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,2,2,1,,111,HAMELINCharles,6610,CAN,41.748,QA
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,2,3,4,,165,FreekvanderWART,7269,NED,41.888,QB
+2014-2015,ISU World Cup 2014/15 - Seoul (KOR),500m,m,Semifinals,2,4,3,,128,ViktorKNOCH,6177,HUN,1:14.708,QB

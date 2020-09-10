@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,109,HAMELINCharles,6610,CAN,42.298,Q
-0,2,2,,140,SatoruTERAO,6320,JPN,42.455,Q
-0,3,3,,179,JPKEPKA,6501,USA,42.555,
-0,4,4,,135,PaulSTANLEY,7054,GBR,42.628,
-1,1,1,,108,FrancoisHAMELIN,6167,CAN,42.503,Q
-1,2,2,,116,HANJialiang,6168,CHN,42.553,Q
-1,3,4,,104,WimdeDEYNE,6699,BEL,42.612,
-1,4,3,,122,SergePLANCHER,6310,FRA,42.754,
-2,2,3,,137,PaulWORTH,6802,GBR,42.470,Q
-2,3,2,,168,EvgeniiKOZULIN,7272,RUS,42.919,
-2,4,4,,113,LIYe,6655,CHN,1:27.635,ADV
-2,DQ,5,,119,ThibautFAUCONNET,6785,FRA,DQ,
-3,1,1,,165,KWAKYoon-Gy,6120,KOR,42.205,Q
-3,2,2,,134,JonELEY,6592,GBR,42.407,Q
-3,3,3,,129,TysonHEUNG,6240,GER,42.502,
-3,4,4,,153,FreekvanderWART,7269,NED,42.577,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,1,1,1,,109,HAMELINCharles,6610,CAN,42.298,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,1,2,2,,140,SatoruTERAO,6320,JPN,42.455,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,1,3,3,,179,JPKEPKA,6501,USA,42.555,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,1,4,4,,135,PaulSTANLEY,7054,GBR,42.628,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,2,1,1,,108,FrancoisHAMELIN,6167,CAN,42.503,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,2,2,2,,116,HANJialiang,6168,CHN,42.553,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,2,3,4,,104,WimdeDEYNE,6699,BEL,42.612,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,2,4,3,,122,SergePLANCHER,6310,FRA,42.754,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,3,2,3,,137,PaulWORTH,6802,GBR,42.470,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,3,3,2,,168,EvgeniiKOZULIN,7272,RUS,42.919,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,3,4,4,,113,LIYe,6655,CHN,1:27.635,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,3,DQ,5,,119,ThibautFAUCONNET,6785,FRA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,4,1,1,,165,KWAKYoon-Gy,6120,KOR,42.205,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,4,2,2,,134,JonELEY,6592,GBR,42.407,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,4,3,3,,129,TysonHEUNG,6240,GER,42.502,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,Quarterfinals,4,4,4,,153,FreekvanderWART,7269,NED,42.577,

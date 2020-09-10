@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,62,PatrycjaMALISZEWSKA,6154,POL,44.439,Q
-0,2,3,,57,vanKERKHOFYara,7422,NED,44.490,
-0,3,2,,37,VIVIANIElena,7583,ITA,44.814,
-0,4,4,,74,SarahCHEN,7722,USA,45.765,
-0,5,5,,52,EvitaKRIEVANE,6833,LAT,46.249,
-1,1,1,,41,YuiSAKAI,6229,JPN,44.372,Q
-1,2,2,,1,JulieJUNG,7838,AUS,44.432,
-1,3,4,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.216,
-1,4,3,,68,LiaSTEPANOVA,6150,RUS,49.660,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,1,1,1,,62,PatrycjaMALISZEWSKA,6154,POL,44.439,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,1,2,3,,57,vanKERKHOFYara,7422,NED,44.490,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,1,3,2,,37,VIVIANIElena,7583,ITA,44.814,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,1,4,4,,74,SarahCHEN,7722,USA,45.765,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,1,5,5,,52,EvitaKRIEVANE,6833,LAT,46.249,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,2,1,1,,41,YuiSAKAI,6229,JPN,44.372,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,2,2,2,,1,JulieJUNG,7838,AUS,44.432,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,2,3,4,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.216,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(1),w,RepSemifinals,2,4,3,,68,LiaSTEPANOVA,6150,RUS,49.660,

@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,31,FUTianYu,6650,CHN,44.267,QA
-0,2,2,,3,TatianaBORODULINA,6684,AUS,44.421,QA
-0,3,3,,101,SHINSae-Bom,7162,KOR,44.466,QB
-0,4,4,,124,EkaterinaBELOVA,6190,RUS,56.022,QB
-1,2,3,,38,ZHAONannan,7150,CHN,43.795,QA
-1,3,2,,12,EvgeniaRADANOVA,6775,BUL,43.828,QB
-1,4,4,,100,PARKSeung-Hi,7164,KOR,44.149,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,1,1,1,,31,FUTianYu,6650,CHN,44.267,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,1,2,2,,3,TatianaBORODULINA,6684,AUS,44.421,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,1,3,3,,101,SHINSae-Bom,7162,KOR,44.466,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,1,4,4,,124,EkaterinaBELOVA,6190,RUS,56.022,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,2,2,3,,38,ZHAONannan,7150,CHN,43.795,QA
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,2,3,2,,12,EvgeniaRADANOVA,6775,BUL,43.828,QB
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(1),w,Semifinals,2,4,4,,100,PARKSeung-Hi,7164,KOR,44.149,QB

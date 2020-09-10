@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1018,LIUXiaoLiang,6233,CHN,44.719,Q
-0,2,4,,1019,SUIBaoKu,6416,CHN,45.063,Q
-0,3,2,,1009,AssenPANDOV,6778,BUL,45.738,ADV
-0,DQ,3,,1022,WEIJiguang,7155,CHN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepFinalA,1,1,1,,1018,LIUXiaoLiang,6233,CHN,44.719,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepFinalA,1,2,4,,1019,SUIBaoKu,6416,CHN,45.063,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepFinalA,1,3,2,,1009,AssenPANDOV,6778,BUL,45.738,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),m,RepFinalA,1,DQ,3,,1022,WEIJiguang,7155,CHN,DQ,

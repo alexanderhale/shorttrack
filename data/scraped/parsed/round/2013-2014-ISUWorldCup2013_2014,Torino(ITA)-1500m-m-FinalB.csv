@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,208,VictorAN,8344,RUS,2:33.150,
-0,2,4,,137,ThibautFAUCONNET,6785,FRA,2:33.612,
-0,3,6,,157,ViktorKNOCH,6177,HUN,2:33.673,
-0,4,5,,196,NielsKERSTHOLT,7067,NED,2:33.812,
-0,PEN,2,,121,MichaelGILDAY,6195,CAN,PEN,
-0,PEN,1,,190,SINdaWoon,8035,KOR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,1,3,,208,VictorAN,8344,RUS,2:33.150,
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,2,4,,137,ThibautFAUCONNET,6785,FRA,2:33.612,
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,3,6,,157,ViktorKNOCH,6177,HUN,2:33.673,
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,4,5,,196,NielsKERSTHOLT,7067,NED,2:33.812,
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,PEN,2,,121,MichaelGILDAY,6195,CAN,PEN,
+2013-2014,"ISU World Cup 2013/2014, Torino (ITA)",1500m,m,FinalB,1,PEN,1,,190,SINdaWoon,8035,KOR,PEN,

@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,15,ValerieMALTAIS,6216,CAN,2:40.893,
-0,2,2,,1,DeannaLOCKETT,7956,AUS,2:40.981,
-0,3,6,,12,GeneveBELANGER,8359,CAN,2:40.994,
-0,4,4,,41,BernadettHEIDUM,6798,HUN,2:41.113,
-0,5,5,,16,AudreyPHANEUF,8360,CAN,2:41.363,
-0,6,3,,51,KIKUCHISumire,7980,JPN,2:42.207,
-0,7,1,,20,GUOYihan,8364,CHN,3:16.674,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,1,7,,15,ValerieMALTAIS,6216,CAN,2:40.893,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,2,2,,1,DeannaLOCKETT,7956,AUS,2:40.981,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,3,6,,12,GeneveBELANGER,8359,CAN,2:40.994,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,4,4,,41,BernadettHEIDUM,6798,HUN,2:41.113,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,5,5,,16,AudreyPHANEUF,8360,CAN,2:41.363,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,6,3,,51,KIKUCHISumire,7980,JPN,2:42.207,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),1500m(1),w,FinalB,1,7,1,,20,GUOYihan,8364,CHN,3:16.674,

@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,151,NielsKERSTHOLT,7067,NED,1:31.794,Q
-0,2,2,,143,ShotaroTANAKA,7347,JPN,1:31.903,Q
-0,3,4,,135,ClaudioRINALDI,7261,ITA,1:32.193,q
-0,4,3,,119,JeremyMASSON,6173,FRA,1:32.201,
-1,1,1,,179,TravisJAYNER,6300,USA,1:36.807,Q
-1,2,3,,155,FreekvanderWART,7269,NED,1:37.164,Q
-1,3,2,,137,RobertoSERRA,6463,ITA,1:37.238,
-1,4,4,,120,BenoitANTERIEUX,6193,FRA,1:37.906,
-2,1,1,,129,TomIVESON,6898,GBR,1:35.451,Q
-2,2,4,,112,LIUXiaoLiang,6233,CHN,1:35.466,Q
-2,3,3,,154,IngmarvanRIEL,6186,NED,1:35.587,q
-2,4,2,,125,RobertBECKER,7258,GER,1:35.599,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,1,1,1,,151,NielsKERSTHOLT,7067,NED,1:31.794,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,1,2,2,,143,ShotaroTANAKA,7347,JPN,1:31.903,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,1,3,4,,135,ClaudioRINALDI,7261,ITA,1:32.193,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,1,4,3,,119,JeremyMASSON,6173,FRA,1:32.201,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,2,1,1,,179,TravisJAYNER,6300,USA,1:36.807,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,2,2,3,,155,FreekvanderWART,7269,NED,1:37.164,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,2,3,2,,137,RobertoSERRA,6463,ITA,1:37.238,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,2,4,4,,120,BenoitANTERIEUX,6193,FRA,1:37.906,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,3,1,1,,129,TomIVESON,6898,GBR,1:35.451,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,3,2,4,,112,LIUXiaoLiang,6233,CHN,1:35.466,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,3,3,3,,154,IngmarvanRIEL,6186,NED,1:35.587,q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1000m(1),m,RepQuarterfinals,3,4,2,,125,RobertBECKER,7258,GER,1:35.599,

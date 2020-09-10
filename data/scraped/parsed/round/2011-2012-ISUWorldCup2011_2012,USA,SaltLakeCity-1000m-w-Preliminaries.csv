@@ -1,37 +1,37 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,340,AyukoITO,6791,JPN,1:33.070,Q
-0,2,4,,348,CHOHa-Ri,7028,KOR,1:33.157,Q
-0,3,1,,312,CarolineTRUCHON,7908,CAN,1:33.843,q
-0,4,3,,337,VALCEPINAArianna,7705,ITA,1:35.071,
-1,1,3,,315,LIJianrou,7910,CHN,1:36.723,Q
-1,2,4,,354,AnnitavanDOORN,6440,NED,1:37.056,Q
-1,3,2,,360,EkaterinaBARANOK,7822,RUS,1:44.744,ADV
-1,PEN,1,,301,JulieJUNG,7838,AUS,PEN,
-2,1,3,,353,JorienterMORS,6146,NED,1:33.983,Q
-2,2,4,,367,AlysonDUDEK,7290,USA,1:34.070,Q
-2,3,1,,326,CharlotteGILMARTIN,7136,GBR,1:34.388,q
-2,4,2,,322,ElisaLENKE,7124,GER,1:34.732,
-3,1,1,,361,OlgaBELYAKOVA,7112,RUS,1:31.859,Q
-3,2,3,,316,LIUQiuhong,6286,CHN,1:32.016,Q
-3,2,4,,324,WALTERBianca,7232,GER,1:32.016,Q
-3,4,5,,366,SarahCHEN,7722,USA,1:32.439,
-3,5,2,,329,ZsuzsannaKERCSOMAGOS,8034,HUN,1:38.360,
-4,1,3,,311,MarianneST-GELAIS,7216,CAN,1:35.711,Q
-4,2,5,,314,FANKexin,7694,CHN,1:35.792,Q
-4,3,4,,339,VIVIANIElena,7583,ITA,1:36.074,q
-4,4,2,,358,PatrycjaMALISZEWSKA,6154,POL,1:36.589,
-4,5,1,,331,KONYAZsofia,7701,HUN,1:36.684,
-5,1,4,,325,CHRISTIEElise,7135,GBR,1:35.682,Q
-5,2,2,,328,BernadettHEIDUM,6798,HUN,1:35.996,Q
-5,3,1,,364,YuliaKICHAPOVA,7714,RUS,1:36.117,q
-5,4,5,,320,KaterinaNOVOTNA,6647,CZE,1:36.120,
-5,5,3,,347,DariyaVOLOKITINA,7344,KAZ,1:37.335,
-6,1,2,,368,LanaGEHRING,7254,USA,1:36.624,Q
-6,2,4,,338,VALCEPINAMartina,7159,ITA,1:36.717,Q
-6,3,3,,344,SayuriSHIMIZU,7544,JPN,1:36.819,
-6,4,1,,357,AidaBELLA,7538,POL,1:36.953,
-6,5,5,,306,KristinaVUTEVA,6060,BUL,1:40.653,
-7,2,1,,321,PIERRONVeronique,6196,FRA,1:33.902,Q
-7,3,5,,313,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,1:37.111,ADV
-7,4,4,,305,GerganaPATSOVA,6794,BUL,1:37.307,
-7,PEN,2,,352,SONSoo-Min,7420,KOR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,1,1,2,,340,AyukoITO,6791,JPN,1:33.070,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,1,2,4,,348,CHOHa-Ri,7028,KOR,1:33.157,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,1,3,1,,312,CarolineTRUCHON,7908,CAN,1:33.843,q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,1,4,3,,337,VALCEPINAArianna,7705,ITA,1:35.071,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,2,1,3,,315,LIJianrou,7910,CHN,1:36.723,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,2,2,4,,354,AnnitavanDOORN,6440,NED,1:37.056,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,2,3,2,,360,EkaterinaBARANOK,7822,RUS,1:44.744,ADV
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,2,PEN,1,,301,JulieJUNG,7838,AUS,PEN,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,3,1,3,,353,JorienterMORS,6146,NED,1:33.983,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,3,2,4,,367,AlysonDUDEK,7290,USA,1:34.070,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,3,3,1,,326,CharlotteGILMARTIN,7136,GBR,1:34.388,q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,3,4,2,,322,ElisaLENKE,7124,GER,1:34.732,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,4,1,1,,361,OlgaBELYAKOVA,7112,RUS,1:31.859,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,4,2,3,,316,LIUQiuhong,6286,CHN,1:32.016,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,4,2,4,,324,WALTERBianca,7232,GER,1:32.016,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,4,4,5,,366,SarahCHEN,7722,USA,1:32.439,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,4,5,2,,329,ZsuzsannaKERCSOMAGOS,8034,HUN,1:38.360,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,5,1,3,,311,MarianneST-GELAIS,7216,CAN,1:35.711,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,5,2,5,,314,FANKexin,7694,CHN,1:35.792,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,5,3,4,,339,VIVIANIElena,7583,ITA,1:36.074,q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,5,4,2,,358,PatrycjaMALISZEWSKA,6154,POL,1:36.589,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,5,5,1,,331,KONYAZsofia,7701,HUN,1:36.684,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,6,1,4,,325,CHRISTIEElise,7135,GBR,1:35.682,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,6,2,2,,328,BernadettHEIDUM,6798,HUN,1:35.996,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,6,3,1,,364,YuliaKICHAPOVA,7714,RUS,1:36.117,q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,6,4,5,,320,KaterinaNOVOTNA,6647,CZE,1:36.120,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,6,5,3,,347,DariyaVOLOKITINA,7344,KAZ,1:37.335,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,7,1,2,,368,LanaGEHRING,7254,USA,1:36.624,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,7,2,4,,338,VALCEPINAMartina,7159,ITA,1:36.717,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,7,3,3,,344,SayuriSHIMIZU,7544,JPN,1:36.819,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,7,4,1,,357,AidaBELLA,7538,POL,1:36.953,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,7,5,5,,306,KristinaVUTEVA,6060,BUL,1:40.653,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,8,2,1,,321,PIERRONVeronique,6196,FRA,1:33.902,Q
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,8,3,5,,313,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,1:37.111,ADV
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,8,4,4,,305,GerganaPATSOVA,6794,BUL,1:37.307,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",1000m,w,Preliminaries,8,PEN,2,,352,SONSoo-Min,7420,KOR,PEN,

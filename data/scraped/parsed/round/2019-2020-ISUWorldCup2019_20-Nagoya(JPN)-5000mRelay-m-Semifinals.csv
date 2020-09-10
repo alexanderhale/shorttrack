@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,307,CHINA,9022,CHN,7:00.170,QA
-0,2,1,,321,KAZAKHSTAN,9025,KAZ,7:00.842,QA
-0,3,2,,327,NETHERLANDS,9027,NED,7:05.900,QB
-0,PEN,3,,304,CANADA,9016,CAN,PEN,
-1,2,1,,325,KOREA,9026,KOR,7:00.429,QA
-1,3,4,,319,JAPAN,9024,JPN,7:00.632,QB
-1,4,2,,314,HUNGARY,9021,HUN,7:01.001,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,1,1,4,,307,CHINA,9022,CHN,7:00.170,QA
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,1,2,1,,321,KAZAKHSTAN,9025,KAZ,7:00.842,QA
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,1,3,2,,327,NETHERLANDS,9027,NED,7:05.900,QB
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,1,PEN,3,,304,CANADA,9016,CAN,PEN,
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,2,2,1,,325,KOREA,9026,KOR,7:00.429,QA
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,2,3,4,,319,JAPAN,9024,JPN,7:00.632,QB
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Semifinals,2,4,2,,314,HUNGARY,9021,HUN,7:01.001,QB

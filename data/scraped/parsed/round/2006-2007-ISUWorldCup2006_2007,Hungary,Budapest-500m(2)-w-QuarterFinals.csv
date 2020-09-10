@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,3,EvgeniaRADANOVA,6775,BUL,44.704,Q
-0,3,3,,24,SarahLINDSAY,6056,GBR,44.904,
-0,4,4,,10,NitaAVRITH,6304,CAN,45.822,
-0,5,5,,38,MaraZINI,6326,ITA,46.141,
-1,1,1,,40,JEONJi-Soo,6232,KOR,44.260,Q
-1,2,2,,14,FUTianYu,6650,CHN,44.351,Q
-1,3,3,,8,JessicaGREGG,6141,CAN,44.565,
-1,4,4,,25,SusanneRUDOLPH,6362,GER,45.776,
-2,1,2,,5,KalynaROBERGE,6284,CAN,44.649,Q
-2,2,1,,35,AriannaFONTANA,6227,ITA,44.737,Q
-2,3,3,,21,KaterinaNOVOTNA,6647,CZE,45.520,
-2,4,4,,28,WALTERBianca,7232,GER,47.500,
-3,1,1,,29,ErikaHUSZAR,6373,HUN,45.307,Q
-3,2,2,,39,KIMMin-Jung,6831,KOR,45.404,Q
-3,3,3,,44,EvitaKRIEVANE,6833,LAT,46.058,
-3,4,4,,59,CheriseWILKINS,7291,USA,46.655,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,1,2,2,,3,EvgeniaRADANOVA,6775,BUL,44.704,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,1,3,3,,24,SarahLINDSAY,6056,GBR,44.904,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,1,4,4,,10,NitaAVRITH,6304,CAN,45.822,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,1,5,5,,38,MaraZINI,6326,ITA,46.141,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,2,1,1,,40,JEONJi-Soo,6232,KOR,44.260,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,2,2,2,,14,FUTianYu,6650,CHN,44.351,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,2,3,3,,8,JessicaGREGG,6141,CAN,44.565,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,2,4,4,,25,SusanneRUDOLPH,6362,GER,45.776,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,3,1,2,,5,KalynaROBERGE,6284,CAN,44.649,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,3,2,1,,35,AriannaFONTANA,6227,ITA,44.737,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,3,3,3,,21,KaterinaNOVOTNA,6647,CZE,45.520,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,3,4,4,,28,WALTERBianca,7232,GER,47.500,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,4,1,1,,29,ErikaHUSZAR,6373,HUN,45.307,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,4,2,2,,39,KIMMin-Jung,6831,KOR,45.404,Q
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,4,3,3,,44,EvitaKRIEVANE,6833,LAT,46.058,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),w,QuarterFinals,4,4,4,,59,CheriseWILKINS,7291,USA,46.655,

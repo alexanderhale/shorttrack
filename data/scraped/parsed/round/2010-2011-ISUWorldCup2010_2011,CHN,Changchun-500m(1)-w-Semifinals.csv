@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,14,ZHAONannan,7150,CHN,44.501,QA
-0,2,3,,51,YANGShin-Young,7163,KOR,45.261,QA
-0,3,4,,58,LanaGEHRING,7254,USA,45.288,QB
-0,PEN,2,,26,YuiSAKAI,6229,JPN,PEN,
-1,1,2,,11,LIUQiuhong,6286,CHN,44.369,QA
-1,2,1,,12,FANKexin,7694,CHN,44.442,QA
-1,3,4,,60,AlysonDUDEK,7290,USA,44.496,QB
-1,4,3,,29,AyukoITO,6791,JPN,44.637,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,1,1,1,,14,ZHAONannan,7150,CHN,44.501,QA
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,1,2,3,,51,YANGShin-Young,7163,KOR,45.261,QA
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,1,3,4,,58,LanaGEHRING,7254,USA,45.288,QB
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,1,PEN,2,,26,YuiSAKAI,6229,JPN,PEN,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,2,1,2,,11,LIUQiuhong,6286,CHN,44.369,QA
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,2,2,1,,12,FANKexin,7694,CHN,44.442,QA
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,2,3,4,,60,AlysonDUDEK,7290,USA,44.496,QB
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",500m(1),w,Semifinals,2,4,3,,29,AyukoITO,6791,JPN,44.637,QB

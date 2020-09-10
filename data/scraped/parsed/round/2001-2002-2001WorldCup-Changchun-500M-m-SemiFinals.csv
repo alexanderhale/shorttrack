@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,1,,,MaurizioCARNINO,6333,ITA,43.284,
-0,3,4,,,MINRyoung,6619,KOR,43.313,
-0,4,5,,,SatoruTERAO,6320,JPN,43.755,
-0,5,2,,,ANYulong,6656,CHN,43.949,
-1,1,4,,,TakafumiNISHITANI,6323,JPN,44.252,
-1,2,2,,,LIJiajun,7095,CHN,44.367,
-1,3,1,,,NicolaFRANCESCHINA,6331,ITA,44.741,
-1,4,3,,,LEESeung-Jae,6621,KOR,45.509,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,1,2,1,,,MaurizioCARNINO,6333,ITA,43.284,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,1,3,4,,,MINRyoung,6619,KOR,43.313,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,1,4,5,,,SatoruTERAO,6320,JPN,43.755,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,1,5,2,,,ANYulong,6656,CHN,43.949,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,2,1,4,,,TakafumiNISHITANI,6323,JPN,44.252,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,2,2,2,,,LIJiajun,7095,CHN,44.367,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,2,3,1,,,NicolaFRANCESCHINA,6331,ITA,44.741,
+2001-2002,2001 World Cup - Changchun,500M,m,SemiFinals,2,4,3,,,LEESeung-Jae,6621,KOR,45.509,

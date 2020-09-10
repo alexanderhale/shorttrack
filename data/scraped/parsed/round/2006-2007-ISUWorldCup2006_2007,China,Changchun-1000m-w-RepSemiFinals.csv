@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,706,KalynaROBERGE,6284,CAN,1:35.715,Q
-0,2,4,,747,KimberlyDERRICK,6246,USA,1:35.771,Q
-0,3,3,,719,ChristinPRIEBST,6078,GER,1:35.851,
-0,4,2,,752,AlysonDUDEK,7290,USA,1:36.135,
-1,1,1,,724,KatiaZINI,6076,ITA,1:37.306,Q
-1,2,4,,749,KatherineREUTTER-ADAMEK,7255,USA,1:37.558,Q
-1,3,3,,701,VeronikaWINDISCH,6427,AUT,1:38.469,
-1,4,2,,718,SusanneRUDOLPH,6362,GER,1:38.563,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,1,1,1,,706,KalynaROBERGE,6284,CAN,1:35.715,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,1,2,4,,747,KimberlyDERRICK,6246,USA,1:35.771,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,1,3,3,,719,ChristinPRIEBST,6078,GER,1:35.851,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,1,4,2,,752,AlysonDUDEK,7290,USA,1:36.135,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,2,1,1,,724,KatiaZINI,6076,ITA,1:37.306,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,2,2,4,,749,KatherineREUTTER-ADAMEK,7255,USA,1:37.558,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,2,3,3,,701,VeronikaWINDISCH,6427,AUT,1:38.469,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1000m,w,RepSemiFinals,2,4,2,,718,SusanneRUDOLPH,6362,GER,1:38.563,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,18,LEPAPESebastien,7554,FRA,41.291,Q
-0,2,4,,60,HironobuMURATAKE,8671,JPN,41.496,
-0,3,3,,155,KAUFMANN-LUDWIGLeon,8391,GER,42.449,
-0,4,1,,171,BartoszKONOPKO,7169,POL,1:05.663,
-1,1,3,,57,CHENGuang,8387,CHN,42.268,Q
-1,2,2,,141,AdwinSNELLINK,7935,NED,42.332,
-1,3,4,,54,ColeKRUEGER,7762,USA,42.461,
-1,4,1,,48,ShaoangLIU,8564,HUN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,1,1,2,,18,LEPAPESebastien,7554,FRA,41.291,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,1,2,4,,60,HironobuMURATAKE,8671,JPN,41.496,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,1,3,3,,155,KAUFMANN-LUDWIGLeon,8391,GER,42.449,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,1,4,1,,171,BartoszKONOPKO,7169,POL,1:05.663,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,2,1,3,,57,CHENGuang,8387,CHN,42.268,Q
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,2,2,2,,141,AdwinSNELLINK,7935,NED,42.332,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,2,3,4,,54,ColeKRUEGER,7762,USA,42.461,
+2015-2016,ISU World Cup 2015/16 - Nagoya (JPN),500m(2),m,Rep.Semifinals,2,4,1,,48,ShaoangLIU,8564,HUN,notime,

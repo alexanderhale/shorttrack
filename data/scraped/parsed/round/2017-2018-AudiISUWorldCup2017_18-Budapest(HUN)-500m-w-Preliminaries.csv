@@ -1,70 +1,70 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,13,PROSVIRNOVASofia,8509,RUS,45.281,Q
-0,2,4,,135,BINEYMaame,9144,USA,45.390,Q
-0,3,3,,67,QUChunyu,8071,CHN,45.400,q
-0,4,1,,76,MariyaIZAFATAVA,8651,BLR,46.822,
-0,5,2,,117,EvelienvanKERCKVOORDE,9216,BEL,47.902,
-1,1,3,,2,MarianneST-GELAIS,7216,CAN,44.580,Q
-1,2,2,,52,KONYAZsofia,7701,HUN,45.232,Q
-1,3,5,,25,DESMETHanne,8699,BEL,46.321,
-1,4,1,,143,ASCICValentina,8603,CRO,46.548,
-1,5,4,,71,YuliaSHISHKINA,8680,RUS,1:08.731,
-2,1,1,,5,FANKexin,7694,CHN,44.091,Q
-2,2,5,,35,LuciaPERETTI,7160,ITA,44.225,Q
-2,3,2,,89,KIKUCHIYuki,8669,JPN,45.755,
-2,4,3,,36,SEJPALOVA-HRUZOVAMichaela,8553,CZE,46.496,
-2,5,4,,17,AnnaSEIDEL,8562,GER,1:11.127,
-3,1,1,,6,CHOIMinJeong,8625,KOR,44.399,Q
-3,2,5,,7,SCHULTINGSuzanne,8493,NED,44.465,Q
-3,3,4,,51,KAMINAGAShione,8743,JPN,44.991,q
-3,4,3,,130,PatrycjaMALISZEWSKA,6154,POL,45.230,
-3,5,2,,112,PENCHEVAZornica,8461,BUL,46.849,
-4,1,5,,28,MALISZEWSKANatalia,8437,POL,44.839,Q
-4,2,2,,72,SANTOSKristen,8527,USA,45.569,Q
-4,3,4,,38,AgneSEREIKAITE,7708,LTU,45.825,
-4,4,1,,33,MANOILOVAKatrin,8539,BUL,46.759,
-4,5,3,,104,MYKHALCHUKDiana,7426,UKR,48.892,
-5,1,3,,9,AriannaFONTANA,6227,ITA,44.484,Q
-5,2,1,,27,KIKUCHISumire,7980,JPN,44.527,Q
-5,3,5,,118,DANNEELAlexandra,9320,BEL,47.678,
-5,4,4,,131,RenataSZOCS,7988,ROU,47.849,
-5,5,2,,46,CheyenneGOH,9291,SGP,48.745,
-6,1,3,,54,vanRUIJVENLara,7710,NED,44.422,Q
-6,2,4,,44,CharlotteGILMARTIN,7136,GBR,44.804,Q
-6,3,5,,127,AsselTAISHMANOVA,9259,KAZ,48.135,
-6,4,1,,41,LINYu-Tzu,8087,TPE,49.729,
-6,5,2,,92,HannaIZAFATAVA,8663,BLR,1:05.841,
-7,1,3,,138,VALCEPINAMartina,7159,ITA,44.866,Q
-7,2,4,,78,SelmaPOUTSMA,9004,FRA,45.089,Q
-7,3,1,,109,AnjaCHONG,8064,MAS,47.838,
-7,PEN,2,,20,WALTERBianca,7232,GER,PEN,
-8,1,2,,1,CHRISTIEElise,7135,GBR,44.050,Q
-8,2,3,,14,ZANGYize,8725,CHN,44.878,Q
-8,3,4,,34,AnastassiyaKRESTOVA,7981,KAZ,45.000,q
-8,4,1,,45,BURICKatarina,8550,CRO,48.424,
-8,5,5,,100,TundeBALAZS,7883,ROU,48.489,
-9,1,5,,3,SHIMSukHee,8092,KOR,45.069,Q
-9,2,3,,11,PetraJASZAPATI,8611,HUN,45.357,Q
-9,3,1,,18,DeannaLOCKETT,7956,AUS,45.428,q
-9,4,4,,19,HUOTMARCHANDTifany,7976,FRA,46.526,
-9,5,2,,108,RanyaEZZI,6840,SWE,47.956,
-10,1,3,,21,vanKERKHOFYara,7422,NED,44.352,Q
-10,2,1,,29,AndreaKESZLER,7147,HUN,44.433,Q
-10,3,2,,40,ErikaLINDGREN,9210,SWE,45.481,q
-10,4,5,,37,AlicaPORUBSKA,8514,SVK,46.923,
-10,5,4,,142,IVANDICMaja,9233,CRO,51.566,
-11,1,2,,26,PIERRONVeronique,6196,FRA,45.694,Q
-11,2,1,,31,MagdalenaWARAKOMSKA,8502,POL,45.901,Q
-11,3,4,,42,VeraTRYBUL,9161,BLR,46.991,
-11,4,3,,90,DOLGOPOLOVAMariya,8096,UKR,47.505,
-11,5,5,,32,KaterinaNOVOTNA,6647,CZE,48.951,
-12,1,3,,59,JamieMACDONALD,8997,CAN,44.635,Q
-12,2,2,,30,THOMSONKathryn,8465,GBR,44.921,Q
-12,3,4,,121,TinaGRASSOW,6855,GER,45.680,q
-12,4,1,,133,KimberlyGOETZ,8649,USA,46.200,ADV
-12,PEN,5,,64,IongAKIM,9192,KAZ,PEN,
-13,1,3,,61,KasandraBRADETTE,8058,CAN,45.149,Q
-13,2,2,,128,KIMAlang,8484,KOR,45.214,Q
-13,3,4,,66,TatianaBORODULINA,7483,RUS,45.290,q
-13,4,1,,77,MichaelaKUNCIROVA,8552,CZE,45.435,
-13,5,5,,43,UZAKOVAMariia-Mahdalyna,8759,UKR,48.387,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,1,1,5,,13,PROSVIRNOVASofia,8509,RUS,45.281,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,1,2,4,,135,BINEYMaame,9144,USA,45.390,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,1,3,3,,67,QUChunyu,8071,CHN,45.400,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,1,4,1,,76,MariyaIZAFATAVA,8651,BLR,46.822,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,1,5,2,,117,EvelienvanKERCKVOORDE,9216,BEL,47.902,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,2,1,3,,2,MarianneST-GELAIS,7216,CAN,44.580,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,2,2,2,,52,KONYAZsofia,7701,HUN,45.232,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,2,3,5,,25,DESMETHanne,8699,BEL,46.321,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,2,4,1,,143,ASCICValentina,8603,CRO,46.548,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,2,5,4,,71,YuliaSHISHKINA,8680,RUS,1:08.731,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,3,1,1,,5,FANKexin,7694,CHN,44.091,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,3,2,5,,35,LuciaPERETTI,7160,ITA,44.225,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,3,3,2,,89,KIKUCHIYuki,8669,JPN,45.755,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,3,4,3,,36,SEJPALOVA-HRUZOVAMichaela,8553,CZE,46.496,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,3,5,4,,17,AnnaSEIDEL,8562,GER,1:11.127,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,4,1,1,,6,CHOIMinJeong,8625,KOR,44.399,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,4,2,5,,7,SCHULTINGSuzanne,8493,NED,44.465,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,4,3,4,,51,KAMINAGAShione,8743,JPN,44.991,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,4,4,3,,130,PatrycjaMALISZEWSKA,6154,POL,45.230,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,4,5,2,,112,PENCHEVAZornica,8461,BUL,46.849,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,5,1,5,,28,MALISZEWSKANatalia,8437,POL,44.839,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,5,2,2,,72,SANTOSKristen,8527,USA,45.569,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,5,3,4,,38,AgneSEREIKAITE,7708,LTU,45.825,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,5,4,1,,33,MANOILOVAKatrin,8539,BUL,46.759,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,5,5,3,,104,MYKHALCHUKDiana,7426,UKR,48.892,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,6,1,3,,9,AriannaFONTANA,6227,ITA,44.484,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,6,2,1,,27,KIKUCHISumire,7980,JPN,44.527,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,6,3,5,,118,DANNEELAlexandra,9320,BEL,47.678,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,6,4,4,,131,RenataSZOCS,7988,ROU,47.849,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,6,5,2,,46,CheyenneGOH,9291,SGP,48.745,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,7,1,3,,54,vanRUIJVENLara,7710,NED,44.422,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,7,2,4,,44,CharlotteGILMARTIN,7136,GBR,44.804,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,7,3,5,,127,AsselTAISHMANOVA,9259,KAZ,48.135,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,7,4,1,,41,LINYu-Tzu,8087,TPE,49.729,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,7,5,2,,92,HannaIZAFATAVA,8663,BLR,1:05.841,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,8,1,3,,138,VALCEPINAMartina,7159,ITA,44.866,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,8,2,4,,78,SelmaPOUTSMA,9004,FRA,45.089,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,8,3,1,,109,AnjaCHONG,8064,MAS,47.838,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,8,PEN,2,,20,WALTERBianca,7232,GER,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,9,1,2,,1,CHRISTIEElise,7135,GBR,44.050,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,9,2,3,,14,ZANGYize,8725,CHN,44.878,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,9,3,4,,34,AnastassiyaKRESTOVA,7981,KAZ,45.000,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,9,4,1,,45,BURICKatarina,8550,CRO,48.424,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,9,5,5,,100,TundeBALAZS,7883,ROU,48.489,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,10,1,5,,3,SHIMSukHee,8092,KOR,45.069,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,10,2,3,,11,PetraJASZAPATI,8611,HUN,45.357,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,10,3,1,,18,DeannaLOCKETT,7956,AUS,45.428,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,10,4,4,,19,HUOTMARCHANDTifany,7976,FRA,46.526,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,10,5,2,,108,RanyaEZZI,6840,SWE,47.956,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,11,1,3,,21,vanKERKHOFYara,7422,NED,44.352,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,11,2,1,,29,AndreaKESZLER,7147,HUN,44.433,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,11,3,2,,40,ErikaLINDGREN,9210,SWE,45.481,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,11,4,5,,37,AlicaPORUBSKA,8514,SVK,46.923,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,11,5,4,,142,IVANDICMaja,9233,CRO,51.566,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,12,1,2,,26,PIERRONVeronique,6196,FRA,45.694,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,12,2,1,,31,MagdalenaWARAKOMSKA,8502,POL,45.901,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,12,3,4,,42,VeraTRYBUL,9161,BLR,46.991,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,12,4,3,,90,DOLGOPOLOVAMariya,8096,UKR,47.505,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,12,5,5,,32,KaterinaNOVOTNA,6647,CZE,48.951,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,13,1,3,,59,JamieMACDONALD,8997,CAN,44.635,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,13,2,2,,30,THOMSONKathryn,8465,GBR,44.921,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,13,3,4,,121,TinaGRASSOW,6855,GER,45.680,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,13,4,1,,133,KimberlyGOETZ,8649,USA,46.200,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,13,PEN,5,,64,IongAKIM,9192,KAZ,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,14,1,3,,61,KasandraBRADETTE,8058,CAN,45.149,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,14,2,2,,128,KIMAlang,8484,KOR,45.214,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,14,3,4,,66,TatianaBORODULINA,7483,RUS,45.290,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,14,4,1,,77,MichaelaKUNCIROVA,8552,CZE,45.435,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),500m,w,Preliminaries,14,5,5,,43,UZAKOVAMariia-Mahdalyna,8759,UKR,48.387,

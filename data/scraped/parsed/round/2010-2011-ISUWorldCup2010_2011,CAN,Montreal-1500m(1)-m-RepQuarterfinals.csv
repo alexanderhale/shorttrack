@@ -1,19 +1,19 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,120,LEPAPESebastien,7554,FRA,2:24.390,Q
-0,3,5,,142,WATANABEKeita,7605,JPN,2:24.462,Q
-0,4,4,,121,PaulHERRMANN,6803,GER,2:24.595,
-0,5,1,,127,PaulSTANLEY,7054,GBR,2:25.007,
-1,1,3,,156,KoenHAKKENBERG,7610,NED,2:22.160,Q
-1,2,4,,151,SAULITISJekabs,7267,LAT,2:22.241,Q
-1,3,1,,119,JeremyMASSON,6173,FRA,2:22.386,Q
-1,4,2,,175,DmytroPOLTAVETS,7221,UKR,2:22.461,
-1,5,5,,147,AzamatNURMAGAMBETOV,7350,KAZ,2:28.622,
-2,1,5,,113,YUYongjun,7824,CHN,2:17.768,Q
-2,2,1,,136,NicolaRODIGARI,6332,ITA,2:17.825,Q
-2,3,2,,153,NielsKERSTHOLT,7067,NED,2:17.940,Q
-2,4,4,,149,FedorANDREYEV,7745,KAZ,2:18.107,
-2,5,3,,177,SerhiyLIFYRENKO,6826,UKR,2:19.847,
-3,1,4,,135,EdoardoREGGIANI,7161,ITA,2:35.566,Q
-3,2,1,,123,RobertBECKER,7258,GER,2:35.672,Q
-3,3,2,,159,BartoszKONOPKO,7169,POL,2:35.852,Q
-3,4,3,,148,AZHGALIYEVAbzal,7685,KAZ,2:36.451,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,1,2,3,,120,LEPAPESebastien,7554,FRA,2:24.390,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,1,3,5,,142,WATANABEKeita,7605,JPN,2:24.462,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,1,4,4,,121,PaulHERRMANN,6803,GER,2:24.595,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,1,5,1,,127,PaulSTANLEY,7054,GBR,2:25.007,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,2,1,3,,156,KoenHAKKENBERG,7610,NED,2:22.160,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,2,2,4,,151,SAULITISJekabs,7267,LAT,2:22.241,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,2,3,1,,119,JeremyMASSON,6173,FRA,2:22.386,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,2,4,2,,175,DmytroPOLTAVETS,7221,UKR,2:22.461,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,2,5,5,,147,AzamatNURMAGAMBETOV,7350,KAZ,2:28.622,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,3,1,5,,113,YUYongjun,7824,CHN,2:17.768,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,3,2,1,,136,NicolaRODIGARI,6332,ITA,2:17.825,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,3,3,2,,153,NielsKERSTHOLT,7067,NED,2:17.940,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,3,4,4,,149,FedorANDREYEV,7745,KAZ,2:18.107,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,3,5,3,,177,SerhiyLIFYRENKO,6826,UKR,2:19.847,
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,4,1,4,,135,EdoardoREGGIANI,7161,ITA,2:35.566,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,4,2,1,,123,RobertBECKER,7258,GER,2:35.672,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,4,3,2,,159,BartoszKONOPKO,7169,POL,2:35.852,Q
+2010-2011,"ISU World Cup 2010/2011, CAN, Montreal",1500m(1),m,RepQuarterfinals,4,4,3,,148,AZHGALIYEVAbzal,7685,KAZ,2:36.451,

@@ -1,49 +1,49 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,818,SebastianPRAUS,6364,GER,1:28.947,Q
-0,2,4,,845,SatoruTERAO,6320,JPN,1:28.966,Q
-0,3,5,,833,NicolasBEAN,7541,ITA,1:29.289,q
-0,4,2,,852,AndreySMETANIN,6459,KAZ,1:51.293,
-0,DQ,1,,880,DariuszKULESZA,6817,POL,DQ,
-1,1,4,,803,Francois-LouisTREMBLAY,6704,CAN,1:29.239,Q
-1,2,5,,888,ViacheslavKURGINIAN,6934,RUS,1:29.489,Q
-1,3,2,,871,KNEGTSjinkie,7352,NED,1:29.592,q
-1,4,1,,791,ElliottSHRIANE,6846,AUS,1:29.597,
-1,5,3,,898,IevgenGUTENOV,7178,UKR,1:31.359,
-2,1,5,,884,LEEHo-Suk,6856,KOR,1:30.613,Q
-2,2,3,,792,LachlanHAY,6845,AUS,1:31.328,Q
-2,3,1,,835,ClaudioRINALDI,7261,ITA,1:31.438,
-2,4,2,,878,MarkJACKSON,6941,NZL,1:31.768,
-2,5,4,,894,DmytroPOLTAVETS,7221,UKR,1:46.386,
-3,1,5,,799,HAMELINCharles,6610,CAN,1:29.893,Q
-3,2,4,,834,CONFORTOLAYuri,6561,ITA,1:30.038,Q
-3,3,1,,877,BlakeSKJELLERUP,6549,NZL,1:30.290,q
-3,4,2,,832,BenceBERES,7438,HUN,1:31.021,
-3,5,3,,797,SiarheiYAKUSHKOU,6923,BLR,1:32.859,
-4,1,2,,808,SONGWeilong,7156,CHN,1:30.513,Q
-4,2,3,,336,AnthonyLOBELLO,6958,USA,1:30.684,Q
-4,3,1,,819,PaulHERRMANN,6803,GER,1:30.777,q
-4,4,4,,891,EvgeniiKOZULIN,7272,RUS,1:30.797,
-5,1,5,,857,HaraldsSILOVS,6458,LAT,1:29.408,Q
-5,2,4,,848,FumihikoKAKUBARI,6024,JPN,1:29.844,Q
-5,3,2,,893,SemenELISTRATOV,7293,RUS,1:30.514,q
-5,4,1,,875,BREEUWSMADaan,7218,NED,1:32.787,
-5,5,3,,870,MunkhamidralGANBAT,6243,MGL,1:45.133,
-6,2,4,,809,HANJialiang,6168,CHN,1:29.492,Q
-6,3,2,,827,AnthonyDOUGLAS,6301,GBR,1:29.835,q
-6,4,5,,853,AslanDAUMOV,6119,KAZ,1:32.772,
-6,DQ,3,,801,FrancoisHAMELIN,6167,CAN,DQ,
-7,1,2,,806,LIYe,6655,CHN,1:30.537,Q
-7,2,4,,831,GaborGALAMBOS,6010,HUN,1:30.639,Q
-7,3,1,,821,TorstenKROEGER,7141,GER,1:30.905,
-7,4,5,,814,JeanCharlesMATTEI,6057,FRA,1:32.752,
-7,DNS,3,,828,PaulSTANLEY,7054,GBR,DNS,
-8,1,1,,333,J.R.CELSKI,7279,USA,1:29.428,Q
-8,2,4,,846,TakahiroFUJIMOTO,6277,JPN,1:29.753,Q
-8,3,3,,825,TomIVESON,6898,GBR,1:30.198,q
-8,4,2,,817,BenjaminMACE,7357,FRA,1:30.307,
-8,5,5,,895,OleksiyKOSHELENKO,7121,UKR,1:30.435,
-9,1,4,,331,ApoloAntonOHNO,6497,USA,1:28.926,Q
-9,2,5,,887,KIMYong-Sung,7264,KOR,1:29.133,Q
-9,3,2,,798,PieterGYSEL,6425,BEL,1:29.226,q
-9,4,3,,876,IngmarvanRIEL,6186,NED,1:31.410,
-9,5,1,,855,AzamatNURMAGAMBETOV,7350,KAZ,1:34.938,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,1,1,3,,818,SebastianPRAUS,6364,GER,1:28.947,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,1,2,4,,845,SatoruTERAO,6320,JPN,1:28.966,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,1,3,5,,833,NicolasBEAN,7541,ITA,1:29.289,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,1,4,2,,852,AndreySMETANIN,6459,KAZ,1:51.293,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,1,DQ,1,,880,DariuszKULESZA,6817,POL,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,2,1,4,,803,Francois-LouisTREMBLAY,6704,CAN,1:29.239,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,2,2,5,,888,ViacheslavKURGINIAN,6934,RUS,1:29.489,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,2,3,2,,871,KNEGTSjinkie,7352,NED,1:29.592,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,2,4,1,,791,ElliottSHRIANE,6846,AUS,1:29.597,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,2,5,3,,898,IevgenGUTENOV,7178,UKR,1:31.359,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,3,1,5,,884,LEEHo-Suk,6856,KOR,1:30.613,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,3,2,3,,792,LachlanHAY,6845,AUS,1:31.328,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,3,3,1,,835,ClaudioRINALDI,7261,ITA,1:31.438,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,3,4,2,,878,MarkJACKSON,6941,NZL,1:31.768,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,3,5,4,,894,DmytroPOLTAVETS,7221,UKR,1:46.386,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,4,1,5,,799,HAMELINCharles,6610,CAN,1:29.893,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,4,2,4,,834,CONFORTOLAYuri,6561,ITA,1:30.038,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,4,3,1,,877,BlakeSKJELLERUP,6549,NZL,1:30.290,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,4,4,2,,832,BenceBERES,7438,HUN,1:31.021,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,4,5,3,,797,SiarheiYAKUSHKOU,6923,BLR,1:32.859,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,5,1,2,,808,SONGWeilong,7156,CHN,1:30.513,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,5,2,3,,336,AnthonyLOBELLO,6958,USA,1:30.684,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,5,3,1,,819,PaulHERRMANN,6803,GER,1:30.777,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,5,4,4,,891,EvgeniiKOZULIN,7272,RUS,1:30.797,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,6,1,5,,857,HaraldsSILOVS,6458,LAT,1:29.408,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,6,2,4,,848,FumihikoKAKUBARI,6024,JPN,1:29.844,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,6,3,2,,893,SemenELISTRATOV,7293,RUS,1:30.514,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,6,4,1,,875,BREEUWSMADaan,7218,NED,1:32.787,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,6,5,3,,870,MunkhamidralGANBAT,6243,MGL,1:45.133,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,7,2,4,,809,HANJialiang,6168,CHN,1:29.492,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,7,3,2,,827,AnthonyDOUGLAS,6301,GBR,1:29.835,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,7,4,5,,853,AslanDAUMOV,6119,KAZ,1:32.772,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,7,DQ,3,,801,FrancoisHAMELIN,6167,CAN,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,8,1,2,,806,LIYe,6655,CHN,1:30.537,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,8,2,4,,831,GaborGALAMBOS,6010,HUN,1:30.639,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,8,3,1,,821,TorstenKROEGER,7141,GER,1:30.905,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,8,4,5,,814,JeanCharlesMATTEI,6057,FRA,1:32.752,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,8,DNS,3,,828,PaulSTANLEY,7054,GBR,DNS,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,9,1,1,,333,J.R.CELSKI,7279,USA,1:29.428,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,9,2,4,,846,TakahiroFUJIMOTO,6277,JPN,1:29.753,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,9,3,3,,825,TomIVESON,6898,GBR,1:30.198,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,9,4,2,,817,BenjaminMACE,7357,FRA,1:30.307,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,9,5,5,,895,OleksiyKOSHELENKO,7121,UKR,1:30.435,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,10,1,4,,331,ApoloAntonOHNO,6497,USA,1:28.926,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,10,2,5,,887,KIMYong-Sung,7264,KOR,1:29.133,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,10,3,2,,798,PieterGYSEL,6425,BEL,1:29.226,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,10,4,3,,876,IngmarvanRIEL,6186,NED,1:31.410,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,m,Preliminaries,10,5,1,,855,AzamatNURMAGAMBETOV,7350,KAZ,1:34.938,

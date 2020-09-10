@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,133,RobertSEIFERT,6176,GER,41.840,Q
-0,2,2,,109,AlexandreSTJEAN,7916,CAN,41.971,Q
-0,3,4,,115,WUDajing,7729,CHN,42.397,QC
-0,4,3,,125,RichardSHOEBRIDGE,7825,GBR,42.998,
-1,1,1,,112,LIANGWenhao,7594,CHN,42.289,Q
-1,2,2,,157,SEOYiRa,7940,KOR,42.340,Q
-1,3,3,,178,TravisJAYNER,6300,USA,42.439,QC
-1,4,4,,162,NielsKERSTHOLT,7067,NED,42.529,QC
-2,1,1,,154,LEEHo-Suk,6856,KOR,42.582,Q
-2,2,3,,175,JonathanGARCIA,7904,USA,43.270,Q
-2,3,2,,168,EvgeniiKOZULIN,7272,RUS,43.295,QC
-3,1,1,,105,OlivierJEAN,6756,CAN,41.649,Q
-3,2,4,,172,VladimirGRIGOREV,7826,RUS,42.320,Q
-3,3,2,,111,GONGQiuwen,7593,CHN,43.647,ADV
-3,4,5,,123,AlexisYANG,7921,FRA,1:02.454,
-3,PEN,3,,164,FreekvanderWART,7269,NED,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,1,1,1,,133,RobertSEIFERT,6176,GER,41.840,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,1,2,2,,109,AlexandreSTJEAN,7916,CAN,41.971,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,1,3,4,,115,WUDajing,7729,CHN,42.397,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,1,4,3,,125,RichardSHOEBRIDGE,7825,GBR,42.998,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,2,1,1,,112,LIANGWenhao,7594,CHN,42.289,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,2,2,2,,157,SEOYiRa,7940,KOR,42.340,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,2,3,3,,178,TravisJAYNER,6300,USA,42.439,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,2,4,4,,162,NielsKERSTHOLT,7067,NED,42.529,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,3,1,1,,154,LEEHo-Suk,6856,KOR,42.582,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,3,2,3,,175,JonathanGARCIA,7904,USA,43.270,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,3,3,2,,168,EvgeniiKOZULIN,7272,RUS,43.295,QC
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,4,1,1,,105,OlivierJEAN,6756,CAN,41.649,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,4,2,4,,172,VladimirGRIGOREV,7826,RUS,42.320,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,4,3,2,,111,GONGQiuwen,7593,CHN,43.647,ADV
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,4,4,5,,123,AlexisYANG,7921,FRA,1:02.454,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",500m,m,Quarterfinals,4,PEN,3,,164,FreekvanderWART,7269,NED,PEN,

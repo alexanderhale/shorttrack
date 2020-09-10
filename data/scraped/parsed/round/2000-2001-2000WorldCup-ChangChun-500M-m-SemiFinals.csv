@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,ANYulong,6656,CHN,42.460,
-0,3,3,,,FENGKai,6058,CHN,44.096,
-0,DQ,2,,,MathieuTURCOTTE,6705,CAN,DQ,
-1,1,4,,,Francois-LouisTREMBLAY,6704,CAN,42.390,
-1,2,2,,,LIJiajun,7095,CHN,42.422,
-1,3,3,,,RustySMITH,6496,USA,42.542,
-1,4,1,,,EricBEDARD,6703,CAN,1:09.636,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,1,1,1,,,ANYulong,6656,CHN,42.460,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,1,3,3,,,FENGKai,6058,CHN,44.096,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,1,DQ,2,,,MathieuTURCOTTE,6705,CAN,DQ,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,2,1,4,,,Francois-LouisTREMBLAY,6704,CAN,42.390,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,2,2,2,,,LIJiajun,7095,CHN,42.422,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,2,3,3,,,RustySMITH,6496,USA,42.542,
+2000-2001,2000 World Cup - Chang Chun,500M,m,SemiFinals,2,4,1,,,EricBEDARD,6703,CAN,1:09.636,

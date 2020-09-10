@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,82,RustySMITH,6496,USA,41.838,Q
-0,2,1,,43,NicolaRODIGARI,6332,ITA,41.924,Q
-0,3,3,,46,TakafumiNISHITANI,6323,JPN,42.060,
-0,4,4,,83,JPKEPKA,6501,USA,42.063,
-1,1,1,,11,MathieuTURCOTTE,6705,CAN,41.659,Q
-1,2,2,,42,NicolaFRANCESCHINA,6331,ITA,41.746,Q
-1,3,4,,41,FabioCARTA,6001,ITA,41.785,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,1,1,2,,82,RustySMITH,6496,USA,41.838,Q
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,1,2,1,,43,NicolaRODIGARI,6332,ITA,41.924,Q
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,1,3,3,,46,TakafumiNISHITANI,6323,JPN,42.060,
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,1,4,4,,83,JPKEPKA,6501,USA,42.063,
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,2,1,1,,11,MathieuTURCOTTE,6705,CAN,41.659,Q
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,2,2,2,,42,NicolaFRANCESCHINA,6331,ITA,41.746,Q
+2003-2004,"2004 World Cup 6, Italy",500M,m,SemiFinals,2,3,4,,41,FabioCARTA,6001,ITA,41.785,

@@ -1,32 +1,32 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,307,MarianneST-GELAIS,7216,CAN,43.613,Q
-0,2,2,,330,KIKUCHISumire,7980,JPN,1:03.166,Q
-0,3,3,,346,OliwiaGAWLICA,8501,POL,1:19.595,
-0,PEN,4,,338,CHOIMinJeong,8625,KOR,PEN,
-1,1,2,,308,FANKexin,7694,CHN,43.390,Q
-1,2,1,,350,MartaWOJCIK,7578,POL,45.544,Q
-1,3,3,,360,KatherineRALSTON,7991,USA,45.549,
-2,1,2,,352,MALAGICHEmina,7989,RUS,44.715,Q
-2,2,4,,317,PIERRONVeronique,6196,FRA,44.798,Q
-2,3,3,,319,CharlotteGILMARTIN,7136,GBR,44.881,q
-2,4,1,,327,VALCEPINAArianna,7705,ITA,1:10.474,
-3,1,4,,323,AriannaFONTANA,6227,ITA,43.793,Q
-3,2,1,,313,WANGXue,8363,CHN,44.719,Q
-3,3,3,,332,YunaKOIKE,8670,JPN,46.028,
-3,PEN,2,,303,KasandraBRADETTE,8058,CAN,PEN,
-4,1,1,,311,LINYue,8548,CHN,44.319,Q
-4,2,3,,343,AgneSEREIKAITE,7708,LTU,44.363,Q
-4,3,2,,328,VIVIANIElena,7583,ITA,44.472,q
-4,4,4,,333,HitomiSAITO,7576,JPN,44.577,
-5,1,2,,362,JessicaKOOREMAN,7649,USA,44.348,Q
-5,2,3,,321,AndreaKESZLER,7147,HUN,44.536,Q
-5,3,1,,315,LouiseMILESI,8668,FRA,46.833,
-5,4,4,,336,AnitaNAGAY,8622,KAZ,48.114,
-6,1,2,,339,JEONJi-Soo,6232,KOR,43.597,Q
-6,2,3,,353,PROSVIRNOVASofia,8509,RUS,43.686,Q
-6,3,1,,335,AnastassiyaKRESTOVA,7981,KAZ,44.839,q
-6,4,4,,322,KONYAZsofia,7701,HUN,44.925,
-7,1,3,,348,PatrycjaMALISZEWSKA,6154,POL,44.773,Q
-7,2,1,,344,deVRIESRianne,8333,NED,45.019,Q
-7,3,4,,306,CourtneySHMYR,7961,CAN,45.160,q
-7,4,2,,359,KimberlyGOETZ,8649,USA,45.165,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,1,1,1,,307,MarianneST-GELAIS,7216,CAN,43.613,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,1,2,2,,330,KIKUCHISumire,7980,JPN,1:03.166,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,1,3,3,,346,OliwiaGAWLICA,8501,POL,1:19.595,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,1,PEN,4,,338,CHOIMinJeong,8625,KOR,PEN,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,2,1,2,,308,FANKexin,7694,CHN,43.390,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,2,2,1,,350,MartaWOJCIK,7578,POL,45.544,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,2,3,3,,360,KatherineRALSTON,7991,USA,45.549,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,3,1,2,,352,MALAGICHEmina,7989,RUS,44.715,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,3,2,4,,317,PIERRONVeronique,6196,FRA,44.798,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,3,3,3,,319,CharlotteGILMARTIN,7136,GBR,44.881,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,3,4,1,,327,VALCEPINAArianna,7705,ITA,1:10.474,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,4,1,4,,323,AriannaFONTANA,6227,ITA,43.793,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,4,2,1,,313,WANGXue,8363,CHN,44.719,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,4,3,3,,332,YunaKOIKE,8670,JPN,46.028,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,4,PEN,2,,303,KasandraBRADETTE,8058,CAN,PEN,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,5,1,1,,311,LINYue,8548,CHN,44.319,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,5,2,3,,343,AgneSEREIKAITE,7708,LTU,44.363,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,5,3,2,,328,VIVIANIElena,7583,ITA,44.472,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,5,4,4,,333,HitomiSAITO,7576,JPN,44.577,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,6,1,2,,362,JessicaKOOREMAN,7649,USA,44.348,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,6,2,3,,321,AndreaKESZLER,7147,HUN,44.536,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,6,3,1,,315,LouiseMILESI,8668,FRA,46.833,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,6,4,4,,336,AnitaNAGAY,8622,KAZ,48.114,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,7,1,2,,339,JEONJi-Soo,6232,KOR,43.597,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,7,2,3,,353,PROSVIRNOVASofia,8509,RUS,43.686,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,7,3,1,,335,AnastassiyaKRESTOVA,7981,KAZ,44.839,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,7,4,4,,322,KONYAZsofia,7701,HUN,44.925,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,8,1,3,,348,PatrycjaMALISZEWSKA,6154,POL,44.773,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,8,2,1,,344,deVRIESRianne,8333,NED,45.019,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,8,3,4,,306,CourtneySHMYR,7961,CAN,45.160,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,w,Preliminaries,8,4,2,,359,KimberlyGOETZ,8649,USA,45.165,

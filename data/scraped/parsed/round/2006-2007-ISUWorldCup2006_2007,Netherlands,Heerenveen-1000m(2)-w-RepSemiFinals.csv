@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,22,JorienterMORS,6146,NED,1:38.335,Q
-0,2,3,,4,KimdeDAPPER,6854,BEL,1:38.413,Q
-0,3,1,,36,SarahLANG,6527,USA,1:38.486,
-1,1,1,,9,MyrtilleGOLLIN,6714,FRA,,Q
-1,2,4,,31,OlgaMASKAIKINA,6685,RUS,,Q
-1,3,2,,26,AnoukZOUTENDIJK,6147,NED,,
-1,4,3,,37,SophiaMILAN,7123,USA,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,1,1,2,,22,JorienterMORS,6146,NED,1:38.335,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,1,2,3,,4,KimdeDAPPER,6854,BEL,1:38.413,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,1,3,1,,36,SarahLANG,6527,USA,1:38.486,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,2,1,1,,9,MyrtilleGOLLIN,6714,FRA,,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,2,2,4,,31,OlgaMASKAIKINA,6685,RUS,,Q
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,2,3,2,,26,AnoukZOUTENDIJK,6147,NED,,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),w,RepSemiFinals,2,4,3,,37,SophiaMILAN,7123,USA,,

@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,349,BernadettHEIDUM,6798,HUN,1:35.634,Q
-0,2,2,,310,VeronikaWINDISCH,6427,AUT,1:35.707,Q
-0,3,3,,361,KatiaZINI,6076,ITA,1:35.876,
-0,4,4,,383,MalwinaZAWADA,6155,POL,1:35.983,
-1,1,1,,365,MikaOZAWA,6318,JPN,1:36.760,Q
-1,2,4,,339,AikaKLEIN,6359,GER,1:37.105,Q
-1,3,2,,345,HANYueshuang,6572,HKG,1:37.416,
-1,4,3,,397,OlgaMASKAIKINA,6685,RUS,1:38.220,
-2,1,1,,356,CeciliaMAFFEI,6559,ITA,1:36.910,Q
-2,2,4,,366,YasukoSAKASHITA,6189,JPN,1:36.952,Q
-2,3,2,,308,Alix-MyraANDERSON,7353,AUS,1:37.008,
-2,4,3,,462,RanyaEZZI,6840,SWE,1:37.261,
-3,1,2,,347,ErikaHUSZAR,6373,HUN,1:35.488,Q
-3,2,1,,312,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:35.566,Q
-3,3,3,,316,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:35.610,
-3,4,4,,357,LuciaPERETTI,7160,ITA,1:38.477,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,1,1,1,,349,BernadettHEIDUM,6798,HUN,1:35.634,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,1,2,2,,310,VeronikaWINDISCH,6427,AUT,1:35.707,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,1,3,3,,361,KatiaZINI,6076,ITA,1:35.876,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,1,4,4,,383,MalwinaZAWADA,6155,POL,1:35.983,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,2,1,1,,365,MikaOZAWA,6318,JPN,1:36.760,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,2,2,4,,339,AikaKLEIN,6359,GER,1:37.105,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,2,3,2,,345,HANYueshuang,6572,HKG,1:37.416,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,2,4,3,,397,OlgaMASKAIKINA,6685,RUS,1:38.220,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,3,1,1,,356,CeciliaMAFFEI,6559,ITA,1:36.910,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,3,2,4,,366,YasukoSAKASHITA,6189,JPN,1:36.952,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,3,3,2,,308,Alix-MyraANDERSON,7353,AUS,1:37.008,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,3,4,3,,462,RanyaEZZI,6840,SWE,1:37.261,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,4,1,2,,347,ErikaHUSZAR,6373,HUN,1:35.488,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,4,2,1,,312,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:35.566,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,4,3,3,,316,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:35.610,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepQuarterfinals,4,4,4,,357,LuciaPERETTI,7160,ITA,1:38.477,

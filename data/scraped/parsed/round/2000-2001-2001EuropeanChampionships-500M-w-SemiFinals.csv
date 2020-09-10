@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,,MaraZINI,6326,ITA,46.547,
-0,2,1,,,StephanieBOUVIER,6709,FRA,46.709,
-0,3,2,,,OlgaDANILOV,6334,ISR,46.841,
-0,4,3,,,DebbiePALMER,6638,GBR,48.584,
-1,1,3,,,EvgeniaRADANOVA,6775,BUL,46.365,
-1,2,1,,,JoannaWILLIAMS,6639,GBR,47.323,
-1,3,4,,,EvelinaRODIGARI,6329,ITA,47.378,
-1,4,2,,,YvonneKUNZE,6363,GER,1:03.539,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2001 European Championships,500M,w,SemiFinals,1,1,4,,,MaraZINI,6326,ITA,46.547,
+2000-2001,2001 European Championships,500M,w,SemiFinals,1,2,1,,,StephanieBOUVIER,6709,FRA,46.709,
+2000-2001,2001 European Championships,500M,w,SemiFinals,1,3,2,,,OlgaDANILOV,6334,ISR,46.841,
+2000-2001,2001 European Championships,500M,w,SemiFinals,1,4,3,,,DebbiePALMER,6638,GBR,48.584,
+2000-2001,2001 European Championships,500M,w,SemiFinals,2,1,3,,,EvgeniaRADANOVA,6775,BUL,46.365,
+2000-2001,2001 European Championships,500M,w,SemiFinals,2,2,1,,,JoannaWILLIAMS,6639,GBR,47.323,
+2000-2001,2001 European Championships,500M,w,SemiFinals,2,3,4,,,EvelinaRODIGARI,6329,ITA,47.378,
+2000-2001,2001 European Championships,500M,w,SemiFinals,2,4,2,,,YvonneKUNZE,6363,GER,1:03.539,

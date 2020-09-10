@@ -1,38 +1,38 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,115,TatianaBORODULINA,7483,RUS,1:34.158,Q
-0,2,4,,104,YukoKOYA,6289,JPN,1:34.271,Q
-0,3,2,,102,MaraZINI,6326,ITA,1:34.756,
-0,4,1,,108,FrancescaJACKSON,6356,NZL,1:41.158,
-0,DQ,5,,122,AllisonBAVER,6533,USA,DQ,
-1,1,1,,110,CHOIEun-Kyung,6943,KOR,1:35.468,Q
-1,2,2,,80,FUTianYu,6650,CHN,1:35.554,Q
-1,3,3,,101,KatiaZINI,6076,ITA,1:35.738,
-1,4,4,,91,AikaKLEIN,6359,GER,1:37.109,
-2,2,3,,119,NinaEVTEEVA,6511,RUS,1:33.155,Q
-2,3,2,,72,TaniaVICENT,6662,CAN,1:33.547,
-2,4,5,,93,TinaGRASSOW,6855,GER,1:35.591,
-2,5,4,,96,HANYueshuang,6572,HKG,1:36.573,
-3,1,3,,74,AmandaOVERLAND,7079,CAN,1:34.397,Q
-3,2,2,,78,WANGWei,6575,CHN,1:34.447,Q
-3,3,4,,95,JoannaWILLIAMS,6639,GBR,1:35.075,
-3,4,5,,88,MyrtilleGOLLIN,6714,FRA,1:35.613,
-3,5,1,,81,LIULing-E,6762,TPE,1:38.548,
-4,1,5,,120,Hyo-JungKIM,6921,USA,1:38.481,Q
-4,2,4,,94,SarahLINDSAY,6056,GBR,1:38.999,Q
-4,3,3,,82,HUANGYu-Ting,6009,TPE,1:41.311,
-4,DNF,1,,118,ElizavetaIVLJEVA,6910,RUS,DNF,
-4,DQ,2,,84,KaterinaNOVOTNA,6647,CZE,DQ,
-5,1,1,,75,AnoukLEBLANC-BOUCHER,6795,CAN,1:38.040,Q
-5,2,2,,89,YvonneKUNZE,6363,GER,1:38.091,Q
-5,3,3,,109,KristinaNZL1,6110,NZL,1:41.393,
-5,4,4,,83,LIUFu-Ten,6112,TPE,1:58.583,
-5,DQ,5,,103,MikaOZAWA,6318,JPN,DQ,
-6,1,2,,77,WANGMeng,6594,CHN,1:40.326,Q
-6,2,1,,86,Min-KyungCHOI,6965,FRA,1:41.301,Q
-6,3,3,,105,YokoIIZUKA,6313,JPN,1:41.856,
-6,4,4,,123,KristenBIONDO,6283,USA,1:44.854,
-7,1,3,,98,MartaCAPURSO,6328,ITA,1:38.310,Q
-7,2,2,,114,JINSun-Yu,6108,KOR,1:38.367,Q
-7,3,5,,85,StephanieBOUVIER,6709,FRA,1:39.661,
-7,4,4,,70,YulyiaYELSAKOVA,6021,BLR,1:39.849,
-7,5,1,,107,NatsagnyamDUUREN,6109,MGL,2:05.715,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,1,1,3,,115,TatianaBORODULINA,7483,RUS,1:34.158,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,1,2,4,,104,YukoKOYA,6289,JPN,1:34.271,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,1,3,2,,102,MaraZINI,6326,ITA,1:34.756,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,1,4,1,,108,FrancescaJACKSON,6356,NZL,1:41.158,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,1,DQ,5,,122,AllisonBAVER,6533,USA,DQ,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,2,1,1,,110,CHOIEun-Kyung,6943,KOR,1:35.468,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,2,2,2,,80,FUTianYu,6650,CHN,1:35.554,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,2,3,3,,101,KatiaZINI,6076,ITA,1:35.738,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,2,4,4,,91,AikaKLEIN,6359,GER,1:37.109,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,3,2,3,,119,NinaEVTEEVA,6511,RUS,1:33.155,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,3,3,2,,72,TaniaVICENT,6662,CAN,1:33.547,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,3,4,5,,93,TinaGRASSOW,6855,GER,1:35.591,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,3,5,4,,96,HANYueshuang,6572,HKG,1:36.573,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,4,1,3,,74,AmandaOVERLAND,7079,CAN,1:34.397,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,4,2,2,,78,WANGWei,6575,CHN,1:34.447,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,4,3,4,,95,JoannaWILLIAMS,6639,GBR,1:35.075,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,4,4,5,,88,MyrtilleGOLLIN,6714,FRA,1:35.613,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,4,5,1,,81,LIULing-E,6762,TPE,1:38.548,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,5,1,5,,120,Hyo-JungKIM,6921,USA,1:38.481,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,5,2,4,,94,SarahLINDSAY,6056,GBR,1:38.999,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,5,3,3,,82,HUANGYu-Ting,6009,TPE,1:41.311,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,5,DNF,1,,118,ElizavetaIVLJEVA,6910,RUS,DNF,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,5,DQ,2,,84,KaterinaNOVOTNA,6647,CZE,DQ,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,6,1,1,,75,AnoukLEBLANC-BOUCHER,6795,CAN,1:38.040,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,6,2,2,,89,YvonneKUNZE,6363,GER,1:38.091,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,6,3,3,,109,KristinaNZL1,6110,NZL,1:41.393,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,6,4,4,,83,LIUFu-Ten,6112,TPE,1:58.583,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,6,DQ,5,,103,MikaOZAWA,6318,JPN,DQ,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,7,1,2,,77,WANGMeng,6594,CHN,1:40.326,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,7,2,1,,86,Min-KyungCHOI,6965,FRA,1:41.301,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,7,3,3,,105,YokoIIZUKA,6313,JPN,1:41.856,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,7,4,4,,123,KristenBIONDO,6283,USA,1:44.854,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,8,1,3,,98,MartaCAPURSO,6328,ITA,1:38.310,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,8,2,2,,114,JINSun-Yu,6108,KOR,1:38.367,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,8,3,5,,85,StephanieBOUVIER,6709,FRA,1:39.661,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,8,4,4,,70,YulyiaYELSAKOVA,6021,BLR,1:39.849,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,Heats,8,5,1,,107,NatsagnyamDUUREN,6109,MGL,2:05.715,

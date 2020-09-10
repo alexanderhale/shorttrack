@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,161,LEEHan-Bin,7444,KOR,42.073,Q
-0,2,1,,191,JeffSIMON,7280,USA,42.180,Q
-0,3,2,,173,EvgeniiKOZULIN,7272,RUS,42.219,
-0,4,4,,168,FreekvanderWART,7269,NED,42.231,
-1,2,4,,135,RobertSEIFERT,6176,GER,41.489,Q
-1,3,3,,145,TakayukiMURATAKE,7442,JPN,41.922,
-1,4,2,,129,PaulSTANLEY,7054,GBR,42.103,
-1,5,5,,140,ShaolinSandorLIU,7928,HUN,42.177,
-2,1,4,,110,FrancoisHAMELIN,6167,CAN,41.801,Q
-2,2,2,,118,WUDajing,7729,CHN,41.855,Q
-2,3,3,,164,BREEUWSMADaan,7218,NED,41.889,
-2,4,1,,157,KIMByeongJun,7287,KOR,42.038,
-3,1,1,,116,LIANGWenhao,7594,CHN,41.580,Q
-3,2,4,,189,TravisJAYNER,6300,USA,41.977,Q
-3,3,3,,165,NielsKERSTHOLT,7067,NED,42.074,
-3,4,2,,149,DaisukeUEMURA,6118,JPN,42.204,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,1,1,3,,161,LEEHan-Bin,7444,KOR,42.073,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,1,2,1,,191,JeffSIMON,7280,USA,42.180,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,1,3,2,,173,EvgeniiKOZULIN,7272,RUS,42.219,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,1,4,4,,168,FreekvanderWART,7269,NED,42.231,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,2,2,4,,135,RobertSEIFERT,6176,GER,41.489,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,2,3,3,,145,TakayukiMURATAKE,7442,JPN,41.922,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,2,4,2,,129,PaulSTANLEY,7054,GBR,42.103,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,2,5,5,,140,ShaolinSandorLIU,7928,HUN,42.177,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,3,1,4,,110,FrancoisHAMELIN,6167,CAN,41.801,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,3,2,2,,118,WUDajing,7729,CHN,41.855,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,3,3,3,,164,BREEUWSMADaan,7218,NED,41.889,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,3,4,1,,157,KIMByeongJun,7287,KOR,42.038,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,4,1,1,,116,LIANGWenhao,7594,CHN,41.580,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,4,2,4,,189,TravisJAYNER,6300,USA,41.977,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,4,3,3,,165,NielsKERSTHOLT,7067,NED,42.074,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,Quarterfinals,4,4,2,,149,DaisukeUEMURA,6118,JPN,42.204,

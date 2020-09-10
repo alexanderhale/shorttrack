@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,196,NETHERLANDS,7321,NED,6:50.818,Q,
-0,2,4,,192,GERMANY,7302,GER,6:52.006,Q,
-0,3,3,,191,FRANCE,7319,FRA,6:54.095,,
-0,4,2,,194,HUNGARY,7324,HUN,7:06.153,,
-1,1,1,,193,GREATBRITAIN,7320,GBR,6:52.513,Q,
-1,2,2,,198,RUSSIA,7307,RUS,6:52.632,Q,
-1,3,3,,195,ITALY,7301,ITA,6:52.663,,
-1,4,4,,200,UKRAINE,7308,UKR,7:13.377,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,1,1,1,,196,NETHERLANDS,7321,NED,6:50.818,Q,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,1,2,4,,192,GERMANY,7302,GER,6:52.006,Q,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,1,3,3,,191,FRANCE,7319,FRA,6:54.095,,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,1,4,2,,194,HUNGARY,7324,HUN,7:06.153,,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,2,1,1,,193,GREATBRITAIN,7320,GBR,6:52.513,Q,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,2,2,2,,198,RUSSIA,7307,RUS,6:52.632,Q,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,2,3,3,,195,ITALY,7301,ITA,6:52.663,,
+2010-2011,"2011 ISU European Championships, NED, Heerenveen",5000mRelay,m,Semifinals,2,4,4,,200,UKRAINE,7308,UKR,7:13.377,,

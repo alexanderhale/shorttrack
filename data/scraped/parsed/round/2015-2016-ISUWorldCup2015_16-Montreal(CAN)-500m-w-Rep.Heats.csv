@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,82,MONVOISINAurelie,8556,FRA,46.002,Q
-0,2,2,,108,PatriciaTOTH,7535,HUN,46.305,Q
-0,3,4,,115,SANTOSKristen,8527,USA,46.629,
-0,PEN,3,,29,AlicaPORUBSKA,8514,SVK,PEN,
-1,1,1,,50,LEEEunByul,7421,KOR,46.189,Q
-1,2,2,,78,TokoNANRI,8369,JPN,46.311,Q
-1,3,3,,84,LouiseMILESI,8668,FRA,46.484,
-1,4,4,,113,STORMOWSKAKamila,9008,POL,46.586,
-2,1,3,,22,PetraJASZAPATI,8611,HUN,46.631,Q
-2,2,1,,19,VIVIANIElena,7583,ITA,46.726,Q
-2,3,2,,79,KatherineRALSTON,7991,USA,47.384,
-2,4,4,,111,RozaKOOYSTRA,8495,NED,notime,
-3,1,1,,104,SelmaPOUTSMA,9004,FRA,45.216,Q
-3,2,3,,20,vanRUIJVENLara,7710,NED,45.812,Q
-3,3,2,,83,KIKUCHISumire,7980,JPN,45.813,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,1,1,1,,82,MONVOISINAurelie,8556,FRA,46.002,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,1,2,2,,108,PatriciaTOTH,7535,HUN,46.305,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,1,3,4,,115,SANTOSKristen,8527,USA,46.629,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,1,PEN,3,,29,AlicaPORUBSKA,8514,SVK,PEN,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,2,1,1,,50,LEEEunByul,7421,KOR,46.189,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,2,2,2,,78,TokoNANRI,8369,JPN,46.311,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,2,3,3,,84,LouiseMILESI,8668,FRA,46.484,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,2,4,4,,113,STORMOWSKAKamila,9008,POL,46.586,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,3,1,3,,22,PetraJASZAPATI,8611,HUN,46.631,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,3,2,1,,19,VIVIANIElena,7583,ITA,46.726,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,3,3,2,,79,KatherineRALSTON,7991,USA,47.384,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,3,4,4,,111,RozaKOOYSTRA,8495,NED,notime,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,4,1,1,,104,SelmaPOUTSMA,9004,FRA,45.216,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,4,2,3,,20,vanRUIJVENLara,7710,NED,45.812,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,w,Rep.Heats,4,3,2,,83,KIKUCHISumire,7980,JPN,45.813,

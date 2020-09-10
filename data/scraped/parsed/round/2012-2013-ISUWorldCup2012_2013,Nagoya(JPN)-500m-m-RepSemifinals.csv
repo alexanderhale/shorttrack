@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,118,WUDajing,7729,CHN,42.411,Q
-0,2,3,,128,RichardSHOEBRIDGE,7825,GBR,42.574,
-0,3,4,,153,AydarBEKZHANOV,7623,KAZ,42.640,
-0,4,1,,124,LEPAPESebastien,7554,FRA,43.057,
-1,1,4,,168,FreekvanderWART,7269,NED,41.897,Q
-1,2,3,,156,NurbergenZHUMAGAZIYEV,7349,KAZ,41.908,
-1,3,1,,135,RobertSEIFERT,6176,GER,1:17.960,ADV
-1,PEN,2,,159,KWAKYoon-Gy,6120,KOR,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,1,1,2,,118,WUDajing,7729,CHN,42.411,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,1,2,3,,128,RichardSHOEBRIDGE,7825,GBR,42.574,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,1,3,4,,153,AydarBEKZHANOV,7623,KAZ,42.640,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,1,4,1,,124,LEPAPESebastien,7554,FRA,43.057,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,2,1,4,,168,FreekvanderWART,7269,NED,41.897,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,2,2,3,,156,NurbergenZHUMAGAZIYEV,7349,KAZ,41.908,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,2,3,1,,135,RobertSEIFERT,6176,GER,1:17.960,ADV
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",500m,m,RepSemifinals,2,PEN,2,,159,KWAKYoon-Gy,6120,KOR,PEN,

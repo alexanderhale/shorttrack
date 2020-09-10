@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,109,GuillaumeBASTILLE,6166,CAN,42.004,Q
-0,2,4,,147,DOTTITommaso,7604,ITA,42.594,Q
-0,3,1,,162,KIMByeongJun,7287,KOR,42.607,ADV
-0,PEN,3,,130,RichardSHOEBRIDGE,7825,GBR,PEN,
-1,1,3,,165,LEEHan-Bin,7444,KOR,42.228,Q
-1,2,2,,129,JonELEY,6592,GBR,42.267,Q
-1,3,1,,168,RobertoPUKITIS,7785,LAT,42.313,
-1,4,4,,119,WANGXingchun,8470,CHN,42.579,
-2,1,2,,117,WUDajing,7729,CHN,41.477,Q
-2,2,1,,179,VladimirGRIGOREV,7826,RUS,41.598,Q
-2,3,3,,110,CharleCOURNOYER,8063,CAN,41.629,
-2,4,4,,171,NielsKERSTHOLT,7067,NED,42.350,
-3,1,1,,120,YUJiyang,8435,CHN,41.435,Q
-3,2,2,,111,VincentCOURNOYER,7432,CAN,41.548,Q
-3,3,4,,195,EduardoALVAREZ,7617,USA,41.751,
-3,4,3,,180,EvgeniiKOZULIN,7272,RUS,42.041,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,1,1,2,,109,GuillaumeBASTILLE,6166,CAN,42.004,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,1,2,4,,147,DOTTITommaso,7604,ITA,42.594,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,1,3,1,,162,KIMByeongJun,7287,KOR,42.607,ADV
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,1,PEN,3,,130,RichardSHOEBRIDGE,7825,GBR,PEN,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,2,1,3,,165,LEEHan-Bin,7444,KOR,42.228,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,2,2,2,,129,JonELEY,6592,GBR,42.267,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,2,3,1,,168,RobertoPUKITIS,7785,LAT,42.313,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,2,4,4,,119,WANGXingchun,8470,CHN,42.579,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,3,1,2,,117,WUDajing,7729,CHN,41.477,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,3,2,1,,179,VladimirGRIGOREV,7826,RUS,41.598,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,3,3,3,,110,CharleCOURNOYER,8063,CAN,41.629,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,3,4,4,,171,NielsKERSTHOLT,7067,NED,42.350,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,4,1,1,,120,YUJiyang,8435,CHN,41.435,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,4,2,2,,111,VincentCOURNOYER,7432,CAN,41.548,Q
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,4,3,4,,195,EduardoALVAREZ,7617,USA,41.751,
+2012-2013,"ISU World Cup 2012/2013, Sochi (RUS)",500m(2),m,Quarterfinals,4,4,3,,180,EvgeniiKOZULIN,7272,RUS,42.041,

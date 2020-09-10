@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,4,HAMELINCharles,6610,CAN,2:15.174,QA
-0,2,2,,57,CHENGuang,8387,CHN,2:15.969,QA
-0,3,3,,152,CHOEUnSong,9063,PRK,2:17.107,QB
-0,4,6,,79,NicolaRODIGARI,6332,ITA,2:17.259,QB
-0,5,7,,80,VincentJEANNE,7890,FRA,2:18.347,ADB
-0,6,4,,2,PARKSeYeong,7750,KOR,2:31.662,ADA
-0,PEN,5,,6,ShaolinSandorLIU,7928,HUN,PEN,
-1,2,5,,11,SEOYiRa,7940,KOR,2:17.589,QA
-1,3,1,,15,HirokiYOKOYAMA,7932,JPN,2:17.855,QB
-1,4,2,,64,BYKANOVVladislav,6178,ISR,2:18.069,QB
-1,5,3,,28,KeithCARROLL,8449,USA,3:00.525,
-1,PEN,6,,25,NurbergenZHUMAGAZIYEV,7349,KAZ,PEN,
-2,1,4,,18,LEPAPESebastien,7554,FRA,2:23.316,QA
-2,2,2,,116,FrancoisHAMELIN,6167,CAN,2:23.542,QA
-2,3,1,,168,MAWei,8728,CHN,2:23.618,QB
-2,4,5,,63,EYBOGDaniil,8661,RUS,2:23.647,QB
-2,5,3,,160,YOSHINAGAKazuki,8745,JPN,2:24.969,
-2,6,6,,164,PARKJiWon,8765,KOR,2:52.166,ADA
-2,PEN,7,,170,RENZiwei,8601,CHN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,1,1,,4,HAMELINCharles,6610,CAN,2:15.174,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,2,2,,57,CHENGuang,8387,CHN,2:15.969,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,3,3,,152,CHOEUnSong,9063,PRK,2:17.107,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,4,6,,79,NicolaRODIGARI,6332,ITA,2:17.259,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,5,7,,80,VincentJEANNE,7890,FRA,2:18.347,ADB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,6,4,,2,PARKSeYeong,7750,KOR,2:31.662,ADA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,1,PEN,5,,6,ShaolinSandorLIU,7928,HUN,PEN,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,2,2,5,,11,SEOYiRa,7940,KOR,2:17.589,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,2,3,1,,15,HirokiYOKOYAMA,7932,JPN,2:17.855,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,2,4,2,,64,BYKANOVVladislav,6178,ISR,2:18.069,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,2,5,3,,28,KeithCARROLL,8449,USA,3:00.525,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,2,PEN,6,,25,NurbergenZHUMAGAZIYEV,7349,KAZ,PEN,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,1,4,,18,LEPAPESebastien,7554,FRA,2:23.316,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,2,2,,116,FrancoisHAMELIN,6167,CAN,2:23.542,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,3,1,,168,MAWei,8728,CHN,2:23.618,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,4,5,,63,EYBOGDaniil,8661,RUS,2:23.647,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,5,3,,160,YOSHINAGAKazuki,8745,JPN,2:24.969,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,6,6,,164,PARKJiWon,8765,KOR,2:52.166,ADA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1500m(1),m,Semifinals,3,PEN,7,,170,RENZiwei,8601,CHN,PEN,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,340,KIMAlang,8484,KOR,1:32.069,QA
-0,2,3,,318,CHRISTIEElise,7135,GBR,1:32.411,QA
-0,3,2,,305,ValerieMALTAIS,6216,CAN,notime,ADA
-0,PEN,4,,312,TAOJiaying,8667,CHN,PEN,
-1,1,1,,342,SHIMSukHee,8092,KOR,1:30.306,QA
-1,2,4,,341,LEEEunByul,7421,KOR,1:30.412,QA
-1,3,3,,301,DeannaLOCKETT,7956,AUS,1:30.457,QB
-1,4,2,,302,KimBOUTIN,8542,CAN,1:32.169,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,1,1,1,,340,KIMAlang,8484,KOR,1:32.069,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,1,2,3,,318,CHRISTIEElise,7135,GBR,1:32.411,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,1,3,2,,305,ValerieMALTAIS,6216,CAN,notime,ADA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,1,PEN,4,,312,TAOJiaying,8667,CHN,PEN,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,2,1,1,,342,SHIMSukHee,8092,KOR,1:30.306,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,2,2,4,,341,LEEEunByul,7421,KOR,1:30.412,QA
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,2,3,3,,301,DeannaLOCKETT,7956,AUS,1:30.457,QB
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),w,Semifinals,2,4,2,,302,KimBOUTIN,8542,CAN,1:32.169,QB

@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,129,JackWHELBOURNE,7437,GBR,2:34.898,
-0,2,1,,172,RobertLAWRENCE,7626,USA,2:35.094,
-0,4,3,,111,LIUXianwei,6307,CHN,2:35.420,
-0,5,5,,145,AydarBEKZHANOV,7623,KAZ,2:35.822,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1500m,m,FinalB,1,1,2,,129,JackWHELBOURNE,7437,GBR,2:34.898,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1500m,m,FinalB,1,2,1,,172,RobertLAWRENCE,7626,USA,2:35.094,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1500m,m,FinalB,1,4,3,,111,LIUXianwei,6307,CHN,2:35.420,
+2010-2011,"ISU World Cup 2010/2011, CAN, Quebec City",1500m,m,FinalB,1,5,5,,145,AydarBEKZHANOV,7623,KAZ,2:35.822,

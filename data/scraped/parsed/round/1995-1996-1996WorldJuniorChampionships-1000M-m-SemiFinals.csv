@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,TakehiroKODERA,6324,JPN,1:35.874,
-0,2,2,,,GUARNORICristian,6691,ITA,1:36.475,
-0,3,3,,,RustySMITH,6496,USA,1:36.583,
-0,4,4,,,Jean-FrancoisMONETTE,7096,CAN,1:44.523,
-1,1,1,,,CARPENTERKip,6875,USA,1:44.881,
-1,2,2,,,BalazsKNOCH,6341,HUN,1:45.640,
-1,3,3,,,ManuelCORSO,6721,ITA,2:22.462,
-1,DQ,4,,,NaoyaTAMURA,6322,JPN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,1,1,1,,,TakehiroKODERA,6324,JPN,1:35.874,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,1,2,2,,,GUARNORICristian,6691,ITA,1:36.475,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,1,3,3,,,RustySMITH,6496,USA,1:36.583,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,1,4,4,,,Jean-FrancoisMONETTE,7096,CAN,1:44.523,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,2,1,1,,,CARPENTERKip,6875,USA,1:44.881,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,2,2,2,,,BalazsKNOCH,6341,HUN,1:45.640,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,2,3,3,,,ManuelCORSO,6721,ITA,2:22.462,
+1995-1996,1996 World Junior Championships,1000M,m,SemiFinals,2,DQ,4,,,NaoyaTAMURA,6322,JPN,DQ,

@@ -1,14 +1,14 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,124,LEPAPESebastien,7554,FRA,2:28.571,Q
-0,2,4,,128,RichardSHOEBRIDGE,7825,GBR,2:29.076,
-0,3,7,,183,DmytroPOLTAVETS,7221,UKR,2:29.153,
-0,4,2,,153,AydarBEKZHANOV,7623,KAZ,2:30.099,
-0,5,6,,104,ArmstrongLAZENBY,7968,AUS,2:30.497,
-0,6,3,,127,JonELEY,6592,GBR,2:32.167,
-0,PEN,5,,150,WATANABEKeita,7605,JPN,PEN,
-1,1,1,,132,PaulHERRMANN,6803,GER,2:25.327,Q
-1,2,4,,113,CHENDequan,7918,CHN,2:25.460,
-1,3,2,,129,PaulSTANLEY,7054,GBR,2:25.958,
-1,4,3,,137,BenceBERES,7438,HUN,2:26.673,
-1,5,5,,136,DanielZETZSCHE,7436,GER,2:27.497,
-1,6,6,,141,DavidManoLOTH,6804,HUN,2:27.911,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,1,1,,124,LEPAPESebastien,7554,FRA,2:28.571,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,2,4,,128,RichardSHOEBRIDGE,7825,GBR,2:29.076,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,3,7,,183,DmytroPOLTAVETS,7221,UKR,2:29.153,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,4,2,,153,AydarBEKZHANOV,7623,KAZ,2:30.099,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,5,6,,104,ArmstrongLAZENBY,7968,AUS,2:30.497,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,6,3,,127,JonELEY,6592,GBR,2:32.167,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,1,PEN,5,,150,WATANABEKeita,7605,JPN,PEN,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,1,1,,132,PaulHERRMANN,6803,GER,2:25.327,Q
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,2,4,,113,CHENDequan,7918,CHN,2:25.460,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,3,2,,129,PaulSTANLEY,7054,GBR,2:25.958,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,4,3,,137,BenceBERES,7438,HUN,2:26.673,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,5,5,,136,DanielZETZSCHE,7436,GER,2:27.497,
+2012-2013,"ISU World Cup 2012/2013, Nagoya (JPN)",1500m(1),m,RepSemifinals,2,6,6,,141,DavidManoLOTH,6804,HUN,2:27.911,

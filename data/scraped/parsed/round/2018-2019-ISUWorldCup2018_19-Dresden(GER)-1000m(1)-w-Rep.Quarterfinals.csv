@@ -1,28 +1,28 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,92,WATANABEAoi,8744,JPN,1:33.847,Q
-0,2,3,,152,TinekedenDULK,9121,NED,1:33.881,q
-0,3,4,,35,MariyaIZAFATAVA,8651,BLR,1:34.022,
-0,4,6,,127,MAZURNicole,8421,POL,1:34.087,
-0,5,5,,67,DOLGOPOLOVAMariya,8096,UKR,1:35.504,
-0,6,2,,32,MANOILOVAKatrin,8539,BUL,notime,
-1,1,2,,57,KAMINAGAShione,8743,JPN,1:36.664,Q
-1,2,3,,81,PENCHEVAZornica,8461,BUL,1:37.220,q
-1,3,5,,132,DanielleAMOS,9465,USA,1:39.888,
-1,4,1,,73,IZAFATAVAHanna,9068,BLR,notime,
-1,PEN,4,,108,MartaKNOCH,9459,HUN,PEN,
-2,1,1,,72,ZAKHAROVAEvgeniya,7715,RUS,1:34.130,Q
-2,2,2,,109,BOTTERGOMEZNicole,8741,ITA,1:34.235,q
-2,3,3,,34,MichaelaKUNCIROVA,8552,CZE,1:36.104,
-2,4,4,,150,GAERTNERAnnaKatharina,9070,GER,1:36.179,
-2,5,5,,148,AnnaDAVYDENKO,8648,UKR,1:42.593,
-3,1,2,,113,KIKUCHIMoemi,7584,JPN,1:33.711,Q
-3,2,1,,55,WALTERBianca,7232,GER,1:33.963,q
-3,3,5,,121,KIMYeJin,9310,KOR,1:34.006,
-3,4,3,,157,LETAIJulie,9441,USA,1:34.745,
-3,5,4,,93,IVANDICDanijela,9097,CRO,1:39.362,
-4,1,2,,103,MiladaDOSLA,8729,CZE,1:42.147,Q
-4,2,3,,68,PatrycjaMALISZEWSKA,6154,POL,1:42.226,q
-4,3,1,,26,BACSKAISaraLuca,8609,HUN,1:42.357,
-4,4,6,,84,DANNEELAlexandra,9320,BEL,1:42.491,
-4,5,5,,116,AsselTAISHMANOVA,9259,KAZ,1:42.596,
-4,6,4,,39,BURICKatarina,8550,CRO,1:42.705,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,1,1,,92,WATANABEAoi,8744,JPN,1:33.847,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,2,3,,152,TinekedenDULK,9121,NED,1:33.881,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,3,4,,35,MariyaIZAFATAVA,8651,BLR,1:34.022,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,4,6,,127,MAZURNicole,8421,POL,1:34.087,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,5,5,,67,DOLGOPOLOVAMariya,8096,UKR,1:35.504,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,1,6,2,,32,MANOILOVAKatrin,8539,BUL,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,2,1,2,,57,KAMINAGAShione,8743,JPN,1:36.664,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,2,2,3,,81,PENCHEVAZornica,8461,BUL,1:37.220,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,2,3,5,,132,DanielleAMOS,9465,USA,1:39.888,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,2,4,1,,73,IZAFATAVAHanna,9068,BLR,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,2,PEN,4,,108,MartaKNOCH,9459,HUN,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,3,1,1,,72,ZAKHAROVAEvgeniya,7715,RUS,1:34.130,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,3,2,2,,109,BOTTERGOMEZNicole,8741,ITA,1:34.235,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,3,3,3,,34,MichaelaKUNCIROVA,8552,CZE,1:36.104,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,3,4,4,,150,GAERTNERAnnaKatharina,9070,GER,1:36.179,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,3,5,5,,148,AnnaDAVYDENKO,8648,UKR,1:42.593,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,4,1,2,,113,KIKUCHIMoemi,7584,JPN,1:33.711,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,4,2,1,,55,WALTERBianca,7232,GER,1:33.963,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,4,3,5,,121,KIMYeJin,9310,KOR,1:34.006,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,4,4,3,,157,LETAIJulie,9441,USA,1:34.745,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,4,5,4,,93,IVANDICDanijela,9097,CRO,1:39.362,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,1,2,,103,MiladaDOSLA,8729,CZE,1:42.147,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,2,3,,68,PatrycjaMALISZEWSKA,6154,POL,1:42.226,q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,3,1,,26,BACSKAISaraLuca,8609,HUN,1:42.357,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,4,6,,84,DANNEELAlexandra,9320,BEL,1:42.491,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,5,5,,116,AsselTAISHMANOVA,9259,KAZ,1:42.596,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1000m(1),w,Rep.Quarterfinals,5,6,4,,39,BURICKatarina,8550,CRO,1:42.705,

@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,802,OlivierJEAN,6756,CAN,41.563,Q
-0,2,2,,836,NicolaRODIGARI,6332,ITA,41.784,Q
-0,3,3,,889,SergeyPRANKEVICH,7048,RUS,42.001,
-0,4,5,,334,TravisJAYNER,6300,USA,42.006,
-0,DQ,4,,813,ThibautFAUCONNET,6785,FRA,DQ,
-1,1,1,,883,SUNGSi-Bak,6811,KOR,41.814,Q
-1,2,2,,807,SUIBaoKu,6416,CHN,41.898,Q
-1,3,4,,805,RichardSHOEBRIDGE,6117,CAN,42.114,
-1,4,3,,335,CharlesRyanLEVEILLE,7122,USA,42.426,
-2,1,2,,823,JonELEY,6592,GBR,42.546,Q
-2,2,1,,811,WANGHongYang,6084,CHN,42.611,Q
-2,3,4,,850,ArturSULTANGALIYEV,6158,KAZ,42.792,
-2,DQ,3,,332,JeffSIMON,7280,USA,DQ,
-3,1,2,,881,BartoszKONOPKO,7169,POL,42.516,Q
-3,2,4,,872,NielsKERSTHOLT,7067,NED,42.925,Q
-3,3,1,,804,MichaelGILDAY,6195,CAN,48.894,ADV
-3,DQ,3,,885,LEEJungSu,7266,KOR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,1,1,1,,802,OlivierJEAN,6756,CAN,41.563,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,1,2,2,,836,NicolaRODIGARI,6332,ITA,41.784,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,1,3,3,,889,SergeyPRANKEVICH,7048,RUS,42.001,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,1,4,5,,334,TravisJAYNER,6300,USA,42.006,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,1,DQ,4,,813,ThibautFAUCONNET,6785,FRA,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,2,1,1,,883,SUNGSi-Bak,6811,KOR,41.814,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,2,2,2,,807,SUIBaoKu,6416,CHN,41.898,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,2,3,4,,805,RichardSHOEBRIDGE,6117,CAN,42.114,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,2,4,3,,335,CharlesRyanLEVEILLE,7122,USA,42.426,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,3,1,2,,823,JonELEY,6592,GBR,42.546,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,3,2,1,,811,WANGHongYang,6084,CHN,42.611,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,3,3,4,,850,ArturSULTANGALIYEV,6158,KAZ,42.792,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,3,DQ,3,,332,JeffSIMON,7280,USA,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,4,1,2,,881,BartoszKONOPKO,7169,POL,42.516,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,4,2,4,,872,NielsKERSTHOLT,7067,NED,42.925,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,4,3,1,,804,MichaelGILDAY,6195,CAN,48.894,ADV
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(2),m,Quarterfinals,4,DQ,3,,885,LEEJungSu,7266,KOR,DQ,

@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,328,NETHERLANDS,9027,NED,6:44.961,Q
-0,2,3,,306,CANADA,9016,CAN,6:45.162,Q
-0,3,2,,321,JAPAN,9024,JPN,6:45.456,q
-0,4,4,,305,BELGIUM,9013,BEL,7:07.289,
-1,1,2,,308,CHINA,9022,CHN,7:10.738,Q
-1,2,1,,317,HUNGARY,9021,HUN,7:11.163,Q
-1,3,4,,323,KAZAKHSTAN,9025,KAZ,7:11.779,ADV
-1,PEN,3,,313,FRANCE,9018,FRA,PEN,
-2,1,2,,325,KOREA,9026,KOR,6:53.348,Q
-2,2,3,,338,UNITEDSTATES,9032,USA,6:54.988,Q
-2,3,4,,332,RUSSIA,9029,RUS,6:55.055,q
-2,4,1,,319,ITALY,9023,ITA,6:55.264,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,1,1,1,,328,NETHERLANDS,9027,NED,6:44.961,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,1,2,3,,306,CANADA,9016,CAN,6:45.162,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,1,3,2,,321,JAPAN,9024,JPN,6:45.456,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,1,4,4,,305,BELGIUM,9013,BEL,7:07.289,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,2,1,2,,308,CHINA,9022,CHN,7:10.738,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,2,2,1,,317,HUNGARY,9021,HUN,7:11.163,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,2,3,4,,323,KAZAKHSTAN,9025,KAZ,7:11.779,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,2,PEN,3,,313,FRANCE,9018,FRA,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,3,1,2,,325,KOREA,9026,KOR,6:53.348,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,3,2,3,,338,UNITEDSTATES,9032,USA,6:54.988,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,3,3,4,,332,RUSSIA,9029,RUS,6:55.055,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),5000mRelay,m,Quarterfinals,3,4,1,,319,ITALY,9023,ITA,6:55.264,

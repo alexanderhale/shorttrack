@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,415,WUDajing,7729,CHN,41.356,Q
-0,2,3,,431,ViktorKNOCH,6177,HUN,41.479,Q
-0,3,4,,445,SatoshiSAKASHITA,6183,JPN,41.728,
-0,4,2,,405,MathiasVOSTE,7888,BEL,41.760,
-1,1,1,,426,RichardSHOEBRIDGE,7825,GBR,41.570,Q
-1,2,2,,442,HironobuMURATAKE,8671,JPN,41.699,Q
-1,3,3,,403,JUNGHyunWoo(Andy),8575,AUS,41.799,
-1,4,4,,418,PaulBEAUCHAMP,8560,FRA,42.989,
-2,1,1,,407,SamuelBELANGER-MARCEAU,8666,CAN,41.570,Q
-2,2,3,,448,AZHGALIYEVAbzal,7685,KAZ,41.704,Q
-2,3,4,,472,KirillSHASHIN,7944,RUS,notime,
-2,4,2,,436,CASSINELLIAndrea,7741,ITA,notime,
-3,1,1,,433,ShaoangLIU,8564,HUN,41.404,Q
-3,2,2,,454,HANSeungSoo,8673,KOR,41.412,Q
-3,3,3,,428,PaulSTANLEY,7054,GBR,42.550,
-3,4,4,,480,KeithCARROLL,8449,USA,44.132,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,1,1,1,,415,WUDajing,7729,CHN,41.356,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,1,2,3,,431,ViktorKNOCH,6177,HUN,41.479,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,1,3,4,,445,SatoshiSAKASHITA,6183,JPN,41.728,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,1,4,2,,405,MathiasVOSTE,7888,BEL,41.760,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,2,1,1,,426,RichardSHOEBRIDGE,7825,GBR,41.570,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,2,2,2,,442,HironobuMURATAKE,8671,JPN,41.699,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,2,3,3,,403,JUNGHyunWoo(Andy),8575,AUS,41.799,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,2,4,4,,418,PaulBEAUCHAMP,8560,FRA,42.989,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,3,1,1,,407,SamuelBELANGER-MARCEAU,8666,CAN,41.570,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,3,2,3,,448,AZHGALIYEVAbzal,7685,KAZ,41.704,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,3,3,4,,472,KirillSHASHIN,7944,RUS,notime,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,3,4,2,,436,CASSINELLIAndrea,7741,ITA,notime,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,4,1,1,,433,ShaoangLIU,8564,HUN,41.404,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,4,2,2,,454,HANSeungSoo,8673,KOR,41.412,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,4,3,3,,428,PaulSTANLEY,7054,GBR,42.550,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,RepQuarterfinals,4,4,4,,480,KeithCARROLL,8449,USA,44.132,

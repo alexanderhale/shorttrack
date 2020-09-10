@@ -1,27 +1,27 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,365,MikaOZAWA,6318,JPN,1:36.400,Q
-0,2,2,,310,VeronikaWINDISCH,6427,AUT,1:36.514,Q
-0,3,4,,345,HANYueshuang,6572,HKG,1:37.112,q
-0,4,3,,375,SannevanKERKHOF,6835,NED,1:37.252,
-1,1,2,,308,Alix-MyraANDERSON,7353,AUS,1:38.372,Q
-1,2,3,,357,LuciaPERETTI,7160,ITA,1:38.466,Q
-1,3,1,,396,ValeriyaREZNIK,6573,RUS,1:38.498,
-1,4,4,,351,VeronikaDENES,7394,HUN,1:43.776,
-2,1,1,,316,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:38.378,Q
-2,2,3,,462,RanyaEZZI,6840,SWE,1:38.435,Q
-2,3,2,,340,JuliaRIEDEL,6287,GER,1:38.526,
-3,1,2,,312,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.532,Q
-3,2,1,,397,OlgaMASKAIKINA,6685,RUS,1:38.174,Q
-3,3,3,,383,MalwinaZAWADA,6155,POL,1:38.259,q
-3,4,4,,369,ChikaISHIDA,7418,JPN,1:56.013,
-4,1,2,,339,AikaKLEIN,6359,GER,1:44.273,Q
-4,2,1,,366,YasukoSAKASHITA,6189,JPN,1:44.369,Q
-4,3,3,,380,AgnieszkaBAWERNA,7193,POL,1:44.737,
-4,DNS,4,,373,JorienterMORS,6146,NED,DNS,
-5,1,1,,349,BernadettHEIDUM,6798,HUN,1:35.510,Q
-5,2,2,,361,KatiaZINI,6076,ITA,1:36.805,Q
-5,3,3,,353,ElenaKAPLAN,7236,ISR,1:38.287,
-6,1,3,,356,CeciliaMAFFEI,6559,ITA,1:37.276,Q
-6,2,1,,347,ErikaHUSZAR,6373,HUN,1:38.176,Q
-6,3,4,,377,FrancescaJACKSON,6356,NZL,1:40.241,
-6,DQ,2,,342,CHRISTIEElise,7135,GBR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,1,1,1,,365,MikaOZAWA,6318,JPN,1:36.400,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,1,2,2,,310,VeronikaWINDISCH,6427,AUT,1:36.514,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,1,3,4,,345,HANYueshuang,6572,HKG,1:37.112,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,1,4,3,,375,SannevanKERKHOF,6835,NED,1:37.252,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,2,1,2,,308,Alix-MyraANDERSON,7353,AUS,1:38.372,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,2,2,3,,357,LuciaPERETTI,7160,ITA,1:38.466,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,2,3,1,,396,ValeriyaREZNIK,6573,RUS,1:38.498,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,2,4,4,,351,VeronikaDENES,7394,HUN,1:43.776,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,3,1,1,,316,Marie-AndreeMENDES-CAMPEAU,7412,CAN,1:38.378,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,3,2,3,,462,RanyaEZZI,6840,SWE,1:38.435,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,3,3,2,,340,JuliaRIEDEL,6287,GER,1:38.526,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,4,1,2,,312,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,1:36.532,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,4,2,1,,397,OlgaMASKAIKINA,6685,RUS,1:38.174,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,4,3,3,,383,MalwinaZAWADA,6155,POL,1:38.259,q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,4,4,4,,369,ChikaISHIDA,7418,JPN,1:56.013,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,5,1,2,,339,AikaKLEIN,6359,GER,1:44.273,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,5,2,1,,366,YasukoSAKASHITA,6189,JPN,1:44.369,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,5,3,3,,380,AgnieszkaBAWERNA,7193,POL,1:44.737,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,5,DNS,4,,373,JorienterMORS,6146,NED,DNS,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,6,1,1,,349,BernadettHEIDUM,6798,HUN,1:35.510,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,6,2,2,,361,KatiaZINI,6076,ITA,1:36.805,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,6,3,3,,353,ElenaKAPLAN,7236,ISR,1:38.287,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,7,1,3,,356,CeciliaMAFFEI,6559,ITA,1:37.276,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,7,2,1,,347,ErikaHUSZAR,6373,HUN,1:38.176,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,7,3,4,,377,FrancescaJACKSON,6356,NZL,1:40.241,
+2008-2009,"Samsung ISU World Cup 2008/2009, CAN, BC, Vancouver",1000m(2),w,RepHeats,7,DQ,2,,342,CHRISTIEElise,7135,GBR,DQ,

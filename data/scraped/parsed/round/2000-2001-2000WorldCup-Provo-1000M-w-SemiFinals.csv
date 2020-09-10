@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,1,,,YANGsYang,6651,CHN,1:36.466,
-0,3,4,,,SUNDandan,6653,CHN,1:52.159,
-0,DNF,2,,,IkueTESHIGAWARA,6315,JPN,DNF,
-1,1,3,,,YANGAYang,6649,CHN,1:35.223,
-1,2,5,,,JOOMin-Jin,6616,KOR,1:35.334,
-1,3,1,,,EvgeniaRADANOVA,6775,BUL,1:35.367,
-1,4,2,,,ChikageTANAKA,6314,JPN,1:35.867,
-1,5,4,,,AmyPETERSON,6528,USA,1:36.096,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,1,2,1,,,YANGsYang,6651,CHN,1:36.466,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,1,3,4,,,SUNDandan,6653,CHN,1:52.159,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,1,DNF,2,,,IkueTESHIGAWARA,6315,JPN,DNF,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,2,1,3,,,YANGAYang,6649,CHN,1:35.223,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,2,2,5,,,JOOMin-Jin,6616,KOR,1:35.334,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,2,3,1,,,EvgeniaRADANOVA,6775,BUL,1:35.367,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,2,4,2,,,ChikageTANAKA,6314,JPN,1:35.867,
+2000-2001,2000 World Cup - Provo,1000M,w,SemiFinals,2,5,4,,,AmyPETERSON,6528,USA,1:36.096,

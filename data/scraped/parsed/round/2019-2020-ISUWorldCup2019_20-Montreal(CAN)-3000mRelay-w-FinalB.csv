@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,327,NETHERLANDS,9040,NED,4:15.020,
-0,2,1,,324,KOREA,9044,KOR,4:15.715,
-0,3,3,,330,POLAND,9041,POL,4:16.235,
-0,4,4,,307,FRANCE,9042,FRA,4:16.711,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),3000mRelay,w,FinalB,1,1,2,,327,NETHERLANDS,9040,NED,4:15.020,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),3000mRelay,w,FinalB,1,2,1,,324,KOREA,9044,KOR,4:15.715,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),3000mRelay,w,FinalB,1,3,3,,330,POLAND,9041,POL,4:16.235,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),3000mRelay,w,FinalB,1,4,4,,307,FRANCE,9042,FRA,4:16.711,

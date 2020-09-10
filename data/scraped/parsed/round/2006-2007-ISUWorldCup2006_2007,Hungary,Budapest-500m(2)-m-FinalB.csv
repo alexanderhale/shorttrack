@@ -1,3 +1,3 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,163,LEESeung-Jae,6621,KOR,43.944,
-0,2,1,,128,JonELEY,6592,GBR,53.488,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,FinalB,1,1,2,,163,LEESeung-Jae,6621,KOR,43.944,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",500m(2),m,FinalB,1,2,1,,128,JonELEY,6592,GBR,53.488,

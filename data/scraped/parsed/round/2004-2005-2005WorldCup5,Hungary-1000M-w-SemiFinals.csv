@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,107,CHOIEun-Kyung,6943,KOR,1:33.469,Q
-0,3,1,,21,EvgeniaRADANOVA,6775,BUL,1:33.668,
-0,4,4,,41,YANGAYang,6649,CHN,1:34.180,
-1,1,1,,110,KANGYun-Mi,6830,KOR,1:33.094,Q
-1,2,2,,39,WANGMeng,6594,CHN,1:33.211,Q
-1,3,4,,30,AmandaOVERLAND,7079,CAN,1:33.391,
-1,4,3,,38,FUTianYu,6650,CHN,1:35.861,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,1,2,3,,107,CHOIEun-Kyung,6943,KOR,1:33.469,Q
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,1,3,1,,21,EvgeniaRADANOVA,6775,BUL,1:33.668,
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,1,4,4,,41,YANGAYang,6649,CHN,1:34.180,
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,2,1,1,,110,KANGYun-Mi,6830,KOR,1:33.094,Q
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,2,2,2,,39,WANGMeng,6594,CHN,1:33.211,Q
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,2,3,4,,30,AmandaOVERLAND,7079,CAN,1:33.391,
+2004-2005,"2005 World Cup 5, Hungary",1000M,w,SemiFinals,2,4,3,,38,FUTianYu,6650,CHN,1:35.861,

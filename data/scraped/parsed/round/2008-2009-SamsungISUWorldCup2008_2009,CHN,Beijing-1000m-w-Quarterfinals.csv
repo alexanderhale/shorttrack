@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,527,ZHOUYang,6222,CHN,1:35.581,Q
-0,2,2,,532,KaterinaNOVOTNA,6647,CZE,1:35.805,Q
-0,3,3,,787,AllisonBAVER,6533,USA,1:35.858,
-0,4,1,,514,JessicaHEWITT,7548,CAN,2:02.776,
-1,2,1,,773,SHINSae-Bom,7162,KOR,1:33.677,Q
-1,3,4,,512,AnneMALTAIS,6355,CAN,1:34.161,
-1,4,3,,565,HANYueshuang,6572,HKG,1:38.019,
-2,1,1,,785,KatherineREUTTER-ADAMEK,7255,USA,1:32.187,Q
-2,2,2,,772,KIMMin-Jung,6831,KOR,1:32.284,Q
-2,3,3,,531,ZHANGHui,7550,CHN,1:33.088,
-2,4,4,,758,BibaSAKURAI,7240,JPN,1:33.530,
-3,1,1,,771,JUNGEun-Ju,6297,KOR,1:32.597,Q
-3,2,4,,513,KalynaROBERGE,6284,CAN,1:32.677,Q
-3,3,3,,756,MikaOZAWA,6318,JPN,1:32.785,
-3,4,5,,569,BernadettHEIDUM,6798,HUN,1:32.872,
-3,5,2,,786,KimberlyDERRICK,6246,USA,1:33.091,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,1,1,4,,527,ZHOUYang,6222,CHN,1:35.581,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,1,2,2,,532,KaterinaNOVOTNA,6647,CZE,1:35.805,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,1,3,3,,787,AllisonBAVER,6533,USA,1:35.858,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,1,4,1,,514,JessicaHEWITT,7548,CAN,2:02.776,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,2,2,1,,773,SHINSae-Bom,7162,KOR,1:33.677,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,2,3,4,,512,AnneMALTAIS,6355,CAN,1:34.161,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,2,4,3,,565,HANYueshuang,6572,HKG,1:38.019,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,3,1,1,,785,KatherineREUTTER-ADAMEK,7255,USA,1:32.187,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,3,2,2,,772,KIMMin-Jung,6831,KOR,1:32.284,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,3,3,3,,531,ZHANGHui,7550,CHN,1:33.088,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,3,4,4,,758,BibaSAKURAI,7240,JPN,1:33.530,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,4,1,1,,771,JUNGEun-Ju,6297,KOR,1:32.597,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,4,2,4,,513,KalynaROBERGE,6284,CAN,1:32.677,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,4,3,3,,756,MikaOZAWA,6318,JPN,1:32.785,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,4,4,5,,569,BernadettHEIDUM,6798,HUN,1:32.872,
+2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",1000m,w,Quarterfinals,4,5,2,,786,KimberlyDERRICK,6246,USA,1:33.091,

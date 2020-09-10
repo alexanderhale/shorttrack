@@ -1,24 +1,24 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,110,CHENXin,7358,CHN,2:40.636,Q
-0,2,3,,123,PaulHERRMANN,6803,GER,2:40.769,Q
-0,3,5,,128,PaulSTANLEY,7054,GBR,2:40.801,Q
-0,4,2,,147,AslanDAUMOV,6119,KAZ,2:41.525,
-0,5,4,,150,BREEUWSMADaan,7218,NED,2:42.556,
-1,1,1,,122,TysonHEUNG,6240,GER,2:37.065,Q
-1,2,4,,153,RudyKOEK,7225,NED,2:37.863,Q
-1,3,5,,103,AndrePULEC,6054,AUT,2:38.389,Q
-1,4,3,,132,BYKANOVVladislav,6178,ISR,2:38.810,
-1,5,6,,149,AzamatNURMAGAMBETOV,7350,KAZ,2:39.966,
-1,DQ,2,,157,JakubJAWORSKI,6816,POL,DQ,
-2,1,1,,169,AlexanderGERTSIKOV,6570,RUS,2:32.525,Q
-2,2,6,,140,JunjiITO,6579,JPN,2:32.893,Q
-2,3,5,,131,AnthonyDOUGLAS,6301,GBR,2:33.582,Q
-2,4,3,,124,SebastianPRAUS,6364,GER,2:34.109,ADV
-2,5,4,,172,DmytroPOLTAVETS,7221,UKR,2:35.310,
-2,DQ,2,,181,ShaniDAVIS,6498,USA,DQ,
-3,1,1,,133,FabioCARTA,6001,ITA,2:38.578,Q
-3,2,2,,101,LachlanHAY,6845,AUS,2:38.587,Q
-3,3,4,,152,KNEGTSjinkie,7352,NED,2:39.040,Q
-3,4,5,,144,AndreySMETANIN,6459,KAZ,2:39.254,
-3,5,3,,121,GregoryDURAND,6646,FRA,2:39.543,
-3,6,6,,174,SerhiyLIFYRENKO,6826,UKR,2:39.916,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,1,1,1,,110,CHENXin,7358,CHN,2:40.636,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,1,2,3,,123,PaulHERRMANN,6803,GER,2:40.769,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,1,3,5,,128,PaulSTANLEY,7054,GBR,2:40.801,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,1,4,2,,147,AslanDAUMOV,6119,KAZ,2:41.525,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,1,5,4,,150,BREEUWSMADaan,7218,NED,2:42.556,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,1,1,,122,TysonHEUNG,6240,GER,2:37.065,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,2,4,,153,RudyKOEK,7225,NED,2:37.863,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,3,5,,103,AndrePULEC,6054,AUT,2:38.389,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,4,3,,132,BYKANOVVladislav,6178,ISR,2:38.810,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,5,6,,149,AzamatNURMAGAMBETOV,7350,KAZ,2:39.966,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,2,DQ,2,,157,JakubJAWORSKI,6816,POL,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,1,1,,169,AlexanderGERTSIKOV,6570,RUS,2:32.525,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,2,6,,140,JunjiITO,6579,JPN,2:32.893,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,3,5,,131,AnthonyDOUGLAS,6301,GBR,2:33.582,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,4,3,,124,SebastianPRAUS,6364,GER,2:34.109,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,5,4,,172,DmytroPOLTAVETS,7221,UKR,2:35.310,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,3,DQ,2,,181,ShaniDAVIS,6498,USA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,1,1,,133,FabioCARTA,6001,ITA,2:38.578,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,2,2,,101,LachlanHAY,6845,AUS,2:38.587,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,3,4,,152,KNEGTSjinkie,7352,NED,2:39.040,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,4,5,,144,AndreySMETANIN,6459,KAZ,2:39.254,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,5,3,,121,GregoryDURAND,6646,FRA,2:39.543,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",1500m,m,RepQuarterfinals,4,6,6,,174,SerhiyLIFYRENKO,6826,UKR,2:39.916,

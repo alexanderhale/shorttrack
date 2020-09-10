@@ -1,21 +1,21 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,2,KNEGTSjinkie,7352,NED,41.579,Q
-0,2,3,,30,JUNGHyunWoo(Andy),8575,AUS,41.598,Q
-0,3,5,,23,RobertsZVEJNIEKS,8490,LAT,41.828,
-0,4,1,,13,J.R.CELSKI,7279,USA,43.039,
-0,PEN,4,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,PEN,
-1,1,1,,1,SEOYiRa,7940,KOR,41.155,Q
-1,2,4,,22,BYKANOVVladislav,6178,ISR,41.264,Q
-1,3,5,,124,BartoszKONOPKO,7169,POL,42.239,
-1,4,2,,17,BREEUWSMADaan,7218,NED,notime,
-1,4,3,,21,NIKISHADenis,8396,KAZ,notime,
-2,1,2,,3,SamuelGIRARD,8600,CAN,41.215,Q
-2,2,1,,187,KIMDoKyoum,8398,KOR,41.423,Q
-2,3,3,,18,HOOGERWERFDylan,8497,NED,41.450,
-2,4,4,,76,AZHGALIYEVAbzal,7685,KAZ,41.827,
-2,PEN,5,,8,HAMELINCharles,6610,CAN,PEN,
-3,1,1,,5,ShaoangLIU,8564,HUN,40.859,Q
-3,2,5,,58,HWANGDaeHeon,9115,KOR,40.986,Q
-3,3,4,,6,WUDajing,7729,CHN,41.009,
-3,4,2,,16,RENZiwei,8601,CHN,41.026,
-3,5,3,,12,SemenELISTRATOV,7293,RUS,41.208,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,1,1,2,,2,KNEGTSjinkie,7352,NED,41.579,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,1,2,3,,30,JUNGHyunWoo(Andy),8575,AUS,41.598,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,1,3,5,,23,RobertsZVEJNIEKS,8490,LAT,41.828,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,1,4,1,,13,J.R.CELSKI,7279,USA,43.039,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,1,PEN,4,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,2,1,1,,1,SEOYiRa,7940,KOR,41.155,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,2,2,4,,22,BYKANOVVladislav,6178,ISR,41.264,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,2,3,5,,124,BartoszKONOPKO,7169,POL,42.239,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,2,4,2,,17,BREEUWSMADaan,7218,NED,notime,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,2,4,3,,21,NIKISHADenis,8396,KAZ,notime,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,3,1,2,,3,SamuelGIRARD,8600,CAN,41.215,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,3,2,1,,187,KIMDoKyoum,8398,KOR,41.423,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,3,3,3,,18,HOOGERWERFDylan,8497,NED,41.450,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,3,4,4,,76,AZHGALIYEVAbzal,7685,KAZ,41.827,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,3,PEN,5,,8,HAMELINCharles,6610,CAN,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,4,1,1,,5,ShaoangLIU,8564,HUN,40.859,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,4,2,5,,58,HWANGDaeHeon,9115,KOR,40.986,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,4,3,4,,6,WUDajing,7729,CHN,41.009,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,4,4,2,,16,RENZiwei,8601,CHN,41.026,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),500m,m,Quarterfinals,4,5,3,,12,SemenELISTRATOV,7293,RUS,41.208,

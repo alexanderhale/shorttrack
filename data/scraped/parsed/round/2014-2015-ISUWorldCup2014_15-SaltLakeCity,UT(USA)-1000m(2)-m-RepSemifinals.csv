@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,456,LEEJungSu,7266,KOR,1:29.329,Q
-0,2,4,,421,VincentJEANNE,7890,FRA,1:29.385,
-0,3,1,,440,NicolaRODIGARI,6332,ITA,1:29.776,
-0,4,3,,441,DavideVISCARDI,7440,ITA,1:29.964,
-1,1,3,,423,NAVARROTristan,8559,FRA,1:32.182,Q
-1,2,1,,419,ThibaultCROLET,7920,FRA,1:32.423,
-1,3,4,,460,RobertoPUKITIS,7785,LAT,1:33.774,
-1,4,2,,402,NathanielHENRY,7966,AUS,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,1,1,2,,456,LEEJungSu,7266,KOR,1:29.329,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,1,2,4,,421,VincentJEANNE,7890,FRA,1:29.385,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,1,3,1,,440,NicolaRODIGARI,6332,ITA,1:29.776,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,1,4,3,,441,DavideVISCARDI,7440,ITA,1:29.964,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,2,1,3,,423,NAVARROTristan,8559,FRA,1:32.182,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,2,2,1,,419,ThibaultCROLET,7920,FRA,1:32.423,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,2,3,4,,460,RobertoPUKITIS,7785,LAT,1:33.774,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(2),m,RepSemifinals,2,4,2,,402,NathanielHENRY,7966,AUS,notime,

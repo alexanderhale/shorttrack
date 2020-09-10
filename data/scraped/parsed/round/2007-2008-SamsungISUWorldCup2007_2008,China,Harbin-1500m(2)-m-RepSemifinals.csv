@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,405,JordanMALONE,6201,USA,2:29.198,Q
-0,2,5,,145,RuslanZAKHAROV,6935,RUS,2:30.037,Q
-0,3,3,,125,RudyKOEK,7225,NED,2:30.243,
-0,4,2,,101,AnthonyDOUGLAS,6301,GBR,2:30.397,
-0,5,4,,114,AndreySMETANIN,6459,KAZ,2:30.551,
-1,1,2,,408,CharlesRyanLEVEILLE,7122,USA,2:32.699,Q
-1,2,5,,103,FabioCARTA,6001,ITA,2:33.092,Q
-1,3,1,,93,GregoryDURAND,6646,FRA,2:33.832,
-1,4,4,,119,AzamatNURMAGAMBETOV,7350,KAZ,2:35.520,
-1,5,3,,403,AntonSIMON,6026,UKR,2:54.271,
-2,1,1,,123,KNEGTSjinkie,7352,NED,2:36.364,Q
-2,2,5,,102,BYKANOVVladislav,6178,ISR,2:36.550,Q
-2,3,2,,117,AslanDAUMOV,6119,KAZ,2:37.102,
-2,4,4,,401,AndriyKOZHUKH,6133,UKR,2:37.376,
-2,DNS,3,,113,ShotaroTANAKA,7347,JPN,DNS,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,1,1,1,,405,JordanMALONE,6201,USA,2:29.198,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,1,2,5,,145,RuslanZAKHAROV,6935,RUS,2:30.037,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,1,3,3,,125,RudyKOEK,7225,NED,2:30.243,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,1,4,2,,101,AnthonyDOUGLAS,6301,GBR,2:30.397,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,1,5,4,,114,AndreySMETANIN,6459,KAZ,2:30.551,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,2,1,2,,408,CharlesRyanLEVEILLE,7122,USA,2:32.699,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,2,2,5,,103,FabioCARTA,6001,ITA,2:33.092,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,2,3,1,,93,GregoryDURAND,6646,FRA,2:33.832,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,2,4,4,,119,AzamatNURMAGAMBETOV,7350,KAZ,2:35.520,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,2,5,3,,403,AntonSIMON,6026,UKR,2:54.271,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,3,1,1,,123,KNEGTSjinkie,7352,NED,2:36.364,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,3,2,5,,102,BYKANOVVladislav,6178,ISR,2:36.550,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,3,3,2,,117,AslanDAUMOV,6119,KAZ,2:37.102,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,3,4,4,,401,AndriyKOZHUKH,6133,UKR,2:37.376,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1500m(2),m,RepSemifinals,3,DNS,3,,113,ShotaroTANAKA,7347,JPN,DNS,

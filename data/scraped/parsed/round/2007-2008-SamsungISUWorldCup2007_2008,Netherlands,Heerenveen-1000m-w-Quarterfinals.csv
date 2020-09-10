@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,4,,54,JUNGEun-Ju,6297,KOR,1:32.393,Q
-0,3,1,,9,KalynaROBERGE,6284,CAN,1:32.555,
-0,4,3,,75,OlgaMASKAIKINA,6685,RUS,1:36.236,
-1,1,1,,55,JINSun-Yu,6108,KOR,1:35.312,Q
-1,2,2,,80,KimberlyDERRICK,6246,USA,1:35.486,Q
-1,3,3,,10,AnneMALTAIS,6355,CAN,1:35.661,
-1,4,4,,74,ValeriyaREZNIK,6573,RUS,1:36.012,
-2,1,4,,58,YANGShin-Young,7163,KOR,1:35.291,Q
-2,2,1,,19,MENGXiaoxue,7185,CHN,1:35.947,Q
-2,3,2,,33,AikaKLEIN,6359,GER,1:36.299,ADV
-2,DQ,3,,36,BernadettHEIDUM,6798,HUN,DQ,
-3,1,1,,16,ZHOUYang,6222,CHN,1:33.992,Q
-3,2,2,,8,AmandaOVERLAND,7079,CAN,1:34.264,Q
-3,3,3,,47,YukaKAMINO,6945,JPN,1:34.544,
-3,4,4,,44,MartaCAPURSO,6328,ITA,1:34.928,
-3,5,5,,65,LiesbethMAUASAM,6444,NED,1:35.106,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,1,2,4,,54,JUNGEun-Ju,6297,KOR,1:32.393,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,1,3,1,,9,KalynaROBERGE,6284,CAN,1:32.555,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,1,4,3,,75,OlgaMASKAIKINA,6685,RUS,1:36.236,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,2,1,1,,55,JINSun-Yu,6108,KOR,1:35.312,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,2,2,2,,80,KimberlyDERRICK,6246,USA,1:35.486,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,2,3,3,,10,AnneMALTAIS,6355,CAN,1:35.661,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,2,4,4,,74,ValeriyaREZNIK,6573,RUS,1:36.012,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,3,1,4,,58,YANGShin-Young,7163,KOR,1:35.291,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,3,2,1,,19,MENGXiaoxue,7185,CHN,1:35.947,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,3,3,2,,33,AikaKLEIN,6359,GER,1:36.299,ADV
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,3,DQ,3,,36,BernadettHEIDUM,6798,HUN,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,4,1,1,,16,ZHOUYang,6222,CHN,1:33.992,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,4,2,2,,8,AmandaOVERLAND,7079,CAN,1:34.264,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,4,3,3,,47,YukaKAMINO,6945,JPN,1:34.544,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,4,4,4,,44,MartaCAPURSO,6328,ITA,1:34.928,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,w,Quarterfinals,4,5,5,,65,LiesbethMAUASAM,6444,NED,1:35.106,

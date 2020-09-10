@@ -1,19 +1,19 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,126,WUDajing,7729,CHN,40.946,Q
-0,3,1,,186,KNEGTSjinkie,7352,NED,41.085,
-0,4,2,,180,SINdaWoon,8035,KOR,42.807,
-0,5,5,,136,JonELEY,6592,GBR,notime,
-1,1,2,,121,OlivierJEAN,6756,CAN,41.034,Q
-1,2,3,,176,KWAKYoon-Gy,6120,KOR,41.879,Q
-1,3,1,,144,TorstenKROEGER,7141,GER,42.364,
-1,4,5,,165,SatoshiSAKASHITA,6183,JPN,43.631,
-1,5,4,,151,ShaolinSandorLIU,7928,HUN,1:19.594,
-2,1,1,,149,ViktorKNOCH,6177,HUN,40.847,Q
-2,2,2,,125,SHIJingnan,7728,CHN,40.951,Q
-2,3,3,,133,LEPAPESebastien,7554,FRA,40.954,
-2,4,4,,198,VladimirGRIGOREV,7826,RUS,41.200,
-2,5,5,,216,CaseyMULLARKEY,8710,USA,notime,
-3,1,4,,178,PARKSeYeong,7750,KOR,41.058,Q
-3,2,1,,120,FrancoisHAMELIN,6167,CAN,41.208,Q
-3,3,2,,189,FreekvanderWART,7269,NED,41.281,
-3,4,3,,174,NurbergenZHUMAGAZIYEV,7349,KAZ,41.411,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,1,1,4,,126,WUDajing,7729,CHN,40.946,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,1,3,1,,186,KNEGTSjinkie,7352,NED,41.085,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,1,4,2,,180,SINdaWoon,8035,KOR,42.807,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,1,5,5,,136,JonELEY,6592,GBR,notime,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,2,1,2,,121,OlivierJEAN,6756,CAN,41.034,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,2,2,3,,176,KWAKYoon-Gy,6120,KOR,41.879,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,2,3,1,,144,TorstenKROEGER,7141,GER,42.364,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,2,4,5,,165,SatoshiSAKASHITA,6183,JPN,43.631,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,2,5,4,,151,ShaolinSandorLIU,7928,HUN,1:19.594,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,3,1,1,,149,ViktorKNOCH,6177,HUN,40.847,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,3,2,2,,125,SHIJingnan,7728,CHN,40.951,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,3,3,3,,133,LEPAPESebastien,7554,FRA,40.954,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,3,4,4,,198,VladimirGRIGOREV,7826,RUS,41.200,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,3,5,5,,216,CaseyMULLARKEY,8710,USA,notime,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,4,1,4,,178,PARKSeYeong,7750,KOR,41.058,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,4,2,1,,120,FrancoisHAMELIN,6167,CAN,41.208,Q
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,4,3,2,,189,FreekvanderWART,7269,NED,41.281,
+2014-2015,ISU World Cup 2014/15 - Dresden (GER),500m,m,Quarterfinals,4,4,3,,174,NurbergenZHUMAGAZIYEV,7349,KAZ,41.411,

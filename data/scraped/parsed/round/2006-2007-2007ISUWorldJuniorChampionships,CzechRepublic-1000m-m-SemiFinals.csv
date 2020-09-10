@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,150,LEEJungSu,7266,KOR,1:28.586,Q,
-0,2,3,,152,JANGWon-Hoon,7166,KOR,1:28.749,Q,
-0,3,2,,121,MaximeCHATAIGNIER,6106,FRA,1:28.856,,
-0,DNF,4,,112,WEIJiguang,7155,CHN,DNF,,
-1,2,2,,111,GAOMing,7154,CHN,1:26.571,Q,
-1,3,4,,108,BEANNicholas,6128,CAN,1:26.661,,
-1,4,3,,132,ViktorKNOCH,6177,HUN,1:30.660,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,1,1,1,,150,LEEJungSu,7266,KOR,1:28.586,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,1,2,3,,152,JANGWon-Hoon,7166,KOR,1:28.749,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,1,3,2,,121,MaximeCHATAIGNIER,6106,FRA,1:28.856,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,1,DNF,4,,112,WEIJiguang,7155,CHN,DNF,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,2,2,2,,111,GAOMing,7154,CHN,1:26.571,Q,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,2,3,4,,108,BEANNicholas,6128,CAN,1:26.661,,
+2006-2007,"2007 ISU World Junior Championships, Czech Republic",1000m,m,SemiFinals,2,4,3,,132,ViktorKNOCH,6177,HUN,1:30.660,,

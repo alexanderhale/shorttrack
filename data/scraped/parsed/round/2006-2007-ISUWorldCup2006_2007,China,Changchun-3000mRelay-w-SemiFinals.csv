@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,140,KOREA,7314,KOR,4:19.559,Q
-0,3,1,,129,JAPAN,7304,JPN,4:20.357,
-0,4,4,,141,RUSSIA,7315,RUS,4:34.038,
-1,1,1,,138,CANADA,7312,CAN,4:20.133,Q
-1,2,4,,137,CHINA,7311,CHN,4:20.422,Q
-1,3,2,,139,GERMANY,7313,GER,4:22.894,
-1,4,3,,142,UNITEDSTATES,7316,USA,4:32.607,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,1,1,3,,140,KOREA,7314,KOR,4:19.559,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,1,3,1,,129,JAPAN,7304,JPN,4:20.357,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,1,4,4,,141,RUSSIA,7315,RUS,4:34.038,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,2,1,1,,138,CANADA,7312,CAN,4:20.133,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,2,2,4,,137,CHINA,7311,CHN,4:20.422,Q
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,2,3,2,,139,GERMANY,7313,GER,4:22.894,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",3000mRelay,w,SemiFinals,2,4,3,,142,UNITEDSTATES,7316,USA,4:32.607,

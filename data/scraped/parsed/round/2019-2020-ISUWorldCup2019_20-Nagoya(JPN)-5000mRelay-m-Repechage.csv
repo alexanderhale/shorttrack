@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,321,KAZAKHSTAN,9025,KAZ,7:15.308,Q
-0,2,3,,326,LATVIA,9034,LAT,7:16.426,q
-0,3,2,,330,POLAND,9028,POL,7:16.509,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Repechage,1,1,1,,321,KAZAKHSTAN,9025,KAZ,7:15.308,Q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Repechage,1,2,3,,326,LATVIA,9034,LAT,7:16.426,q
+2019-2020,ISU World Cup 2019/20 - Nagoya (JPN),5000mRelay,m,Repechage,1,3,2,,330,POLAND,9028,POL,7:16.509,

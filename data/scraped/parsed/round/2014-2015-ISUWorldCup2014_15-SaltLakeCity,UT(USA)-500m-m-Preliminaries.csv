@@ -1,44 +1,44 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,417,YUJiyang,8435,CHN,41.846,Q
-0,2,3,,464,KNEGTSjinkie,7352,NED,41.927,Q
-0,3,1,,428,PaulSTANLEY,7054,GBR,42.666,ADV
-0,PEN,4,,408,PatrickDUFFY,7917,CAN,PEN,
-1,1,2,,482,John-HenryKRUEGER,7763,USA,41.054,Q
-1,2,1,,468,VictorAN,8344,RUS,41.189,Q
-1,3,3,,405,MathiasVOSTE,7888,BEL,42.975,
-2,1,2,,471,DmitryMIGUNOV,7755,RUS,41.403,Q
-2,2,4,,433,ShaoangLIU,8564,HUN,41.894,Q
-2,3,3,,426,RichardSHOEBRIDGE,7825,GBR,42.029,
-2,4,1,,450,NIKISHADenis,8396,KAZ,1:01.405,
-3,1,3,,413,HANTianyu,8388,CHN,41.544,Q
-3,2,4,,425,JonELEY,6592,GBR,41.867,Q
-3,3,1,,403,JUNGHyunWoo(Andy),8575,AUS,41.925,
-3,4,2,,407,SamuelBELANGER-MARCEAU,8666,CAN,41.975,
-4,1,3,,461,BREEUWSMADaan,7218,NED,42.370,Q
-4,2,4,,401,PierreBODA,7588,AUS,42.959,Q
-4,3,2,,480,KeithCARROLL,8449,USA,43.136,
-4,4,1,,418,PaulBEAUCHAMP,8560,FRA,43.581,
-5,1,3,,432,ShaolinSandorLIU,7928,HUN,41.506,Q
-5,2,2,,454,HANSeungSoo,8673,KOR,41.595,Q
-5,3,4,,435,BYKANOVVladislav,6178,ISR,41.646,q
-5,4,1,,474,InanEREN,7788,TUR,43.557,
-6,1,1,,410,SamuelGIRARD,8600,CAN,41.179,Q
-6,2,4,,420,ThibautFAUCONNET,6785,FRA,41.316,Q
-6,3,2,,436,CASSINELLIAndrea,7741,ITA,42.690,
-6,4,3,,445,SatoshiSAKASHITA,6183,JPN,notime,
-7,1,2,,455,KWAKYoon-Gy,6120,KOR,41.236,Q
-7,2,1,,466,FreekvanderWART,7269,NED,41.381,Q
-7,3,4,,438,DOTTITommaso,7604,ITA,42.427,
-7,4,3,,484,JakePOWERS,8675,USA,42.537,
-8,1,3,,457,PARKSeYeong,7750,KOR,41.432,Q
-8,2,4,,442,HironobuMURATAKE,8671,JPN,41.766,Q
-8,3,2,,422,JeremyMASSON,6173,FRA,42.619,
-8,4,1,,479,NecmettinBerkYETISKEN,8352,TUR,43.192,
-9,1,3,,453,NurbergenZHUMAGAZIYEV,7349,KAZ,41.271,Q
-9,2,1,,415,WUDajing,7729,CHN,41.311,Q
-9,3,2,,472,KirillSHASHIN,7944,RUS,41.436,q
-9,4,4,,477,SelimTANRIKULU,7760,TUR,45.001,
-10,1,2,,446,RyosukeSAKAZUME,7542,JPN,42.211,Q
-10,2,4,,448,AZHGALIYEVAbzal,7685,KAZ,42.970,Q
-10,3,1,,439,MassimoGURINI,8617,ITA,43.721,
-10,4,3,,431,ViktorKNOCH,6177,HUN,notime,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,1,1,2,,417,YUJiyang,8435,CHN,41.846,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,1,2,3,,464,KNEGTSjinkie,7352,NED,41.927,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,1,3,1,,428,PaulSTANLEY,7054,GBR,42.666,ADV
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,1,PEN,4,,408,PatrickDUFFY,7917,CAN,PEN,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,2,1,2,,482,John-HenryKRUEGER,7763,USA,41.054,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,2,2,1,,468,VictorAN,8344,RUS,41.189,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,2,3,3,,405,MathiasVOSTE,7888,BEL,42.975,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,3,1,2,,471,DmitryMIGUNOV,7755,RUS,41.403,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,3,2,4,,433,ShaoangLIU,8564,HUN,41.894,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,3,3,3,,426,RichardSHOEBRIDGE,7825,GBR,42.029,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,3,4,1,,450,NIKISHADenis,8396,KAZ,1:01.405,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,4,1,3,,413,HANTianyu,8388,CHN,41.544,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,4,2,4,,425,JonELEY,6592,GBR,41.867,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,4,3,1,,403,JUNGHyunWoo(Andy),8575,AUS,41.925,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,4,4,2,,407,SamuelBELANGER-MARCEAU,8666,CAN,41.975,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,5,1,3,,461,BREEUWSMADaan,7218,NED,42.370,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,5,2,4,,401,PierreBODA,7588,AUS,42.959,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,5,3,2,,480,KeithCARROLL,8449,USA,43.136,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,5,4,1,,418,PaulBEAUCHAMP,8560,FRA,43.581,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,6,1,3,,432,ShaolinSandorLIU,7928,HUN,41.506,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,6,2,2,,454,HANSeungSoo,8673,KOR,41.595,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,6,3,4,,435,BYKANOVVladislav,6178,ISR,41.646,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,6,4,1,,474,InanEREN,7788,TUR,43.557,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,7,1,1,,410,SamuelGIRARD,8600,CAN,41.179,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,7,2,4,,420,ThibautFAUCONNET,6785,FRA,41.316,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,7,3,2,,436,CASSINELLIAndrea,7741,ITA,42.690,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,7,4,3,,445,SatoshiSAKASHITA,6183,JPN,notime,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,8,1,2,,455,KWAKYoon-Gy,6120,KOR,41.236,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,8,2,1,,466,FreekvanderWART,7269,NED,41.381,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,8,3,4,,438,DOTTITommaso,7604,ITA,42.427,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,8,4,3,,484,JakePOWERS,8675,USA,42.537,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,9,1,3,,457,PARKSeYeong,7750,KOR,41.432,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,9,2,4,,442,HironobuMURATAKE,8671,JPN,41.766,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,9,3,2,,422,JeremyMASSON,6173,FRA,42.619,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,9,4,1,,479,NecmettinBerkYETISKEN,8352,TUR,43.192,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,10,1,3,,453,NurbergenZHUMAGAZIYEV,7349,KAZ,41.271,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,10,2,1,,415,WUDajing,7729,CHN,41.311,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,10,3,2,,472,KirillSHASHIN,7944,RUS,41.436,q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,10,4,4,,477,SelimTANRIKULU,7760,TUR,45.001,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,11,1,2,,446,RyosukeSAKAZUME,7542,JPN,42.211,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,11,2,4,,448,AZHGALIYEVAbzal,7685,KAZ,42.970,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,11,3,1,,439,MassimoGURINI,8617,ITA,43.721,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",500m,m,Preliminaries,11,4,3,,431,ViktorKNOCH,6177,HUN,notime,

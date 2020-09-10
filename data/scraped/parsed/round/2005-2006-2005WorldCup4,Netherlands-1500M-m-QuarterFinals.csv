@@ -1,47 +1,47 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,3,,112,RustySMITH,6496,USA,2:31.290,Q
-0,3,2,,50,PeterDARAZS,6465,HUN,2:31.355,
-0,4,1,,41,SebastianPRAUS,6364,GER,2:32.456,
-0,5,5,,1,StephenLEE,6002,AUS,2:33.724,
-1,1,1,,110,ApoloAntonOHNO,6497,USA,2:24.512,Q
-1,2,2,,72,CeesJUFFERMANS,6072,NED,2:24.596,Q
-1,3,3,,52,ViktorKNOCH,6177,HUN,2:24.778,
-1,4,4,,78,MatthewFULLER,6448,NZL,2:24.864,
-1,5,5,,6,BenjaminKOCH,6847,AUT,2:29.579,
-2,1,5,,88,LEEHo-Suk,6856,KOR,2:31.035,Q
-2,2,3,,26,LIYe,6655,CHN,2:31.330,Q
-2,3,1,,12,PieterGYSEL,6425,BEL,2:31.580,
-2,4,2,,70,HaraldsSILOVS,6458,LAT,2:33.782,
-2,5,4,,75,Robbert-KeesBOER,6456,NED,2:37.349,
-3,1,4,,24,JonathanGUILMETTE,6702,CAN,2:29.568,Q
-3,2,2,,37,MaximeCHATAIGNIER,6106,FRA,2:29.879,Q
-3,3,3,,94,AlexanderGERTSIKOV,6570,RUS,2:30.369,
-3,4,5,,15,DriesCELIS,6113,BEL,2:30.870,
-3,5,1,,17,KirilPANDOV,6779,BUL,2:32.703,
-4,1,5,,86,SEOHo-Jin,6547,KOR,2:21.111,Q
-4,2,1,,58,FabioCARTA,6001,ITA,2:21.456,Q
-4,3,6,,115,AndrePULEC,6054,AUT,2:22.613,
-4,4,4,,111,JPKEPKA,6501,USA,2:23.568,
-4,5,2,,33,PetrHARGAS,6171,CZE,2:23.620,
-4,6,3,,45,JonELEY,6592,GBR,2:36.335,
-5,1,2,,20,MathieuTURCOTTE,6705,CAN,2:25.915,Q
-5,2,5,,74,NielsKERSTHOLT,7067,NED,2:26.225,Q
-5,3,1,,35,JeanCharlesMATTEI,6057,FRA,2:26.359,
-5,4,3,,40,TysonHEUNG,6240,GER,2:26.361,
-5,5,4,,19,NikolaySTANCHEV,7045,BUL,2:30.847,
-6,1,3,,23,HAMELINCharles,6610,CAN,2:22.414,Q
-6,2,5,,27,LIHaonan,6658,CHN,2:23.585,Q
-6,3,2,,95,ViacheslavKURGINIAN,6934,RUS,2:24.116,
-6,4,1,,77,MarkJACKSON,6941,NZL,2:25.249,
-6,5,4,,2,MarkMcNEE,6432,AUS,2:26.173,
-7,1,3,,63,SatoruTERAO,6320,JPN,2:24.220,Q
-7,2,5,,36,ThibautFAUCONNET,6785,FRA,2:24.302,Q
-7,3,4,,100,TomasGRESCHNER,6633,SVK,2:24.488,
-7,4,2,,82,KarolBOBOWICZ,6070,POL,2:26.218,
-7,DQ,1,,56,BYKANOVVladislav,6178,ISR,DQ,
-8,1,4,,59,NicolaRODIGARI,6332,ITA,2:29.144,Q
-8,2,3,,25,LIJiajun,7095,CHN,2:29.342,Q
-8,3,6,,93,BulatVALIULLIN,6820,RUS,2:29.547,
-8,4,2,,32,JarmilHRUZA,6503,CZE,2:30.047,
-8,5,1,,44,ThomasBAUER,7092,GER,2:34.638,
-8,6,5,,67,YoshiharuARINO,6075,JPN,2:47.751,ADV
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,1,2,3,,112,RustySMITH,6496,USA,2:31.290,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,1,3,2,,50,PeterDARAZS,6465,HUN,2:31.355,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,1,4,1,,41,SebastianPRAUS,6364,GER,2:32.456,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,1,5,5,,1,StephenLEE,6002,AUS,2:33.724,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,2,1,1,,110,ApoloAntonOHNO,6497,USA,2:24.512,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,2,2,2,,72,CeesJUFFERMANS,6072,NED,2:24.596,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,2,3,3,,52,ViktorKNOCH,6177,HUN,2:24.778,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,2,4,4,,78,MatthewFULLER,6448,NZL,2:24.864,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,2,5,5,,6,BenjaminKOCH,6847,AUT,2:29.579,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,3,1,5,,88,LEEHo-Suk,6856,KOR,2:31.035,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,3,2,3,,26,LIYe,6655,CHN,2:31.330,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,3,3,1,,12,PieterGYSEL,6425,BEL,2:31.580,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,3,4,2,,70,HaraldsSILOVS,6458,LAT,2:33.782,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,3,5,4,,75,Robbert-KeesBOER,6456,NED,2:37.349,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,4,1,4,,24,JonathanGUILMETTE,6702,CAN,2:29.568,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,4,2,2,,37,MaximeCHATAIGNIER,6106,FRA,2:29.879,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,4,3,3,,94,AlexanderGERTSIKOV,6570,RUS,2:30.369,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,4,4,5,,15,DriesCELIS,6113,BEL,2:30.870,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,4,5,1,,17,KirilPANDOV,6779,BUL,2:32.703,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,1,5,,86,SEOHo-Jin,6547,KOR,2:21.111,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,2,1,,58,FabioCARTA,6001,ITA,2:21.456,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,3,6,,115,AndrePULEC,6054,AUT,2:22.613,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,4,4,,111,JPKEPKA,6501,USA,2:23.568,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,5,2,,33,PetrHARGAS,6171,CZE,2:23.620,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,5,6,3,,45,JonELEY,6592,GBR,2:36.335,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,6,1,2,,20,MathieuTURCOTTE,6705,CAN,2:25.915,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,6,2,5,,74,NielsKERSTHOLT,7067,NED,2:26.225,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,6,3,1,,35,JeanCharlesMATTEI,6057,FRA,2:26.359,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,6,4,3,,40,TysonHEUNG,6240,GER,2:26.361,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,6,5,4,,19,NikolaySTANCHEV,7045,BUL,2:30.847,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,7,1,3,,23,HAMELINCharles,6610,CAN,2:22.414,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,7,2,5,,27,LIHaonan,6658,CHN,2:23.585,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,7,3,2,,95,ViacheslavKURGINIAN,6934,RUS,2:24.116,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,7,4,1,,77,MarkJACKSON,6941,NZL,2:25.249,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,7,5,4,,2,MarkMcNEE,6432,AUS,2:26.173,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,8,1,3,,63,SatoruTERAO,6320,JPN,2:24.220,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,8,2,5,,36,ThibautFAUCONNET,6785,FRA,2:24.302,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,8,3,4,,100,TomasGRESCHNER,6633,SVK,2:24.488,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,8,4,2,,82,KarolBOBOWICZ,6070,POL,2:26.218,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,8,DQ,1,,56,BYKANOVVladislav,6178,ISR,DQ,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,1,4,,59,NicolaRODIGARI,6332,ITA,2:29.144,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,2,3,,25,LIJiajun,7095,CHN,2:29.342,Q
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,3,6,,93,BulatVALIULLIN,6820,RUS,2:29.547,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,4,2,,32,JarmilHRUZA,6503,CZE,2:30.047,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,5,1,,44,ThomasBAUER,7092,GER,2:34.638,
+2005-2006,"2005 World Cup 4, Netherlands",1500M,m,QuarterFinals,9,6,5,,67,YoshiharuARINO,6075,JPN,2:47.751,ADV

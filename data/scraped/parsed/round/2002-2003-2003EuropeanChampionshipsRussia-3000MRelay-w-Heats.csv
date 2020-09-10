@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1001,BULGARIA,7335,BUL,4:23.146,Q
-0,2,4,,1007,RUSSIA,7315,RUS,4:23.306,Q
-0,3,3,,1003,GERMANY,7313,GER,4:23.913,
-0,4,2,,1006,ROMANIA,8123,ROU,4:39.595,
-1,1,2,,1004,ITALY,7317,ITA,4:24.287,Q
-1,2,1,,1005,NETHERLANDS,7322,NED,4:27.168,Q
-1,3,3,,1002,CZECHREPUBLIC,8124,CZE,4:31.042,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,1,1,1,,1001,BULGARIA,7335,BUL,4:23.146,Q
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,1,2,4,,1007,RUSSIA,7315,RUS,4:23.306,Q
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,1,3,3,,1003,GERMANY,7313,GER,4:23.913,
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,1,4,2,,1006,ROMANIA,8123,ROU,4:39.595,
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,2,1,2,,1004,ITALY,7317,ITA,4:24.287,Q
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,2,2,1,,1005,NETHERLANDS,7322,NED,4:27.168,Q
+2002-2003,2003 European Championships Russia,3000MRelay,w,Heats,2,3,3,,1002,CZECHREPUBLIC,8124,CZE,4:31.042,

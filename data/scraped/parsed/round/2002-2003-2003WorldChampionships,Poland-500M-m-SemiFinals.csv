@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,89,LIJiajun,7095,CHN,43.205,Q,
-0,2,4,,83,JonathanGUILMETTE,6702,CAN,43.268,Q,
-0,3,2,,155,ApoloAntonOHNO,6497,USA,45.271,ADV,
-1,1,3,,84,Jean-FrancoisMONETTE,7096,CAN,43.359,Q,
-1,2,4,,124,SONGSuk-Woo,7086,KOR,43.504,Q,
-1,3,2,,90,LIYe,6655,CHN,43.513,ADV,
-1,DQ,1,,122,LEESeung-Jae,6621,KOR,DQ,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,1,1,1,,89,LIJiajun,7095,CHN,43.205,Q,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,1,2,4,,83,JonathanGUILMETTE,6702,CAN,43.268,Q,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,1,3,2,,155,ApoloAntonOHNO,6497,USA,45.271,ADV,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,2,1,3,,84,Jean-FrancoisMONETTE,7096,CAN,43.359,Q,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,2,2,4,,124,SONGSuk-Woo,7086,KOR,43.504,Q,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,2,3,2,,90,LIYe,6655,CHN,43.513,ADV,
+2002-2003,"2003 World Championships, Poland",500M,m,SemiFinals,2,DQ,1,,122,LEESeung-Jae,6621,KOR,DQ,,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,1001,CHINA,7311,CHN,3:04.083,Q
-0,2,4,,1007,GERMANY,7313,GER,3:05.774,Q
-0,DQ,1,,1006,UNITEDSTATES,7316,USA,DQ,
-0,DNS,2,,1004,ITALY,7317,ITA,DNS,
-1,1,1,,1000,KOREA,7314,KOR,2:55.744,Q
-1,2,4,,1005,RUSSIA,7315,RUS,2:57.319,Q
-1,3,2,,1002,CANADA,7312,CAN,2:57.893,
-1,4,3,,1003,JAPAN,7310,JPN,3:03.436,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,1,1,3,,1001,CHINA,7311,CHN,3:04.083,Q
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,1,2,4,,1007,GERMANY,7313,GER,3:05.774,Q
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,1,DQ,1,,1006,UNITEDSTATES,7316,USA,DQ,
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,1,DNS,2,,1004,ITALY,7317,ITA,DNS,
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,2,1,1,,1000,KOREA,7314,KOR,2:55.744,Q
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,2,2,4,,1005,RUSSIA,7315,RUS,2:57.319,Q
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,2,3,2,,1002,CANADA,7312,CAN,2:57.893,
+2003-2004,"2004 World Junior Championships, China",2000MRelay,w,SemiFinals,2,4,3,,1003,JAPAN,7310,JPN,3:03.436,

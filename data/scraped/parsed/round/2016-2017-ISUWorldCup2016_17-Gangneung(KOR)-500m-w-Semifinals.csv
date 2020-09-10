@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,1,CHOIMinJeong,8625,KOR,43.968,QA
-0,2,3,,42,JamieMACDONALD,8997,CAN,44.383,QA
-0,3,1,,111,AriannaFONTANA,6227,ITA,1:11.034,ADA
-0,PEN,2,,8,KasandraBRADETTE,8058,CAN,PEN,
-1,1,3,,4,FANKexin,7694,CHN,43.542,QA
-1,2,1,,61,MALISZEWSKANatalia,8437,POL,43.663,QA
-1,3,4,,51,deVRIESRianne,8333,NED,43.737,QB
-1,4,2,,2,MarianneST-GELAIS,7216,CAN,44.368,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,1,1,4,,1,CHOIMinJeong,8625,KOR,43.968,QA
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,1,2,3,,42,JamieMACDONALD,8997,CAN,44.383,QA
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,1,3,1,,111,AriannaFONTANA,6227,ITA,1:11.034,ADA
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,1,PEN,2,,8,KasandraBRADETTE,8058,CAN,PEN,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,2,1,3,,4,FANKexin,7694,CHN,43.542,QA
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,2,2,1,,61,MALISZEWSKANatalia,8437,POL,43.663,QA
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,2,3,4,,51,deVRIESRianne,8333,NED,43.737,QB
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,w,Semifinals,2,4,2,,2,MarianneST-GELAIS,7216,CAN,44.368,QB

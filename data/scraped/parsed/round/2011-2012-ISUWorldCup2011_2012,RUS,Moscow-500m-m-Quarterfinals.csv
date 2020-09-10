@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,210,GONGQiuwen,7593,CHN,41.865,Q
-0,2,2,,270,VladimirGRIGOREV,7826,RUS,41.958,Q
-0,3,4,,219,RichardSHOEBRIDGE,7825,GBR,42.039,QC
-0,4,3,,257,BREEUWSMADaan,7218,NED,42.133,
-1,2,2,,222,JackWHELBOURNE,7437,GBR,42.589,Q
-1,3,4,,272,PavelRYBAKOV,7114,RUS,44.040,QC
-1,4,3,,253,LEEJungSu,7266,KOR,46.476,
-1,PEN,5,,291,John-HenryKRUEGER,7763,USA,PEN,
-2,1,1,,207,HAMELINCharles,6610,CAN,41.251,Q
-2,2,4,,289,SimonCHO,7188,USA,41.508,Q
-2,3,3,,262,FreekvanderWART,7269,NED,41.542,QC
-2,4,2,,252,LEEHo-Suk,6856,KOR,41.548,
-3,1,4,,211,LIANGWenhao,7594,CHN,41.805,Q
-3,2,1,,209,LiamMcFARLANE,7200,CAN,41.887,Q
-3,3,2,,258,NielsKERSTHOLT,7067,NED,41.966,QC
-3,4,3,,287,KyleCARR,6134,USA,42.222,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,1,1,1,,210,GONGQiuwen,7593,CHN,41.865,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,1,2,2,,270,VladimirGRIGOREV,7826,RUS,41.958,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,1,3,4,,219,RichardSHOEBRIDGE,7825,GBR,42.039,QC
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,1,4,3,,257,BREEUWSMADaan,7218,NED,42.133,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,2,2,2,,222,JackWHELBOURNE,7437,GBR,42.589,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,2,3,4,,272,PavelRYBAKOV,7114,RUS,44.040,QC
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,2,4,3,,253,LEEJungSu,7266,KOR,46.476,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,2,PEN,5,,291,John-HenryKRUEGER,7763,USA,PEN,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,3,1,1,,207,HAMELINCharles,6610,CAN,41.251,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,3,2,4,,289,SimonCHO,7188,USA,41.508,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,3,3,3,,262,FreekvanderWART,7269,NED,41.542,QC
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,3,4,2,,252,LEEHo-Suk,6856,KOR,41.548,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,4,1,4,,211,LIANGWenhao,7594,CHN,41.805,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,4,2,1,,209,LiamMcFARLANE,7200,CAN,41.887,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,4,3,2,,258,NielsKERSTHOLT,7067,NED,41.966,QC
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,Quarterfinals,4,4,3,,287,KyleCARR,6134,USA,42.222,

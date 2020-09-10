@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,130,PaulWORTH,6802,GBR,44.026,Q
-0,2,2,,170,SergeyPRANKEVICH,7048,RUS,44.131,Q
-0,3,3,,179,TravisJAYNER,6300,USA,44.287,
-0,4,4,,154,IngmarvanRIEL,6186,NED,45.294,
-1,1,1,,178,RyanBEDFORD,6956,USA,43.684,Q
-1,2,2,,128,PaulSTANLEY,7054,GBR,43.747,Q
-1,3,4,,137,RobertoSERRA,6463,ITA,44.572,
-1,DQ,3,,110,CHENXin,7358,CHN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,1,1,1,,130,PaulWORTH,6802,GBR,44.026,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,1,2,2,,170,SergeyPRANKEVICH,7048,RUS,44.131,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,1,3,3,,179,TravisJAYNER,6300,USA,44.287,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,1,4,4,,154,IngmarvanRIEL,6186,NED,45.294,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,2,1,1,,178,RyanBEDFORD,6956,USA,43.684,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,2,2,2,,128,PaulSTANLEY,7054,GBR,43.747,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,2,3,4,,137,RobertoSERRA,6463,ITA,44.572,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepSemifinals,2,DQ,3,,110,CHENXin,7358,CHN,DQ,

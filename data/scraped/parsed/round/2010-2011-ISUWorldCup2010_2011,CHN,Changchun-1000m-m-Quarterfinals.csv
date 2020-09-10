@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,162,NOHJinkyu,7749,KOR,1:26.410,Q
-0,2,3,,112,MichaelGILDAY,6195,CAN,1:26.511,Q
-0,3,1,,183,KyleCARR,6134,USA,1:27.039,
-0,4,4,,120,SONGWeilong,7156,CHN,1:27.284,
-1,1,2,,163,SUNGSi-Bak,6811,KOR,1:28.988,Q
-1,3,4,,135,YumaSAKURAI,6182,JPN,1:30.467,ADV
-1,PEN,1,,113,OlivierJEAN,6756,CAN,PEN,
-2,1,2,,134,YuzoTAKAMIDO,7158,JPN,1:29.368,Q
-2,2,4,,119,LIUXianwei,6307,CHN,1:29.473,Q
-2,3,1,,165,EvgeniiKOZULIN,7272,RUS,1:29.584,
-2,4,3,,133,BYKANOVVladislav,6178,ISR,1:30.042,
-3,1,1,,164,KIMByeongJun,7287,KOR,1:27.900,Q
-3,2,5,,124,MaximeCHATAIGNIER,6106,FRA,1:28.190,Q
-3,3,3,,180,TravisJAYNER,6300,USA,1:28.506,ADV
-3,4,2,,167,RuslanZAKHAROV,6935,RUS,1:29.541,
-3,PEN,4,,117,LIANGWenhao,7594,CHN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,1,1,2,,162,NOHJinkyu,7749,KOR,1:26.410,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,1,2,3,,112,MichaelGILDAY,6195,CAN,1:26.511,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,1,3,1,,183,KyleCARR,6134,USA,1:27.039,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,1,4,4,,120,SONGWeilong,7156,CHN,1:27.284,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,2,1,2,,163,SUNGSi-Bak,6811,KOR,1:28.988,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,2,3,4,,135,YumaSAKURAI,6182,JPN,1:30.467,ADV
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,2,PEN,1,,113,OlivierJEAN,6756,CAN,PEN,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,3,1,2,,134,YuzoTAKAMIDO,7158,JPN,1:29.368,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,3,2,4,,119,LIUXianwei,6307,CHN,1:29.473,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,3,3,1,,165,EvgeniiKOZULIN,7272,RUS,1:29.584,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,3,4,3,,133,BYKANOVVladislav,6178,ISR,1:30.042,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,4,1,1,,164,KIMByeongJun,7287,KOR,1:27.900,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,4,2,5,,124,MaximeCHATAIGNIER,6106,FRA,1:28.190,Q
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,4,3,3,,180,TravisJAYNER,6300,USA,1:28.506,ADV
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,4,4,2,,167,RuslanZAKHAROV,6935,RUS,1:29.541,
+2010-2011,"ISU World Cup 2010/2011, CHN, Changchun",1000m,m,Quarterfinals,4,PEN,4,,117,LIANGWenhao,7594,CHN,PEN,

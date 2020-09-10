@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,73,KIMYun-Mi,6480,KOR,46.90,Q
-0,2,2,,68,IkueTESHIGAWARA,6315,JPN,47.18,Q
-0,3,3,,53,EvgeniaRADANOVA,6775,BUL,47.36,
-0,4,4,,80,MCGILLWhitney,6345,USA,48.54,
-1,1,1,,65,BarbaraBALDISSERA,6711,ITA,47.26,Q
-1,2,2,,56,DUSSAULTCatherine,6354,CAN,47.38,Q
-1,3,3,,74,WONHye-Kyung,6759,KOR,47.80,
-1,4,4,,79,JulieGOSKOWICZ,6939,USA,48.91,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,1,1,1,,73,KIMYun-Mi,6480,KOR,46.90,Q
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,1,2,2,,68,IkueTESHIGAWARA,6315,JPN,47.18,Q
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,1,3,3,,53,EvgeniaRADANOVA,6775,BUL,47.36,
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,1,4,4,,80,MCGILLWhitney,6345,USA,48.54,
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,2,1,1,,65,BarbaraBALDISSERA,6711,ITA,47.26,Q
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,2,2,2,,56,DUSSAULTCatherine,6354,CAN,47.38,Q
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,2,3,3,,74,WONHye-Kyung,6759,KOR,47.80,
+1994-1995,1995 World Junior Championships - Canada,500M,w,SemiFinals,2,4,4,,79,JulieGOSKOWICZ,6939,USA,48.91,

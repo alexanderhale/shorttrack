@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,,AmelieGOULET-NADON,6661,CAN,46.259,
-0,2,1,,,CHOIMin-Kyung,6548,KOR,46.296,
-0,3,4,,,MAODi,6895,CHN,1:07.197,
-0,DQ,2,,,StephanieBOUVIER,6709,FRA,DQ,
-1,1,2,,,Marie-EveDROLET,6059,CAN,45.621,
-1,2,4,,,KOGi-Hyun,6073,KOR,46.282,
-1,3,1,,,AmandaOVERLAND,7079,CAN,47.401,
-1,4,3,,,MariaGARCIA,7082,USA,1:02.019,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,1,1,3,,,AmelieGOULET-NADON,6661,CAN,46.259,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,1,2,1,,,CHOIMin-Kyung,6548,KOR,46.296,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,1,3,4,,,MAODi,6895,CHN,1:07.197,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,1,DQ,2,,,StephanieBOUVIER,6709,FRA,DQ,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,2,1,2,,,Marie-EveDROLET,6059,CAN,45.621,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,2,2,4,,,KOGi-Hyun,6073,KOR,46.282,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,2,3,1,,,AmandaOVERLAND,7079,CAN,47.401,
+2000-2001,2001 World Junior Championships,500M,w,SemiFinals,2,4,3,,,MariaGARCIA,7082,USA,1:02.019,

@@ -1,39 +1,39 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,5,EvgeniaRADANOVA,6775,BUL,45.813,Q
-0,2,3,,76,LanaGEHRING,7254,USA,46.221,Q
-0,3,1,,33,BernadettHEIDUM,6798,HUN,46.465,
-0,4,4,,49,InnaSIMONOVA,7241,KAZ,46.902,
-1,1,2,,24,SusanneRUDOLPH,6362,GER,46.133,Q
-1,2,1,,69,ValeriyaREZNIK,6573,RUS,46.387,Q
-1,3,4,,60,MaaikeVOS,7180,NED,46.506,
-1,4,3,,36,ValeriePOSTRIGAN,7295,ISR,51.524,
-2,2,3,,53,PARKSeung-Hi,7164,KOR,44.759,Q
-2,3,1,,56,EvitaKRIEVANE,6833,LAT,47.341,
-3,1,1,,21,KaterinaNOVOTNA,6647,CZE,45.736,Q
-3,2,2,,40,LuciaPERETTI,7160,ITA,45.933,Q
-3,3,3,,67,AgnieszkaBAWERNA,7193,POL,46.150,
-3,4,4,,26,WALTERBianca,7232,GER,46.227,
-4,1,2,,9,KalynaROBERGE,6284,CAN,45.227,Q
-4,2,4,,44,YukaKAMINO,6945,JPN,46.715,Q
-4,3,3,,58,LiesbethMAUASAM,6444,NED,47.191,
-4,4,1,,3,YulyiaYELSAKOVA,6021,BLR,47.554,
-5,1,3,,20,ZHAONannan,7150,CHN,45.385,Q
-5,2,4,,38,AriannaFONTANA,6227,ITA,45.474,Q
-5,3,2,,54,SHINSae-Bom,7162,KOR,45.516,
-5,4,1,,66,AnnaROMANOWICZ,6027,POL,46.946,
-6,1,2,,16,FUTianYu,6650,CHN,45.377,Q
-6,2,1,,57,AnnitavanDOORN,6440,NED,46.415,Q
-6,3,4,,77,MaryGRACE,7187,USA,46.917,
-6,DQ,3,,14,ValerieLAMBERT,7132,CAN,DQ,
-7,1,1,,45,AyukoITO,6791,JPN,46.294,Q
-7,2,2,,29,JoannaWILLIAMS,6639,GBR,46.340,Q
-7,3,3,,79,CheriseWILKINS,7291,USA,46.434,
-7,4,4,,55,KYEMin-Jung,7391,KOR,46.519,
-8,1,4,,10,AnneMALTAIS,6355,CAN,46.540,Q
-8,2,1,,6,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.605,Q
-8,3,2,,31,CharlotteGILMARTIN,7136,GBR,46.659,
-8,4,3,,41,DeboraSECCHI,7238,ITA,46.901,
-9,1,2,,68,EkaterinaBELOVA,6190,RUS,46.154,Q
-9,2,1,,47,YuiSAKAI,6229,JPN,46.493,Q
-9,3,3,,64,PatrycjaMALISZEWSKA,6154,POL,46.673,
-9,4,4,,25,JuliaRIEDEL,6287,GER,46.772,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,1,1,2,,5,EvgeniaRADANOVA,6775,BUL,45.813,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,1,2,3,,76,LanaGEHRING,7254,USA,46.221,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,1,3,1,,33,BernadettHEIDUM,6798,HUN,46.465,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,1,4,4,,49,InnaSIMONOVA,7241,KAZ,46.902,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,2,1,2,,24,SusanneRUDOLPH,6362,GER,46.133,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,2,2,1,,69,ValeriyaREZNIK,6573,RUS,46.387,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,2,3,4,,60,MaaikeVOS,7180,NED,46.506,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,2,4,3,,36,ValeriePOSTRIGAN,7295,ISR,51.524,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,3,2,3,,53,PARKSeung-Hi,7164,KOR,44.759,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,3,3,1,,56,EvitaKRIEVANE,6833,LAT,47.341,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,4,1,1,,21,KaterinaNOVOTNA,6647,CZE,45.736,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,4,2,2,,40,LuciaPERETTI,7160,ITA,45.933,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,4,3,3,,67,AgnieszkaBAWERNA,7193,POL,46.150,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,4,4,4,,26,WALTERBianca,7232,GER,46.227,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,5,1,2,,9,KalynaROBERGE,6284,CAN,45.227,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,5,2,4,,44,YukaKAMINO,6945,JPN,46.715,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,5,3,3,,58,LiesbethMAUASAM,6444,NED,47.191,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,5,4,1,,3,YulyiaYELSAKOVA,6021,BLR,47.554,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,6,1,3,,20,ZHAONannan,7150,CHN,45.385,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,6,2,4,,38,AriannaFONTANA,6227,ITA,45.474,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,6,3,2,,54,SHINSae-Bom,7162,KOR,45.516,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,6,4,1,,66,AnnaROMANOWICZ,6027,POL,46.946,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,7,1,2,,16,FUTianYu,6650,CHN,45.377,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,7,2,1,,57,AnnitavanDOORN,6440,NED,46.415,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,7,3,4,,77,MaryGRACE,7187,USA,46.917,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,7,DQ,3,,14,ValerieLAMBERT,7132,CAN,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,8,1,1,,45,AyukoITO,6791,JPN,46.294,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,8,2,2,,29,JoannaWILLIAMS,6639,GBR,46.340,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,8,3,3,,79,CheriseWILKINS,7291,USA,46.434,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,8,4,4,,55,KYEMin-Jung,7391,KOR,46.519,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,9,1,4,,10,AnneMALTAIS,6355,CAN,46.540,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,9,2,1,,6,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,46.605,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,9,3,2,,31,CharlotteGILMARTIN,7136,GBR,46.659,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,9,4,3,,41,DeboraSECCHI,7238,ITA,46.901,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,10,1,2,,68,EkaterinaBELOVA,6190,RUS,46.154,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,10,2,1,,47,YuiSAKAI,6229,JPN,46.493,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,10,3,3,,64,PatrycjaMALISZEWSKA,6154,POL,46.673,
+2007-2008,"Samsung ISU World Cup 2007/2008, Italy, Torino",500m,w,Preliminaries,10,4,4,,25,JuliaRIEDEL,6287,GER,46.772,

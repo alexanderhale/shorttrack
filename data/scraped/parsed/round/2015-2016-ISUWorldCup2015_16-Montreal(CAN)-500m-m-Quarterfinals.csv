@@ -1,19 +1,19 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,WUDajing,7729,CHN,41.192,Q
-0,2,3,,2,PARKSeYeong,7750,KOR,41.277,Q
-0,3,2,,149,AlexanderFATHOULLIN,8546,CAN,41.305,
-0,4,5,,17,JonELEY,6592,GBR,41.375,
-0,5,4,,131,ArtemKOZLOV,8638,RUS,42.825,
-1,1,1,,148,CharleCOURNOYER,8063,CAN,40.974,Q
-1,2,3,,45,KWAKYoon-Gy,6120,KOR,41.087,Q
-1,3,2,,27,DmitryMIGUNOV,7755,RUS,41.423,
-1,4,4,,7,SHIJingnan,7728,CHN,notime,
-1,4,5,,20,FreekvanderWART,7269,NED,notime,
-2,1,1,,12,BREEUWSMADaan,7218,NED,41.631,Q
-2,2,4,,48,ShaoangLIU,8564,HUN,41.752,Q
-2,3,2,,44,VladimirGRIGOREV,7826,RUS,41.799,
-2,4,3,,85,RichardSHOEBRIDGE,7825,GBR,41.912,
-3,1,2,,8,HANTianyu,8388,CHN,41.042,Q
-3,2,1,,116,FrancoisHAMELIN,6167,CAN,41.193,Q
-3,3,3,,14,ViktorKNOCH,6177,HUN,41.243,
-3,4,4,,75,SatoshiSAKASHITA,6183,JPN,41.355,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,1,1,1,,3,WUDajing,7729,CHN,41.192,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,1,2,3,,2,PARKSeYeong,7750,KOR,41.277,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,1,3,2,,149,AlexanderFATHOULLIN,8546,CAN,41.305,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,1,4,5,,17,JonELEY,6592,GBR,41.375,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,1,5,4,,131,ArtemKOZLOV,8638,RUS,42.825,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,2,1,1,,148,CharleCOURNOYER,8063,CAN,40.974,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,2,2,3,,45,KWAKYoon-Gy,6120,KOR,41.087,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,2,3,2,,27,DmitryMIGUNOV,7755,RUS,41.423,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,2,4,4,,7,SHIJingnan,7728,CHN,notime,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,2,4,5,,20,FreekvanderWART,7269,NED,notime,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,3,1,1,,12,BREEUWSMADaan,7218,NED,41.631,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,3,2,4,,48,ShaoangLIU,8564,HUN,41.752,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,3,3,2,,44,VladimirGRIGOREV,7826,RUS,41.799,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,3,4,3,,85,RichardSHOEBRIDGE,7825,GBR,41.912,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,4,1,2,,8,HANTianyu,8388,CHN,41.042,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,4,2,1,,116,FrancoisHAMELIN,6167,CAN,41.193,Q
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,4,3,3,,14,ViktorKNOCH,6177,HUN,41.243,
+2015-2016,ISU World Cup 2015/16 - Montreal (CAN),500m,m,Quarterfinals,4,4,4,,75,SatoshiSAKASHITA,6183,JPN,41.355,

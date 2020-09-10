@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,701,CANADA,7312,CAN,4:15.807,Q,
-0,2,1,,711,RUSSIA,7315,RUS,4:16.103,Q,
-0,3,3,,705,ITALY,7317,ITA,4:23.241,,
-0,4,4,,709,NETHERLANDS,7322,NED,4:33.613,,
-1,1,1,,708,KOREA,7314,KOR,4:11.130JWR,Q,
-1,2,2,,702,CHINA,7311,CHN,4:13.077,Q,
-1,3,4,,703,GERMANY,7313,GER,4:25.317,,
-1,4,3,,706,JAPAN,7304,JPN,4:42.114,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1,1,2,,701,CANADA,7312,CAN,4:15.807,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1,2,1,,711,RUSSIA,7315,RUS,4:16.103,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1,3,3,,705,ITALY,7317,ITA,4:23.241,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1,4,4,,709,NETHERLANDS,7322,NED,4:33.613,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,2,1,1,,708,KOREA,7314,KOR,4:11.130JWR,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,2,2,2,,702,CHINA,7311,CHN,4:13.077,Q,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,2,3,4,,703,GERMANY,7313,GER,4:25.317,,
+2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,2,4,3,,706,JAPAN,7304,JPN,4:42.114,,

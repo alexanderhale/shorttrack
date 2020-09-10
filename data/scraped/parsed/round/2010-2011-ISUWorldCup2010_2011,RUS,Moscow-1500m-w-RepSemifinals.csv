@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,37,VALCEPINAMartina,7159,ITA,2:34.288,Q
-0,2,2,,19,ZHAONannan,7150,CHN,2:34.450,Q
-0,3,6,,42,YasukoSAKASHITA,6189,JPN,2:34.669,Q
-0,4,5,,55,PaulaBZURA,7168,POL,2:34.782,
-0,5,3,,61,EkaterinaBARANOK,7822,RUS,2:34.838,
-0,6,1,,23,JuliaRIEDEL,6287,GER,2:34.941,
-1,1,1,,58,OlgaBELYAKOVA,7112,RUS,2:26.931,Q
-1,2,2,,44,HitomiSAITO,7576,JPN,2:27.023,Q
-1,3,4,,69,EmilySCOTT,7823,USA,2:27.217,Q
-1,4,3,,31,RozsaDARAZS,6797,HUN,2:28.931,
-1,5,5,,22,ChristinPRIEBST,6078,GER,2:29.105,
-1,6,6,,28,CharlotteGILMARTIN,7136,GBR,2:32.439,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,1,4,,37,VALCEPINAMartina,7159,ITA,2:34.288,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,2,2,,19,ZHAONannan,7150,CHN,2:34.450,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,3,6,,42,YasukoSAKASHITA,6189,JPN,2:34.669,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,4,5,,55,PaulaBZURA,7168,POL,2:34.782,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,5,3,,61,EkaterinaBARANOK,7822,RUS,2:34.838,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,1,6,1,,23,JuliaRIEDEL,6287,GER,2:34.941,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,1,1,,58,OlgaBELYAKOVA,7112,RUS,2:26.931,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,2,2,,44,HitomiSAITO,7576,JPN,2:27.023,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,3,4,,69,EmilySCOTT,7823,USA,2:27.217,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,4,3,,31,RozsaDARAZS,6797,HUN,2:28.931,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,5,5,,22,ChristinPRIEBST,6078,GER,2:29.105,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",1500m,w,RepSemifinals,2,6,6,,28,CharlotteGILMARTIN,7136,GBR,2:32.439,

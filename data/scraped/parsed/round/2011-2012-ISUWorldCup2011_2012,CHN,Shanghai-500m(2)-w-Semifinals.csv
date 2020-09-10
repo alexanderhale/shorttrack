@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,26,AriannaFONTANA,6227,ITA,44.249,QA
-0,2,2,,15,LIUQiuhong,6286,CHN,44.320,QA
-0,3,4,,10,SabrinaBOURGELA,7691,CAN,44.647,QB
-0,4,3,,42,SannevanKERKHOF,6835,NED,45.124,QB
-1,1,4,,57,JessicaKOOREMAN,7649,USA,45.240,QA
-1,2,3,,14,CarolineTRUCHON,7908,CAN,45.310,QA
-1,3,2,,48,TatianaBORODULINA,7483,RUS,46.140,QB
-1,4,1,,19,FANKexin,7694,CHN,1:20.759,ADV
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,1,1,1,,26,AriannaFONTANA,6227,ITA,44.249,QA
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,1,2,2,,15,LIUQiuhong,6286,CHN,44.320,QA
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,1,3,4,,10,SabrinaBOURGELA,7691,CAN,44.647,QB
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,1,4,3,,42,SannevanKERKHOF,6835,NED,45.124,QB
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,2,1,4,,57,JessicaKOOREMAN,7649,USA,45.240,QA
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,2,2,3,,14,CarolineTRUCHON,7908,CAN,45.310,QA
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,2,3,2,,48,TatianaBORODULINA,7483,RUS,46.140,QB
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),w,Semifinals,2,4,1,,19,FANKexin,7694,CHN,1:20.759,ADV

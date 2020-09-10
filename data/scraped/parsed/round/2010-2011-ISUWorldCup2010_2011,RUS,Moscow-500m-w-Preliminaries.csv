@@ -1,34 +1,34 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,18,FANKexin,7694,CHN,44.687,Q
-0,2,3,,15,CarolineTRUCHON,7908,CAN,44.795,Q
-0,3,1,,57,ValeriyaREZNIK,6573,RUS,45.111,q
-0,4,4,,25,JosephineMESCHNIK,7821,GER,46.016,
-1,1,1,,13,JessicaGREGG,6141,CAN,44.835,Q
-1,2,4,,45,PARKSeung-Hi,7164,KOR,44.911,Q
-1,3,3,,29,AlexSTANLEY,7140,GBR,46.722,
-1,4,2,,63,BurcuKAN,7911,TUR,53.435,
-2,1,3,,68,JessicaKOOREMAN,7649,USA,45.448,Q
-2,2,4,,30,ErikaHUSZAR,6373,HUN,45.533,Q
-2,3,1,,59,LiaSTEPANOVA,6150,RUS,45.634,
-2,4,2,,3,TALAYEVAVolha,6792,BLR,45.773,
-3,1,2,,17,LIUQiuhong,6286,CHN,45.045,Q
-3,2,1,,52,SannevanKERKHOF,6835,NED,45.643,Q
-3,3,3,,24,WALTERBianca,7232,GER,46.764,
-4,1,4,,48,YANGShin-Young,7163,KOR,45.314,Q
-4,2,2,,41,AyukoITO,6791,JPN,45.574,Q
-4,3,3,,2,VeraANTANENKA,7099,BLR,45.934,
-4,4,1,,64,OlenaKORINCHUK,7252,UKR,46.104,
-5,2,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.441,Q
-5,3,1,,34,SzandraLAJTOS,6339,HUN,45.517,
-5,4,4,,54,JessicaAUSMA,7553,NED,47.254,
-6,1,3,,19,ZHAONannan,7150,CHN,44.850,Q
-6,2,1,,53,vanKERKHOFYara,7422,NED,45.050,Q
-6,3,2,,21,KaterinaNOVOTNA,6647,CZE,45.063,q
-7,1,3,,40,YuiSAKAI,6229,JPN,45.048,Q
-7,2,2,,37,VALCEPINAMartina,7159,ITA,45.203,Q
-7,3,4,,33,AndreaKESZLER,7147,HUN,45.294,
-7,4,1,,8,GerganaPATSOVA,6794,BUL,47.745,
-8,1,4,,35,AriannaFONTANA,6227,ITA,45.356,Q
-8,2,1,,43,SayuriSHIMIZU,7544,JPN,45.413,Q
-8,3,3,,70,MorganIZYKOWSKI,7720,USA,47.502,
-8,4,2,,60,NataliaPLUGINA,7345,RUS,47.524,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,1,1,2,,18,FANKexin,7694,CHN,44.687,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,1,2,3,,15,CarolineTRUCHON,7908,CAN,44.795,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,1,3,1,,57,ValeriyaREZNIK,6573,RUS,45.111,q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,1,4,4,,25,JosephineMESCHNIK,7821,GER,46.016,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,2,1,1,,13,JessicaGREGG,6141,CAN,44.835,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,2,2,4,,45,PARKSeung-Hi,7164,KOR,44.911,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,2,3,3,,29,AlexSTANLEY,7140,GBR,46.722,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,2,4,2,,63,BurcuKAN,7911,TUR,53.435,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,3,1,3,,68,JessicaKOOREMAN,7649,USA,45.448,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,3,2,4,,30,ErikaHUSZAR,6373,HUN,45.533,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,3,3,1,,59,LiaSTEPANOVA,6150,RUS,45.634,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,3,4,2,,3,TALAYEVAVolha,6792,BLR,45.773,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,4,1,2,,17,LIUQiuhong,6286,CHN,45.045,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,4,2,1,,52,SannevanKERKHOF,6835,NED,45.643,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,4,3,3,,24,WALTERBianca,7232,GER,46.764,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,5,1,4,,48,YANGShin-Young,7163,KOR,45.314,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,5,2,2,,41,AyukoITO,6791,JPN,45.574,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,5,3,3,,2,VeraANTANENKA,7099,BLR,45.934,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,5,4,1,,64,OlenaKORINCHUK,7252,UKR,46.104,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,6,2,2,,7,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.441,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,6,3,1,,34,SzandraLAJTOS,6339,HUN,45.517,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,6,4,4,,54,JessicaAUSMA,7553,NED,47.254,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,7,1,3,,19,ZHAONannan,7150,CHN,44.850,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,7,2,1,,53,vanKERKHOFYara,7422,NED,45.050,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,7,3,2,,21,KaterinaNOVOTNA,6647,CZE,45.063,q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,8,1,3,,40,YuiSAKAI,6229,JPN,45.048,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,8,2,2,,37,VALCEPINAMartina,7159,ITA,45.203,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,8,3,4,,33,AndreaKESZLER,7147,HUN,45.294,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,8,4,1,,8,GerganaPATSOVA,6794,BUL,47.745,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,9,1,4,,35,AriannaFONTANA,6227,ITA,45.356,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,9,2,1,,43,SayuriSHIMIZU,7544,JPN,45.413,Q
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,9,3,3,,70,MorganIZYKOWSKI,7720,USA,47.502,
+2010-2011,"ISU World Cup 2010/2011, RUS, Moscow",500m,w,Preliminaries,9,4,2,,60,NataliaPLUGINA,7345,RUS,47.524,

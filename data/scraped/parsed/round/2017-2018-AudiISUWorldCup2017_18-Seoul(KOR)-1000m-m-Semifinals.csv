@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,58,HWANGDaeHeon,9115,KOR,1:25.492,QA
-0,2,5,,6,WUDajing,7729,CHN,1:25.619,QA
-0,3,6,,82,SHULGINOVAlexander,8752,RUS,1:25.762,QB
-0,4,3,,105,CONFORTOLAYuri,6561,ITA,1:26.533,QB
-0,PEN,2,,1,SEOYiRa,7940,KOR,PEN,
-0,PEN,1,,2,KNEGTSjinkie,7352,NED,PEN,
-1,2,4,,3,SamuelGIRARD,8600,CAN,1:24.919,QA
-1,3,5,,22,BYKANOVVladislav,6178,ISR,1:24.993,QB
-1,4,3,,16,RENZiwei,8601,CHN,1:25.209,QB
-1,5,2,,8,HAMELINCharles,6610,CAN,1:25.786,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,1,4,,58,HWANGDaeHeon,9115,KOR,1:25.492,QA
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,2,5,,6,WUDajing,7729,CHN,1:25.619,QA
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,3,6,,82,SHULGINOVAlexander,8752,RUS,1:25.762,QB
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,4,3,,105,CONFORTOLAYuri,6561,ITA,1:26.533,QB
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,PEN,2,,1,SEOYiRa,7940,KOR,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,1,PEN,1,,2,KNEGTSjinkie,7352,NED,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,2,2,4,,3,SamuelGIRARD,8600,CAN,1:24.919,QA
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,2,3,5,,22,BYKANOVVladislav,6178,ISR,1:24.993,QB
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,2,4,3,,16,RENZiwei,8601,CHN,1:25.209,QB
+2017-2018,Audi ISU World Cup 2017/18 - Seoul (KOR),1000m,m,Semifinals,2,5,2,,8,HAMELINCharles,6610,CAN,1:25.786,

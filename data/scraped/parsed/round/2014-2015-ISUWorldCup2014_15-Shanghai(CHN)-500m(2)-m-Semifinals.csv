@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,91,SHIJingnan,7728,CHN,41.003,QA
-0,3,3,,93,ZHANGHongchao,8678,CHN,41.342,QB
-0,4,5,,145,DmitryMYASNIKOV,7616,RUS,42.602,QB
-0,5,1,,125,HANSeungSoo,8673,KOR,1:02.976,
-1,1,4,,126,KWAKYoon-Gy,6120,KOR,41.104,QA
-1,2,2,,87,WilliamPREUDHOMME,8545,CAN,41.206,QA
-1,3,5,,150,KeithCARROLL,8449,USA,41.479,QB
-1,4,1,,152,John-HenryKRUEGER,7763,USA,59.917,ADA
-1,PEN,3,,101,ViktorKNOCH,6177,HUN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,1,2,2,,91,SHIJingnan,7728,CHN,41.003,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,1,3,3,,93,ZHANGHongchao,8678,CHN,41.342,QB
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,1,4,5,,145,DmitryMYASNIKOV,7616,RUS,42.602,QB
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,1,5,1,,125,HANSeungSoo,8673,KOR,1:02.976,
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,2,1,4,,126,KWAKYoon-Gy,6120,KOR,41.104,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,2,2,2,,87,WilliamPREUDHOMME,8545,CAN,41.206,QA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,2,3,5,,150,KeithCARROLL,8449,USA,41.479,QB
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,2,4,1,,152,John-HenryKRUEGER,7763,USA,59.917,ADA
+2014-2015,ISU World Cup 2014/15 - Shanghai (CHN),500m(2),m,Semifinals,2,PEN,3,,101,ViktorKNOCH,6177,HUN,PEN,

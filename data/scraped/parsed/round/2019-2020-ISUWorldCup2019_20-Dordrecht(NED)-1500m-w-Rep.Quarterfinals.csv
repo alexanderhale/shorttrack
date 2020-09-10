@@ -1,22 +1,22 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,12,deVRIESRianne,8333,NED,2:38.277,Q
-0,2,1,,84,VALCEPINAArianna,7705,ITA,2:38.281,Q
-0,3,2,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,2:38.340,
-0,4,4,,165,ZYCHMagdalena,9553,POL,2:40.934,
-0,5,3,,162,ZHANBUSINOVAMadina,9111,KAZ,2:42.291,
-0,6,6,,169,HAYWARDCharlotte,9520,GBR,2:51.904,
-0,7,5,,36,YAKIMOVAAnna,8702,BUL,3:05.511,
-1,1,5,,21,HIRAIAmi,8618,JPN,2:36.050,Q
-1,2,3,,87,JACOBSGina,8607,GER,2:36.125,Q
-1,3,1,,13,PIERRONVeronique,6196,FRA,2:36.465,q
-1,4,7,,55,SIGHELArianna,8088,ITA,2:36.473,
-1,5,2,,159,ROBERTSIsabelle,9322,GBR,2:37.078,
-1,6,6,,168,ARUNShreya,9747,USA,2:38.100,
-1,7,4,,105,MYKHALCHUKDiana,7426,UKR,2:39.867,
-2,1,4,,132,VELZEBOERXandra,9275,NED,2:35.187,Q
-2,2,1,,30,RUSNAKOVAPetra,9297,SVK,2:35.277,Q
-2,3,3,,102,ECKSTEINLisa,9488,GER,2:36.570,
-2,4,7,,116,BURICKatarina,8550,CRO,2:40.305,
-2,5,6,,145,DUBROVAUliana,9436,UKR,2:41.378,
-2,6,5,,85,BOTTERGOMEZNicole,8741,ITA,3:05.182,
-2,PEN,2,,134,TOPOLSKAGabriela,9411,POL,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,1,7,,12,deVRIESRianne,8333,NED,2:38.277,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,2,1,,84,VALCEPINAArianna,7705,ITA,2:38.281,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,3,2,,32,SEJPALOVA-HRUZOVAMichaela,8553,CZE,2:38.340,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,4,4,,165,ZYCHMagdalena,9553,POL,2:40.934,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,5,3,,162,ZHANBUSINOVAMadina,9111,KAZ,2:42.291,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,6,6,,169,HAYWARDCharlotte,9520,GBR,2:51.904,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,1,7,5,,36,YAKIMOVAAnna,8702,BUL,3:05.511,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,1,5,,21,HIRAIAmi,8618,JPN,2:36.050,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,2,3,,87,JACOBSGina,8607,GER,2:36.125,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,3,1,,13,PIERRONVeronique,6196,FRA,2:36.465,q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,4,7,,55,SIGHELArianna,8088,ITA,2:36.473,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,5,2,,159,ROBERTSIsabelle,9322,GBR,2:37.078,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,6,6,,168,ARUNShreya,9747,USA,2:38.100,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,2,7,4,,105,MYKHALCHUKDiana,7426,UKR,2:39.867,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,1,4,,132,VELZEBOERXandra,9275,NED,2:35.187,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,2,1,,30,RUSNAKOVAPetra,9297,SVK,2:35.277,Q
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,3,3,,102,ECKSTEINLisa,9488,GER,2:36.570,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,4,7,,116,BURICKatarina,8550,CRO,2:40.305,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,5,6,,145,DUBROVAUliana,9436,UKR,2:41.378,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,6,5,,85,BOTTERGOMEZNicole,8741,ITA,3:05.182,
+2019-2020,ISU World Cup 2019/20 - Dordrecht (NED),1500m,w,Rep.Quarterfinals,3,PEN,2,,134,TOPOLSKAGabriela,9411,POL,PEN,

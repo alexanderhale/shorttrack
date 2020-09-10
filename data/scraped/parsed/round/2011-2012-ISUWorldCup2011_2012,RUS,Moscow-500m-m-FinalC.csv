@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,262,FreekvanderWART,7269,NED,42.356,
-0,2,2,,258,NielsKERSTHOLT,7067,NED,42.428,
-0,3,3,,219,RichardSHOEBRIDGE,7825,GBR,42.581,
-0,4,4,,272,PavelRYBAKOV,7114,RUS,43.053,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,FinalC,1,1,1,,262,FreekvanderWART,7269,NED,42.356,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,FinalC,1,2,2,,258,NielsKERSTHOLT,7067,NED,42.428,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,FinalC,1,3,3,,219,RichardSHOEBRIDGE,7825,GBR,42.581,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,FinalC,1,4,4,,272,PavelRYBAKOV,7114,RUS,43.053,

@@ -1,6 +1,6 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,367,AlysonDUDEK,7290,USA,45.115,
-0,2,1,,316,LIUQiuhong,6286,CHN,45.158,
-0,3,2,,318,ZHAONannan,7150,CHN,45.278,
-0,4,3,,314,FANKexin,7694,CHN,45.395,
-0,DNS,4,,358,PatrycjaMALISZEWSKA,6154,POL,DNS,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",500m,w,FinalB,1,1,5,,367,AlysonDUDEK,7290,USA,45.115,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",500m,w,FinalB,1,2,1,,316,LIUQiuhong,6286,CHN,45.158,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",500m,w,FinalB,1,3,2,,318,ZHAONannan,7150,CHN,45.278,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",500m,w,FinalB,1,4,3,,314,FANKexin,7694,CHN,45.395,
+2011-2012,"ISU World Cup 2011/2012, USA, Salt Lake City",500m,w,FinalB,1,DNS,4,,358,PatrycjaMALISZEWSKA,6154,POL,DNS,

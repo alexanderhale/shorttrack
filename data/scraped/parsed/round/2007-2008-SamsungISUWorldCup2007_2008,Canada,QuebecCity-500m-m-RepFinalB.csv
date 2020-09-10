@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,160,DariuszKULESZA,6817,POL,44.077,
-0,2,2,,142,TakahiroFUJIMOTO,6277,JPN,44.277,
-0,3,3,,171,SerhiyLIFYRENKO,6826,UKR,44.334,
-0,DQ,4,,169,SergeyPRANKEVICH,7048,RUS,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepFinalB,1,1,1,,160,DariuszKULESZA,6817,POL,44.077,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepFinalB,1,2,2,,142,TakahiroFUJIMOTO,6277,JPN,44.277,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepFinalB,1,3,3,,171,SerhiyLIFYRENKO,6826,UKR,44.334,
+2007-2008,"Samsung ISU World Cup 2007/2008, Canada, Quebec City",500m,m,RepFinalB,1,DQ,4,,169,SergeyPRANKEVICH,7048,RUS,DQ,

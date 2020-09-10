@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,321,JAPAN,9024,JPN,6:54.271,
-0,2,4,,306,CHINA,9022,CHN,6:54.377,
-0,3,1,,318,ITALY,9023,ITA,6:54.563,
-0,4,2,,311,FRANCE,9018,FRA,6:55.939,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),5000mRelay,m,FinalB,1,1,3,,321,JAPAN,9024,JPN,6:54.271,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),5000mRelay,m,FinalB,1,2,4,,306,CHINA,9022,CHN,6:54.377,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),5000mRelay,m,FinalB,1,3,1,,318,ITALY,9023,ITA,6:54.563,
+2019-2020,ISU World Cup 2019/20 - Shanghai (CHN),5000mRelay,m,FinalB,1,4,2,,311,FRANCE,9018,FRA,6:55.939,

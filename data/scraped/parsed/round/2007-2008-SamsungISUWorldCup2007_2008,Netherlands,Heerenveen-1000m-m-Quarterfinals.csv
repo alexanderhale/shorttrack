@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1058,SONGKyung-Taek,6574,KOR,1:29.152,Q
-0,2,3,,1100,TravisJAYNER,6300,USA,1:29.367,Q
-0,3,2,,1051,ShinichiTAGAMI,6929,JPN,1:29.467,
-0,4,4,,1033,PaulHERRMANN,6803,GER,1:30.237,
-1,1,4,,1059,LEEHo-Suk,6856,KOR,1:29.342,Q
-1,2,3,,1099,JordanMALONE,6201,USA,1:29.535,Q
-1,3,2,,1043,CONFORTOLAYuri,6561,ITA,1:29.895,
-1,4,1,,1016,SteveROBILLARD,6494,CAN,1:29.905,
-2,1,3,,1019,SUIBaoKu,6416,CHN,1:29.082,Q
-2,2,4,,1013,HAMELINCharles,6610,CAN,1:29.141,Q
-2,3,1,,1064,HaraldsSILOVS,6458,LAT,1:29.227,
-2,4,2,,1050,TakahiroFUJIMOTO,6277,JPN,1:29.636,
-3,2,2,,1044,NicolaRODIGARI,6332,ITA,1:29.426,Q
-3,3,3,,1065,NielsKERSTHOLT,7067,NED,1:29.446,
-3,4,4,,1015,MathieuGIROUX,6852,CAN,1:35.472,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,1,1,1,,1058,SONGKyung-Taek,6574,KOR,1:29.152,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,1,2,3,,1100,TravisJAYNER,6300,USA,1:29.367,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,1,3,2,,1051,ShinichiTAGAMI,6929,JPN,1:29.467,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,1,4,4,,1033,PaulHERRMANN,6803,GER,1:30.237,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,2,1,4,,1059,LEEHo-Suk,6856,KOR,1:29.342,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,2,2,3,,1099,JordanMALONE,6201,USA,1:29.535,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,2,3,2,,1043,CONFORTOLAYuri,6561,ITA,1:29.895,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,2,4,1,,1016,SteveROBILLARD,6494,CAN,1:29.905,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,3,1,3,,1019,SUIBaoKu,6416,CHN,1:29.082,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,3,2,4,,1013,HAMELINCharles,6610,CAN,1:29.141,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,3,3,1,,1064,HaraldsSILOVS,6458,LAT,1:29.227,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,3,4,2,,1050,TakahiroFUJIMOTO,6277,JPN,1:29.636,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,4,2,2,,1044,NicolaRODIGARI,6332,ITA,1:29.426,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,4,3,3,,1065,NielsKERSTHOLT,7067,NED,1:29.446,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1000m,m,Quarterfinals,4,4,4,,1015,MathieuGIROUX,6852,CAN,1:35.472,

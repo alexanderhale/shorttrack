@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,265,SebastianKLOSINSKI,7748,POL,43.346,Q
-0,2,1,,225,TorstenKROEGER,7141,GER,43.440,Q
-0,3,4,,228,BenceBERES,7438,HUN,46.168,
-0,PEN,3,,285,SerhiyLIFYRENKO,6826,UKR,PEN,
-1,1,1,,291,John-HenryKRUEGER,7763,USA,43.159,Q
-1,2,3,,244,MintoSEKAI,7931,JPN,43.689,Q
-1,3,2,,284,OleksiyKOSHELENKO,7121,UKR,43.935,
-1,4,4,,277,SelimTANRIKULU,7760,TUR,44.083,
-2,1,1,,289,SimonCHO,7188,USA,42.321,Q
-2,2,2,,242,YoshiakiOGURO,7743,JPN,42.457,Q
-2,3,3,,263,AdamFILIPOWICZ,6156,POL,43.384,
-2,4,4,,241,DavideVISCARDI,7440,ITA,43.858,
-3,1,1,,240,EdoardoREGGIANI,7161,ITA,43.286,Q
-3,2,3,,280,ValentynDANILOVSKYI,7895,UKR,43.443,Q
-3,3,2,,232,OLAHBence,7439,HUN,43.621,
-3,4,4,,256,SAULITISJekabs,7267,LAT,43.688,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,1,1,2,,265,SebastianKLOSINSKI,7748,POL,43.346,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,1,2,1,,225,TorstenKROEGER,7141,GER,43.440,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,1,3,4,,228,BenceBERES,7438,HUN,46.168,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,1,PEN,3,,285,SerhiyLIFYRENKO,6826,UKR,PEN,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,2,1,1,,291,John-HenryKRUEGER,7763,USA,43.159,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,2,2,3,,244,MintoSEKAI,7931,JPN,43.689,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,2,3,2,,284,OleksiyKOSHELENKO,7121,UKR,43.935,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,2,4,4,,277,SelimTANRIKULU,7760,TUR,44.083,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,3,1,1,,289,SimonCHO,7188,USA,42.321,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,3,2,2,,242,YoshiakiOGURO,7743,JPN,42.457,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,3,3,3,,263,AdamFILIPOWICZ,6156,POL,43.384,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,3,4,4,,241,DavideVISCARDI,7440,ITA,43.858,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,4,1,1,,240,EdoardoREGGIANI,7161,ITA,43.286,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,4,2,3,,280,ValentynDANILOVSKYI,7895,UKR,43.443,Q
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,4,3,2,,232,OLAHBence,7439,HUN,43.621,
+2011-2012,"ISU World Cup 2011/2012, RUS, Moscow",500m,m,RepQuarterfinals,4,4,4,,256,SAULITISJekabs,7267,LAT,43.688,

@@ -1,33 +1,33 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,105,WimdeDEYNE,6699,BEL,43.726,Q
-0,2,2,,150,KIMByeongJun,7287,KOR,44.025,Q
-0,3,1,,144,ZbigniewBRODKA,6096,POL,44.884,
-0,4,4,,155,BulatVALIULLIN,6820,RUS,45.119,
-0,5,5,,138,MunkhamidralGANBAT,6243,MGL,55.612,
-1,1,2,,134,SatoshiSAKASHITA,6183,JPN,43.883,Q
-1,2,4,,104,ElliottSHRIANE,6846,AUS,44.044,Q
-1,3,3,,143,BlakeSKJELLERUP,6549,NZL,44.291,q
-1,DQ,1,,165,SerhiyLIFYRENKO,6826,UKR,DQ,
-2,1,4,,108,HAMELINCharles,6610,CAN,42.905,Q
-2,2,1,,115,LIHaonan,6658,CHN,43.227,Q
-2,3,3,,169,JeffSIMON,7280,USA,43.754,q
-2,4,2,,153,VitalyMIKHEENKOV,6234,RUS,44.855,
-3,1,3,,107,Francois-LouisTREMBLAY,6704,CAN,42.659,Q
-3,2,1,,117,LIUXiaoLiang,6233,CHN,42.728,Q
-3,3,2,,127,DenisBELLOTTI,6807,ITA,43.196,q
-3,4,4,,160,TSAIPing-Yuan,6583,TPE,46.577,
-4,1,3,,111,OlivierJEAN,6756,CAN,43.999,Q
-4,2,2,,119,PANLei,7285,CHN,44.437,Q
-4,3,1,,128,RobertoSERRA,6463,ITA,44.676,
-4,4,4,,135,AndreySMETANIN,6459,KAZ,46.336,
-5,1,3,,130,TakahiroFUJIMOTO,6277,JPN,44.632,Q
-5,2,1,,100,BenSOUTHEE,6203,AUS,44.757,Q
-5,3,4,,122,RobertSEIFERT,6176,GER,44.883,
-5,4,2,,159,CHENGEricI,6937,TPE,45.033,
-6,1,2,,146,SONGKyung-Taek,6574,KOR,43.760,Q
-6,2,3,,164,VolodymyrCHERNEGA,6041,UKR,44.400,Q
-6,3,4,,157,PeterJELEN,7077,SVK,44.701,
-6,DNS,1,,173,JordanMALONE,6201,USA,DNS,
-7,2,4,,171,AnthonyLOBELLO,6958,USA,44.024,Q
-7,3,3,,136,ArturSULTANGALIYEV,6158,KAZ,44.268,
-7,4,1,,132,YuMIURA,6181,JPN,56.581,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,1,1,3,,105,WimdeDEYNE,6699,BEL,43.726,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,1,2,2,,150,KIMByeongJun,7287,KOR,44.025,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,1,3,1,,144,ZbigniewBRODKA,6096,POL,44.884,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,1,4,4,,155,BulatVALIULLIN,6820,RUS,45.119,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,1,5,5,,138,MunkhamidralGANBAT,6243,MGL,55.612,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,2,1,2,,134,SatoshiSAKASHITA,6183,JPN,43.883,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,2,2,4,,104,ElliottSHRIANE,6846,AUS,44.044,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,2,3,3,,143,BlakeSKJELLERUP,6549,NZL,44.291,q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,2,DQ,1,,165,SerhiyLIFYRENKO,6826,UKR,DQ,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,3,1,4,,108,HAMELINCharles,6610,CAN,42.905,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,3,2,1,,115,LIHaonan,6658,CHN,43.227,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,3,3,3,,169,JeffSIMON,7280,USA,43.754,q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,3,4,2,,153,VitalyMIKHEENKOV,6234,RUS,44.855,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,4,1,3,,107,Francois-LouisTREMBLAY,6704,CAN,42.659,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,4,2,1,,117,LIUXiaoLiang,6233,CHN,42.728,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,4,3,2,,127,DenisBELLOTTI,6807,ITA,43.196,q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,4,4,4,,160,TSAIPing-Yuan,6583,TPE,46.577,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,5,1,3,,111,OlivierJEAN,6756,CAN,43.999,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,5,2,2,,119,PANLei,7285,CHN,44.437,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,5,3,1,,128,RobertoSERRA,6463,ITA,44.676,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,5,4,4,,135,AndreySMETANIN,6459,KAZ,46.336,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,6,1,3,,130,TakahiroFUJIMOTO,6277,JPN,44.632,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,6,2,1,,100,BenSOUTHEE,6203,AUS,44.757,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,6,3,4,,122,RobertSEIFERT,6176,GER,44.883,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,6,4,2,,159,CHENGEricI,6937,TPE,45.033,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,7,1,2,,146,SONGKyung-Taek,6574,KOR,43.760,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,7,2,3,,164,VolodymyrCHERNEGA,6041,UKR,44.400,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,7,3,4,,157,PeterJELEN,7077,SVK,44.701,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,7,DNS,1,,173,JordanMALONE,6201,USA,DNS,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,8,2,4,,171,AnthonyLOBELLO,6958,USA,44.024,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,8,3,3,,136,ArturSULTANGALIYEV,6158,KAZ,44.268,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",500m,m,Preliminaries,8,4,1,,132,YuMIURA,6181,JPN,56.581,

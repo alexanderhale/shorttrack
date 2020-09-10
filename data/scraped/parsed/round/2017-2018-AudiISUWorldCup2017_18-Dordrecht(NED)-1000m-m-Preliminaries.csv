@@ -1,93 +1,93 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,10,ShaolinSandorLIU,7928,HUN,1:33.827,Q
-0,2,3,,48,TREACYFarrell,8392,GBR,1:33.938,Q
-0,3,4,,51,SalvijusRAMANAUSKAS,9119,LTU,1:34.662,
-0,4,2,,163,EmilIMRE,7943,ROU,1:35.905,
-1,1,2,,187,KIMDoKyoum,8398,KOR,1:31.268,Q
-1,2,3,,149,TsvetanTSANKOV,7431,BUL,1:33.639,Q
-1,3,1,,197,AdamTIMAR,8637,ROU,1:33.724,
-1,4,4,,25,NAVARROTristan,8559,FRA,1:57.550,ADV
-1,PEN,5,,86,PIVIROTTORyan,8650,USA,PEN,
-2,1,5,,204,RobertoPUKITIS,7785,LAT,1:24.058,Q
-2,2,2,,128,LEPAPESebastien,7554,FRA,1:24.157,Q
-2,3,1,,35,PierreBODA,7588,AUS,1:24.573,q
-2,4,3,,28,MaksimSIARHEYU,7771,BLR,1:25.398,
-2,5,4,,39,EdinBRANKOVIC,7256,BIH,1:27.171,
-3,1,2,,13,J.R.CELSKI,7279,USA,1:28.446,Q
-3,2,4,,107,BillySIMMS,7926,GBR,1:30.179,Q
-3,3,5,,180,DESMETStijn,8706,BEL,1:30.320,ADV
-3,4,1,,192,MURPHYPeter,9269,LUX,1:31.301,
-3,PEN,3,,43,SebastianCANO,9201,COL,PEN,
-4,1,1,,58,HWANGDaeHeon,9115,KOR,1:31.840,Q
-4,2,5,,183,CsabaBURJAN,7738,HUN,1:32.168,Q
-4,3,4,,37,EinarAGDESTEIN,8701,NOR,1:33.658,
-4,4,2,,33,JacobJANSSON,8589,SWE,1:56.653,ADV
-4,PEN,3,,46,ZacharyBIGGS,8635,NZL,PEN,
-5,1,4,,21,NIKISHADenis,8396,KAZ,1:26.464,Q
-5,2,3,,20,RyosukeSAKAZUME,7542,JPN,1:26.687,Q
-5,3,1,,124,BartoszKONOPKO,7169,POL,1:27.038,
-5,4,2,,38,SCHUBERTChristoph,7734,GER,1:27.219,
-5,5,5,,165,TSANGKeiWingKelvin,7735,HKG,1:38.545,
-6,1,3,,16,RENZiwei,8601,CHN,1:25.600,Q
-6,2,4,,168,KRUZBERGSKarlis,8629,LAT,1:25.857,Q
-6,3,1,,85,YauheniRYZHOU,7772,BLR,1:27.015,
-6,4,2,,164,JasonCLAGUE,8636,NZL,1:28.599,
-7,1,3,,12,SemenELISTRATOV,7293,RUS,1:28.166,Q
-7,2,4,,19,WATANABEKeita,7605,JPN,1:28.393,Q
-7,3,2,,161,NEMIROVladyslav,8719,UKR,1:30.952,
-7,4,1,,171,GermanAndresTIRADOOVIEDO,9311,COL,1:31.887,
-8,1,3,,9,HANTianyu,8388,CHN,1:28.186,Q
-8,2,1,,23,RobertsZVEJNIEKS,8490,LAT,1:28.297,Q
-8,3,2,,99,AlexBRYANT,8577,AUS,1:29.809,
-8,4,4,,141,NEMIRONikita,9212,UKR,1:30.677,
-8,5,5,,179,PhilemonRAINER,8594,AUT,1:34.311,
-9,1,2,,18,HOOGERWERFDylan,8497,NED,1:31.135,Q
-9,2,5,,196,KIMUnHyok,9325,PRK,1:32.631,Q
-9,3,1,,105,CONFORTOLAYuri,6561,ITA,1:51.686,ADV
-9,4,4,,181,NihadBASIC,7889,BIH,2:12.343,ADV
-9,PEN,3,,145,WILCZYKSzymon,8472,POL,PEN,
-10,1,4,,1,SEOYiRa,7940,KOR,1:30.243,Q
-10,2,1,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,1:30.475,Q
-10,3,2,,50,GEORGIEVDimitar,8541,BUL,1:32.003,
-10,4,5,,54,LucasNG,8067,SGP,1:33.481,
-10,5,3,,184,ARADHYAAkash,7739,IND,1:34.551,
-11,1,1,,5,ShaoangLIU,8564,HUN,1:32.641,Q
-11,2,5,,3,SamuelGIRARD,8600,CAN,1:32.765,Q
-11,3,2,,40,TunaySIMSEK,8758,TUR,1:33.664,
-11,4,3,,47,SUJun-Peng,8643,TPE,1:33.895,
-11,5,4,,150,SeanMcANUFF,9198,IRL,1:34.509,
-12,1,4,,32,ThibautFAUCONNET,6785,FRA,1:30.585,Q
-12,2,3,,93,ZHAXYBAYEVMersaid,8623,KAZ,1:30.822,Q
-12,3,2,,36,RyanMcANUFF,9197,IRL,1:31.129,
-12,4,1,,125,AliaksandrARLOU,8459,BLR,1:31.772,
-12,PEN,5,,191,AugustinGERE,9270,LUX,PEN,
-13,1,1,,6,WUDajing,7729,CHN,1:31.005,Q
-13,2,3,,24,CASSINELLIAndrea,7741,ITA,1:31.385,Q
-13,3,4,,29,ANIKEJRafal,8749,POL,1:32.074,
-13,4,2,,55,MukerremDENIZ,9211,TUR,notime,ADV
-13,PEN,5,,177,HANDEIOleh,9073,UKR,PEN,
-14,1,2,,22,BYKANOVVladislav,6178,ISR,1:33.973,Q
-14,2,3,,31,GOEMINNEGert-Jan,8707,BEL,1:34.723,Q
-14,3,5,,166,NicolasLABORDE,9096,COL,1:35.045,
-14,4,4,,45,ANDERMANNDominic,8078,AUT,1:35.105,
-14,5,1,,193,AriffRasydanMOHAMADFADZLI,8632,MAS,1:40.858,
-15,1,4,,15,CharleCOURNOYER,8063,CAN,1:25.176,Q
-15,2,3,,44,John-HenryKRUEGER,7763,USA,1:25.265,Q
-15,3,2,,147,ANDERMANNNico,8720,AUT,1:27.187,
-15,4,5,,129,FabriceDUFBERGSUH,8642,SWE,1:58.838,ADV
-15,PEN,1,,26,JensALMEY,8595,BEL,PEN,
-16,1,1,,7,VictorAN,8344,RUS,1:30.564,Q
-16,2,4,,17,BREEUWSMADaan,7218,NED,1:30.617,Q
-16,3,3,,205,KOLENCMartin,8604,CRO,1:32.235,
-16,4,2,,208,TriphopTHONGNGAM,9328,THA,1:34.872,
-16,PEN,5,,30,JUNGHyunWoo(Andy),8575,AUS,PEN,
-17,1,2,,8,HAMELINCharles,6610,CAN,1:26.316,Q
-17,2,1,,73,YOSHINAGAKazuki,8745,JPN,1:26.453,Q
-17,3,4,,27,DOTTITommaso,7604,ITA,1:26.992,q
-17,4,5,,49,MARTINICIvan,8700,CRO,1:31.648,
-17,5,3,,115,DavutTAHTACI,8647,TUR,notime,
-18,1,4,,2,KNEGTSjinkie,7352,NED,1:26.529,Q
-18,2,2,,75,AYRAPETYANDenis,8098,RUS,1:26.688,Q
-18,3,1,,111,CHOEUnSong,9063,PRK,1:28.471,
-18,4,5,,132,JackBURROWS,9101,GBR,1:29.457,
-18,5,3,,199,BorLukaURLEP,8753,SLO,1:34.061,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,1,1,1,,10,ShaolinSandorLIU,7928,HUN,1:33.827,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,1,2,3,,48,TREACYFarrell,8392,GBR,1:33.938,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,1,3,4,,51,SalvijusRAMANAUSKAS,9119,LTU,1:34.662,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,1,4,2,,163,EmilIMRE,7943,ROU,1:35.905,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,2,1,2,,187,KIMDoKyoum,8398,KOR,1:31.268,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,2,2,3,,149,TsvetanTSANKOV,7431,BUL,1:33.639,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,2,3,1,,197,AdamTIMAR,8637,ROU,1:33.724,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,2,4,4,,25,NAVARROTristan,8559,FRA,1:57.550,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,2,PEN,5,,86,PIVIROTTORyan,8650,USA,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,3,1,5,,204,RobertoPUKITIS,7785,LAT,1:24.058,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,3,2,2,,128,LEPAPESebastien,7554,FRA,1:24.157,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,3,3,1,,35,PierreBODA,7588,AUS,1:24.573,q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,3,4,3,,28,MaksimSIARHEYU,7771,BLR,1:25.398,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,3,5,4,,39,EdinBRANKOVIC,7256,BIH,1:27.171,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,4,1,2,,13,J.R.CELSKI,7279,USA,1:28.446,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,4,2,4,,107,BillySIMMS,7926,GBR,1:30.179,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,4,3,5,,180,DESMETStijn,8706,BEL,1:30.320,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,4,4,1,,192,MURPHYPeter,9269,LUX,1:31.301,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,4,PEN,3,,43,SebastianCANO,9201,COL,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,5,1,1,,58,HWANGDaeHeon,9115,KOR,1:31.840,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,5,2,5,,183,CsabaBURJAN,7738,HUN,1:32.168,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,5,3,4,,37,EinarAGDESTEIN,8701,NOR,1:33.658,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,5,4,2,,33,JacobJANSSON,8589,SWE,1:56.653,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,5,PEN,3,,46,ZacharyBIGGS,8635,NZL,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,6,1,4,,21,NIKISHADenis,8396,KAZ,1:26.464,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,6,2,3,,20,RyosukeSAKAZUME,7542,JPN,1:26.687,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,6,3,1,,124,BartoszKONOPKO,7169,POL,1:27.038,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,6,4,2,,38,SCHUBERTChristoph,7734,GER,1:27.219,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,6,5,5,,165,TSANGKeiWingKelvin,7735,HKG,1:38.545,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,7,1,3,,16,RENZiwei,8601,CHN,1:25.600,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,7,2,4,,168,KRUZBERGSKarlis,8629,LAT,1:25.857,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,7,3,1,,85,YauheniRYZHOU,7772,BLR,1:27.015,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,7,4,2,,164,JasonCLAGUE,8636,NZL,1:28.599,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,8,1,3,,12,SemenELISTRATOV,7293,RUS,1:28.166,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,8,2,4,,19,WATANABEKeita,7605,JPN,1:28.393,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,8,3,2,,161,NEMIROVladyslav,8719,UKR,1:30.952,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,8,4,1,,171,GermanAndresTIRADOOVIEDO,9311,COL,1:31.887,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,9,1,3,,9,HANTianyu,8388,CHN,1:28.186,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,9,2,1,,23,RobertsZVEJNIEKS,8490,LAT,1:28.297,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,9,3,2,,99,AlexBRYANT,8577,AUS,1:29.809,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,9,4,4,,141,NEMIRONikita,9212,UKR,1:30.677,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,9,5,5,,179,PhilemonRAINER,8594,AUT,1:34.311,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,10,1,2,,18,HOOGERWERFDylan,8497,NED,1:31.135,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,10,2,5,,196,KIMUnHyok,9325,PRK,1:32.631,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,10,3,1,,105,CONFORTOLAYuri,6561,ITA,1:51.686,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,10,4,4,,181,NihadBASIC,7889,BIH,2:12.343,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,10,PEN,3,,145,WILCZYKSzymon,8472,POL,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,11,1,4,,1,SEOYiRa,7940,KOR,1:30.243,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,11,2,1,,41,NurbergenZHUMAGAZIYEV,7349,KAZ,1:30.475,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,11,3,2,,50,GEORGIEVDimitar,8541,BUL,1:32.003,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,11,4,5,,54,LucasNG,8067,SGP,1:33.481,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,11,5,3,,184,ARADHYAAkash,7739,IND,1:34.551,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,12,1,1,,5,ShaoangLIU,8564,HUN,1:32.641,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,12,2,5,,3,SamuelGIRARD,8600,CAN,1:32.765,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,12,3,2,,40,TunaySIMSEK,8758,TUR,1:33.664,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,12,4,3,,47,SUJun-Peng,8643,TPE,1:33.895,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,12,5,4,,150,SeanMcANUFF,9198,IRL,1:34.509,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,13,1,4,,32,ThibautFAUCONNET,6785,FRA,1:30.585,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,13,2,3,,93,ZHAXYBAYEVMersaid,8623,KAZ,1:30.822,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,13,3,2,,36,RyanMcANUFF,9197,IRL,1:31.129,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,13,4,1,,125,AliaksandrARLOU,8459,BLR,1:31.772,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,13,PEN,5,,191,AugustinGERE,9270,LUX,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,14,1,1,,6,WUDajing,7729,CHN,1:31.005,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,14,2,3,,24,CASSINELLIAndrea,7741,ITA,1:31.385,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,14,3,4,,29,ANIKEJRafal,8749,POL,1:32.074,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,14,4,2,,55,MukerremDENIZ,9211,TUR,notime,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,14,PEN,5,,177,HANDEIOleh,9073,UKR,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,15,1,2,,22,BYKANOVVladislav,6178,ISR,1:33.973,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,15,2,3,,31,GOEMINNEGert-Jan,8707,BEL,1:34.723,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,15,3,5,,166,NicolasLABORDE,9096,COL,1:35.045,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,15,4,4,,45,ANDERMANNDominic,8078,AUT,1:35.105,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,15,5,1,,193,AriffRasydanMOHAMADFADZLI,8632,MAS,1:40.858,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,16,1,4,,15,CharleCOURNOYER,8063,CAN,1:25.176,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,16,2,3,,44,John-HenryKRUEGER,7763,USA,1:25.265,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,16,3,2,,147,ANDERMANNNico,8720,AUT,1:27.187,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,16,4,5,,129,FabriceDUFBERGSUH,8642,SWE,1:58.838,ADV
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,16,PEN,1,,26,JensALMEY,8595,BEL,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,17,1,1,,7,VictorAN,8344,RUS,1:30.564,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,17,2,4,,17,BREEUWSMADaan,7218,NED,1:30.617,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,17,3,3,,205,KOLENCMartin,8604,CRO,1:32.235,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,17,4,2,,208,TriphopTHONGNGAM,9328,THA,1:34.872,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,17,PEN,5,,30,JUNGHyunWoo(Andy),8575,AUS,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,18,1,2,,8,HAMELINCharles,6610,CAN,1:26.316,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,18,2,1,,73,YOSHINAGAKazuki,8745,JPN,1:26.453,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,18,3,4,,27,DOTTITommaso,7604,ITA,1:26.992,q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,18,4,5,,49,MARTINICIvan,8700,CRO,1:31.648,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,18,5,3,,115,DavutTAHTACI,8647,TUR,notime,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,19,1,4,,2,KNEGTSjinkie,7352,NED,1:26.529,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,19,2,2,,75,AYRAPETYANDenis,8098,RUS,1:26.688,Q
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,19,3,1,,111,CHOEUnSong,9063,PRK,1:28.471,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,19,4,5,,132,JackBURROWS,9101,GBR,1:29.457,
+2017-2018,Audi ISU World Cup 2017/18 - Dordrecht (NED),1000m,m,Preliminaries,19,5,3,,199,BorLukaURLEP,8753,SLO,1:34.061,

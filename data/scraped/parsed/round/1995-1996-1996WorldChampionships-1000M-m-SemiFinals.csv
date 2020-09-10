@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,3,,,CHAEJi-Hoon,6902,KOR,1:31.074,,
-0,2,1,,,FredericBLACKBURN,6753,CAN,1:31.157,,
-0,3,2,,,FAGONEOrazio,6722,ITA,1:31.212,,
-0,4,4,,,SHILLINGJ.P.,6725,USA,1:31.637,,
-1,1,4,,,LIJiajun,7095,CHN,1:39.012,,
-1,2,1,,,MarcGAGNON,6701,CAN,1:39.014,,
-1,3,3,,,NickyGOOCH,6640,GBR,1:39.139,,
-1,4,2,,,MirkoVUILLERMIN,6727,ITA,1:39.324,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+1995-1996,1996 World Championships,1000M,m,SemiFinals,1,1,3,,,CHAEJi-Hoon,6902,KOR,1:31.074,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,1,2,1,,,FredericBLACKBURN,6753,CAN,1:31.157,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,1,3,2,,,FAGONEOrazio,6722,ITA,1:31.212,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,1,4,4,,,SHILLINGJ.P.,6725,USA,1:31.637,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,2,1,4,,,LIJiajun,7095,CHN,1:39.012,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,2,2,1,,,MarcGAGNON,6701,CAN,1:39.014,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,2,3,3,,,NickyGOOCH,6640,GBR,1:39.139,,
+1995-1996,1996 World Championships,1000M,m,SemiFinals,2,4,2,,,MirkoVUILLERMIN,6727,ITA,1:39.324,,

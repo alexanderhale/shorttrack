@@ -1,48 +1,48 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,1059,LEEHo-Suk,6856,KOR,2:34.415,Q
-0,2,2,,1043,CONFORTOLAYuri,6561,ITA,2:34.564,Q
-0,3,5,,1047,SatoshiSAKASHITA,6183,JPN,2:35.041,
-0,4,4,,1054,AslanDAUMOV,6119,KAZ,2:37.927,
-0,5,3,,1041,DimitryNAZARENKO,7389,ISR,2:40.101,
-0,6,6,,1002,LachlanHAY,6845,AUS,2:57.134,
-1,1,3,,1014,Marc-AndreMONETTE,6270,CAN,9:59.001,Q
-1,2,1,,1079,ViacheslavKURGINIAN,6934,RUS,9:59.002,Q
-1,3,2,,1075,JakubJAWORSKI,6816,POL,9:59.003,
-1,4,5,,1066,FreekvanderWART,7269,NED,9:59.004,
-1,5,6,,1007,ArnoJASPERS,7117,BEL,9:59.005,
-1,DQ,4,,1102,JeffSIMON,7280,USA,DQ,
-2,1,6,,1020,LIYe,6655,CHN,2:21.619,Q
-2,2,1,,1012,Francois-LouisTREMBLAY,6704,CAN,2:21.731,Q
-2,3,2,,1032,SebastianPRAUS,6364,GER,2:24.089,
-2,4,3,,1090,KarlLINDQVIST,7182,SWE,2:31.652,
-2,5,4,,1098,RyanBEDFORD,6956,USA,2:34.537,
-2,DQ,5,,1024,ThibautFAUCONNET,6785,FRA,DQ,
-3,1,5,,1015,MathieuGIROUX,6852,CAN,2:20.267,Q
-3,2,2,,1064,HaraldsSILOVS,6458,LAT,2:20.354,Q
-3,3,6,,1044,NicolaRODIGARI,6332,ITA,2:20.362,
-3,4,4,,1078,RuslanZAKHAROV,6935,RUS,2:20.902,
-3,5,3,,1038,BYKANOVVladislav,6178,ISR,2:23.835,
-3,6,1,,1053,ArturSULTANGALIYEV,6158,KAZ,2:29.171,
-4,1,6,,1099,JordanMALONE,6201,USA,2:23.382,Q
-4,2,4,,1023,ZHANGZhiqiang,7359,CHN,2:23.409,Q
-4,3,3,,1051,ShinichiTAGAMI,6929,JPN,2:24.384,
-4,4,2,,1033,PaulHERRMANN,6803,GER,2:24.982,
-4,5,1,,1030,AnthonyDOUGLAS,6301,GBR,2:28.324,
-4,6,5,,1011,ViktorDIMITROV,7128,BUL,2:31.184,
-5,1,6,,1005,PieterGYSEL,6425,BEL,2:27.210,Q
-5,2,4,,1028,TomIVESON,6898,GBR,2:27.549,Q
-5,3,1,,1045,FabioCARTA,6001,ITA,2:29.294,
-5,4,3,,1071,BlakeSKJELLERUP,6549,NZL,2:30.626,
-5,5,5,,1092,DmytroPOLTAVETS,7221,UKR,2:31.724,
-5,6,2,,1010,AsenYORDANOV,6851,BUL,2:32.890,
-6,2,2,,1021,SONGWeilong,7156,CHN,2:25.825,Q
-6,3,3,,1003,AndrePULEC,6054,AUT,2:29.243,
-6,4,1,,1067,RudyKOEK,7225,NED,2:30.287,
-6,5,4,,1093,AntonSIMON,6026,UKR,2:32.210,
-6,6,6,,1036,RobertSEIFERT,6176,GER,2:35.036,
-7,1,6,,1058,SONGKyung-Taek,6574,KOR,2:27.806,Q
-7,2,2,,1065,NielsKERSTHOLT,7067,NED,2:28.198,Q
-7,3,5,,1048,JunjiITO,6579,JPN,2:29.253,
-7,4,1,,1087,AlexanderGERTSIKOV,6570,RUS,2:30.114,
-7,5,4,,1077,AdamFILIPOWICZ,6156,POL,2:32.471,
-7,6,3,,1096,AndriyKOZHUKH,6133,UKR,2:33.485,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,1,1,,1059,LEEHo-Suk,6856,KOR,2:34.415,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,2,2,,1043,CONFORTOLAYuri,6561,ITA,2:34.564,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,3,5,,1047,SatoshiSAKASHITA,6183,JPN,2:35.041,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,4,4,,1054,AslanDAUMOV,6119,KAZ,2:37.927,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,5,3,,1041,DimitryNAZARENKO,7389,ISR,2:40.101,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,1,6,6,,1002,LachlanHAY,6845,AUS,2:57.134,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,1,3,,1014,Marc-AndreMONETTE,6270,CAN,9:59.001,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,2,1,,1079,ViacheslavKURGINIAN,6934,RUS,9:59.002,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,3,2,,1075,JakubJAWORSKI,6816,POL,9:59.003,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,4,5,,1066,FreekvanderWART,7269,NED,9:59.004,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,5,6,,1007,ArnoJASPERS,7117,BEL,9:59.005,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,2,DQ,4,,1102,JeffSIMON,7280,USA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,1,6,,1020,LIYe,6655,CHN,2:21.619,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,2,1,,1012,Francois-LouisTREMBLAY,6704,CAN,2:21.731,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,3,2,,1032,SebastianPRAUS,6364,GER,2:24.089,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,4,3,,1090,KarlLINDQVIST,7182,SWE,2:31.652,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,5,4,,1098,RyanBEDFORD,6956,USA,2:34.537,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,3,DQ,5,,1024,ThibautFAUCONNET,6785,FRA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,1,5,,1015,MathieuGIROUX,6852,CAN,2:20.267,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,2,2,,1064,HaraldsSILOVS,6458,LAT,2:20.354,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,3,6,,1044,NicolaRODIGARI,6332,ITA,2:20.362,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,4,4,,1078,RuslanZAKHAROV,6935,RUS,2:20.902,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,5,3,,1038,BYKANOVVladislav,6178,ISR,2:23.835,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,4,6,1,,1053,ArturSULTANGALIYEV,6158,KAZ,2:29.171,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,1,6,,1099,JordanMALONE,6201,USA,2:23.382,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,2,4,,1023,ZHANGZhiqiang,7359,CHN,2:23.409,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,3,3,,1051,ShinichiTAGAMI,6929,JPN,2:24.384,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,4,2,,1033,PaulHERRMANN,6803,GER,2:24.982,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,5,1,,1030,AnthonyDOUGLAS,6301,GBR,2:28.324,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,5,6,5,,1011,ViktorDIMITROV,7128,BUL,2:31.184,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,1,6,,1005,PieterGYSEL,6425,BEL,2:27.210,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,2,4,,1028,TomIVESON,6898,GBR,2:27.549,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,3,1,,1045,FabioCARTA,6001,ITA,2:29.294,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,4,3,,1071,BlakeSKJELLERUP,6549,NZL,2:30.626,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,5,5,,1092,DmytroPOLTAVETS,7221,UKR,2:31.724,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,6,6,2,,1010,AsenYORDANOV,6851,BUL,2:32.890,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,7,2,2,,1021,SONGWeilong,7156,CHN,2:25.825,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,7,3,3,,1003,AndrePULEC,6054,AUT,2:29.243,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,7,4,1,,1067,RudyKOEK,7225,NED,2:30.287,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,7,5,4,,1093,AntonSIMON,6026,UKR,2:32.210,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,7,6,6,,1036,RobertSEIFERT,6176,GER,2:35.036,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,1,6,,1058,SONGKyung-Taek,6574,KOR,2:27.806,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,2,2,,1065,NielsKERSTHOLT,7067,NED,2:28.198,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,3,5,,1048,JunjiITO,6579,JPN,2:29.253,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,4,1,,1087,AlexanderGERTSIKOV,6570,RUS,2:30.114,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,5,4,,1077,AdamFILIPOWICZ,6156,POL,2:32.471,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",1500m,m,Heats,8,6,3,,1096,AndriyKOZHUKH,6133,UKR,2:33.485,

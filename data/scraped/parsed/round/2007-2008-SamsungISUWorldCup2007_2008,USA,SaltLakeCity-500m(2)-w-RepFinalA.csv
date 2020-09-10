@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,117,PatrycjaMALISZEWSKA,6154,POL,44.794,Q
-0,2,3,,101,SHINSae-Bom,7162,KOR,44.795,Q
-0,3,2,,65,TinaGRASSOW,6855,GER,44.913,
-0,4,4,,84,YukaKAMINO,6945,JPN,45.037,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),w,RepFinalA,1,1,1,,117,PatrycjaMALISZEWSKA,6154,POL,44.794,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),w,RepFinalA,1,2,3,,101,SHINSae-Bom,7162,KOR,44.795,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),w,RepFinalA,1,3,2,,65,TinaGRASSOW,6855,GER,44.913,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),w,RepFinalA,1,4,4,,84,YukaKAMINO,6945,JPN,45.037,

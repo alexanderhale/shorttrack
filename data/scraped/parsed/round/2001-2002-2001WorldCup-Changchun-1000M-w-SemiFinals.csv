@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,,EvgeniaRADANOVA,6775,BUL,1:35.872,
-0,2,1,,,YANGsYang,6651,CHN,1:36.048,
-0,3,2,,,KatiaZINI,6076,ITA,1:36.587,
-0,DQ,3,,,JOOMin-Jin,6616,KOR,DQ,
-1,1,3,,,YANGAYang,6649,CHN,1:34.430,
-1,3,1,,,SUNDandan,6653,CHN,1:34.583,
-1,4,4,,,CHOIEun-Kyung,6943,KOR,1:34.707,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,1,1,4,,,EvgeniaRADANOVA,6775,BUL,1:35.872,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,1,2,1,,,YANGsYang,6651,CHN,1:36.048,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,1,3,2,,,KatiaZINI,6076,ITA,1:36.587,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,1,DQ,3,,,JOOMin-Jin,6616,KOR,DQ,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,2,1,3,,,YANGAYang,6649,CHN,1:34.430,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,2,3,1,,,SUNDandan,6653,CHN,1:34.583,
+2001-2002,2001 World Cup - Changchun,1000M,w,SemiFinals,2,4,4,,,CHOIEun-Kyung,6943,KOR,1:34.707,

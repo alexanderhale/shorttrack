@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,213,BartoszKONOPKO,7169,POL,42.577,Q
-0,2,2,,121,StephanePERIER,7478,FRA,42.852,Q
-0,3,3,,132,RobertBECKER,7258,GER,42.888,
-0,4,4,,206,FreekvanderWART,7269,NED,43.166,
-1,1,1,,117,SUIBaoKu,6416,CHN,43.308,Q
-1,2,2,,208,IngmarvanRIEL,6186,NED,44.220,Q
-1,3,4,,104,BenSOUTHEE,6203,AUS,44.271,
-1,DQ,3,,105,AndrePULEC,6054,AUT,DQ,
-2,1,2,,229,TravisJAYNER,6300,USA,43.123,Q
-2,2,3,,106,PieterGYSEL,6425,BEL,43.189,Q
-2,3,1,,207,BREEUWSMADaan,7218,NED,43.301,
-2,4,4,,232,WILLIAMSCorey,7561,NZL,44.404,
-3,1,1,,135,PeterDARAZS,6465,HUN,42.818,Q
-3,2,3,,128,PaulWORTH,6802,GBR,43.660,Q
-3,3,2,,103,ElliottSHRIANE,6846,AUS,43.806,
-3,4,4,,123,BenjaminMACE,7357,FRA,43.864,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,1,1,1,,213,BartoszKONOPKO,7169,POL,42.577,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,1,2,2,,121,StephanePERIER,7478,FRA,42.852,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,1,3,3,,132,RobertBECKER,7258,GER,42.888,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,1,4,4,,206,FreekvanderWART,7269,NED,43.166,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,2,1,1,,117,SUIBaoKu,6416,CHN,43.308,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,2,2,2,,208,IngmarvanRIEL,6186,NED,44.220,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,2,3,4,,104,BenSOUTHEE,6203,AUS,44.271,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,2,DQ,3,,105,AndrePULEC,6054,AUT,DQ,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,3,1,2,,229,TravisJAYNER,6300,USA,43.123,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,3,2,3,,106,PieterGYSEL,6425,BEL,43.189,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,3,3,1,,207,BREEUWSMADaan,7218,NED,43.301,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,3,4,4,,232,WILLIAMSCorey,7561,NZL,44.404,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,4,1,1,,135,PeterDARAZS,6465,HUN,42.818,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,4,2,3,,128,PaulWORTH,6802,GBR,43.660,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,4,3,2,,103,ElliottSHRIANE,6846,AUS,43.806,
+2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",500m,m,RepQuarterfinals,4,4,4,,123,BenjaminMACE,7357,FRA,43.864,

@@ -1,19 +1,19 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,31,MartaCAPURSO,6328,ITA,2:32.426,Q
-0,2,2,,21,AikaKLEIN,6359,GER,2:32.456,Q
-0,3,1,,48,NinaEVTEEVA,6511,RUS,2:32.460,
-0,4,6,,18,JoannaWILLIAMS,6639,GBR,2:32.702,
-0,5,4,,9,AnnaKRASTEVA,6773,BUL,2:35.117,
-0,DQ,3,,40,MarielleLOOTSMA,6066,NED,DQ,
-1,1,5,,7,EvgeniaRADANOVA,6775,BUL,2:28.709,Q
-1,2,4,,47,TatianaBORODULINA,7483,RUS,2:29.533,Q
-1,3,3,,33,KatiaZINI,6076,ITA,2:29.859,
-1,4,2,,19,YvonneKUNZE,6363,GER,2:30.350,
-1,5,1,,27,ErikaHUSZAR,6373,HUN,2:36.759,
-1,6,6,,16,CelineLECOMPERE,6556,FRA,3:05.360,
-2,1,4,,35,MaraZINI,6326,ITA,2:33.309,Q
-2,2,1,,20,ChristinPRIEBST,6078,GER,2:33.377,Q
-2,3,2,,12,KaterinaNOVOTNA,6647,CZE,2:33.441,
-2,4,5,,2,VeronikaWINDISCH,6427,AUT,2:33.459,
-2,5,3,,17,SarahLINDSAY,6056,GBR,2:34.446,
-2,6,6,,38,LiesbethMAUASAM,6444,NED,3:42.056,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,1,5,,31,MartaCAPURSO,6328,ITA,2:32.426,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,2,2,,21,AikaKLEIN,6359,GER,2:32.456,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,3,1,,48,NinaEVTEEVA,6511,RUS,2:32.460,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,4,6,,18,JoannaWILLIAMS,6639,GBR,2:32.702,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,5,4,,9,AnnaKRASTEVA,6773,BUL,2:35.117,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,1,DQ,3,,40,MarielleLOOTSMA,6066,NED,DQ,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,1,5,,7,EvgeniaRADANOVA,6775,BUL,2:28.709,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,2,4,,47,TatianaBORODULINA,7483,RUS,2:29.533,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,3,3,,33,KatiaZINI,6076,ITA,2:29.859,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,4,2,,19,YvonneKUNZE,6363,GER,2:30.350,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,5,1,,27,ErikaHUSZAR,6373,HUN,2:36.759,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,2,6,6,,16,CelineLECOMPERE,6556,FRA,3:05.360,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,1,4,,35,MaraZINI,6326,ITA,2:33.309,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,2,1,,20,ChristinPRIEBST,6078,GER,2:33.377,Q
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,3,2,,12,KaterinaNOVOTNA,6647,CZE,2:33.441,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,4,5,,2,VeronikaWINDISCH,6427,AUT,2:33.459,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,5,3,,17,SarahLINDSAY,6056,GBR,2:34.446,
+2003-2004,"2004 European Championships, Netherlands",1500M,w,SemiFinals,3,6,6,,38,LiesbethMAUASAM,6444,NED,3:42.056,

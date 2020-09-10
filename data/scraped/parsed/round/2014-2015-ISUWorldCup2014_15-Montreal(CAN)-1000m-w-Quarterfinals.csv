@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,1,,6,ValerieMALTAIS,6216,CAN,1:31.913,Q
-0,3,3,,13,TAOJiaying,8667,CHN,1:32.285,
-0,4,4,,32,KIKUCHIYuki,8669,JPN,1:33.139,
-1,1,2,,19,CHRISTIEElise,7135,GBR,1:32.844,Q
-1,2,1,,10,GUOYihan,8364,CHN,1:32.858,Q
-1,3,4,,59,ZAKHAROVAEvgeniya,7715,RUS,1:32.863,
-1,4,3,,34,YunaKOIKE,8670,JPN,1:33.198,
-2,1,1,,39,CHOIMinJeong,8625,KOR,1:32.688,Q
-2,2,2,,55,KONSTANTINOVAEkaterina,8510,RUS,1:32.786,Q
-2,3,4,,68,EmilySCOTT,7823,USA,1:32.924,
-2,4,3,,48,vanRUIJVENLara,7710,NED,1:34.937,
-3,1,1,,69,JessicaKOOREMAN,7649,USA,1:36.032,Q
-3,2,2,,18,PIERRONVeronique,6196,FRA,1:36.068,Q
-3,3,4,,1,DeannaLOCKETT,7956,AUS,1:36.212,
-3,4,3,,22,AndreaKESZLER,7147,HUN,1:36.244,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,1,2,1,,6,ValerieMALTAIS,6216,CAN,1:31.913,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,1,3,3,,13,TAOJiaying,8667,CHN,1:32.285,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,1,4,4,,32,KIKUCHIYuki,8669,JPN,1:33.139,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,2,1,2,,19,CHRISTIEElise,7135,GBR,1:32.844,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,2,2,1,,10,GUOYihan,8364,CHN,1:32.858,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,2,3,4,,59,ZAKHAROVAEvgeniya,7715,RUS,1:32.863,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,2,4,3,,34,YunaKOIKE,8670,JPN,1:33.198,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,3,1,1,,39,CHOIMinJeong,8625,KOR,1:32.688,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,3,2,2,,55,KONSTANTINOVAEkaterina,8510,RUS,1:32.786,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,3,3,4,,68,EmilySCOTT,7823,USA,1:32.924,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,3,4,3,,48,vanRUIJVENLara,7710,NED,1:34.937,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,4,1,1,,69,JessicaKOOREMAN,7649,USA,1:36.032,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,4,2,2,,18,PIERRONVeronique,6196,FRA,1:36.068,Q
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,4,3,4,,1,DeannaLOCKETT,7956,AUS,1:36.212,
+2014-2015,ISU World Cup 2014/15 - Montreal (CAN),1000m,w,Quarterfinals,4,4,3,,22,AndreaKESZLER,7147,HUN,1:36.244,

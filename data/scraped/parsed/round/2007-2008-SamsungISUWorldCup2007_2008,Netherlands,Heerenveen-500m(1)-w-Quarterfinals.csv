@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,18,ZHAONannan,7150,CHN,44.908,Q
-0,2,1,,9,KalynaROBERGE,6284,CAN,45.039,Q
-0,3,3,,29,SusanneRUDOLPH,6362,GER,46.396,
-0,DQ,4,,82,LanaGEHRING,7254,USA,DQ,
-1,2,2,,13,ValerieLAMBERT,7132,CAN,45.338,Q
-1,3,3,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.617,
-1,4,4,,81,CheriseWILKINS,7291,USA,45.980,
-2,1,3,,15,FUTianYu,6650,CHN,45.101,Q
-2,2,4,,10,AnneMALTAIS,6355,CAN,45.491,Q
-2,3,1,,57,SHINSae-Bom,7162,KOR,1:08.365,
-2,4,2,,4,EvgeniaRADANOVA,6775,BUL,1:16.380,
-3,1,1,,59,PARKSeung-Hi,7164,KOR,44.819,Q
-3,2,3,,73,EkaterinaBELOVA,6190,RUS,46.653,Q
-3,3,2,,42,AriannaFONTANA,6227,ITA,53.113,
-3,4,5,,31,TinaGRASSOW,6855,GER,1:13.306,
-3,DQ,4,,50,AyukoITO,6791,JPN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,1,1,2,,18,ZHAONannan,7150,CHN,44.908,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,1,2,1,,9,KalynaROBERGE,6284,CAN,45.039,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,1,3,3,,29,SusanneRUDOLPH,6362,GER,46.396,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,1,DQ,4,,82,LanaGEHRING,7254,USA,DQ,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,2,2,2,,13,ValerieLAMBERT,7132,CAN,45.338,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,2,3,3,,5,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,45.617,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,2,4,4,,81,CheriseWILKINS,7291,USA,45.980,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,3,1,3,,15,FUTianYu,6650,CHN,45.101,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,3,2,4,,10,AnneMALTAIS,6355,CAN,45.491,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,3,3,1,,57,SHINSae-Bom,7162,KOR,1:08.365,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,3,4,2,,4,EvgeniaRADANOVA,6775,BUL,1:16.380,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,4,1,1,,59,PARKSeung-Hi,7164,KOR,44.819,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,4,2,3,,73,EkaterinaBELOVA,6190,RUS,46.653,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,4,3,2,,42,AriannaFONTANA,6227,ITA,53.113,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,4,4,5,,31,TinaGRASSOW,6855,GER,1:13.306,
+2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",500m(1),w,Quarterfinals,4,DQ,4,,50,AyukoITO,6791,JPN,DQ,

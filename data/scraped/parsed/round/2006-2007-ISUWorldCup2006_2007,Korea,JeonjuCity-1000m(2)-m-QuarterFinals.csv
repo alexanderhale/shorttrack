@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,116,SUIBaoKu,6416,CHN,1:30.551,Q
-0,2,3,,113,Marc-AndreMONETTE,6270,CAN,1:30.657,Q
-0,3,4,,172,RyanBEDFORD,6956,USA,1:30.883,
-0,4,1,,120,SebastianPRAUS,6364,GER,1:31.156,
-1,2,2,,110,MathieuGIROUX,6852,CAN,1:29.243,Q
-1,3,1,,114,LIYe,6655,CHN,1:29.577,
-1,DQ,3,,170,TravisJAYNER,6300,USA,DQ,
-2,1,2,,109,SteveROBILLARD,6494,CAN,1:29.281,Q
-2,2,1,,147,KIMHyun-Kon,7101,KOR,1:29.335,Q
-2,3,3,,126,CONFORTOLAYuri,6561,ITA,1:29.658,
-2,DQ,4,,129,JunjiITO,6579,JPN,DQ,
-3,1,3,,148,AHNHyun-Soo,6618,KOR,1:31.185,Q
-3,2,2,,133,FumihikoKAKUBARI,6024,JPN,1:35.496,Q
-3,3,4,,102,AlexanderMERRIMAN,6160,AUS,1:42.097,
-3,DQ,1,,125,NicolaRODIGARI,6332,ITA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,1,1,2,,116,SUIBaoKu,6416,CHN,1:30.551,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,1,2,3,,113,Marc-AndreMONETTE,6270,CAN,1:30.657,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,1,3,4,,172,RyanBEDFORD,6956,USA,1:30.883,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,1,4,1,,120,SebastianPRAUS,6364,GER,1:31.156,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,2,2,2,,110,MathieuGIROUX,6852,CAN,1:29.243,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,2,3,1,,114,LIYe,6655,CHN,1:29.577,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,2,DQ,3,,170,TravisJAYNER,6300,USA,DQ,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,3,1,2,,109,SteveROBILLARD,6494,CAN,1:29.281,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,3,2,1,,147,KIMHyun-Kon,7101,KOR,1:29.335,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,3,3,3,,126,CONFORTOLAYuri,6561,ITA,1:29.658,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,3,DQ,4,,129,JunjiITO,6579,JPN,DQ,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,4,1,3,,148,AHNHyun-Soo,6618,KOR,1:31.185,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,4,2,2,,133,FumihikoKAKUBARI,6024,JPN,1:35.496,Q
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,4,3,4,,102,AlexanderMERRIMAN,6160,AUS,1:42.097,
+2006-2007,"ISU World Cup 2006/2007, Korea, Jeonju City",1000m(2),m,QuarterFinals,4,DQ,1,,125,NicolaRODIGARI,6332,ITA,DQ,

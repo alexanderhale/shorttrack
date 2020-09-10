@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,6,MALISZEWSKANatalia,8437,POL,42.587,QA
-0,2,3,,12,vanKERKHOFYara,7422,NED,42.646,QA
-0,3,4,,121,KIMYeJin,9310,KOR,43.219,QB
-0,4,1,,50,FANKexin,7694,CHN,notime,QB
-0,4,5,,63,ZANGYize,8725,CHN,notime,QB
-1,1,2,,97,CHARLESAlyson,8722,CAN,43.012,QA
-1,2,1,,4,PROSVIRNOVASofia,8509,RUS,43.046,QA
-1,3,3,,21,PetraJASZAPATI,8611,HUN,43.200,QB
-1,4,4,,102,WANGXiran,9451,CHN,43.354,QB
-1,5,5,,13,KIKUCHISumire,7980,JPN,43.436,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,1,1,2,,6,MALISZEWSKANatalia,8437,POL,42.587,QA
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,1,2,3,,12,vanKERKHOFYara,7422,NED,42.646,QA
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,1,3,4,,121,KIMYeJin,9310,KOR,43.219,QB
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,1,4,1,,50,FANKexin,7694,CHN,notime,QB
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,1,4,5,,63,ZANGYize,8725,CHN,notime,QB
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,2,1,2,,97,CHARLESAlyson,8722,CAN,43.012,QA
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,2,2,1,,4,PROSVIRNOVASofia,8509,RUS,43.046,QA
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,2,3,3,,21,PetraJASZAPATI,8611,HUN,43.200,QB
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,2,4,4,,102,WANGXiran,9451,CHN,43.354,QB
+2018-2019,ISU World Cup 2018/19 - Calgary (CAN),500m(1),w,Semifinals,2,5,5,,13,KIKUCHISumire,7980,JPN,43.436,

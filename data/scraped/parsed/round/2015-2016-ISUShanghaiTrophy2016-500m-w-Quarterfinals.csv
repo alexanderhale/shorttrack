@@ -1,12 +1,12 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,15,PIERRONVeronique,6196,FRA,43.787,Q
-0,3,3,,45,GUOYihan,8364,CHN,43.839,q
-0,4,4,,31,HUOTMARCHANDTifany,7976,FRA,45.374,
-1,1,2,,103,LEEYuBin,9112,KOR,44.586,Q
-1,2,3,,58,LINYue,8548,CHN,44.766,Q
-1,3,4,,22,PetraJASZAPATI,8611,HUN,44.844,q
-1,4,1,,102,SelmaPOUTSMA,9004,FRA,45.009,
-2,1,1,,101,QUChunyu,8071,CHN,43.875,Q
-2,2,2,,9,TAOJiaying,8667,CHN,44.014,Q
-2,3,3,,82,MONVOISINAurelie,8556,FRA,44.864,
-2,4,4,,49,DeannaLOCKETT,7956,AUS,45.264,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,1,2,2,,15,PIERRONVeronique,6196,FRA,43.787,Q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,1,3,3,,45,GUOYihan,8364,CHN,43.839,q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,1,4,4,,31,HUOTMARCHANDTifany,7976,FRA,45.374,
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,2,1,2,,103,LEEYuBin,9112,KOR,44.586,Q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,2,2,3,,58,LINYue,8548,CHN,44.766,Q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,2,3,4,,22,PetraJASZAPATI,8611,HUN,44.844,q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,2,4,1,,102,SelmaPOUTSMA,9004,FRA,45.009,
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,3,1,1,,101,QUChunyu,8071,CHN,43.875,Q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,3,2,2,,9,TAOJiaying,8667,CHN,44.014,Q
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,3,3,3,,82,MONVOISINAurelie,8556,FRA,44.864,
+2015-2016,ISU Shanghai Trophy 2016,500m,w,Quarterfinals,3,4,4,,49,DeannaLOCKETT,7956,AUS,45.264,

@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,130,PaulWORTH,6802,GBR,43.876,Q
-0,2,3,,170,SergeyPRANKEVICH,7048,RUS,43.995,Q
-0,3,1,,145,ArturSULTANGALIYEV,6158,KAZ,44.094,
-0,4,4,,155,FreekvanderWART,7269,NED,44.347,
-1,1,1,,178,RyanBEDFORD,6956,USA,43.821,Q
-1,2,2,,128,PaulSTANLEY,7054,GBR,43.855,Q
-1,3,4,,174,SerhiyLIFYRENKO,6826,UKR,45.070,
-1,4,3,,158,DariuszKULESZA,6817,POL,1:04.195,
-2,1,1,,110,CHENXin,7358,CHN,44.022,Q
-2,2,2,,154,IngmarvanRIEL,6186,NED,45.089,Q
-2,3,3,,172,DmytroPOLTAVETS,7221,UKR,45.293,
-2,4,4,,118,ThibautFAUCONNET,6785,FRA,46.630,
-3,1,2,,179,TravisJAYNER,6300,USA,44.592,Q
-3,2,3,,137,RobertoSERRA,6463,ITA,44.658,Q
-3,3,1,,151,NielsKERSTHOLT,7067,NED,44.669,
-3,4,4,,171,VitalyMIKHEENKOV,6234,RUS,44.948,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,1,1,2,,130,PaulWORTH,6802,GBR,43.876,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,1,2,3,,170,SergeyPRANKEVICH,7048,RUS,43.995,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,1,3,1,,145,ArturSULTANGALIYEV,6158,KAZ,44.094,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,1,4,4,,155,FreekvanderWART,7269,NED,44.347,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,2,1,1,,178,RyanBEDFORD,6956,USA,43.821,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,2,2,2,,128,PaulSTANLEY,7054,GBR,43.855,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,2,3,4,,174,SerhiyLIFYRENKO,6826,UKR,45.070,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,2,4,3,,158,DariuszKULESZA,6817,POL,1:04.195,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,3,1,1,,110,CHENXin,7358,CHN,44.022,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,3,2,2,,154,IngmarvanRIEL,6186,NED,45.089,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,3,3,3,,172,DmytroPOLTAVETS,7221,UKR,45.293,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,3,4,4,,118,ThibautFAUCONNET,6785,FRA,46.630,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,4,1,2,,179,TravisJAYNER,6300,USA,44.592,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,4,2,3,,137,RobertoSERRA,6463,ITA,44.658,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,4,3,1,,151,NielsKERSTHOLT,7067,NED,44.669,
+2007-2008,"Samsung ISU World Cup 2007/2008, Japan, Kobe",500m,m,RepQuarterfinals,4,4,4,,171,VitalyMIKHEENKOV,6234,RUS,44.948,

@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,34,Francois-LouisTREMBLAY,6704,CAN,42.690,Q
-0,2,3,,113,LEESeung-Jae,6621,KOR,42.752,Q
-0,3,2,,175,RustySMITH,6496,USA,42.916,
-0,4,5,,33,HAMELINCharles,6610,CAN,43.060,
-0,5,4,,44,LIJiajun,7095,CHN,44.007,
-1,1,2,,36,MathieuTURCOTTE,6705,CAN,42.832,Q
-1,3,4,,160,VolodymyrGRYGORIEV,6741,UKR,43.118,
-1,4,3,,77,ArianNACHBAR,6637,GER,43.120,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,1,1,1,,34,Francois-LouisTREMBLAY,6704,CAN,42.690,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,1,2,3,,113,LEESeung-Jae,6621,KOR,42.752,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,1,3,2,,175,RustySMITH,6496,USA,42.916,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,1,4,5,,33,HAMELINCharles,6610,CAN,43.060,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,1,5,4,,44,LIJiajun,7095,CHN,44.007,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,2,1,2,,36,MathieuTURCOTTE,6705,CAN,42.832,Q
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,2,3,4,,160,VolodymyrGRYGORIEV,6741,UKR,43.118,
+2004-2005,"2005 World Cup 5, Hungary",500M,m,SemiFinals,2,4,3,,77,ArianNACHBAR,6637,GER,43.120,

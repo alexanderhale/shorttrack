@@ -1,7 +1,7 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,5,,72,CONFORTOLAYuri,6561,ITA,2:29.308,
-0,2,3,,71,FabioCARTA,6001,ITA,2:29.478,
-0,3,6,,43,AlexanderMERRIMAN,6160,AUS,2:29.550,
-0,4,1,,63,OliverHORSEPOOL,6276,GBR,2:29.921,
-0,5,4,,41,JeremyBECK,7283,AUS,2:30.320,
-0,6,2,,42,LachlanHAY,6845,AUS,2:31.319,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,1,5,,72,CONFORTOLAYuri,6561,ITA,2:29.308,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,2,3,,71,FabioCARTA,6001,ITA,2:29.478,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,3,6,,43,AlexanderMERRIMAN,6160,AUS,2:29.550,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,4,1,,63,OliverHORSEPOOL,6276,GBR,2:29.921,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,5,4,,41,JeremyBECK,7283,AUS,2:30.320,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1500m,m,FinalB,1,6,2,,42,LachlanHAY,6845,AUS,2:31.319,

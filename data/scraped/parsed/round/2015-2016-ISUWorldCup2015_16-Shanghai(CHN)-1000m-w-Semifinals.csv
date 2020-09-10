@@ -1,10 +1,10 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,111,QUChunyu,8071,CHN,1:32.790,QA
-0,2,1,,44,ValerieMALTAIS,6216,CAN,1:32.848,QA
-0,3,2,,6,KIMAlang,8484,KOR,1:32.903,QB
-0,4,5,,15,PIERRONVeronique,6196,FRA,1:33.071,QB
-0,5,4,,5,FANKexin,7694,CHN,1:34.684,
-1,1,1,,3,SHIMSukHee,8092,KOR,1:32.743,QA
-1,2,3,,81,SCHULTINGSuzanne,8493,NED,1:32.808,QA
-1,3,2,,4,CHRISTIEElise,7135,GBR,1:32.825,QB
-1,4,4,,20,vanRUIJVENLara,7710,NED,1:33.135,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,1,1,3,,111,QUChunyu,8071,CHN,1:32.790,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,1,2,1,,44,ValerieMALTAIS,6216,CAN,1:32.848,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,1,3,2,,6,KIMAlang,8484,KOR,1:32.903,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,1,4,5,,15,PIERRONVeronique,6196,FRA,1:33.071,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,1,5,4,,5,FANKexin,7694,CHN,1:34.684,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,2,1,1,,3,SHIMSukHee,8092,KOR,1:32.743,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,2,2,3,,81,SCHULTINGSuzanne,8493,NED,1:32.808,QA
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,2,3,2,,4,CHRISTIEElise,7135,GBR,1:32.825,QB
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),1000m,w,Semifinals,2,4,4,,20,vanRUIJVENLara,7710,NED,1:33.135,QB

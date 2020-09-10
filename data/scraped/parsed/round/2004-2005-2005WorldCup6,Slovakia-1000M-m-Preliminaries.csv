@@ -1,73 +1,73 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,132,NicolaRODIGARI,6332,ITA,1:29.459,Q
-0,2,5,,88,PieterGYSEL,6425,BEL,1:29.674,Q
-0,3,1,,112,ThibautFAUCONNET,6785,FRA,1:29.685,
-0,4,4,,108,PetrHARGAS,6171,CZE,1:31.791,
-0,5,2,,140,NikolayFEDORENKO,6312,KAZ,1:31.863,
-1,1,4,,157,AHNHyun-Soo,6618,KOR,1:31.504,Q
-1,2,1,,163,ViacheslavKURGINIAN,6934,RUS,1:32.045,Q
-1,3,2,,172,DavidGROSSENBACHER,6962,SUI,1:32.767,
-1,4,3,,109,JosefMIKA,6172,CZE,1:33.814,
-2,1,3,,106,SUIBaoKu,6416,CHN,1:33.075,Q
-2,2,1,,158,SUNGSi-Bak,6811,KOR,1:33.172,Q
-2,3,4,,175,YevgenYAKOVLEV,6751,UKR,1:33.510,
-2,4,5,,123,MatthewWILSON,6928,GBR,1:34.104,
-2,5,2,,86,BenjaminKOCH,6847,AUT,1:35.410,
-3,1,2,,185,EricBEDARD,6703,CAN,1:29.907,Q
-3,2,1,,164,MikhailRAJINE,6569,RUS,1:30.280,Q
-3,3,3,,107,JarmilHRUZA,6503,CZE,1:30.372,
-3,4,4,,130,NicolaFRANCESCHINA,6331,ITA,1:30.479,
-3,5,5,,162,ZsoltKALAMARKERTESZ,6125,,1:35.386,
-4,1,2,,142,HaraldsSILOVS,6458,LAT,1:29.654,Q
-4,2,1,,135,TakafumiNISHITANI,6323,JPN,1:29.800,Q
-4,3,4,,168,TomasGRESCHNER,6633,SVK,1:30.432,
-4,4,3,,127,TamasTUTRAI,6197,HUN,1:32.179,
-5,1,1,,151,KrystianZDROJKOWSKI,6515,POL,1:31.442,Q
-5,2,3,,174,VolodymyrGRYGORIEV,6741,UKR,1:31.481,Q
-5,3,2,,146,ThomasMOGENDORFF,6814,NED,1:32.342,
-5,4,5,,167,RuslanZAKHAROV,6935,RUS,1:32.501,
-5,5,4,,173,SaschaLAUBER,6634,SUI,1:32.702,
-6,1,2,,98,MathieuTURCOTTE,6705,CAN,1:32.913,Q
-6,2,4,,82,LachlanHAY,6845,AUS,1:33.146,Q
-6,3,3,,150,JustinCOPSEY,6126,NZL,1:37.465,
-6,4,1,,143,GanbatJARGALANCHULUUN,6543,MGL,1:45.273,
-7,1,3,,103,LIYe,6655,CHN,1:32.682,Q
-7,2,4,,149,BlakeSKJELLERUP,6549,NZL,1:32.811,Q
-7,3,2,,137,TakahiroFUJIMOTO,6277,JPN,1:32.858,
-7,4,1,,152,ZbigniewBRODKA,6096,POL,1:32.926,
-7,5,5,,121,PaulWORTH,6802,GBR,1:33.789,
-8,1,3,,180,RustySMITH,6496,USA,1:32.407,Q
-8,2,2,,89,WimdeDEYNE,6699,BEL,1:32.565,Q
-8,3,1,,153,KarolBOBOWICZ,6070,POL,1:32.769,
-8,4,4,,96,NikolaySTANCHEV,7045,BUL,1:33.919,
-8,5,5,,141,AndreySMETANIN,6459,KAZ,1:37.056,
-9,1,3,,100,SteveROBILLARD,6494,CAN,1:35.537,Q
-9,2,1,,125,BalazsKNOCH,6341,HUN,1:38.751,Q
-9,3,5,,170,PeterJELEN,7077,SVK,1:51.086,
-9,4,4,,94,KirilPANDOV,6779,BUL,1:57.009,
-9,DNF,2,,131,FabioCARTA,6001,ITA,DNF,
-10,1,1,,102,LIJiajun,7095,CHN,1:32.334,Q
-10,2,2,,148,Robbert-KeesBOER,6456,NED,1:32.470,Q
-10,3,3,,119,ThomasBAUER,7092,GER,1:33.341,
-10,4,4,,160,LaszloVRENCEAN,6819,,1:36.710,
-11,1,3,,116,ArianNACHBAR,6637,GER,1:34.074,Q
-11,2,1,,145,NielsKERSTHOLT,7067,NED,1:34.137,Q
-11,3,2,,136,HayatoSUEYOSHI,6321,JPN,1:34.215,
-11,4,4,,159,ZsoltIstvanPATAKI,6818,ROU,1:37.652,
-12,1,1,,80,MarkMcNEE,6432,AUS,1:33.706,Q
-12,2,5,,114,GuillaumeMATHIEU,6871,FRA,1:34.255,Q
-12,3,3,,85,AndrePULEC,6054,AUT,1:34.322,
-12,4,4,,176,VolodymyrCHERNEGA,6041,UKR,1:34.755,
-12,DNF,2,,126,AttilaPIROS,6805,HUN,DNF,
-13,1,3,,117,SebastianPRAUS,6364,GER,1:34.423,Q
-13,2,2,,95,LubomirPOPOVSKI,6598,BUL,1:35.281,Q
-13,3,4,,81,StephenLEE,6002,AUS,1:35.335,
-13,4,1,,87,MichaelKOCH,6680,AUT,1:38.394,
-14,2,4,,156,YEOJun-Hyung,6948,KOR,1:31.308,Q
-14,3,3,,169,MatusUZAK,6510,SVK,1:32.135,
-14,4,1,,92,FelipedeSOUZA,6114,BRA,1:51.349,
-15,1,3,,111,JeanCharlesMATTEI,6057,FRA,1:31.870,Q
-15,2,4,,182,MikeKOOREMAN,6724,USA,1:32.023,Q
-15,3,1,,90,DriesCELIS,6113,BEL,1:32.675,
-15,4,2,,120,OliverHORSEPOOL,6276,GBR,1:33.984,
-15,5,5,,128,IvanDOLINIC,6669,CRO,1:35.134,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,1,1,3,,132,NicolaRODIGARI,6332,ITA,1:29.459,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,1,2,5,,88,PieterGYSEL,6425,BEL,1:29.674,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,1,3,1,,112,ThibautFAUCONNET,6785,FRA,1:29.685,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,1,4,4,,108,PetrHARGAS,6171,CZE,1:31.791,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,1,5,2,,140,NikolayFEDORENKO,6312,KAZ,1:31.863,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,2,1,4,,157,AHNHyun-Soo,6618,KOR,1:31.504,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,2,2,1,,163,ViacheslavKURGINIAN,6934,RUS,1:32.045,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,2,3,2,,172,DavidGROSSENBACHER,6962,SUI,1:32.767,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,2,4,3,,109,JosefMIKA,6172,CZE,1:33.814,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,3,1,3,,106,SUIBaoKu,6416,CHN,1:33.075,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,3,2,1,,158,SUNGSi-Bak,6811,KOR,1:33.172,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,3,3,4,,175,YevgenYAKOVLEV,6751,UKR,1:33.510,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,3,4,5,,123,MatthewWILSON,6928,GBR,1:34.104,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,3,5,2,,86,BenjaminKOCH,6847,AUT,1:35.410,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,4,1,2,,185,EricBEDARD,6703,CAN,1:29.907,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,4,2,1,,164,MikhailRAJINE,6569,RUS,1:30.280,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,4,3,3,,107,JarmilHRUZA,6503,CZE,1:30.372,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,4,4,4,,130,NicolaFRANCESCHINA,6331,ITA,1:30.479,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,4,5,5,,162,ZsoltKALAMARKERTESZ,6125,,1:35.386,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,5,1,2,,142,HaraldsSILOVS,6458,LAT,1:29.654,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,5,2,1,,135,TakafumiNISHITANI,6323,JPN,1:29.800,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,5,3,4,,168,TomasGRESCHNER,6633,SVK,1:30.432,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,5,4,3,,127,TamasTUTRAI,6197,HUN,1:32.179,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,6,1,1,,151,KrystianZDROJKOWSKI,6515,POL,1:31.442,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,6,2,3,,174,VolodymyrGRYGORIEV,6741,UKR,1:31.481,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,6,3,2,,146,ThomasMOGENDORFF,6814,NED,1:32.342,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,6,4,5,,167,RuslanZAKHAROV,6935,RUS,1:32.501,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,6,5,4,,173,SaschaLAUBER,6634,SUI,1:32.702,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,7,1,2,,98,MathieuTURCOTTE,6705,CAN,1:32.913,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,7,2,4,,82,LachlanHAY,6845,AUS,1:33.146,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,7,3,3,,150,JustinCOPSEY,6126,NZL,1:37.465,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,7,4,1,,143,GanbatJARGALANCHULUUN,6543,MGL,1:45.273,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,8,1,3,,103,LIYe,6655,CHN,1:32.682,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,8,2,4,,149,BlakeSKJELLERUP,6549,NZL,1:32.811,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,8,3,2,,137,TakahiroFUJIMOTO,6277,JPN,1:32.858,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,8,4,1,,152,ZbigniewBRODKA,6096,POL,1:32.926,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,8,5,5,,121,PaulWORTH,6802,GBR,1:33.789,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,9,1,3,,180,RustySMITH,6496,USA,1:32.407,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,9,2,2,,89,WimdeDEYNE,6699,BEL,1:32.565,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,9,3,1,,153,KarolBOBOWICZ,6070,POL,1:32.769,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,9,4,4,,96,NikolaySTANCHEV,7045,BUL,1:33.919,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,9,5,5,,141,AndreySMETANIN,6459,KAZ,1:37.056,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,10,1,3,,100,SteveROBILLARD,6494,CAN,1:35.537,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,10,2,1,,125,BalazsKNOCH,6341,HUN,1:38.751,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,10,3,5,,170,PeterJELEN,7077,SVK,1:51.086,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,10,4,4,,94,KirilPANDOV,6779,BUL,1:57.009,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,10,DNF,2,,131,FabioCARTA,6001,ITA,DNF,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,11,1,1,,102,LIJiajun,7095,CHN,1:32.334,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,11,2,2,,148,Robbert-KeesBOER,6456,NED,1:32.470,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,11,3,3,,119,ThomasBAUER,7092,GER,1:33.341,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,11,4,4,,160,LaszloVRENCEAN,6819,,1:36.710,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,12,1,3,,116,ArianNACHBAR,6637,GER,1:34.074,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,12,2,1,,145,NielsKERSTHOLT,7067,NED,1:34.137,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,12,3,2,,136,HayatoSUEYOSHI,6321,JPN,1:34.215,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,12,4,4,,159,ZsoltIstvanPATAKI,6818,ROU,1:37.652,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,13,1,1,,80,MarkMcNEE,6432,AUS,1:33.706,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,13,2,5,,114,GuillaumeMATHIEU,6871,FRA,1:34.255,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,13,3,3,,85,AndrePULEC,6054,AUT,1:34.322,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,13,4,4,,176,VolodymyrCHERNEGA,6041,UKR,1:34.755,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,13,DNF,2,,126,AttilaPIROS,6805,HUN,DNF,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,14,1,3,,117,SebastianPRAUS,6364,GER,1:34.423,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,14,2,2,,95,LubomirPOPOVSKI,6598,BUL,1:35.281,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,14,3,4,,81,StephenLEE,6002,AUS,1:35.335,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,14,4,1,,87,MichaelKOCH,6680,AUT,1:38.394,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,15,2,4,,156,YEOJun-Hyung,6948,KOR,1:31.308,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,15,3,3,,169,MatusUZAK,6510,SVK,1:32.135,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,15,4,1,,92,FelipedeSOUZA,6114,BRA,1:51.349,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,16,1,3,,111,JeanCharlesMATTEI,6057,FRA,1:31.870,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,16,2,4,,182,MikeKOOREMAN,6724,USA,1:32.023,Q
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,16,3,1,,90,DriesCELIS,6113,BEL,1:32.675,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,16,4,2,,120,OliverHORSEPOOL,6276,GBR,1:33.984,
+2004-2005,"2005 World Cup 6, Slovakia",1000M,m,Preliminaries,16,5,5,,128,IvanDOLINIC,6669,CRO,1:35.134,

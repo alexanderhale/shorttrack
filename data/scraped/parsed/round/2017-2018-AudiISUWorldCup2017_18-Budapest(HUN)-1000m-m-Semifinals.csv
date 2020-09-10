@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,2,KNEGTSjinkie,7352,NED,1:26.842,QA
-0,2,5,,9,HANTianyu,8388,CHN,1:27.095,QA
-0,3,2,,13,J.R.CELSKI,7279,USA,1:27.910,QB
-0,4,1,,58,HWANGDaeHeon,9115,KOR,1:32.414,ADA
-0,PEN,4,,10,ShaolinSandorLIU,7928,HUN,PEN,
-1,1,2,,189,LIMHyoJun,9324,KOR,1:25.904,QA
-1,2,3,,15,CharleCOURNOYER,8063,CAN,1:26.038,QA
-1,3,5,,6,WUDajing,7729,CHN,1:26.500,QB
-1,4,4,,204,RobertoPUKITIS,7785,LAT,1:26.598,QB
-1,5,1,,8,HAMELINCharles,6610,CAN,1:26.920,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,1,1,3,,2,KNEGTSjinkie,7352,NED,1:26.842,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,1,2,5,,9,HANTianyu,8388,CHN,1:27.095,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,1,3,2,,13,J.R.CELSKI,7279,USA,1:27.910,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,1,4,1,,58,HWANGDaeHeon,9115,KOR,1:32.414,ADA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,1,PEN,4,,10,ShaolinSandorLIU,7928,HUN,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,2,1,2,,189,LIMHyoJun,9324,KOR,1:25.904,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,2,2,3,,15,CharleCOURNOYER,8063,CAN,1:26.038,QA
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,2,3,5,,6,WUDajing,7729,CHN,1:26.500,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,2,4,4,,204,RobertoPUKITIS,7785,LAT,1:26.598,QB
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Semifinals,2,5,1,,8,HAMELINCharles,6610,CAN,1:26.920,

@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,192,PARKSeYeong,7750,KOR,41.112,
-0,2,2,,132,CharleCOURNOYER,8063,CAN,41.169,
-0,3,4,,137,LIANGWenhao,7594,CHN,41.258,
-0,4,3,,187,AydarBEKZHANOV,7623,KAZ,41.299,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2013-2014,"ISU World Cup 2013/2014, Kolomna (RUS)",500m,m,FinalB,1,1,1,,192,PARKSeYeong,7750,KOR,41.112,
+2013-2014,"ISU World Cup 2013/2014, Kolomna (RUS)",500m,m,FinalB,1,2,2,,132,CharleCOURNOYER,8063,CAN,41.169,
+2013-2014,"ISU World Cup 2013/2014, Kolomna (RUS)",500m,m,FinalB,1,3,4,,137,LIANGWenhao,7594,CHN,41.258,
+2013-2014,"ISU World Cup 2013/2014, Kolomna (RUS)",500m,m,FinalB,1,4,3,,187,AydarBEKZHANOV,7623,KAZ,41.299,

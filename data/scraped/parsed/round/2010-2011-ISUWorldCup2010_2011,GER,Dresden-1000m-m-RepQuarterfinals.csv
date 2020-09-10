@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,124,LEPAPESebastien,7554,FRA,1:28.416,Q
-0,2,2,,155,HaraldsSILOVS,6458,LAT,1:28.653,Q
-0,3,1,,175,IevgenGUTENOV,7178,UKR,1:29.996,
-0,4,3,,145,DOTTITommaso,7604,ITA,1:36.692,
-1,1,3,,143,BYKANOVVladislav,6178,ISR,1:29.468,Q
-1,2,4,,129,HannesKROEGER,7142,GER,1:29.642,Q
-1,3,2,,121,VojtechLOUDIN,7597,CZE,1:31.252,ADV
-1,PEN,1,,151,YumaSAKURAI,6182,JPN,PEN,
-2,1,3,,177,JonathanGARCIA,7904,USA,1:28.895,Q
-2,2,2,,153,DaisukeUEMURA,6118,JPN,1:28.940,Q
-2,3,4,,170,ViacheslavKURGINIAN,6934,RUS,1:30.674,ADV
-2,PEN,1,,137,IanUPCOTT,7257,GBR,PEN,
-3,1,1,,127,PaulHERRMANN,6803,GER,1:29.943,Q
-3,2,2,,169,EvgeniiKOZULIN,7272,RUS,1:31.422,Q
-3,3,4,,120,AlesGORECKI,7912,CZE,1:48.801,
-3,PEN,3,,102,TimothyDEWISPELAERE,7590,BEL,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,1,1,4,,124,LEPAPESebastien,7554,FRA,1:28.416,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,1,2,2,,155,HaraldsSILOVS,6458,LAT,1:28.653,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,1,3,1,,175,IevgenGUTENOV,7178,UKR,1:29.996,
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,1,4,3,,145,DOTTITommaso,7604,ITA,1:36.692,
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,2,1,3,,143,BYKANOVVladislav,6178,ISR,1:29.468,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,2,2,4,,129,HannesKROEGER,7142,GER,1:29.642,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,2,3,2,,121,VojtechLOUDIN,7597,CZE,1:31.252,ADV
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,2,PEN,1,,151,YumaSAKURAI,6182,JPN,PEN,
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,3,1,3,,177,JonathanGARCIA,7904,USA,1:28.895,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,3,2,2,,153,DaisukeUEMURA,6118,JPN,1:28.940,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,3,3,4,,170,ViacheslavKURGINIAN,6934,RUS,1:30.674,ADV
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,3,PEN,1,,137,IanUPCOTT,7257,GBR,PEN,
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,4,1,1,,127,PaulHERRMANN,6803,GER,1:29.943,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,4,2,2,,169,EvgeniiKOZULIN,7272,RUS,1:31.422,Q
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,4,3,4,,120,AlesGORECKI,7912,CZE,1:48.801,
+2010-2011,"ISU World Cup 2010/2011, GER, Dresden",1000m,m,RepQuarterfinals,4,PEN,3,,102,TimothyDEWISPELAERE,7590,BEL,PEN,

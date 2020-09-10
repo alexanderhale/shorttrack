@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,72,ZAKHAROVAEvgeniya,7715,RUS,1:33.589,Q
-0,2,6,,116,AsselTAISHMANOVA,9259,KAZ,1:34.459,q
-0,3,4,,89,RUSNAKOVAPetra,9297,SVK,1:41.148,
-0,4,2,,102,WANGXiran,9451,CHN,notime,
-0,4,3,,138,CHENTong,9449,CHN,notime,
-0,PEN,5,,75,STORMOWSKAKamila,9008,POL,PEN,
-0,PEN,1,,130,MALAGICHEmina,7989,RUS,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,1,7,,72,ZAKHAROVAEvgeniya,7715,RUS,1:33.589,Q
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,2,6,,116,AsselTAISHMANOVA,9259,KAZ,1:34.459,q
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,3,4,,89,RUSNAKOVAPetra,9297,SVK,1:41.148,
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,4,2,,102,WANGXiran,9451,CHN,notime,
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,4,3,,138,CHENTong,9449,CHN,notime,
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,PEN,5,,75,STORMOWSKAKamila,9008,POL,PEN,
+2018-2019,ISU World Cup 2018/19 - Almaty (KAZ),1000m,w,Rep.Semifinals,1,PEN,1,,130,MALAGICHEmina,7989,RUS,PEN,

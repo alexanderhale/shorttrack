@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,14,LIUQiuhong,6286,CHN,44.342,Q
-0,2,2,,52,JorienterMORS,6146,NED,45.213,Q
-0,3,3,,1,JulieJUNG,7838,AUS,45.234,QC
-0,4,5,,63,NinaEVTEEVA,6511,RUS,47.988,
-0,PEN,4,,11,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,PEN,
-1,1,2,,10,CarolineTRUCHON,7908,CAN,44.679,Q
-1,2,1,,18,KaterinaNOVOTNA,6647,CZE,44.807,Q
-1,3,4,,35,VALCEPINAArianna,7705,ITA,45.531,QC
-1,4,3,,44,XeniyaMOTOVA,7343,KAZ,46.443,
-2,1,1,,32,AriannaFONTANA,6227,ITA,44.562,Q
-2,2,2,,53,AnnitavanDOORN,6440,NED,44.644,Q
-2,3,4,,60,OlgaBELYAKOVA,7112,RUS,44.899,QC
-2,4,3,,47,CHOIJung-Won,7242,KOR,46.681,
-3,1,4,,7,JessicaHEWITT,7548,CAN,45.705,Q
-3,2,1,,36,VALCEPINAMartina,7159,ITA,45.723,Q
-3,3,2,,56,AidaBELLA,7538,POL,46.246,QC
-3,4,3,,41,YasukoSAKASHITA,6189,JPN,46.275,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,1,1,1,,14,LIUQiuhong,6286,CHN,44.342,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,1,2,2,,52,JorienterMORS,6146,NED,45.213,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,1,3,3,,1,JulieJUNG,7838,AUS,45.234,QC
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,1,4,5,,63,NinaEVTEEVA,6511,RUS,47.988,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,1,PEN,4,,11,GabrielleWILLIAMSON-DERRAUGH,7839,CAN,PEN,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,2,1,2,,10,CarolineTRUCHON,7908,CAN,44.679,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,2,2,1,,18,KaterinaNOVOTNA,6647,CZE,44.807,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,2,3,4,,35,VALCEPINAArianna,7705,ITA,45.531,QC
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,2,4,3,,44,XeniyaMOTOVA,7343,KAZ,46.443,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,3,1,1,,32,AriannaFONTANA,6227,ITA,44.562,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,3,2,2,,53,AnnitavanDOORN,6440,NED,44.644,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,3,3,4,,60,OlgaBELYAKOVA,7112,RUS,44.899,QC
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,3,4,3,,47,CHOIJung-Won,7242,KOR,46.681,
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,4,1,4,,7,JessicaHEWITT,7548,CAN,45.705,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,4,2,1,,36,VALCEPINAMartina,7159,ITA,45.723,Q
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,4,3,2,,56,AidaBELLA,7538,POL,46.246,QC
+2011-2012,"ISU World Cup 2011/2012, CAN, Saguenay",500m(2),w,Quarterfinals,4,4,3,,41,YasukoSAKASHITA,6189,JPN,46.275,

@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,67,ViktorKNOCH,6177,HUN,1:30.282,
-0,2,2,,55,JeanCharlesMATTEI,6057,FRA,1:30.429,
-0,3,3,,76,NielsKERSTHOLT,7067,NED,1:30.565,
-0,4,1,,57,PaulHERRMANN,6803,GER,1:30.664,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),m,FinalB,1,1,4,,67,ViktorKNOCH,6177,HUN,1:30.282,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),m,FinalB,1,2,2,,55,JeanCharlesMATTEI,6057,FRA,1:30.429,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),m,FinalB,1,3,3,,76,NielsKERSTHOLT,7067,NED,1:30.565,
+2006-2007,"ISU World Cup 2006/2007, Netherlands, Heerenveen",1000m(2),m,FinalB,1,4,1,,57,PaulHERRMANN,6803,GER,1:30.664,

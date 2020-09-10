@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,328,VIVIANIElena,7583,ITA,1:39.820,Q
-0,2,2,,322,KONYAZsofia,7701,HUN,1:40.047,
-0,3,3,,335,AnastassiyaKRESTOVA,7981,KAZ,1:40.167,ADV
-0,PEN,1,,306,CourtneySHMYR,7961,CAN,PEN,
-1,1,1,,317,PIERRONVeronique,6196,FRA,1:38.954,Q
-1,2,3,,360,KatherineRALSTON,7991,USA,1:39.236,
-1,3,2,,326,YleniaTOTA,8036,ITA,1:39.528,
-1,3,4,,334,MarieYOSHIDA,7417,JPN,1:39.528,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,1,1,4,,328,VIVIANIElena,7583,ITA,1:39.820,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,1,2,2,,322,KONYAZsofia,7701,HUN,1:40.047,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,1,3,3,,335,AnastassiyaKRESTOVA,7981,KAZ,1:40.167,ADV
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,1,PEN,1,,306,CourtneySHMYR,7961,CAN,PEN,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,2,1,1,,317,PIERRONVeronique,6196,FRA,1:38.954,Q
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,2,2,3,,360,KatherineRALSTON,7991,USA,1:39.236,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,2,3,2,,326,YleniaTOTA,8036,ITA,1:39.528,
+2014-2015,"ISU World Cup 2014/15 - Salt Lake City, UT (USA)",1000m(1),w,RepSemifinals,2,3,4,,334,MarieYOSHIDA,7417,JPN,1:39.528,

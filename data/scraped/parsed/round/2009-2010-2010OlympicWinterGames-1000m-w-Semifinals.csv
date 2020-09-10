@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,114,ZHOUYang,6222,CHN,1:29.049WR,QA
-0,2,3,,141,PARKSeung-Hi,7164,KOR,1:29.165,QA
-0,3,4,,101,TatianaBORODULINA,6684,AUS,1:29.663,QB
-0,4,2,,105,JessicaGREGG,6141,CAN,1:33.139,QB
-1,1,1,,157,KatherineREUTTER-ADAMEK,7255,USA,1:30.568,QA
-1,2,4,,112,WANGMeng,6594,CHN,1:30.573,QA
-1,3,3,,107,KalynaROBERGE,6284,CAN,1:30.736,QB
-1,4,2,,137,CHOHa-Ri,7028,KOR,1:30.792,QB
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,1,1,1,,114,ZHOUYang,6222,CHN,1:29.049WR,QA
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,1,2,3,,141,PARKSeung-Hi,7164,KOR,1:29.165,QA
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,1,3,4,,101,TatianaBORODULINA,6684,AUS,1:29.663,QB
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,1,4,2,,105,JessicaGREGG,6141,CAN,1:33.139,QB
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,2,1,1,,157,KatherineREUTTER-ADAMEK,7255,USA,1:30.568,QA
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,2,2,4,,112,WANGMeng,6594,CHN,1:30.573,QA
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,2,3,3,,107,KalynaROBERGE,6284,CAN,1:30.736,QB
+2009-2010,2010 Olympic Winter Games,1000m,w,Semifinals,2,4,2,,137,CHOHa-Ri,7028,KOR,1:30.792,QB

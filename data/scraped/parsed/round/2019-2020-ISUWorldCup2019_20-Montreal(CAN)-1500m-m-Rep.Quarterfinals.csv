@@ -1,28 +1,28 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,6,WATANABEKeita,7605,JPN,2:38.409,Q
-0,2,3,,94,SUNLong,9454,CHN,2:38.487,Q
-0,3,5,,118,MetehanATAN,9486,TUR,2:39.113,
-0,4,4,,111,MOODYJonathan,9102,GBR,2:39.150,
-0,5,1,,174,SebastianHYDZIK,9619,POL,2:39.917,
-0,6,6,,134,MuhammedEmirHAN,9589,TUR,2:40.254,
-0,7,7,,155,WOLFGANGMatthias,8474,AUT,2:44.094,
-1,1,2,,7,LEEJuneSeo,9370,KOR,2:16.478,Q
-1,2,5,,66,SHAMUKHANOVYerkebulan,8672,KAZ,2:16.563,Q
-1,3,7,,156,DANDJINOUWilliam,9511,CAN,2:17.064,q
-1,4,1,,76,DennisVISSER,8498,NED,2:19.438,
-1,5,4,,113,ADAMSKIPawel,9284,POL,2:19.664,
-1,6,6,,177,FurkanAKAR,9434,TUR,2:20.832,
-1,DNS,3,,181,SONGJiaHua,9612,CHN,DNS,
-2,1,4,,164,HAYASHIIbuki,9403,JPN,2:16.791,Q
-2,2,5,,36,HANDEIOleh,9073,UKR,2:17.663,Q
-2,3,2,,46,JUNGHyunWoo(Andy),8575,AUS,2:21.105,q
-2,4,3,,42,NicolasLABORDE,9096,COL,2:21.223,
-2,5,6,,140,VIGANTSEndijs,9118,LAT,2:31.155,
-2,PEN,1,,93,ColeWilliamIsaacKRUEGER,9329,HUN,PEN,
-3,1,3,,22,TRANAaron,8528,USA,2:25.336,Q
-3,2,2,,77,BREEUWSMADaan,7218,NED,2:25.404,Q
-3,3,5,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:25.617,q
-3,4,4,,33,AlexVARNYU,8337,HUN,2:26.127,
-3,5,6,,121,MURPHYPeter,9269,LUX,2:28.357,
-3,6,1,,98,SCHUBERTChristoph,7734,GER,2:45.088,ADV
-3,PEN,7,,103,WILCZYKSzymon,8472,POL,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,1,2,,6,WATANABEKeita,7605,JPN,2:38.409,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,2,3,,94,SUNLong,9454,CHN,2:38.487,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,3,5,,118,MetehanATAN,9486,TUR,2:39.113,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,4,4,,111,MOODYJonathan,9102,GBR,2:39.150,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,5,1,,174,SebastianHYDZIK,9619,POL,2:39.917,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,6,6,,134,MuhammedEmirHAN,9589,TUR,2:40.254,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,1,7,7,,155,WOLFGANGMatthias,8474,AUT,2:44.094,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,1,2,,7,LEEJuneSeo,9370,KOR,2:16.478,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,2,5,,66,SHAMUKHANOVYerkebulan,8672,KAZ,2:16.563,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,3,7,,156,DANDJINOUWilliam,9511,CAN,2:17.064,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,4,1,,76,DennisVISSER,8498,NED,2:19.438,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,5,4,,113,ADAMSKIPawel,9284,POL,2:19.664,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,6,6,,177,FurkanAKAR,9434,TUR,2:20.832,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,2,DNS,3,,181,SONGJiaHua,9612,CHN,DNS,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,1,4,,164,HAYASHIIbuki,9403,JPN,2:16.791,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,2,5,,36,HANDEIOleh,9073,UKR,2:17.663,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,3,2,,46,JUNGHyunWoo(Andy),8575,AUS,2:21.105,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,4,3,,42,NicolasLABORDE,9096,COL,2:21.223,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,5,6,,140,VIGANTSEndijs,9118,LAT,2:31.155,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,3,PEN,1,,93,ColeWilliamIsaacKRUEGER,9329,HUN,PEN,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,1,3,,22,TRANAaron,8528,USA,2:25.336,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,2,2,,77,BREEUWSMADaan,7218,NED,2:25.404,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,3,5,,70,ZHAXYBAYEVMersaid,8623,KAZ,2:25.617,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,4,4,,33,AlexVARNYU,8337,HUN,2:26.127,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,5,6,,121,MURPHYPeter,9269,LUX,2:28.357,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,6,1,,98,SCHUBERTChristoph,7734,GER,2:45.088,ADV
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),1500m,m,Rep.Quarterfinals,4,PEN,7,,103,WILCZYKSzymon,8472,POL,PEN,

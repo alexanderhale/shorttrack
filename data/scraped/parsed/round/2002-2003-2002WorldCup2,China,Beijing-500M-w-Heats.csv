@@ -1,26 +1,26 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,2,EvgeniaRADANOVA,6775,BUL,45.655,Q
-0,2,3,,26,MartaCAPURSO,6328,ITA,46.472,Q
-0,3,4,,32,YokoIIZUKA,6313,JPN,46.791,
-0,4,1,,22,HANYueshuang,6572,HKG,46.845,
-1,1,4,,8,AmelieGOULET-NADON,6661,CAN,46.684,Q
-1,2,2,,17,ChristinPRIEBST,6078,GER,47.643,Q
-1,3,1,,1,EmilyROSEMOND,6736,AUS,49.225,
-1,DQ,3,,30,IkueTESHIGAWARA,6315,JPN,DQ,
-2,2,2,,10,ChantaleSEVIGNY,6771,CAN,46.440,Q
-2,3,1,,28,KatiaZINI,6076,ITA,46.461,
-2,4,4,,23,CHANSuetYing,7031,HKG,1:00.436,
-3,1,2,,6,AnniePERREAULT,6660,CAN,45.736,Q
-3,2,3,,29,MaraZINI,6326,ITA,45.827,Q
-3,3,1,,39,CHOHa-Ri,7028,KOR,45.883,q
-3,4,4,,4,DanielaVLAEVA,6774,BUL,46.058,
-4,1,2,,13,WANGMeng,6594,CHN,45.567,Q
-4,2,3,,16,YvonneKUNZE,6363,GER,45.995,Q
-4,3,1,,34,SayuriIZUMI,6453,JPN,46.286,q
-4,4,4,,24,FONGFionaKama,7091,HKG,56.421,
-5,1,1,,15,WANGChunlu,6648,CHN,45.950,Q
-5,2,2,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,47.683,Q
-5,3,3,,21,SarahLINDSAY,6056,GBR,1:16.129,
-6,1,2,,12,FUTianYu,6650,CHN,45.869,Q
-6,2,3,,20,AikaKLEIN,6359,GER,46.967,Q
-6,3,1,,35,JOOMin-Jin,6616,KOR,47.130,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,1,1,2,,2,EvgeniaRADANOVA,6775,BUL,45.655,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,1,2,3,,26,MartaCAPURSO,6328,ITA,46.472,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,1,3,4,,32,YokoIIZUKA,6313,JPN,46.791,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,1,4,1,,22,HANYueshuang,6572,HKG,46.845,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,2,1,4,,8,AmelieGOULET-NADON,6661,CAN,46.684,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,2,2,2,,17,ChristinPRIEBST,6078,GER,47.643,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,2,3,1,,1,EmilyROSEMOND,6736,AUS,49.225,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,2,DQ,3,,30,IkueTESHIGAWARA,6315,JPN,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,3,2,2,,10,ChantaleSEVIGNY,6771,CAN,46.440,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,3,3,1,,28,KatiaZINI,6076,ITA,46.461,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,3,4,4,,23,CHANSuetYing,7031,HKG,1:00.436,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,4,1,2,,6,AnniePERREAULT,6660,CAN,45.736,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,4,2,3,,29,MaraZINI,6326,ITA,45.827,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,4,3,1,,39,CHOHa-Ri,7028,KOR,45.883,q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,4,4,4,,4,DanielaVLAEVA,6774,BUL,46.058,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,5,1,2,,13,WANGMeng,6594,CHN,45.567,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,5,2,3,,16,YvonneKUNZE,6363,GER,45.995,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,5,3,1,,34,SayuriIZUMI,6453,JPN,46.286,q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,5,4,4,,24,FONGFionaKama,7091,HKG,56.421,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,6,1,1,,15,WANGChunlu,6648,CHN,45.950,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,6,2,2,,3,MarinaGEORGIEVA-NIKOLOVA,7097,BUL,47.683,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,6,3,3,,21,SarahLINDSAY,6056,GBR,1:16.129,
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,7,1,2,,12,FUTianYu,6650,CHN,45.869,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,7,2,3,,20,AikaKLEIN,6359,GER,46.967,Q
+2002-2003,"2002 World Cup 2, China, Beijing",500M,w,Heats,7,3,1,,35,JOOMin-Jin,6616,KOR,47.130,

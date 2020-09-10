@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,,CHUNLee-Kyung,6869,KOR,1:36.316,,
-0,2,2,,,LAMBERTNathalie,6014,CAN,1:36.354,,
-0,3,4,,,YANGsYang,6651,CHN,1:36.523,,
-0,4,3,,,IkueTESHIGAWARA,6315,JPN,1:36.593,,
-1,1,2,,,WONHye-Kyung,6759,KOR,1:40.356,,
-1,2,1,,,YANGAYang,6649,CHN,1:40.460,,
-1,3,3,,,WANGChunlu,6648,CHN,1:40.565,,
-1,4,4,,,MaraURBANI,6946,ITA,1:41.050,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+1996-1997,1997 World Championships,1000M,w,SemiFinals,1,1,1,,,CHUNLee-Kyung,6869,KOR,1:36.316,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,1,2,2,,,LAMBERTNathalie,6014,CAN,1:36.354,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,1,3,4,,,YANGsYang,6651,CHN,1:36.523,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,1,4,3,,,IkueTESHIGAWARA,6315,JPN,1:36.593,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,2,1,2,,,WONHye-Kyung,6759,KOR,1:40.356,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,2,2,1,,,YANGAYang,6649,CHN,1:40.460,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,2,3,3,,,WANGChunlu,6648,CHN,1:40.565,,
+1996-1997,1997 World Championships,1000M,w,SemiFinals,2,4,4,,,MaraURBANI,6946,ITA,1:41.050,,

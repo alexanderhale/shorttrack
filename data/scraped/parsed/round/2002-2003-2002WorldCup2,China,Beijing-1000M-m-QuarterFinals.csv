@@ -1,16 +1,16 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,83,LEESeung-Jae,6621,KOR,1:30.066,Q
-0,2,1,,54,Jean-FrancoisMONETTE,7096,CAN,1:30.166,Q
-0,3,3,,74,SatoruTERAO,6320,JPN,1:30.309,
-0,4,2,,72,NicolaRODIGARI,6332,ITA,1:30.317,
-1,1,2,,50,Francois-LouisTREMBLAY,6704,CAN,1:32.222,Q
-1,2,3,,61,SebastianPRAUS,6364,GER,1:32.396,Q
-1,3,1,,57,GUOWei,6654,CHN,1:32.657,
-1,4,4,,43,MarkMcNEE,6432,AUS,1:33.005,
-2,1,4,,86,YEOJun-Hyung,6948,KOR,1:30.298,Q
-2,2,2,,71,NicolaFRANCESCHINA,6331,ITA,1:30.382,Q
-2,3,1,,52,EricBEDARD,6703,CAN,1:30.422,
-2,DQ,3,,60,ArianNACHBAR,6637,GER,DQ,
-3,2,4,,87,AHNHyun-Soo,6618,KOR,1:28.827,Q
-3,3,3,,55,LIYe,6655,CHN,1:28.936,
-3,4,1,,77,YugoSHINOHARA,6325,JPN,1:30.234,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,1,1,4,,83,LEESeung-Jae,6621,KOR,1:30.066,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,1,2,1,,54,Jean-FrancoisMONETTE,7096,CAN,1:30.166,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,1,3,3,,74,SatoruTERAO,6320,JPN,1:30.309,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,1,4,2,,72,NicolaRODIGARI,6332,ITA,1:30.317,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,2,1,2,,50,Francois-LouisTREMBLAY,6704,CAN,1:32.222,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,2,2,3,,61,SebastianPRAUS,6364,GER,1:32.396,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,2,3,1,,57,GUOWei,6654,CHN,1:32.657,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,2,4,4,,43,MarkMcNEE,6432,AUS,1:33.005,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,3,1,4,,86,YEOJun-Hyung,6948,KOR,1:30.298,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,3,2,2,,71,NicolaFRANCESCHINA,6331,ITA,1:30.382,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,3,3,1,,52,EricBEDARD,6703,CAN,1:30.422,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,3,DQ,3,,60,ArianNACHBAR,6637,GER,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,4,2,4,,87,AHNHyun-Soo,6618,KOR,1:28.827,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,4,3,3,,55,LIYe,6655,CHN,1:28.936,
+2002-2003,"2002 World Cup 2, China, Beijing",1000M,m,QuarterFinals,4,4,1,,77,YugoSHINOHARA,6325,JPN,1:30.234,

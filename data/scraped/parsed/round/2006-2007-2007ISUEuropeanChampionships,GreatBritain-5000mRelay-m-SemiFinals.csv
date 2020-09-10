@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,1,,221,FRANCE,7319,FRA,7:06.694,Q,
-0,2,4,,222,GERMANY,7302,GER,7:07.042,Q,
-0,3,3,,226,NETHERLANDS,7321,NED,7:08.145,,
-0,4,2,,225,ITALY,7301,ITA,7:10.844,,
-1,1,1,,224,GREATBRITAIN,7320,GBR,7:05.478,Q,
-1,2,2,,223,HUNGARY,7324,HUN,7:05.554,Q,
-1,3,3,,228,RUSSIA,7307,RUS,7:05.945,,
-1,4,4,,229,SLOVAKIA,7328,SVK,7:18.071,,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,1,1,1,,221,FRANCE,7319,FRA,7:06.694,Q,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,1,2,4,,222,GERMANY,7302,GER,7:07.042,Q,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,1,3,3,,226,NETHERLANDS,7321,NED,7:08.145,,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,1,4,2,,225,ITALY,7301,ITA,7:10.844,,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,2,1,1,,224,GREATBRITAIN,7320,GBR,7:05.478,Q,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,2,2,2,,223,HUNGARY,7324,HUN,7:05.554,Q,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,2,3,3,,228,RUSSIA,7307,RUS,7:05.945,,
+2006-2007,"2007 ISU European Championships, Great Britain",5000mRelay,m,SemiFinals,2,4,4,,229,SLOVAKIA,7328,SVK,7:18.071,,

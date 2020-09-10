@@ -1,41 +1,41 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,8,SteveROBILLARD,6494,CAN,1:30.604,Q
-0,2,4,,53,AHNHyun-Soo,6618,KOR,1:30.686,Q
-0,3,3,,21,MatthieudeBOISSET,6467,FRA,1:31.281,q
-0,4,1,,16,CHENGEricI,6937,TPE,1:36.277,
-1,1,4,,50,LEESeung-Jae,6621,KOR,1:30.589,Q
-1,2,3,,20,JeanCharlesMATTEI,6057,FRA,1:31.439,Q
-1,3,2,,47,MarkJACKSON,6941,NZL,1:32.171,q
-1,4,1,,28,OliverHORSEPOOL,6276,GBR,1:32.355,
-2,1,1,,52,SONGKyung-Taek,6574,KOR,1:32.400,Q
-2,2,3,,7,JonathanGUILMETTE,6702,CAN,1:32.446,Q
-2,3,4,,67,JPKEPKA,6501,USA,1:32.594,
-2,4,2,,59,YaroslavKARPOUKHIN,6445,RUS,1:33.650,
-3,2,2,,68,CONFORTOLAYuri,6561,ITA,1:34.878,Q
-3,3,1,,3,StephenLEE,6002,AUS,1:34.921,
-3,4,3,,60,YevgenYAKOVLEV,6751,UKR,1:35.228,
-4,1,2,,12,LIYe,6655,CHN,1:33.419,Q
-4,2,3,,37,YoshiharuARINO,6075,JPN,1:33.912,Q
-4,3,1,,2,MarkMcNEE,6432,AUS,1:34.491,
-4,4,4,,48,MatthewFULLER,6448,NZL,1:35.334,
-5,1,3,,30,JonELEY,6592,GBR,1:30.556,Q
-5,2,2,,25,SebastianPRAUS,6364,GER,1:30.562,Q
-5,3,4,,19,MaximeCHATAIGNIER,6106,FRA,1:30.719,q
-5,4,1,,49,BlakeSKJELLERUP,6549,NZL,1:31.804,
-5,5,5,,62,VolodymyrCHERNEGA,6041,UKR,1:32.777,
-6,1,4,,23,ArianNACHBAR,6637,GER,1:34.321,Q
-6,2,1,,39,TakafumiNISHITANI,6323,JPN,1:34.360,Q
-6,3,3,,34,NicolaFRANCESCHINA,6331,ITA,1:34.483,
-6,4,2,,58,MikhailRAJINE,6569,RUS,1:35.757,
-7,1,3,,35,NicolaRODIGARI,6332,ITA,1:34.576,Q
-7,2,4,,14,GUOWei,6654,CHN,1:34.708,Q
-7,3,2,,17,JarmilHRUZA,6503,CZE,1:35.407,
-7,4,1,,4,LachlanHAY,6845,AUS,1:35.601,
-8,1,1,,11,LIJiajun,7095,CHN,1:31.208,Q
-8,2,2,,38,EitokuIKE,6346,JPN,1:31.367,Q
-8,3,3,,61,VolodymyrGRYGORIEV,6741,UKR,1:31.508,q
-8,4,4,,57,SergeyPRANKEVICH,7048,RUS,1:31.527,
-9,1,1,,64,RustySMITH,6496,USA,1:33.700,Q
-9,2,2,,24,AndreHARTWIG,6635,GER,1:33.924,Q
-9,3,4,,6,Jean-FrancoisMONETTE,7096,CAN,1:33.945,
-9,4,3,,29,TomIVESON,6898,GBR,1:34.134,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,1,1,2,,8,SteveROBILLARD,6494,CAN,1:30.604,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,1,2,4,,53,AHNHyun-Soo,6618,KOR,1:30.686,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,1,3,3,,21,MatthieudeBOISSET,6467,FRA,1:31.281,q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,1,4,1,,16,CHENGEricI,6937,TPE,1:36.277,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,2,1,4,,50,LEESeung-Jae,6621,KOR,1:30.589,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,2,2,3,,20,JeanCharlesMATTEI,6057,FRA,1:31.439,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,2,3,2,,47,MarkJACKSON,6941,NZL,1:32.171,q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,2,4,1,,28,OliverHORSEPOOL,6276,GBR,1:32.355,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,3,1,1,,52,SONGKyung-Taek,6574,KOR,1:32.400,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,3,2,3,,7,JonathanGUILMETTE,6702,CAN,1:32.446,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,3,3,4,,67,JPKEPKA,6501,USA,1:32.594,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,3,4,2,,59,YaroslavKARPOUKHIN,6445,RUS,1:33.650,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,4,2,2,,68,CONFORTOLAYuri,6561,ITA,1:34.878,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,4,3,1,,3,StephenLEE,6002,AUS,1:34.921,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,4,4,3,,60,YevgenYAKOVLEV,6751,UKR,1:35.228,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,5,1,2,,12,LIYe,6655,CHN,1:33.419,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,5,2,3,,37,YoshiharuARINO,6075,JPN,1:33.912,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,5,3,1,,2,MarkMcNEE,6432,AUS,1:34.491,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,5,4,4,,48,MatthewFULLER,6448,NZL,1:35.334,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,6,1,3,,30,JonELEY,6592,GBR,1:30.556,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,6,2,2,,25,SebastianPRAUS,6364,GER,1:30.562,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,6,3,4,,19,MaximeCHATAIGNIER,6106,FRA,1:30.719,q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,6,4,1,,49,BlakeSKJELLERUP,6549,NZL,1:31.804,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,6,5,5,,62,VolodymyrCHERNEGA,6041,UKR,1:32.777,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,7,1,4,,23,ArianNACHBAR,6637,GER,1:34.321,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,7,2,1,,39,TakafumiNISHITANI,6323,JPN,1:34.360,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,7,3,3,,34,NicolaFRANCESCHINA,6331,ITA,1:34.483,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,7,4,2,,58,MikhailRAJINE,6569,RUS,1:35.757,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,8,1,3,,35,NicolaRODIGARI,6332,ITA,1:34.576,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,8,2,4,,14,GUOWei,6654,CHN,1:34.708,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,8,3,2,,17,JarmilHRUZA,6503,CZE,1:35.407,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,8,4,1,,4,LachlanHAY,6845,AUS,1:35.601,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,9,1,1,,11,LIJiajun,7095,CHN,1:31.208,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,9,2,2,,38,EitokuIKE,6346,JPN,1:31.367,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,9,3,3,,61,VolodymyrGRYGORIEV,6741,UKR,1:31.508,q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,9,4,4,,57,SergeyPRANKEVICH,7048,RUS,1:31.527,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,10,1,1,,64,RustySMITH,6496,USA,1:33.700,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,10,2,2,,24,AndreHARTWIG,6635,GER,1:33.924,Q
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,10,3,4,,6,Jean-FrancoisMONETTE,7096,CAN,1:33.945,
+2004-2005,"2004 World Cup 1, China",1000M,m,Preliminaries,10,4,3,,29,TomIVESON,6898,GBR,1:34.134,

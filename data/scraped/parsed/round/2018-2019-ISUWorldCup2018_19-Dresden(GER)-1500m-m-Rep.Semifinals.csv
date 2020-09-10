@@ -1,15 +1,15 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,7,,191,TIANJialong,9518,CHN,2:21.529,Q
-0,2,3,,73,ZHAXYBAYEVMersaid,8623,KAZ,2:21.570,
-0,3,6,,210,EYBOGDaniil,8661,RUS,2:21.855,
-0,4,4,,150,GALIAKHMETOVAdil,9260,KAZ,2:23.455,
-0,5,5,,178,LIUYifan,9481,CHN,2:30.807,
-0,6,1,,174,KAZHGALINurtilek,8676,KAZ,notime,
-0,PEN,2,,187,MetehanATAN,9486,TUR,PEN,
-1,1,7,,190,LIKongchao,9516,CHN,2:33.606,Q
-1,2,3,,196,TobiasPIETZSCH,8735,GER,2:34.629,
-1,3,2,,86,LiamO'BRIEN,9163,AUS,2:48.658,
-1,4,1,,189,BLUNDENKeanu,8593,AUS,2:59.047,
-1,5,5,,42,TREACYFarrell,8392,GBR,notime,
-1,PEN,4,,82,FiratYARDIMCI,8520,TUR,PEN,
-1,PEN,6,,204,KIKUCHIKota,8620,JPN,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,1,7,,191,TIANJialong,9518,CHN,2:21.529,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,2,3,,73,ZHAXYBAYEVMersaid,8623,KAZ,2:21.570,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,3,6,,210,EYBOGDaniil,8661,RUS,2:21.855,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,4,4,,150,GALIAKHMETOVAdil,9260,KAZ,2:23.455,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,5,5,,178,LIUYifan,9481,CHN,2:30.807,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,6,1,,174,KAZHGALINurtilek,8676,KAZ,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,1,PEN,2,,187,MetehanATAN,9486,TUR,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,1,7,,190,LIKongchao,9516,CHN,2:33.606,Q
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,2,3,,196,TobiasPIETZSCH,8735,GER,2:34.629,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,3,2,,86,LiamO'BRIEN,9163,AUS,2:48.658,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,4,1,,189,BLUNDENKeanu,8593,AUS,2:59.047,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,5,5,,42,TREACYFarrell,8392,GBR,notime,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,PEN,4,,82,FiratYARDIMCI,8520,TUR,PEN,
+2018-2019,ISU World Cup 2018/19 - Dresden (GER),1500m,m,Rep.Semifinals,2,PEN,6,,204,KIKUCHIKota,8620,JPN,PEN,

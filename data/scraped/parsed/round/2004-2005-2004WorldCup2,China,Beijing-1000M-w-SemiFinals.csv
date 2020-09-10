@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,110,CHOIEun-Kyung,6943,KOR,1:32.795,Q
-0,2,4,,114,JINSun-Yu,6108,KOR,1:32.800,Q
-0,3,3,,78,WANGWei,6575,CHN,1:32.884,
-0,4,1,,75,AnoukLEBLANC-BOUCHER,6795,CAN,1:36.916,
-1,1,1,,77,WANGMeng,6594,CHN,1:35.689,Q
-1,3,3,,74,AmandaOVERLAND,7079,CAN,2:04.688,
-1,DQ,4,,120,Hyo-JungKIM,6921,USA,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,1,1,2,,110,CHOIEun-Kyung,6943,KOR,1:32.795,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,1,2,4,,114,JINSun-Yu,6108,KOR,1:32.800,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,1,3,3,,78,WANGWei,6575,CHN,1:32.884,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,1,4,1,,75,AnoukLEBLANC-BOUCHER,6795,CAN,1:36.916,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,2,1,1,,77,WANGMeng,6594,CHN,1:35.689,Q
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,2,3,3,,74,AmandaOVERLAND,7079,CAN,2:04.688,
+2004-2005,"2004 World Cup 2, China, Beijing",1000M,w,SemiFinals,2,DQ,4,,120,Hyo-JungKIM,6921,USA,DQ,

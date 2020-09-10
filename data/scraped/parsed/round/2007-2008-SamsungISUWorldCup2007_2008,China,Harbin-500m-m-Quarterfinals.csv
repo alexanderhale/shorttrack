@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,81,Francois-LouisTREMBLAY,6704,CAN,41.212,Q
-0,2,3,,85,LIUXiaoLiang,6233,CHN,41.456,Q
-0,3,4,,107,RobertoSERRA,6463,ITA,42.162,
-0,4,2,,108,SatoruTERAO,6320,JPN,42.185,
-1,1,2,,78,HAMELINCharles,6610,CAN,42.165,Q
-1,2,1,,141,KWAKYoon-Gy,6120,KOR,42.234,Q
-1,3,3,,99,PaulWORTH,6802,GBR,42.556,
-1,4,4,,407,TravisJAYNER,6300,USA,42.742,
-2,1,1,,87,WEIJiguang,7155,CHN,42.647,Q
-2,2,3,,138,LEESeung-Hoon,6185,KOR,42.815,Q
-2,3,2,,109,TakahiroFUJIMOTO,6277,JPN,43.332,
-2,4,4,,97,PaulSTANLEY,7054,GBR,59.738,
-3,1,1,,77,AlexBOISVERT-LACROIX,7346,CAN,41.941,Q
-3,2,2,,140,SUNGSi-Bak,6811,KOR,42.411,Q
-3,3,3,,112,SatoshiSAKASHITA,6183,JPN,50.810,
-3,DQ,4,,96,JonELEY,6592,GBR,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,1,1,1,,81,Francois-LouisTREMBLAY,6704,CAN,41.212,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,1,2,3,,85,LIUXiaoLiang,6233,CHN,41.456,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,1,3,4,,107,RobertoSERRA,6463,ITA,42.162,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,1,4,2,,108,SatoruTERAO,6320,JPN,42.185,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,2,1,2,,78,HAMELINCharles,6610,CAN,42.165,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,2,2,1,,141,KWAKYoon-Gy,6120,KOR,42.234,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,2,3,3,,99,PaulWORTH,6802,GBR,42.556,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,2,4,4,,407,TravisJAYNER,6300,USA,42.742,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,3,1,1,,87,WEIJiguang,7155,CHN,42.647,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,3,2,3,,138,LEESeung-Hoon,6185,KOR,42.815,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,3,3,2,,109,TakahiroFUJIMOTO,6277,JPN,43.332,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,3,4,4,,97,PaulSTANLEY,7054,GBR,59.738,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,4,1,1,,77,AlexBOISVERT-LACROIX,7346,CAN,41.941,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,4,2,2,,140,SUNGSi-Bak,6811,KOR,42.411,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,4,3,3,,112,SatoshiSAKASHITA,6183,JPN,50.810,
+2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",500m,m,Quarterfinals,4,DQ,4,,96,JonELEY,6592,GBR,DQ,

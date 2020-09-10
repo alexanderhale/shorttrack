@@ -1,11 +1,11 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,4,VeronikaWINDISCH,6427,AUT,2:30.720,Q
-0,2,3,,21,CharlotteGILMARTIN,7136,GBR,2:30.820,q
-0,3,2,,26,ChristinPRIEBST,6078,GER,2:30.903,
-0,4,5,,57,TatianaBODOVA,7250,SVK,2:31.791,
-0,5,1,,30,CeciliaMAFFEI,6559,ITA,2:33.971,
-1,1,5,,53,EkaterinaBARANOK,7822,RUS,2:40.807,Q
-1,2,3,,24,JuliaRIEDEL,6287,GER,2:40.910,
-1,3,4,,3,Alix-MyraANDERSON,7353,AUS,2:41.072,
-1,4,1,,34,AyukoITO,6791,JPN,3:31.073,ADV
-1,YC,2,,9,CarolineTRUCHON,7908,CAN,YC,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,1,1,4,,4,VeronikaWINDISCH,6427,AUT,2:30.720,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,1,2,3,,21,CharlotteGILMARTIN,7136,GBR,2:30.820,q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,1,3,2,,26,ChristinPRIEBST,6078,GER,2:30.903,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,1,4,5,,57,TatianaBODOVA,7250,SVK,2:31.791,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,1,5,1,,30,CeciliaMAFFEI,6559,ITA,2:33.971,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,2,1,5,,53,EkaterinaBARANOK,7822,RUS,2:40.807,Q
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,2,2,3,,24,JuliaRIEDEL,6287,GER,2:40.910,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,2,3,4,,3,Alix-MyraANDERSON,7353,AUS,2:41.072,
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,2,4,1,,34,AyukoITO,6791,JPN,3:31.073,ADV
+2011-2012,"ISU World Cup 2011/2012, JPN, Nagoya",1500m,w,RepSemifinals,2,YC,2,,9,CarolineTRUCHON,7908,CAN,YC,

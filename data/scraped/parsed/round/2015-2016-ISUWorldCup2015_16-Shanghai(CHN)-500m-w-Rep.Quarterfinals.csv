@@ -1,13 +1,13 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,122,WeronikaSUROWIEC,9051,POL,46.836,Q
-0,2,3,,24,MANOILOVAKatrin,8539,BUL,1:01.892,Q
-0,3,1,,22,PetraJASZAPATI,8611,HUN,1:15.542,ADV
-0,PEN,2,,19,VIVIANIElena,7583,ITA,PEN,
-1,1,1,,111,QUChunyu,8071,CHN,43.852,Q
-1,2,3,,18,deVRIESRianne,8333,NED,44.857,Q
-1,3,2,,14,KIKUCHIMoemi,7584,JPN,44.913,q
-1,4,4,,50,LEEEunByul,7421,KOR,45.566,
-2,1,1,,123,YINQi,9055,CHN,44.562,Q
-2,2,2,,71,MagdalenaWARAKOMSKA,8502,POL,44.816,Q
-2,3,3,,74,FedericaTOMBOLATO,8570,ITA,44.946,q
-2,4,4,,25,SEJPALOVA-HRUZOVAMichaela,8553,CZE,45.848,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,1,1,4,,122,WeronikaSUROWIEC,9051,POL,46.836,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,1,2,3,,24,MANOILOVAKatrin,8539,BUL,1:01.892,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,1,3,1,,22,PetraJASZAPATI,8611,HUN,1:15.542,ADV
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,1,PEN,2,,19,VIVIANIElena,7583,ITA,PEN,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,2,1,1,,111,QUChunyu,8071,CHN,43.852,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,2,2,3,,18,deVRIESRianne,8333,NED,44.857,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,2,3,2,,14,KIKUCHIMoemi,7584,JPN,44.913,q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,2,4,4,,50,LEEEunByul,7421,KOR,45.566,
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,3,1,1,,123,YINQi,9055,CHN,44.562,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,3,2,2,,71,MagdalenaWARAKOMSKA,8502,POL,44.816,Q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,3,3,3,,74,FedericaTOMBOLATO,8570,ITA,44.946,q
+2015-2016,ISU World Cup 2015/16 - Shanghai (CHN),500m,w,Rep.Quarterfinals,3,4,4,,25,SEJPALOVA-HRUZOVAMichaela,8553,CZE,45.848,

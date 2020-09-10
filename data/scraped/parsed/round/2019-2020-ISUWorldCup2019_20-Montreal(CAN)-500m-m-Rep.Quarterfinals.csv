@@ -1,30 +1,30 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,94,SUNLong,9454,CHN,41.571,Q
-0,2,3,,40,ReinisBERZINS,9267,LAT,43.695,
-0,3,2,,161,JUNGYanghunBen,9602,GER,43.889,
-0,4,4,,127,JulianMACARAEG,9462,PHI,44.602,
-0,5,5,,78,NIKISHADenis,8396,KAZ,notime,
-1,1,1,,129,KiichiSHIGEHIRO,9110,JPN,41.736,Q
-1,2,2,,182,CASSINELLIAndrea,7741,ITA,41.847,q
-1,3,4,,95,JonathanSO,9442,USA,42.663,
-1,4,3,,125,TunaySIMSEK,8758,TUR,42.920,
-1,5,5,,132,KUCZYNSKILukasz,8712,POL,42.957,
-2,1,1,,170,KIMDagyeom,8766,KOR,41.389,Q
-2,2,2,,84,BrandonKIM,9303,USA,41.448,q
-2,3,4,,38,SeanMcANUFF,9198,IRL,42.779,
-2,4,5,,178,DanyloFEDORENKO,9439,UKR,43.916,
-2,5,3,,103,WILCZYKSzymon,8472,POL,49.342,
-3,1,2,,71,ANTONIOLIMattia,8572,ITA,42.564,Q
-3,2,3,,165,DanIWASA,8394,JPN,42.923,
-3,3,4,,109,ANDERMANNNico,8720,AUT,43.047,
-3,4,1,,114,MateuszKRZEMINSKI,9412,POL,44.102,
-4,1,5,,17,DESMETStijn,8706,BEL,41.950,Q
-4,2,1,,99,Mellevan'TWOUT,9550,NED,42.007,q
-4,3,2,,162,KAUFMANN-LUDWIGLeon,8391,GER,42.539,
-4,4,3,,26,FiratYARDIMCI,8520,TUR,42.803,
-4,5,4,,177,FurkanAKAR,9434,TUR,45.294,
-5,1,1,,100,SIGHELPietro,9251,ITA,41.801,Q
-5,2,2,,106,TREACYNiall,9390,GBR,41.878,q
-5,3,5,,48,AugustinGERE,9270,LUX,42.233,
-5,4,3,,20,CsabaBURJAN,7738,HUN,42.376,
-5,5,4,,39,ANDERMANNDominic,8078,AUT,44.209,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,1,1,1,,94,SUNLong,9454,CHN,41.571,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,1,2,3,,40,ReinisBERZINS,9267,LAT,43.695,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,1,3,2,,161,JUNGYanghunBen,9602,GER,43.889,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,1,4,4,,127,JulianMACARAEG,9462,PHI,44.602,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,1,5,5,,78,NIKISHADenis,8396,KAZ,notime,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,2,1,1,,129,KiichiSHIGEHIRO,9110,JPN,41.736,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,2,2,2,,182,CASSINELLIAndrea,7741,ITA,41.847,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,2,3,4,,95,JonathanSO,9442,USA,42.663,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,2,4,3,,125,TunaySIMSEK,8758,TUR,42.920,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,2,5,5,,132,KUCZYNSKILukasz,8712,POL,42.957,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,3,1,1,,170,KIMDagyeom,8766,KOR,41.389,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,3,2,2,,84,BrandonKIM,9303,USA,41.448,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,3,3,4,,38,SeanMcANUFF,9198,IRL,42.779,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,3,4,5,,178,DanyloFEDORENKO,9439,UKR,43.916,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,3,5,3,,103,WILCZYKSzymon,8472,POL,49.342,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,4,1,2,,71,ANTONIOLIMattia,8572,ITA,42.564,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,4,2,3,,165,DanIWASA,8394,JPN,42.923,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,4,3,4,,109,ANDERMANNNico,8720,AUT,43.047,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,4,4,1,,114,MateuszKRZEMINSKI,9412,POL,44.102,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,5,1,5,,17,DESMETStijn,8706,BEL,41.950,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,5,2,1,,99,Mellevan'TWOUT,9550,NED,42.007,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,5,3,2,,162,KAUFMANN-LUDWIGLeon,8391,GER,42.539,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,5,4,3,,26,FiratYARDIMCI,8520,TUR,42.803,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,5,5,4,,177,FurkanAKAR,9434,TUR,45.294,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,6,1,1,,100,SIGHELPietro,9251,ITA,41.801,Q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,6,2,2,,106,TREACYNiall,9390,GBR,41.878,q
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,6,3,5,,48,AugustinGERE,9270,LUX,42.233,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,6,4,3,,20,CsabaBURJAN,7738,HUN,42.376,
+2019-2020,ISU World Cup  2019/20 - Montreal (CAN),500m,m,Rep.Quarterfinals,6,5,4,,39,ANDERMANNDominic,8078,AUT,44.209,

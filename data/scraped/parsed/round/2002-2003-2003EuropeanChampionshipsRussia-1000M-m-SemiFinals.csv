@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,32,SebastianPRAUS,6364,GER,1:42.179,Q
-0,2,2,,38,FabioCARTA,6001,ITA,1:42.315,Q
-0,3,1,,21,JeanCharlesMATTEI,6057,FRA,1:46.333,ADV
-0,DQ,4,,36,DenisZASLAVSKY,6335,ISR,DQ,
-1,1,3,,39,NicolaFRANCESCHINA,6331,ITA,1:33.275,Q
-1,2,4,,37,MicheleANTONIOLI,6330,ITA,1:33.462,Q
-1,3,2,,61,DmitryVASILENKO,6713,RUS,1:33.959,
-1,4,1,,72,YevgenYAKOVLEV,6751,UKR,1:34.022,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,1,1,3,,32,SebastianPRAUS,6364,GER,1:42.179,Q
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,1,2,2,,38,FabioCARTA,6001,ITA,1:42.315,Q
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,1,3,1,,21,JeanCharlesMATTEI,6057,FRA,1:46.333,ADV
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,1,DQ,4,,36,DenisZASLAVSKY,6335,ISR,DQ,
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,2,1,3,,39,NicolaFRANCESCHINA,6331,ITA,1:33.275,Q
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,2,2,4,,37,MicheleANTONIOLI,6330,ITA,1:33.462,Q
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,2,3,2,,61,DmitryVASILENKO,6713,RUS,1:33.959,
+2002-2003,2003 European Championships Russia,1000M,m,SemiFinals,2,4,1,,72,YevgenYAKOVLEV,6751,UKR,1:34.022,

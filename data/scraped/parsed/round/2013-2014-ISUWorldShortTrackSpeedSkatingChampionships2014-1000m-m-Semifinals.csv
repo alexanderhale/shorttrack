@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,3,,113,HANTianyu,8388,CHN,1:24.779,Q,
-0,2,2,,151,KNEGTSjinkie,7352,NED,1:24.935,Q,
-0,3,4,,165,J.R.CELSKI,7279,USA,1:24.937,,
-0,4,1,,154,SemenELISTRATOV,7293,RUS,1:24.973,,
-1,2,4,,145,PARKSeYeong,7750,KOR,1:25.250,Q,
-1,3,5,,114,SHIJingnan,7728,CHN,1:30.672,ADV,
-1,4,2,,166,ChrisCREVELING,8440,USA,1:50.122,,
-1,PEN,1,,109,HAMELINCharles,6610,CAN,PEN,,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,1,3,,113,HANTianyu,8388,CHN,1:24.779,Q,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,2,2,,151,KNEGTSjinkie,7352,NED,1:24.935,Q,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,3,4,,165,J.R.CELSKI,7279,USA,1:24.937,,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,1,4,1,,154,SemenELISTRATOV,7293,RUS,1:24.973,,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,2,4,,145,PARKSeYeong,7750,KOR,1:25.250,Q,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,3,5,,114,SHIJingnan,7728,CHN,1:30.672,ADV,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,4,2,,166,ChrisCREVELING,8440,USA,1:50.122,,
+2013-2014,ISU World Short Track Speed Skating Championships 2014,1000m,m,Semifinals,2,PEN,1,,109,HAMELINCharles,6610,CAN,PEN,,

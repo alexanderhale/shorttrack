@@ -1,38 +1,38 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,6,,93,LEEJungSu,7266,KOR,2:16.039,Q
-0,2,1,,16,HAMELINCharles,6610,CAN,2:16.135,Q
-0,3,2,,23,SONGWeilong,7156,CHN,2:16.413,Q
-0,4,7,,35,SebastianPRAUS,6364,GER,2:16.854,
-0,5,5,,42,AnthonyDOUGLAS,6301,GBR,2:16.911,
-0,6,3,,98,AlexanderGERTSIKOV,6570,RUS,2:17.037,
-0,7,4,,52,BenceBERES,7438,HUN,2:22.910,
-1,1,4,,91,LEEHo-Suk,6856,KOR,2:19.533,Q
-1,2,5,,112,JordanMALONE,6201,USA,2:19.632,Q
-1,3,1,,55,CONFORTOLAYuri,6561,ITA,2:19.770,Q
-1,4,2,,20,GuillaumeBASTILLE,6166,CAN,2:20.328,
-1,5,3,,26,ZHANGZhiqiang,7359,CHN,2:20.407,
-1,6,6,,50,ViktorKNOCH,6177,HUN,2:55.439,
-2,1,1,,111,JeffSIMON,7280,USA,2:17.214,Q
-2,2,3,,76,KNEGTSjinkie,7352,NED,2:17.335,Q
-2,3,4,,72,HaraldsSILOVS,6458,LAT,2:17.548,Q
-2,4,5,,9,PieterGYSEL,6425,BEL,2:17.555,
-2,5,6,,33,BenjaminMACE,7357,FRA,2:18.304,
-2,6,2,,34,PaulHERRMANN,6803,GER,2:18.906,
-3,1,1,,63,FumihikoKAKUBARI,6024,JPN,2:21.790,Q
-3,3,3,,58,NicolaRODIGARI,6332,ITA,2:21.927,Q
-3,4,2,,24,LIUXianwei,6307,CHN,2:22.072,
-3,5,4,,2,LachlanHAY,6845,AUS,2:23.543,
-3,6,5,,14,AsenYORDANOV,6851,BUL,2:28.414,
-4,1,5,,114,ApoloAntonOHNO,6497,USA,2:22.619,Q
-4,2,6,,64,JunjiITO,6579,JPN,2:22.936,Q
-4,3,1,,54,NicolasBEAN,7541,ITA,2:23.398,Q
-4,4,3,,77,NielsKERSTHOLT,7067,NED,2:23.591,
-4,5,7,,36,RobertBECKER,7258,GER,2:23.924,
-4,6,4,,47,PeterDARAZS,6465,HUN,2:33.158,ADV
-4,DQ,2,,102,RuslanZAKHAROV,6935,RUS,DQ,
-5,1,4,,60,YuzoTAKAMIDO,7158,JPN,2:22.498,Q
-5,2,5,,100,SemenELISTRATOV,7293,RUS,2:22.780,Q
-5,3,1,,18,OlivierJEAN,6756,CAN,2:22.803,Q
-5,4,2,,44,TomIVESON,6898,GBR,2:23.291,
-5,5,6,,80,FreekvanderWART,7269,NED,2:23.513,
-5,6,3,,106,SerhiyLIFYRENKO,6826,UKR,2:28.525,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,1,6,,93,LEEJungSu,7266,KOR,2:16.039,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,2,1,,16,HAMELINCharles,6610,CAN,2:16.135,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,3,2,,23,SONGWeilong,7156,CHN,2:16.413,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,4,7,,35,SebastianPRAUS,6364,GER,2:16.854,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,5,5,,42,AnthonyDOUGLAS,6301,GBR,2:16.911,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,6,3,,98,AlexanderGERTSIKOV,6570,RUS,2:17.037,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,1,7,4,,52,BenceBERES,7438,HUN,2:22.910,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,1,4,,91,LEEHo-Suk,6856,KOR,2:19.533,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,2,5,,112,JordanMALONE,6201,USA,2:19.632,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,3,1,,55,CONFORTOLAYuri,6561,ITA,2:19.770,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,4,2,,20,GuillaumeBASTILLE,6166,CAN,2:20.328,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,5,3,,26,ZHANGZhiqiang,7359,CHN,2:20.407,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,2,6,6,,50,ViktorKNOCH,6177,HUN,2:55.439,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,1,1,,111,JeffSIMON,7280,USA,2:17.214,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,2,3,,76,KNEGTSjinkie,7352,NED,2:17.335,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,3,4,,72,HaraldsSILOVS,6458,LAT,2:17.548,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,4,5,,9,PieterGYSEL,6425,BEL,2:17.555,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,5,6,,33,BenjaminMACE,7357,FRA,2:18.304,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,3,6,2,,34,PaulHERRMANN,6803,GER,2:18.906,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,4,1,1,,63,FumihikoKAKUBARI,6024,JPN,2:21.790,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,4,3,3,,58,NicolaRODIGARI,6332,ITA,2:21.927,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,4,4,2,,24,LIUXianwei,6307,CHN,2:22.072,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,4,5,4,,2,LachlanHAY,6845,AUS,2:23.543,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,4,6,5,,14,AsenYORDANOV,6851,BUL,2:28.414,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,1,5,,114,ApoloAntonOHNO,6497,USA,2:22.619,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,2,6,,64,JunjiITO,6579,JPN,2:22.936,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,3,1,,54,NicolasBEAN,7541,ITA,2:23.398,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,4,3,,77,NielsKERSTHOLT,7067,NED,2:23.591,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,5,7,,36,RobertBECKER,7258,GER,2:23.924,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,6,4,,47,PeterDARAZS,6465,HUN,2:33.158,ADV
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,5,DQ,2,,102,RuslanZAKHAROV,6935,RUS,DQ,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,1,4,,60,YuzoTAKAMIDO,7158,JPN,2:22.498,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,2,5,,100,SemenELISTRATOV,7293,RUS,2:22.780,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,3,1,,18,OlivierJEAN,6756,CAN,2:22.803,Q
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,4,2,,44,TomIVESON,6898,GBR,2:23.291,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,5,6,,80,FreekvanderWART,7269,NED,2:23.513,
+2009-2010,"ISU World Cup 2009/2010, CHN, Beijing",1500m,m,Quarterfinals,6,6,3,,106,SerhiyLIFYRENKO,6826,UKR,2:28.525,

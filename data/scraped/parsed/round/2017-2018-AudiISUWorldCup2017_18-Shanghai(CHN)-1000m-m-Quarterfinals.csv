@@ -1,22 +1,22 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,8,HAMELINCharles,6610,CAN,1:23.404,Q
-0,2,4,,6,WUDajing,7729,CHN,1:23.432,Q
-0,3,1,,5,ShaoangLIU,8564,HUN,1:23.697,q
-0,4,5,,48,TREACYFarrell,8392,GBR,1:23.713,
-0,5,3,,73,YOSHINAGAKazuki,8745,JPN,1:23.965,
-0,PEN,6,,12,SemenELISTRATOV,7293,RUS,PEN,
-1,1,5,,19,WATANABEKeita,7605,JPN,1:24.781,Q
-1,2,1,,190,PARKSeYeong,7750,KOR,1:24.857,Q
-1,3,3,,13,J.R.CELSKI,7279,USA,1:24.955,
-1,4,4,,82,SHULGINOVAlexander,8752,RUS,1:24.983,
-1,5,2,,3,SamuelGIRARD,8600,CAN,1:25.154,
-2,1,4,,58,HWANGDaeHeon,9115,KOR,1:24.651,Q
-2,2,2,,188,KWAKYoon-Gy,6120,KOR,1:24.802,Q
-2,3,3,,15,CharleCOURNOYER,8063,CAN,1:24.876,
-2,4,1,,22,BYKANOVVladislav,6178,ISR,1:24.989,
-2,5,5,,107,BillySIMMS,7926,GBR,1:25.808,
-3,1,5,,10,ShaolinSandorLIU,7928,HUN,1:24.745,Q
-3,2,3,,9,HANTianyu,8388,CHN,1:24.811,Q
-3,3,2,,44,John-HenryKRUEGER,7763,USA,1:24.874,q
-3,4,1,,32,ThibautFAUCONNET,6785,FRA,1:25.040,
-3,5,4,,7,VictorAN,8344,RUS,1:25.333,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,1,2,,8,HAMELINCharles,6610,CAN,1:23.404,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,2,4,,6,WUDajing,7729,CHN,1:23.432,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,3,1,,5,ShaoangLIU,8564,HUN,1:23.697,q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,4,5,,48,TREACYFarrell,8392,GBR,1:23.713,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,5,3,,73,YOSHINAGAKazuki,8745,JPN,1:23.965,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,1,PEN,6,,12,SemenELISTRATOV,7293,RUS,PEN,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,2,1,5,,19,WATANABEKeita,7605,JPN,1:24.781,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,2,2,1,,190,PARKSeYeong,7750,KOR,1:24.857,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,2,3,3,,13,J.R.CELSKI,7279,USA,1:24.955,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,2,4,4,,82,SHULGINOVAlexander,8752,RUS,1:24.983,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,2,5,2,,3,SamuelGIRARD,8600,CAN,1:25.154,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,3,1,4,,58,HWANGDaeHeon,9115,KOR,1:24.651,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,3,2,2,,188,KWAKYoon-Gy,6120,KOR,1:24.802,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,3,3,3,,15,CharleCOURNOYER,8063,CAN,1:24.876,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,3,4,1,,22,BYKANOVVladislav,6178,ISR,1:24.989,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,3,5,5,,107,BillySIMMS,7926,GBR,1:25.808,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,4,1,5,,10,ShaolinSandorLIU,7928,HUN,1:24.745,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,4,2,3,,9,HANTianyu,8388,CHN,1:24.811,Q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,4,3,2,,44,John-HenryKRUEGER,7763,USA,1:24.874,q
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,4,4,1,,32,ThibautFAUCONNET,6785,FRA,1:25.040,
+2017-2018,Audi ISU World Cup 2017/18 - Shanghai (CHN),1000m,m,Quarterfinals,4,5,4,,7,VictorAN,8344,RUS,1:25.333,

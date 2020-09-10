@@ -1,20 +1,20 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,3,ShaolinSandorLIU,7928,HUN,40.889,Q
-0,2,3,,155,HANSeungSoo,8673,KOR,41.012,Q
-0,3,4,,156,HONGKyungHwan,9190,KOR,41.185,
-0,4,2,,175,PIVIROTTORyan,8650,USA,42.103,
-0,5,5,,84,CASSINELLIAndrea,7741,ITA,1:18.324,
-1,2,1,,12,NIKISHADenis,8396,KAZ,40.938,Q
-1,3,4,,97,RENZiwei,8601,CHN,40.961,
-1,4,5,,25,RichardSHOEBRIDGE,7825,GBR,41.343,
-1,5,2,,158,LIMKyoungWon,9191,KOR,53.083,
-2,1,2,,83,SHULGINOVAlexander,8752,RUS,41.137,Q
-2,2,4,,176,DIONPascal,8999,CAN,41.371,Q
-2,3,1,,7,SamuelGIRARD,8600,CAN,41.709,ADV
-2,4,5,,88,ThomasInsukHONG,8084,USA,41.943,
-2,5,3,,61,FrancoisHAMELIN,6167,CAN,1:03.324,
-3,1,2,,181,XUHongzhi,8070,CHN,41.485,Q
-3,2,4,,144,VictorAN,8344,RUS,41.589,Q
-3,3,5,,186,EYBOGDaniil,8661,RUS,41.596,
-3,4,3,,93,CsabaBURJAN,7738,HUN,41.666,
-3,PEN,1,,104,AZHGALIYEVAbzal,7685,KAZ,PEN,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,1,1,1,,3,ShaolinSandorLIU,7928,HUN,40.889,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,1,2,3,,155,HANSeungSoo,8673,KOR,41.012,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,1,3,4,,156,HONGKyungHwan,9190,KOR,41.185,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,1,4,2,,175,PIVIROTTORyan,8650,USA,42.103,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,1,5,5,,84,CASSINELLIAndrea,7741,ITA,1:18.324,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,2,2,1,,12,NIKISHADenis,8396,KAZ,40.938,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,2,3,4,,97,RENZiwei,8601,CHN,40.961,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,2,4,5,,25,RichardSHOEBRIDGE,7825,GBR,41.343,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,2,5,2,,158,LIMKyoungWon,9191,KOR,53.083,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,3,1,2,,83,SHULGINOVAlexander,8752,RUS,41.137,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,3,2,4,,176,DIONPascal,8999,CAN,41.371,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,3,3,1,,7,SamuelGIRARD,8600,CAN,41.709,ADV
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,3,4,5,,88,ThomasInsukHONG,8084,USA,41.943,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,3,5,3,,61,FrancoisHAMELIN,6167,CAN,1:03.324,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,4,1,2,,181,XUHongzhi,8070,CHN,41.485,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,4,2,4,,144,VictorAN,8344,RUS,41.589,Q
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,4,3,5,,186,EYBOGDaniil,8661,RUS,41.596,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,4,4,3,,93,CsabaBURJAN,7738,HUN,41.666,
+2016-2017,ISU World Cup 2016/17 - Gangneung (KOR),500m,m,Quarterfinals,4,PEN,1,,104,AZHGALIYEVAbzal,7685,KAZ,PEN,

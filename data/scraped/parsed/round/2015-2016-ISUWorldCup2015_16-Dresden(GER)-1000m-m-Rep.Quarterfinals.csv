@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,54,ColeKRUEGER,7762,USA,1:29.075,Q
-0,2,3,,127,ThibautMELINE,7599,FRA,1:29.326,Q
-0,3,1,,184,BartoszKONOPKO,7169,POL,1:29.706,ADV
-0,PEN,4,,103,BillySIMMS,7926,GBR,PEN,
-1,1,3,,28,KeithCARROLL,8449,USA,1:29.117,Q
-1,2,2,,23,ThibautFAUCONNET,6785,FRA,1:29.215,Q
-1,3,1,,175,AydarBEKZHANOV,7623,KAZ,1:29.549,
-1,4,4,,115,ZacharyBIGGS,8635,NZL,notime,
-2,1,1,,170,FelixSPIEGL,7923,GER,1:27.596,Q
-2,2,2,,74,CASSINELLIAndrea,7741,ITA,1:27.700,Q
-2,3,3,,119,YauheniRYZHOU,7772,BLR,1:27.830,
-2,4,5,,33,PierreBODA,7588,AUS,1:28.436,
-2,PEN,4,,195,ChrisCREVELING,8440,USA,PEN,
-3,1,1,,164,SHAOShuai,9167,CHN,1:28.408,Q
-3,2,4,,26,DOTTITommaso,7604,ITA,1:28.446,Q
-3,3,3,,64,BYKANOVVladislav,6178,ISR,1:28.531,
-3,4,2,,59,YoshiakiOGURO,7743,JPN,1:28.556,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,1,1,2,,54,ColeKRUEGER,7762,USA,1:29.075,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,1,2,3,,127,ThibautMELINE,7599,FRA,1:29.326,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,1,3,1,,184,BartoszKONOPKO,7169,POL,1:29.706,ADV
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,1,PEN,4,,103,BillySIMMS,7926,GBR,PEN,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,2,1,3,,28,KeithCARROLL,8449,USA,1:29.117,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,2,2,2,,23,ThibautFAUCONNET,6785,FRA,1:29.215,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,2,3,1,,175,AydarBEKZHANOV,7623,KAZ,1:29.549,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,2,4,4,,115,ZacharyBIGGS,8635,NZL,notime,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,3,1,1,,170,FelixSPIEGL,7923,GER,1:27.596,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,3,2,2,,74,CASSINELLIAndrea,7741,ITA,1:27.700,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,3,3,3,,119,YauheniRYZHOU,7772,BLR,1:27.830,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,3,4,5,,33,PierreBODA,7588,AUS,1:28.436,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,3,PEN,4,,195,ChrisCREVELING,8440,USA,PEN,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,4,1,1,,164,SHAOShuai,9167,CHN,1:28.408,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,4,2,4,,26,DOTTITommaso,7604,ITA,1:28.446,Q
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,4,3,3,,64,BYKANOVVladislav,6178,ISR,1:28.531,
+2015-2016,ISU World Cup 2015/16 - Dresden (GER),1000m,m,Rep.Quarterfinals,4,4,2,,59,YoshiakiOGURO,7743,JPN,1:28.556,

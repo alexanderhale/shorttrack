@@ -1,9 +1,9 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
-0,1,2,,312,HUNGARY,9043,HUN,notime,QA,
-0,2,3,,309,GERMANY,9080,GER,notime,QA,
-0,3,1,,315,ITALY,9039,ITA,notime,QB,
-0,4,4,,337,UKRAINE,9050,UKR,notime,QB,
-1,1,2,,326,RUSSIA,9046,RUS,4:10.257,QA,
-1,2,3,,308,FRANCE,9042,FRA,4:10.999,QA,
-1,3,1,,322,NETHERLANDS,9040,NED,4:11.128,QB,
-1,4,4,,339,BELARUS,9079,BLR,4:19.081,QB,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.,Points
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,1,1,2,,312,HUNGARY,9043,HUN,notime,QA,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,1,2,3,,309,GERMANY,9080,GER,notime,QA,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,1,3,1,,315,ITALY,9039,ITA,notime,QB,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,1,4,4,,337,UKRAINE,9050,UKR,notime,QB,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,2,1,2,,326,RUSSIA,9046,RUS,4:10.257,QA,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,2,2,3,,308,FRANCE,9042,FRA,4:10.999,QA,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,2,3,1,,322,NETHERLANDS,9040,NED,4:11.128,QB,
+2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Semifinals,2,4,4,,339,BELARUS,9079,BLR,4:19.081,QB,

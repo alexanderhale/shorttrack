@@ -1,23 +1,23 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,6,,189,LIMHyoJun,9324,KOR,1:25.614,Q
-0,2,5,,2,KNEGTSjinkie,7352,NED,1:25.802,Q
-0,3,4,,6,WUDajing,7729,CHN,1:26.213,q
-0,4,1,,73,YOSHINAGAKazuki,8745,JPN,1:26.481,
-0,5,2,,23,RobertsZVEJNIEKS,8490,LAT,1:26.914,
-0,6,3,,105,CONFORTOLAYuri,6561,ITA,1:27.176,
-1,1,2,,10,ShaolinSandorLIU,7928,HUN,1:26.515,Q
-1,2,5,,9,HANTianyu,8388,CHN,1:26.665,Q
-1,3,3,,16,RENZiwei,8601,CHN,1:26.979,
-1,4,1,,86,PIVIROTTORyan,8650,USA,1:27.026,
-1,5,4,,20,RyosukeSAKAZUME,7542,JPN,1:27.042,
-2,1,4,,58,HWANGDaeHeon,9115,KOR,1:24.894,Q
-2,2,1,,8,HAMELINCharles,6610,CAN,1:24.998,Q
-2,3,2,,13,J.R.CELSKI,7279,USA,1:25.220,q
-2,4,5,,7,VictorAN,8344,RUS,1:25.476,
-2,5,3,,3,SamuelGIRARD,8600,CAN,1:25.528,
-3,1,1,,15,CharleCOURNOYER,8063,CAN,1:25.990,Q
-3,2,6,,204,RobertoPUKITIS,7785,LAT,1:26.132,Q
-3,3,5,,19,WATANABEKeita,7605,JPN,1:26.232,
-3,4,3,,12,SemenELISTRATOV,7293,RUS,1:26.761,
-3,5,2,,22,BYKANOVVladislav,6178,ISR,1:27.101,
-3,6,4,,5,ShaoangLIU,8564,HUN,1:49.923,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,1,6,,189,LIMHyoJun,9324,KOR,1:25.614,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,2,5,,2,KNEGTSjinkie,7352,NED,1:25.802,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,3,4,,6,WUDajing,7729,CHN,1:26.213,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,4,1,,73,YOSHINAGAKazuki,8745,JPN,1:26.481,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,5,2,,23,RobertsZVEJNIEKS,8490,LAT,1:26.914,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,1,6,3,,105,CONFORTOLAYuri,6561,ITA,1:27.176,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,2,1,2,,10,ShaolinSandorLIU,7928,HUN,1:26.515,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,2,2,5,,9,HANTianyu,8388,CHN,1:26.665,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,2,3,3,,16,RENZiwei,8601,CHN,1:26.979,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,2,4,1,,86,PIVIROTTORyan,8650,USA,1:27.026,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,2,5,4,,20,RyosukeSAKAZUME,7542,JPN,1:27.042,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,3,1,4,,58,HWANGDaeHeon,9115,KOR,1:24.894,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,3,2,1,,8,HAMELINCharles,6610,CAN,1:24.998,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,3,3,2,,13,J.R.CELSKI,7279,USA,1:25.220,q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,3,4,5,,7,VictorAN,8344,RUS,1:25.476,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,3,5,3,,3,SamuelGIRARD,8600,CAN,1:25.528,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,1,1,,15,CharleCOURNOYER,8063,CAN,1:25.990,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,2,6,,204,RobertoPUKITIS,7785,LAT,1:26.132,Q
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,3,5,,19,WATANABEKeita,7605,JPN,1:26.232,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,4,3,,12,SemenELISTRATOV,7293,RUS,1:26.761,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,5,2,,22,BYKANOVVladislav,6178,ISR,1:27.101,
+2017-2018,Audi ISU World Cup 2017/18 - Budapest (HUN),1000m,m,Quarterfinals,4,6,4,,5,ShaoangLIU,8564,HUN,1:49.923,

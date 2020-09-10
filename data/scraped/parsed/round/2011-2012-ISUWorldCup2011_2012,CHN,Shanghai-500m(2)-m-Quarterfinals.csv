@@ -1,17 +1,17 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,112,LIANGWenhao,7594,CHN,41.703,Q
-0,2,2,,109,RemiBEAULIEU,6299,CAN,41.798,Q
-0,3,4,,174,John-HenryKRUEGER,7763,USA,42.514,QC
-0,4,3,,128,RichardSHOEBRIDGE,7825,GBR,42.659,
-1,1,2,,125,JonELEY,6592,GBR,41.662,Q
-1,2,3,,144,KNEGTSjinkie,7352,NED,41.744,Q
-1,3,1,,155,LEEHo-Suk,6856,KOR,41.752,QC
-1,4,4,,116,WUDajing,7729,CHN,42.037,
-2,1,1,,106,HAMELINCharles,6610,CAN,41.238,Q
-2,2,3,,126,PaulSTANLEY,7054,GBR,41.904,Q
-2,3,2,,147,FreekvanderWART,7269,NED,41.943,QC
-2,4,4,,118,BLACKBURNMackenzie,7434,TPE,42.527,
-3,1,2,,111,CharleCOURNOYER,8063,CAN,41.904,Q
-3,2,4,,115,GONGQiuwen,7593,CHN,42.112,Q
-3,3,1,,156,SEOYiRa,7940,KOR,42.113,QC
-3,4,3,,173,JonathanGARCIA,7904,USA,42.478,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,1,1,1,,112,LIANGWenhao,7594,CHN,41.703,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,1,2,2,,109,RemiBEAULIEU,6299,CAN,41.798,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,1,3,4,,174,John-HenryKRUEGER,7763,USA,42.514,QC
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,1,4,3,,128,RichardSHOEBRIDGE,7825,GBR,42.659,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,2,1,2,,125,JonELEY,6592,GBR,41.662,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,2,2,3,,144,KNEGTSjinkie,7352,NED,41.744,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,2,3,1,,155,LEEHo-Suk,6856,KOR,41.752,QC
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,2,4,4,,116,WUDajing,7729,CHN,42.037,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,3,1,1,,106,HAMELINCharles,6610,CAN,41.238,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,3,2,3,,126,PaulSTANLEY,7054,GBR,41.904,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,3,3,2,,147,FreekvanderWART,7269,NED,41.943,QC
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,3,4,4,,118,BLACKBURNMackenzie,7434,TPE,42.527,
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,4,1,2,,111,CharleCOURNOYER,8063,CAN,41.904,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,4,2,4,,115,GONGQiuwen,7593,CHN,42.112,Q
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,4,3,1,,156,SEOYiRa,7940,KOR,42.113,QC
+2011-2012,"ISU World Cup 2011/2012, CHN, Shanghai",500m(2),m,Quarterfinals,4,4,3,,173,JonathanGARCIA,7904,USA,42.478,

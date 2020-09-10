@@ -1,45 +1,45 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,57,CHENGuang,8387,CHN,42.018,Q
-0,2,1,,11,SEOYiRa,7940,KOR,42.155,Q
-0,3,5,,179,HOOGERWERFDylan,8497,NED,42.417,
-0,4,4,,103,BillySIMMS,7926,GBR,42.904,
-0,5,3,,41,SerhiyLIFYRENKO,6826,UKR,43.270,
-1,1,1,,30,NIKISHADenis,8396,KAZ,41.823,Q
-1,2,3,,7,SHIJingnan,7728,CHN,41.842,Q
-1,3,2,,32,JUNGHyunWoo(Andy),8575,AUS,42.015,
-1,4,4,,178,GIORDANOMarco,8616,ITA,42.661,
-1,5,5,,182,DavutTAHTACI,8647,TUR,44.442,
-2,1,1,,28,KeithCARROLL,8449,USA,42.558,Q
-2,2,4,,162,KIMHanwool,9005,KOR,42.559,Q
-2,3,5,,161,AydarBEKZHANOV,7623,KAZ,42.606,
-2,4,3,,6,ShaolinSandorLIU,7928,HUN,44.195,
-2,5,2,,33,PierreBODA,7588,AUS,notime,
-3,1,4,,4,HAMELINCharles,6610,CAN,41.339,Q
-3,2,5,,18,LEPAPESebastien,7554,FRA,41.487,Q
-3,3,1,,60,HironobuMURATAKE,8671,JPN,42.408,
-3,4,2,,177,TRANAaron,8528,USA,42.561,
-3,5,3,,91,OLAHBence,7439,HUN,42.950,
-4,1,2,,149,AlexanderFATHOULLIN,8546,CAN,41.566,Q
-4,2,3,,27,DmitryMIGUNOV,7755,RUS,41.736,Q
-4,3,4,,152,YoannMARTINEZ,8075,FRA,43.184,
-4,4,1,,143,StanislavOMELCHENKO,8524,UKR,45.360,
-4,PEN,5,,31,TorstenKROEGER,7141,GER,PEN,
-5,1,2,,75,SatoshiSAKASHITA,6183,JPN,42.225,Q
-5,2,3,,20,FreekvanderWART,7269,NED,42.247,Q
-5,3,4,,155,KAUFMANN-LUDWIGLeon,8391,GER,42.339,
-5,4,5,,180,BurakAKAR,8646,TUR,45.994,
-5,PEN,1,,163,KIMJoonChun,9006,KOR,PEN,
-6,1,1,,19,SamuelGIRARD,8600,CAN,41.233,Q
-6,2,2,,131,ArtemKOZLOV,8638,RUS,41.394,Q
-6,4,5,,74,CASSINELLIAndrea,7741,ITA,42.692,
-6,5,4,,154,TREACYFarrell,8392,GBR,43.100,
-7,1,4,,44,VladimirGRIGOREV,7826,RUS,41.746,Q
-7,2,1,,151,FERCOQQuentin,8605,FRA,41.805,Q
-7,3,5,,71,AZHGALIYEVAbzal,7685,KAZ,41.897,q
-7,4,3,,26,DOTTITommaso,7604,ITA,43.953,
-7,5,2,,165,TomassBAKEVICS,8489,LAT,44.816,
-8,1,2,,48,ShaoangLIU,8564,HUN,41.604,Q
-8,2,4,,12,BREEUWSMADaan,7218,NED,41.814,Q
-8,3,5,,176,ThomasInsukHONG,8084,USA,42.139,
-8,4,1,,59,YoshiakiOGURO,7743,JPN,42.613,
-8,5,3,,96,JoshuaCHEETHAM,7925,GBR,42.682,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,1,1,2,,57,CHENGuang,8387,CHN,42.018,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,1,2,1,,11,SEOYiRa,7940,KOR,42.155,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,1,3,5,,179,HOOGERWERFDylan,8497,NED,42.417,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,1,4,4,,103,BillySIMMS,7926,GBR,42.904,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,1,5,3,,41,SerhiyLIFYRENKO,6826,UKR,43.270,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,2,1,1,,30,NIKISHADenis,8396,KAZ,41.823,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,2,2,3,,7,SHIJingnan,7728,CHN,41.842,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,2,3,2,,32,JUNGHyunWoo(Andy),8575,AUS,42.015,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,2,4,4,,178,GIORDANOMarco,8616,ITA,42.661,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,2,5,5,,182,DavutTAHTACI,8647,TUR,44.442,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,3,1,1,,28,KeithCARROLL,8449,USA,42.558,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,3,2,4,,162,KIMHanwool,9005,KOR,42.559,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,3,3,5,,161,AydarBEKZHANOV,7623,KAZ,42.606,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,3,4,3,,6,ShaolinSandorLIU,7928,HUN,44.195,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,3,5,2,,33,PierreBODA,7588,AUS,notime,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,4,1,4,,4,HAMELINCharles,6610,CAN,41.339,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,4,2,5,,18,LEPAPESebastien,7554,FRA,41.487,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,4,3,1,,60,HironobuMURATAKE,8671,JPN,42.408,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,4,4,2,,177,TRANAaron,8528,USA,42.561,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,4,5,3,,91,OLAHBence,7439,HUN,42.950,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,5,1,2,,149,AlexanderFATHOULLIN,8546,CAN,41.566,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,5,2,3,,27,DmitryMIGUNOV,7755,RUS,41.736,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,5,3,4,,152,YoannMARTINEZ,8075,FRA,43.184,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,5,4,1,,143,StanislavOMELCHENKO,8524,UKR,45.360,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,5,PEN,5,,31,TorstenKROEGER,7141,GER,PEN,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,6,1,2,,75,SatoshiSAKASHITA,6183,JPN,42.225,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,6,2,3,,20,FreekvanderWART,7269,NED,42.247,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,6,3,4,,155,KAUFMANN-LUDWIGLeon,8391,GER,42.339,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,6,4,5,,180,BurakAKAR,8646,TUR,45.994,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,6,PEN,1,,163,KIMJoonChun,9006,KOR,PEN,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,7,1,1,,19,SamuelGIRARD,8600,CAN,41.233,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,7,2,2,,131,ArtemKOZLOV,8638,RUS,41.394,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,7,4,5,,74,CASSINELLIAndrea,7741,ITA,42.692,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,7,5,4,,154,TREACYFarrell,8392,GBR,43.100,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,8,1,4,,44,VladimirGRIGOREV,7826,RUS,41.746,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,8,2,1,,151,FERCOQQuentin,8605,FRA,41.805,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,8,3,5,,71,AZHGALIYEVAbzal,7685,KAZ,41.897,q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,8,4,3,,26,DOTTITommaso,7604,ITA,43.953,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,8,5,2,,165,TomassBAKEVICS,8489,LAT,44.816,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,9,1,2,,48,ShaoangLIU,8564,HUN,41.604,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,9,2,4,,12,BREEUWSMADaan,7218,NED,41.814,Q
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,9,3,5,,176,ThomasInsukHONG,8084,USA,42.139,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,9,4,1,,59,YoshiakiOGURO,7743,JPN,42.613,
+2015-2016,ISU World Cup 2015/16 - Toronto (CAN),500m(1),m,Preliminaries,9,5,3,,96,JoshuaCHEETHAM,7925,GBR,42.682,

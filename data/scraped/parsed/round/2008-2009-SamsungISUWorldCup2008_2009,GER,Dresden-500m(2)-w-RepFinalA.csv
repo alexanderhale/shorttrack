@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,3,,12,LaurieMARCEAU,7648,CAN,45.597,Q
-0,2,1,,46,YuiSAKAI,6229,JPN,45.807,Q
-0,3,2,,68,ValeriyaREZNIK,6573,RUS,45.975,
-0,4,4,,61,KarolinaREGUCKA,6914,POL,47.332,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",500m(2),w,RepFinalA,1,1,3,,12,LaurieMARCEAU,7648,CAN,45.597,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",500m(2),w,RepFinalA,1,2,1,,46,YuiSAKAI,6229,JPN,45.807,Q
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",500m(2),w,RepFinalA,1,3,2,,68,ValeriyaREZNIK,6573,RUS,45.975,
+2008-2009,"Samsung ISU World Cup 2008/2009, GER, Dresden",500m(2),w,RepFinalA,1,4,4,,61,KarolinaREGUCKA,6914,POL,47.332,

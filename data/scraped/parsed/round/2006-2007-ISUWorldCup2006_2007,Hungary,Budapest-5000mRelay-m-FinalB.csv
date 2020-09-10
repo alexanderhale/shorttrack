@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,2,2,,266,FRANCE,7319,FRA,7:01.053,
-0,3,3,,263,HUNGARY,7324,HUN,7:02.620,
-0,4,4,,267,GREATBRITAIN,7320,GBR,7:14.495,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",5000mRelay,m,FinalB,1,2,2,,266,FRANCE,7319,FRA,7:01.053,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",5000mRelay,m,FinalB,1,3,3,,263,HUNGARY,7324,HUN,7:02.620,
+2006-2007,"ISU World Cup 2006/2007, Hungary, Budapest",5000mRelay,m,FinalB,1,4,4,,267,GREATBRITAIN,7320,GBR,7:14.495,

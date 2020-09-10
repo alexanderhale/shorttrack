@@ -1,4 +1,4 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,701,VeronikaWINDISCH,6427,AUT,2:38.959,
-0,2,2,,743,OlesyaOSKINA,6049,RUS,2:41.237,
-0,3,3,,736,KarolinaREGUCKA,6914,POL,2:41.694,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1500m(1),w,RepFinalB,1,1,1,,701,VeronikaWINDISCH,6427,AUT,2:38.959,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1500m(1),w,RepFinalB,1,2,2,,743,OlesyaOSKINA,6049,RUS,2:41.237,
+2006-2007,"ISU World Cup 2006/2007, China, Changchun",1500m(1),w,RepFinalB,1,3,3,,736,KarolinaREGUCKA,6914,POL,2:41.694,

@@ -1,5 +1,5 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,2,,270,JeffSIMON,7280,USA,41.720,Q
-0,2,1,,160,Jean-FrancoisMONETTE,7096,CAN,42.014,Q
-0,3,4,,219,PaulWORTH,6802,GBR,42.196,
-0,4,3,,257,EvgeniiKOZULIN,7272,RUS,42.294,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),m,RepFinalA,1,1,2,,270,JeffSIMON,7280,USA,41.720,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),m,RepFinalA,1,2,1,,160,Jean-FrancoisMONETTE,7096,CAN,42.014,Q
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),m,RepFinalA,1,3,4,,219,PaulWORTH,6802,GBR,42.196,
+2007-2008,"Samsung ISU World Cup 2007/2008, USA, Salt Lake City",500m(2),m,RepFinalA,1,4,3,,257,EvgeniiKOZULIN,7272,RUS,42.294,

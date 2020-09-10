@@ -1,18 +1,18 @@
-race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,4,,87,AHNHyun-Soo,6618,KOR,2:26.330,Q
-0,2,3,,50,Francois-LouisTREMBLAY,6704,CAN,2:26.521,Q
-0,3,6,,74,SatoruTERAO,6320,JPN,2:26.819,
-0,4,2,,71,NicolaFRANCESCHINA,6331,ITA,2:27.037,
-0,5,5,,57,GUOWei,6654,CHN,2:27.311,
-0,6,1,,43,MarkMcNEE,6432,AUS,2:27.517,
-1,1,1,,55,LIYe,6655,CHN,2:29.159,Q
-1,2,4,,54,Jean-FrancoisMONETTE,7096,CAN,2:29.297,Q
-1,3,2,,86,YEOJun-Hyung,6948,KOR,2:29.475,
-1,4,5,,72,NicolaRODIGARI,6332,ITA,2:29.548,
-1,5,6,,61,SebastianPRAUS,6364,GER,2:29.696,
-1,6,3,,65,LeonFLACK,6641,GBR,2:31.183,
-2,2,4,,83,LEESeung-Jae,6621,KOR,2:41.623,Q
-2,3,6,,58,LIUYingBao,6554,CHN,2:42.285,
-2,4,2,,40,AlexMcEWAN,6428,AUS,2:43.291,
-2,DQ,1,,45,SimonvanVOSSEL,7098,BEL,DQ,
-2,DQ,3,,78,HayatoSUEYOSHI,6321,JPN,DQ,
+season,competition,event,gender,round,race,Place,Start Pos.,Warn.,#,Name,ISU ID,ISU Member,Results,Qual.
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,1,4,,87,AHNHyun-Soo,6618,KOR,2:26.330,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,2,3,,50,Francois-LouisTREMBLAY,6704,CAN,2:26.521,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,3,6,,74,SatoruTERAO,6320,JPN,2:26.819,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,4,2,,71,NicolaFRANCESCHINA,6331,ITA,2:27.037,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,5,5,,57,GUOWei,6654,CHN,2:27.311,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,1,6,1,,43,MarkMcNEE,6432,AUS,2:27.517,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,1,1,,55,LIYe,6655,CHN,2:29.159,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,2,4,,54,Jean-FrancoisMONETTE,7096,CAN,2:29.297,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,3,2,,86,YEOJun-Hyung,6948,KOR,2:29.475,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,4,5,,72,NicolaRODIGARI,6332,ITA,2:29.548,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,5,6,,61,SebastianPRAUS,6364,GER,2:29.696,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,2,6,3,,65,LeonFLACK,6641,GBR,2:31.183,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,3,2,4,,83,LEESeung-Jae,6621,KOR,2:41.623,Q
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,3,3,6,,58,LIUYingBao,6554,CHN,2:42.285,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,3,4,2,,40,AlexMcEWAN,6428,AUS,2:43.291,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,3,DQ,1,,45,SimonvanVOSSEL,7098,BEL,DQ,
+2002-2003,"2002 World Cup 2, China, Beijing",1500M,m,SemiFinals,3,DQ,3,,78,HayatoSUEYOSHI,6321,JPN,DQ,

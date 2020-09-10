@@ -1,8 +1,8 @@
-race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
-0,1,1,,,KOREA,7314,KOR,4:21.572,
-0,2,2,,,UNITEDSTATES,7316,USA,4:26.419,
-0,3,3,,,NETHERLANDS,7322,NED,4:39.458,
-1,1,4,,,CHINA,7311,CHN,4:22.389,
-1,2,2,,,CANADA,7312,CAN,4:23.057,
-1,3,1,,,JAPAN,7310,JPN,4:24.377,
-1,4,3,,,UKRAINE,7334,UKR,4:38.140,
+season,competition,event,gender,round,race,Place,Start Pos.,Relay Team,#,Name,ISU ID,ISU Member,Results,Qual.
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,1,1,1,,,KOREA,7314,KOR,4:21.572,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,1,2,2,,,UNITEDSTATES,7316,USA,4:26.419,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,1,3,3,,,NETHERLANDS,7322,NED,4:39.458,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,2,1,4,,,CHINA,7311,CHN,4:22.389,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,2,2,2,,,CANADA,7312,CAN,4:23.057,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,2,3,1,,,JAPAN,7310,JPN,4:24.377,
+2000-2001,2000 World Cup - Chang Chun,3000MRelay,w,SemiFinals,2,4,3,,,UKRAINE,7334,UKR,4:38.140,
