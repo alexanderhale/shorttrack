@@ -1,0 +1,19 @@
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+3,11.953,11.953,1,11.364,11.364,2,11.429,11.429,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+3,9.412,21.364,2,9.695,21.059,1,9.552,20.980,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+2,9.841,31.205,1,9.015,30.073,3,18.163,39.143,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+2,9.783,40.987,1,9.278,39.350,3,9.908,49.051,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,9.494,50.481,2,13.062,52.412,3,9.815,58.866,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,8.376,58.856,2,10.761,1:03.173,3,9.776,1:08.641,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.929,1:09.784,2,10.735,1:13.907,3,9.835,1:18.476,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,9.922,1:19.706,2,10.400,1:24.306,3,9.184,1:27.659,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,9.709,1:29.415,2,11.768,1:36.074,3,9.664,1:37.323,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.335,1:39.750,2,8.525,1:44.598,3,9.755,1:47.078,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.336,1:50.085,2,10.453,1:55.051,3,9.599,1:56.676,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,9.837,1:59.921,2,11.727,2:06.777,3,10.161,2:06.837,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.253,2:10.173,2,8.951,2:15.728,3,9.524,2:16.361,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.272,2:20.444,2,10.234,2:25.962,3,9.643,2:26.004,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+1,10.072,2:30.516,2,10.316,2:36.277,,,,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+2,10.367,2:40.882,3,10.693,2:46.970,1,,2:35.512,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+2,10.427,2:51.309,3,10.571,2:57.540,1,9.926,2:45.437,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2
+2,10.97,3:02.277,3,10.48,3:08.018,1,10.69,2:56.123,2003-2004,"2004 World Junior Championships, China",2000MRelay,m,Heats,2

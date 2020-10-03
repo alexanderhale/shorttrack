@@ -1,46 +1,46 @@
-RUSSIA POSITION,RUSSIA LAP TIME,RUSSIA ELAPSED TIME,CANADA POSITION,CANADA LAP TIME,CANADA ELAPSED TIME,KAZAKHSTAN POSITION,KAZAKHSTAN LAP TIME,KAZAKHSTAN ELAPSED TIME
-1,13.64,13.64,2,13.73,13.73,3,13.82,
-2,10.42,24.06,1,10.23,23.96,3,10.36,
-2,10.30,34.36,1,10.26,34.22,3,10.33,
-2,9.75,44.11,1,9.77,43.99,3,9.73,
-2,9.36,53.47,1,9.36,53.35,3,9.44,
-2,9.36,1:02.83,1,9.38,1:02.73,3,9.28,
-2,9.16,1:11.99,1,9.17,1:11.90,3,9.15,
-2,9.29,1:21.28,1,8.07,1:19.97,3,9.28,
-2,9.47,1:30.75,1,10.66,1:30.63,3,9.44,
-2,8.85,1:39.60,1,8.87,1:39.50,3,8.92,
-2,8.67,1:48.27,1,8.67,1:48.17,3,8.69,
-2,8.50,1:56.77,1,8.52,1:56.69,3,8.57,
-2,8.76,2:05.53,1,8.74,2:05.43,3,8.63,
-2,8.75,2:14.28,1,8.76,2:14.19,3,8.79,
-2,8.99,2:23.27,1,9.00,2:23.19,3,8.95,
-2,8.82,2:32.09,1,8.80,2:31.99,3,8.81,
-2,8.62,2:40.71,1,8.60,2:40.59,3,8.72,
-2,8.45,2:49.16,1,8.47,2:49.06,3,8.48,
-2,8.54,2:57.70,1,8.55,2:57.61,3,8.49,
-2,8.74,3:06.44,1,8.73,3:06.34,3,8.65,
-2,8.92,3:15.36,1,8.91,3:15.25,3,8.91,
-2,8.74,3:24.10,1,8.77,3:24.02,3,8.76,
-2,8.66,3:32.76,1,8.61,3:32.63,3,8.69,
-2,8.40,3:41.16,1,8.45,3:41.08,3,8.47,
-2,8.60,3:49.76,1,8.60,3:49.68,3,14.79,
-2,8.77,3:58.53,1,8.76,3:58.44,3,9.15,
-2,9.02,4:07.55,1,9.03,4:07.47,3,8.52,
-2,9.22,4:16.77,1,9.22,4:16.69,3,8.57,
-2,8.99,4:25.76,1,8.99,4:25.68,3,8.66,
-2,8.94,4:34.70,1,8.92,4:34.60,3,9.05,
-2,8.79,4:43.49,1,8.77,4:43.37,3,9.09,
-2,8.81,4:52.30,1,8.84,4:52.21,3,8.84,
-2,8.99,5:01.29,1,8.99,5:01.20,3,8.74,
-2,8.97,5:10.26,1,8.98,5:10.18,3,8.61,
-2,8.85,5:19.11,1,8.84,5:19.02,3,8.81,
-2,8.58,5:27.69,1,8.59,5:27.61,3,9.17,
-2,8.58,5:36.27,1,8.55,5:36.16,3,9.18,
-2,8.58,5:44.85,1,8.60,5:44.76,3,8.95,
-2,8.64,5:53.49,1,8.64,5:53.40,3,8.79,
-2,8.59,6:02.08,1,8.50,6:01.90,3,8.68,
-2,8.52,6:10.60,1,8.55,6:10.45,3,8.98,
-2,8.93,6:19.53,1,8.56,6:19.01,3,9.14,
-2,8.75,6:28.28,1,8.44,6:27.45,3,8.88,
-2,8.74,6:37.02,1,8.72,6:36.17,3,9.07,
-2,8.96,6:45.98,1,8.93,6:45.10,3,9.60,
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+1,13.64,13.64,2,13.73,13.73,3,13.82,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,10.42,24.06,1,10.23,23.96,3,10.36,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,10.30,34.36,1,10.26,34.22,3,10.33,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.75,44.11,1,9.77,43.99,3,9.73,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.36,53.47,1,9.36,53.35,3,9.44,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.36,1:02.83,1,9.38,1:02.73,3,9.28,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.16,1:11.99,1,9.17,1:11.90,3,9.15,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.29,1:21.28,1,8.07,1:19.97,3,9.28,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.47,1:30.75,1,10.66,1:30.63,3,9.44,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.85,1:39.60,1,8.87,1:39.50,3,8.92,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.67,1:48.27,1,8.67,1:48.17,3,8.69,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.50,1:56.77,1,8.52,1:56.69,3,8.57,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.76,2:05.53,1,8.74,2:05.43,3,8.63,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.75,2:14.28,1,8.76,2:14.19,3,8.79,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.99,2:23.27,1,9.00,2:23.19,3,8.95,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.82,2:32.09,1,8.80,2:31.99,3,8.81,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.62,2:40.71,1,8.60,2:40.59,3,8.72,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.45,2:49.16,1,8.47,2:49.06,3,8.48,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.54,2:57.70,1,8.55,2:57.61,3,8.49,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.74,3:06.44,1,8.73,3:06.34,3,8.65,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.92,3:15.36,1,8.91,3:15.25,3,8.91,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.74,3:24.10,1,8.77,3:24.02,3,8.76,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.66,3:32.76,1,8.61,3:32.63,3,8.69,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.40,3:41.16,1,8.45,3:41.08,3,8.47,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.60,3:49.76,1,8.60,3:49.68,3,14.79,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.77,3:58.53,1,8.76,3:58.44,3,9.15,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.02,4:07.55,1,9.03,4:07.47,3,8.52,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,9.22,4:16.77,1,9.22,4:16.69,3,8.57,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.99,4:25.76,1,8.99,4:25.68,3,8.66,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.94,4:34.70,1,8.92,4:34.60,3,9.05,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.79,4:43.49,1,8.77,4:43.37,3,9.09,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.81,4:52.30,1,8.84,4:52.21,3,8.84,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.99,5:01.29,1,8.99,5:01.20,3,8.74,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.97,5:10.26,1,8.98,5:10.18,3,8.61,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.85,5:19.11,1,8.84,5:19.02,3,8.81,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.58,5:27.69,1,8.59,5:27.61,3,9.17,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.58,5:36.27,1,8.55,5:36.16,3,9.18,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.58,5:44.85,1,8.60,5:44.76,3,8.95,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.64,5:53.49,1,8.64,5:53.40,3,8.79,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.59,6:02.08,1,8.50,6:01.90,3,8.68,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.52,6:10.60,1,8.55,6:10.45,3,8.98,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.93,6:19.53,1,8.56,6:19.01,3,9.14,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.75,6:28.28,1,8.44,6:27.45,3,8.88,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.74,6:37.02,1,8.72,6:36.17,3,9.07,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2
+2,8.96,6:45.98,1,8.93,6:45.10,3,9.60,,2018-2019,ISU World Cup 2018/19 - Salt Lake City (USA),5000mRelay,m,Quarterfinals,2

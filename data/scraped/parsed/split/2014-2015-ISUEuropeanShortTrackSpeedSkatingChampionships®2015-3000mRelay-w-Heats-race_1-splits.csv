@@ -1,28 +1,28 @@
-HUNGARY POSITION,HUNGARY LAP TIME,HUNGARY ELAPSED TIME,BULGARIA POSITION,BULGARIA LAP TIME,BULGARIA ELAPSED TIME,RUSSIA POSITION,RUSSIA LAP TIME,RUSSIA ELAPSED TIME,UKRAINE POSITION,UKRAINE LAP TIME,UKRAINE ELAPSED TIME
-1,13.23,13.23,3,13.38,13.38,4,13.39,13.39,2,13.28,13.28
-2,9.50,22.73,4,9.76,23.14,3,9.68,23.07,1,9.16,22.44
-1,9.89,32.62,3,9.74,32.88,2,9.64,32.71,4,10.52,32.96
-1,9.47,42.09,3,9.61,42.49,2,9.44,42.15,4,9.71,42.67
-1,9.66,51.75,3,9.80,52.29,2,9.79,51.94,4,9.68,52.35
-1,9.62,1:01.37,3,9.70,1:01.99,2,9.55,1:01.49,4,9.74,1:02.09
-1,9.46,1:10.83,4,10.99,1:12.98,2,9.41,1:10.90,3,9.57,1:11.66
-1,9.67,1:20.50,4,8.55,1:21.53,2,9.69,1:20.59,3,9.21,1:20.87
-2,9.50,1:30.00,3,8.94,1:30.47,1,9.26,1:29.85,4,10.27,1:31.14
-2,9.36,1:39.36,3,9.74,1:40.21,1,9.17,1:39.02,4,9.76,1:40.90
-2,9.62,1:48.98,3,9.99,1:50.20,1,9.70,1:48.72,4,9.71,1:50.61
-2,9.47,1:58.45,3,9.87,2:00.07,1,9.35,1:58.07,4,10.16,2:00.77
-2,9.15,2:07.60,3,9.78,2:09.85,1,9.18,2:07.25,4,9.42,2:10.19
-2,9.31,2:16.91,4,10.39,2:20.24,1,9.46,2:16.71,3,9.46,2:19.65
-2,9.40,2:26.31,3,9.74,2:29.98,1,9.36,2:26.07,4,11.64,2:31.29
-2,9.37,2:35.68,3,9.99,2:39.97,1,9.16,2:35.23,4,8.92,2:40.21
-2,10.28,2:45.96,3,10.06,2:50.03,1,9.54,2:44.77,4,10.30,2:50.51
-2,8.86,2:54.82,4,10.10,3:00.13,1,9.35,2:54.12,3,9.59,3:00.10
-2,9.37,3:04.19,4,10.59,3:10.72,1,9.17,3:03.29,3,10.05,3:10.15
-2,9.62,3:13.81,3,9.36,3:20.08,1,9.54,3:12.83,4,10.31,3:20.46
-2,9.48,3:23.29,3,9.59,3:29.67,1,9.49,3:22.32,4,10.38,3:30.84
-2,9.67,3:32.96,3,10.03,3:39.70,1,9.25,3:31.57,4,10.30,3:41.14
-2,9.81,3:42.77,3,10.57,3:50.27,1,9.68,3:41.25,4,10.21,3:51.35
-2,9.84,3:52.61,3,10.60,4:00.87,1,9.77,3:51.02,4,9.96,4:01.31
-2,9.78,4:02.39,3,10.12,4:10.99,1,9.72,4:00.74,4,9.85,4:11.16
-2,9.98,4:12.37,3,9.81,4:20.80,1,9.74,4:10.48,4,10.07,4:21.23
-2,9.61,4:21.974,3,10.01,4:30.805,1,9.82,4:20.295,4,10.22,4:31.445
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+1,13.23,13.23,3,13.38,13.38,4,13.39,13.39,2,13.28,13.28,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.50,22.73,4,9.76,23.14,3,9.68,23.07,1,9.16,22.44,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.89,32.62,3,9.74,32.88,2,9.64,32.71,4,10.52,32.96,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.47,42.09,3,9.61,42.49,2,9.44,42.15,4,9.71,42.67,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.66,51.75,3,9.80,52.29,2,9.79,51.94,4,9.68,52.35,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.62,1:01.37,3,9.70,1:01.99,2,9.55,1:01.49,4,9.74,1:02.09,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.46,1:10.83,4,10.99,1:12.98,2,9.41,1:10.90,3,9.57,1:11.66,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+1,9.67,1:20.50,4,8.55,1:21.53,2,9.69,1:20.59,3,9.21,1:20.87,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.50,1:30.00,3,8.94,1:30.47,1,9.26,1:29.85,4,10.27,1:31.14,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.36,1:39.36,3,9.74,1:40.21,1,9.17,1:39.02,4,9.76,1:40.90,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.62,1:48.98,3,9.99,1:50.20,1,9.70,1:48.72,4,9.71,1:50.61,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.47,1:58.45,3,9.87,2:00.07,1,9.35,1:58.07,4,10.16,2:00.77,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.15,2:07.60,3,9.78,2:09.85,1,9.18,2:07.25,4,9.42,2:10.19,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.31,2:16.91,4,10.39,2:20.24,1,9.46,2:16.71,3,9.46,2:19.65,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.40,2:26.31,3,9.74,2:29.98,1,9.36,2:26.07,4,11.64,2:31.29,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.37,2:35.68,3,9.99,2:39.97,1,9.16,2:35.23,4,8.92,2:40.21,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,10.28,2:45.96,3,10.06,2:50.03,1,9.54,2:44.77,4,10.30,2:50.51,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,8.86,2:54.82,4,10.10,3:00.13,1,9.35,2:54.12,3,9.59,3:00.10,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.37,3:04.19,4,10.59,3:10.72,1,9.17,3:03.29,3,10.05,3:10.15,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.62,3:13.81,3,9.36,3:20.08,1,9.54,3:12.83,4,10.31,3:20.46,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.48,3:23.29,3,9.59,3:29.67,1,9.49,3:22.32,4,10.38,3:30.84,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.67,3:32.96,3,10.03,3:39.70,1,9.25,3:31.57,4,10.30,3:41.14,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.81,3:42.77,3,10.57,3:50.27,1,9.68,3:41.25,4,10.21,3:51.35,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.84,3:52.61,3,10.60,4:00.87,1,9.77,3:51.02,4,9.96,4:01.31,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.78,4:02.39,3,10.12,4:10.99,1,9.72,4:00.74,4,9.85,4:11.16,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.98,4:12.37,3,9.81,4:20.80,1,9.74,4:10.48,4,10.07,4:21.23,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1
+2,9.61,4:21.974,3,10.01,4:30.805,1,9.82,4:20.295,4,10.22,4:31.445,2014-2015,ISU European Short Track Speed Skating Championships® 2015,3000mRelay,w,Heats,1

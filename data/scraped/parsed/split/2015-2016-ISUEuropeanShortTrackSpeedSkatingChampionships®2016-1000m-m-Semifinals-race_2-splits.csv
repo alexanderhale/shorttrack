@@ -1,10 +1,10 @@
-Vincent JEANNE POSITION,Vincent JEANNE LAP TIME,Vincent JEANNE ELAPSED TIME,Shaolin Sandor LIU POSITION,Shaolin Sandor LIU LAP TIME,Shaolin Sandor LIU ELAPSED TIME,Shaoang LIU POSITION,Shaoang LIU LAP TIME,Shaoang LIU ELAPSED TIME
-1,22.17,22.17,3,22.47,22.47,2,22.26,
-1,16.28,38.45,3,16.29,38.76,2,16.31,
-1,13.59,52.04,3,13.52,52.28,2,13.56,
-1,11.95,1:03.99,3,11.96,1:04.24,2,11.97,
-1,10.58,1:14.57,3,10.55,1:14.79,2,10.57,
-1,9.66,1:24.23,3,9.62,1:24.41,2,9.65,
-1,9.10,1:33.33,3,9.09,1:33.50,2,9.06,
-2,8.71,1:42.04,3,8.63,1:42.13,1,8.65,
-2,9.36,1:51.40,1,8.84,1:50.97,3,30.68,
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+1,22.17,22.17,3,22.47,22.47,2,22.26,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,16.28,38.45,3,16.29,38.76,2,16.31,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,13.59,52.04,3,13.52,52.28,2,13.56,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,11.95,1:03.99,3,11.96,1:04.24,2,11.97,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,10.58,1:14.57,3,10.55,1:14.79,2,10.57,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,9.66,1:24.23,3,9.62,1:24.41,2,9.65,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+1,9.10,1:33.33,3,9.09,1:33.50,2,9.06,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+2,8.71,1:42.04,3,8.63,1:42.13,1,8.65,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2
+2,9.36,1:51.40,1,8.84,1:50.97,3,30.68,,2015-2016,ISU European Short Track Speed Skating Championships® 2016,1000m,m,Semifinals,2

@@ -1,46 +1,46 @@
-JAPAN POSITION,JAPAN LAP TIME,JAPAN ELAPSED TIME,UKRAINE POSITION,UKRAINE LAP TIME,UKRAINE ELAPSED TIME,ISRAEL POSITION,ISRAEL LAP TIME,ISRAEL ELAPSED TIME,UNITED STATES POSITION,UNITED STATES LAP TIME,UNITED STATES ELAPSED TIME
-1,9.680,3:05.320,3,9.510,3:05.840,4,9.830,3:26.640,2,9.710,3:05.420
-1,9.760,3:15.090,3,9.470,3:15.310,4,10.320,3:36.970,2,9.810,3:15.240
-1,9.350,3:24.440,3,9.440,3:24.760,4,10.310,3:47.280,2,9.420,3:24.670
-1,9.310,3:33.760,3,9.380,3:34.140,4,10.240,3:57.530,2,9.130,3:33.810
-1,9.450,3:43.220,3,9.810,3:43.950,4,9.960,4:07.500,2,9.850,3:43.660
-1,9.220,3:52.440,3,9.490,3:53.450,4,10.060,4:17.560,2,8.950,3:52.610
-1,9.110,4:01.560,3,9.560,4:03.010,4,9.810,4:27.370,2,9.040,4:01.660
-2,9.270,4:10.840,3,9.560,4:12.570,4,10.510,4:37.880,1,9.110,4:10.770
-2,9.010,4:19.850,3,9.460,4:22.040,4,10.660,4:48.550,1,8.900,4:19.670
-1,8.810,4:28.670,3,9.580,4:31.620,4,12.110,5:00.660,2,9.010,4:28.690
-2,9.290,4:37.960,3,9.540,4:41.170,0,,,1,9.230,4:37.920
-1,8.910,4:46.870,3,9.730,4:50.910,0,,,2,9.090,4:47.020
-1,9.410,4:56.290,3,10.050,5:00.960,0,,,2,9.340,4:56.360
-2,9.280,5:05.580,3,9.710,5:10.680,0,,,1,9.090,5:05.450
-2,9.200,5:14.790,3,9.450,5:20.140,0,,,1,9.000,5:14.450
-2,9.120,5:23.910,3,9.850,5:30.000,0,,,1,9.290,5:23.740
-2,9.000,5:32.910,3,9.970,5:39.980,0,,,1,9.130,5:32.870
-1,8.950,5:41.860,3,9.990,5:49.970,0,,,2,9.170,5:42.050
-1,9.020,5:50.880,3,9.850,5:59.820,0,,,2,9.070,5:51.120
-1,9.100,5:59.990,3,10.770,6:10.590,0,,,2,9.020,6:00.150
-1,9.520,6:09.510,3,9.740,6:20.340,0,,,2,9.440,6:09.590
-1,9.150,6:18.660,3,9.780,6:30.120,0,,,2,9.200,6:18.800
-1,9.190,6:27.860,3,10.100,6:40.230,0,,,2,9.270,6:28.080
-1,8.990,6:36.850,3,9.980,6:50.210,0,,,2,8.930,6:37.010
-1,9.230,6:46.080,3,10.010,7:00.220,0,,,2,9.320,6:46.330
-1,9.080,6:55.170,3,9.820,7:10.040,0,,,2,9.020,6:55.360
-1,9.250,7:04.420,3,9.760,7:19.810,0,,,2,9.070,7:04.430
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
-0,,,0,,,0,,,0,,
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+1,9.680,3:05.320,3,9.510,3:05.840,4,9.830,3:26.640,2,9.710,3:05.420,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.760,3:15.090,3,9.470,3:15.310,4,10.320,3:36.970,2,9.810,3:15.240,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.350,3:24.440,3,9.440,3:24.760,4,10.310,3:47.280,2,9.420,3:24.670,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.310,3:33.760,3,9.380,3:34.140,4,10.240,3:57.530,2,9.130,3:33.810,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.450,3:43.220,3,9.810,3:43.950,4,9.960,4:07.500,2,9.850,3:43.660,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.220,3:52.440,3,9.490,3:53.450,4,10.060,4:17.560,2,8.950,3:52.610,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.110,4:01.560,3,9.560,4:03.010,4,9.810,4:27.370,2,9.040,4:01.660,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.270,4:10.840,3,9.560,4:12.570,4,10.510,4:37.880,1,9.110,4:10.770,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.010,4:19.850,3,9.460,4:22.040,4,10.660,4:48.550,1,8.900,4:19.670,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,8.810,4:28.670,3,9.580,4:31.620,4,12.110,5:00.660,2,9.010,4:28.690,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.290,4:37.960,3,9.540,4:41.170,0,,,1,9.230,4:37.920,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,8.910,4:46.870,3,9.730,4:50.910,0,,,2,9.090,4:47.020,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.410,4:56.290,3,10.050,5:00.960,0,,,2,9.340,4:56.360,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.280,5:05.580,3,9.710,5:10.680,0,,,1,9.090,5:05.450,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.200,5:14.790,3,9.450,5:20.140,0,,,1,9.000,5:14.450,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.120,5:23.910,3,9.850,5:30.000,0,,,1,9.290,5:23.740,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+2,9.000,5:32.910,3,9.970,5:39.980,0,,,1,9.130,5:32.870,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,8.950,5:41.860,3,9.990,5:49.970,0,,,2,9.170,5:42.050,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.020,5:50.880,3,9.850,5:59.820,0,,,2,9.070,5:51.120,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.100,5:59.990,3,10.770,6:10.590,0,,,2,9.020,6:00.150,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.520,6:09.510,3,9.740,6:20.340,0,,,2,9.440,6:09.590,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.150,6:18.660,3,9.780,6:30.120,0,,,2,9.200,6:18.800,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.190,6:27.860,3,10.100,6:40.230,0,,,2,9.270,6:28.080,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,8.990,6:36.850,3,9.980,6:50.210,0,,,2,8.930,6:37.010,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.230,6:46.080,3,10.010,7:00.220,0,,,2,9.320,6:46.330,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.080,6:55.170,3,9.820,7:10.040,0,,,2,9.020,6:55.360,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+1,9.250,7:04.420,3,9.760,7:19.810,0,,,2,9.070,7:04.430,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1
+0,,,0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,Heats,1

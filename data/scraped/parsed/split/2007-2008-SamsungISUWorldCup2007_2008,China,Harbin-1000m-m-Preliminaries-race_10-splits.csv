@@ -1,10 +1,10 @@
-LEE Ho-Suk POSITION,LEE Ho-Suk LAP TIME,LEE Ho-Suk ELAPSED TIME,Jon ELEY POSITION,Jon ELEY LAP TIME,Jon ELEY ELAPSED TIME,Rudy KOEK POSITION,Rudy KOEK LAP TIME,Rudy KOEK ELAPSED TIME
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-0,,,0,,,0,,
-2,22.950,22.950,1,22.780,22.780,3,41.950,41.950
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+0,,,0,,,0,,,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10
+2,22.950,22.950,1,22.780,22.780,3,41.950,41.950,2007-2008,"Samsung ISU World Cup 2007/2008, China, Harbin",1000m,m,Preliminaries,10

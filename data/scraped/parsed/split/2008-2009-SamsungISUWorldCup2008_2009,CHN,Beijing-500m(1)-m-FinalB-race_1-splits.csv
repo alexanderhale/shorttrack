@@ -1,6 +1,6 @@
-Gabor GALAMBOS POSITION,Gabor GALAMBOS LAP TIME,Gabor GALAMBOS ELAPSED TIME
-1,7.17,7.17
-1,8.93,16.11
-1,8.64,24.75
-1,8.82,33.57
-1,9.10,42.669
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,season,competition,event,gender,round,race
+1,7.17,7.17,2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(1),m,FinalB,1
+1,8.93,16.11,2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(1),m,FinalB,1
+1,8.64,24.75,2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(1),m,FinalB,1
+1,8.82,33.57,2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(1),m,FinalB,1
+1,9.10,42.669,2008-2009,"Samsung ISU World Cup 2008/2009, CHN, Beijing",500m(1),m,FinalB,1

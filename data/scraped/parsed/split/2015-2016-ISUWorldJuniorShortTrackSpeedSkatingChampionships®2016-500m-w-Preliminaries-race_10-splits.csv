@@ -1,6 +1,6 @@
-BINEY Maame POSITION,BINEY Maame LAP TIME,BINEY Maame ELAPSED TIME,PARK Junghyun POSITION,PARK Junghyun LAP TIME,PARK Junghyun ELAPSED TIME,Ashley Sook Hui CHIN POSITION,Ashley Sook Hui CHIN LAP TIME,Ashley Sook Hui CHIN ELAPSED TIME
-3,8.73,8.73,1,7.93,7.93,2,8.43,8.43
-2,10.10,18.83,1,10.10,18.03,3,10.92,19.35
-2,9.83,28.66,1,9.68,27.71,3,10.62,29.97
-2,10.03,38.69,1,9.78,37.49,3,10.91,40.88
-2,10.68,49.37,1,9.93,47.42,3,11.07,51.95
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+3,8.73,8.73,1,7.93,7.93,2,8.43,8.43,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,500m,w,Preliminaries,10
+2,10.10,18.83,1,10.10,18.03,3,10.92,19.35,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,500m,w,Preliminaries,10
+2,9.83,28.66,1,9.68,27.71,3,10.62,29.97,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,500m,w,Preliminaries,10
+2,10.03,38.69,1,9.78,37.49,3,10.91,40.88,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,500m,w,Preliminaries,10
+2,10.68,49.37,1,9.93,47.42,3,11.07,51.95,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,500m,w,Preliminaries,10

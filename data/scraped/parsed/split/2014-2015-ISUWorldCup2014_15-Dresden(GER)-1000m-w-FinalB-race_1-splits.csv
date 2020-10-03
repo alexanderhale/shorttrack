@@ -1,2 +1,2 @@
-PIERRON Veronique POSITION,PIERRON Veronique LAP TIME,PIERRON Veronique ELAPSED TIME
-0,,notime
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,season,competition,event,gender,round,race
+0,,notime,2014-2015,ISU World Cup 2014/15 - Dresden (GER),1000m,w,FinalB,1

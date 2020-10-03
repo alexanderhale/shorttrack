@@ -1,28 +1,28 @@
-POLAND POSITION,POLAND LAP TIME,POLAND ELAPSED TIME,FRANCE POSITION,FRANCE LAP TIME,FRANCE ELAPSED TIME,NETHERLANDS POSITION,NETHERLANDS LAP TIME,NETHERLANDS ELAPSED TIME,CROATIA POSITION,CROATIA LAP TIME,CROATIA ELAPSED TIME
-2,13.35,13.35,3,13.47,13.47,1,13.14,13.14,4,13.66,13.66
-2,9.73,23.08,3,9.73,23.20,1,9.82,22.96,4,9.68,23.34
-2,9.41,32.49,3,9.38,32.58,1,9.41,32.37,4,9.55,32.89
-2,9.48,41.97,3,9.46,42.04,1,9.41,41.78,4,9.55,42.44
-2,9.11,51.08,3,9.18,51.22,1,9.19,50.97,4,10.01,52.45
-2,9.14,1:00.22,3,9.10,1:00.32,1,9.08,1:00.05,4,10.13,1:02.58
-2,9.15,1:09.37,3,9.17,1:09.49,1,9.16,1:09.21,4,9.48,1:12.06
-2,9.25,1:18.62,3,9.21,1:18.70,1,9.32,1:18.53,4,9.47,1:21.53
-2,9.31,1:27.93,3,9.31,1:28.01,1,9.31,1:27.84,4,9.81,1:31.34
-2,9.47,1:37.40,3,9.48,1:37.49,1,9.41,1:37.25,4,10.45,1:41.79
-2,9.18,1:46.58,3,9.20,1:46.69,1,9.24,1:46.49,4,10.26,1:52.05
-2,9.24,1:55.82,3,9.23,1:55.92,1,9.17,1:55.66,4,10.44,2:02.49
-2,9.16,2:04.98,3,9.18,2:05.10,1,9.12,2:04.78,4,9.69,2:12.18
-2,9.10,2:14.08,3,9.13,2:14.23,1,9.21,2:13.99,4,9.67,2:21.85
-2,9.18,2:23.26,3,9.14,2:23.37,1,9.16,2:23.15,4,10.29,2:32.14
-2,9.44,2:32.70,3,9.34,2:32.71,1,9.35,2:32.50,4,10.57,2:42.71
-3,9.29,2:41.99,2,9.15,2:41.86,1,9.28,2:41.78,4,10.27,2:52.98
-3,9.24,2:51.23,2,9.26,2:51.12,1,9.27,2:51.05,4,10.47,3:03.45
-3,9.25,3:00.48,2,9.17,3:00.29,1,9.17,3:00.22,4,9.53,3:12.98
-3,9.05,3:09.53,2,9.12,3:09.41,1,9.11,3:09.33,4,9.85,3:22.83
-3,9.17,3:18.70,2,9.17,3:18.58,1,9.15,3:18.48,4,9.98,3:32.81
-3,9.44,3:28.14,2,9.39,3:27.97,1,9.42,3:27.90,4,10.38,3:43.19
-3,9.25,3:37.39,2,9.24,3:37.21,1,9.22,3:37.12,4,10.51,3:53.70
-3,9.27,3:46.66,2,9.24,3:46.45,1,9.25,3:46.37,4,10.61,4:04.31
-3,9.35,3:56.01,2,9.14,3:55.59,1,9.14,3:55.51,4,10.05,4:14.36
-3,8.86,4:04.87,2,9.08,4:04.67,1,9.07,4:04.58,4,10.01,4:24.37
-3,8.72,4:13.59,2,8.86,4:13.53,1,8.86,4:13.44,4,10.09,4:34.464
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+2,13.35,13.35,3,13.47,13.47,1,13.14,13.14,4,13.66,13.66,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.73,23.08,3,9.73,23.20,1,9.82,22.96,4,9.68,23.34,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.41,32.49,3,9.38,32.58,1,9.41,32.37,4,9.55,32.89,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.48,41.97,3,9.46,42.04,1,9.41,41.78,4,9.55,42.44,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.11,51.08,3,9.18,51.22,1,9.19,50.97,4,10.01,52.45,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.14,1:00.22,3,9.10,1:00.32,1,9.08,1:00.05,4,10.13,1:02.58,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.15,1:09.37,3,9.17,1:09.49,1,9.16,1:09.21,4,9.48,1:12.06,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.25,1:18.62,3,9.21,1:18.70,1,9.32,1:18.53,4,9.47,1:21.53,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.31,1:27.93,3,9.31,1:28.01,1,9.31,1:27.84,4,9.81,1:31.34,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.47,1:37.40,3,9.48,1:37.49,1,9.41,1:37.25,4,10.45,1:41.79,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.18,1:46.58,3,9.20,1:46.69,1,9.24,1:46.49,4,10.26,1:52.05,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.24,1:55.82,3,9.23,1:55.92,1,9.17,1:55.66,4,10.44,2:02.49,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.16,2:04.98,3,9.18,2:05.10,1,9.12,2:04.78,4,9.69,2:12.18,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.10,2:14.08,3,9.13,2:14.23,1,9.21,2:13.99,4,9.67,2:21.85,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.18,2:23.26,3,9.14,2:23.37,1,9.16,2:23.15,4,10.29,2:32.14,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+2,9.44,2:32.70,3,9.34,2:32.71,1,9.35,2:32.50,4,10.57,2:42.71,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.29,2:41.99,2,9.15,2:41.86,1,9.28,2:41.78,4,10.27,2:52.98,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.24,2:51.23,2,9.26,2:51.12,1,9.27,2:51.05,4,10.47,3:03.45,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.25,3:00.48,2,9.17,3:00.29,1,9.17,3:00.22,4,9.53,3:12.98,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.05,3:09.53,2,9.12,3:09.41,1,9.11,3:09.33,4,9.85,3:22.83,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.17,3:18.70,2,9.17,3:18.58,1,9.15,3:18.48,4,9.98,3:32.81,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.44,3:28.14,2,9.39,3:27.97,1,9.42,3:27.90,4,10.38,3:43.19,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.25,3:37.39,2,9.24,3:37.21,1,9.22,3:37.12,4,10.51,3:53.70,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.27,3:46.66,2,9.24,3:46.45,1,9.25,3:46.37,4,10.61,4:04.31,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,9.35,3:56.01,2,9.14,3:55.59,1,9.14,3:55.51,4,10.05,4:14.36,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,8.86,4:04.87,2,9.08,4:04.67,1,9.07,4:04.58,4,10.01,4:24.37,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1
+3,8.72,4:13.59,2,8.86,4:13.53,1,8.86,4:13.44,4,10.09,4:34.464,2018-2019,ISU European Short Track Championships 2019 - Dordrecht (NED),3000mRelay,w,Quarterfinals,1

@@ -1,28 +1,28 @@
-RUSSIA POSITION,RUSSIA LAP TIME,RUSSIA ELAPSED TIME,KOREA POSITION,KOREA LAP TIME,KOREA ELAPSED TIME,CZECH REPUBLIC POSITION,CZECH REPUBLIC LAP TIME,CZECH REPUBLIC ELAPSED TIME
-2,12.91,12.91,3,13.02,13.02,1,12.74,12.74
-2,9.88,22.79,3,9.85,22.87,1,9.94,22.68
-2,9.72,32.51,1,9.53,32.40,3,10.01,32.69
-2,9.43,41.94,1,9.36,41.76,3,9.62,42.31
-2,9.48,51.42,1,9.57,51.33,3,9.84,52.15
-2,9.75,1:01.17,1,9.66,1:00.99,3,9.64,1:01.79
-2,9.57,1:10.74,1,9.59,1:10.58,3,9.49,1:11.28
-2,9.71,1:20.45,1,9.63,1:20.21,3,9.87,1:21.15
-2,9.57,1:30.02,1,9.46,1:29.67,3,10.07,1:31.22
-2,9.50,1:39.52,1,9.52,1:39.19,3,10.22,1:41.44
-2,9.67,1:49.19,1,9.85,1:49.04,3,10.27,1:51.71
-2,9.67,1:58.86,1,9.61,1:58.65,3,9.98,2:01.69
-2,9.76,2:08.62,1,9.54,2:08.19,3,9.70,2:11.39
-2,10.14,2:18.76,1,9.71,2:17.90,3,10.24,2:21.63
-2,9.79,2:28.55,1,9.29,2:27.19,3,10.45,2:32.08
-2,9.62,2:38.17,1,9.47,2:36.66,3,10.26,2:42.34
-2,9.73,2:47.90,1,9.94,2:46.60,3,10.52,2:52.86
-2,9.78,2:57.68,1,9.94,2:56.54,3,10.01,3:02.87
-2,9.94,3:07.62,1,9.55,3:06.09,3,9.75,3:12.62
-2,10.27,3:17.89,1,9.69,3:15.78,3,9.74,3:22.36
-2,9.89,3:27.78,1,9.43,3:25.21,3,10.52,3:32.88
-2,9.85,3:37.63,1,9.52,3:34.73,3,10.74,3:43.62
-2,9.90,3:47.53,1,10.20,3:44.93,3,10.35,3:53.97
-2,9.95,3:57.48,1,10.17,3:55.10,3,10.64,4:04.61
-2,10.23,4:07.71,1,9.96,4:05.06,3,10.27,4:14.88
-2,10.33,4:18.04,1,9.88,4:14.94,3,9.91,4:24.79
-2,10.31,4:28.35,1,9.78,4:24.72,3,9.93,4:34.710
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+2,12.91,12.91,3,13.02,13.02,1,12.74,12.74,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.88,22.79,3,9.85,22.87,1,9.94,22.68,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.72,32.51,1,9.53,32.40,3,10.01,32.69,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.43,41.94,1,9.36,41.76,3,9.62,42.31,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.48,51.42,1,9.57,51.33,3,9.84,52.15,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.75,1:01.17,1,9.66,1:00.99,3,9.64,1:01.79,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.57,1:10.74,1,9.59,1:10.58,3,9.49,1:11.28,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.71,1:20.45,1,9.63,1:20.21,3,9.87,1:21.15,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.57,1:30.02,1,9.46,1:29.67,3,10.07,1:31.22,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.50,1:39.52,1,9.52,1:39.19,3,10.22,1:41.44,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.67,1:49.19,1,9.85,1:49.04,3,10.27,1:51.71,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.67,1:58.86,1,9.61,1:58.65,3,9.98,2:01.69,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.76,2:08.62,1,9.54,2:08.19,3,9.70,2:11.39,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,10.14,2:18.76,1,9.71,2:17.90,3,10.24,2:21.63,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.79,2:28.55,1,9.29,2:27.19,3,10.45,2:32.08,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.62,2:38.17,1,9.47,2:36.66,3,10.26,2:42.34,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.73,2:47.90,1,9.94,2:46.60,3,10.52,2:52.86,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.78,2:57.68,1,9.94,2:56.54,3,10.01,3:02.87,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.94,3:07.62,1,9.55,3:06.09,3,9.75,3:12.62,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,10.27,3:17.89,1,9.69,3:15.78,3,9.74,3:22.36,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.89,3:27.78,1,9.43,3:25.21,3,10.52,3:32.88,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.85,3:37.63,1,9.52,3:34.73,3,10.74,3:43.62,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.90,3:47.53,1,10.20,3:44.93,3,10.35,3:53.97,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,9.95,3:57.48,1,10.17,3:55.10,3,10.64,4:04.61,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,10.23,4:07.71,1,9.96,4:05.06,3,10.27,4:14.88,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,10.33,4:18.04,1,9.88,4:14.94,3,9.91,4:24.79,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1
+2,10.31,4:28.35,1,9.78,4:24.72,3,9.93,4:34.710,2017-2018,ISU World Junior Short Track Championships 2018 - Tomaszow Mazowiecki (POL),3000mRelay,w,Heats,1

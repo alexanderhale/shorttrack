@@ -1,28 +1,28 @@
-GREAT BRITAIN POSITION,GREAT BRITAIN LAP TIME,GREAT BRITAIN ELAPSED TIME,ITALY POSITION,ITALY LAP TIME,ITALY ELAPSED TIME
-1,9.090,2:59.520,2,9.240,2:59.610
-1,9.130,3:08.660,2,9.060,3:08.670
-1,9.060,3:17.720,2,9.220,3:17.900
-2,9.040,3:26.760,1,8.780,3:26.680
-1,8.900,3:35.670,2,9.270,3:35.950
-1,9.040,3:44.720,2,8.980,3:44.940
-2,9.100,3:53.820,1,8.850,3:53.790
-1,9.150,4:02.970,2,9.280,4:03.070
-1,9.060,4:12.040,2,9.050,4:12.130
-2,9.600,4:21.640,1,9.200,4:21.330
-2,9.290,4:30.930,1,9.480,4:30.820
-1,9.120,4:40.060,2,9.340,4:40.160
-2,9.150,4:49.220,1,9.010,4:49.180
-1,9.150,4:58.370,2,9.260,4:58.450
-2,9.070,5:07.440,1,8.910,5:07.360
-1,8.850,5:16.290,2,9.000,5:16.370
-1,8.980,5:25.270,2,9.350,5:25.720
-2,9.530,5:34.810,1,9.040,5:34.770
-2,9.120,5:43.930,1,9.020,5:43.790
-2,9.030,5:52.970,1,8.990,5:52.790
-2,8.620,6:01.590,1,8.730,6:01.520
-2,9.180,6:10.780,1,9.150,6:10.680
-2,9.370,6:20.150,1,9.450,6:20.130
-2,9.400,6:29.550,1,9.280,6:29.410
-2,9.400,6:38.960,1,9.200,6:38.620
-2,8.990,6:47.960,1,9.150,6:47.780
-1,9.270,6:57.230,2,10.130,6:57.910
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,season,competition,event,gender,round,race
+1,9.090,2:59.520,2,9.240,2:59.610,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.130,3:08.660,2,9.060,3:08.670,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.060,3:17.720,2,9.220,3:17.900,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.040,3:26.760,1,8.780,3:26.680,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,8.900,3:35.670,2,9.270,3:35.950,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.040,3:44.720,2,8.980,3:44.940,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.100,3:53.820,1,8.850,3:53.790,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.150,4:02.970,2,9.280,4:03.070,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.060,4:12.040,2,9.050,4:12.130,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.600,4:21.640,1,9.200,4:21.330,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.290,4:30.930,1,9.480,4:30.820,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.120,4:40.060,2,9.340,4:40.160,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.150,4:49.220,1,9.010,4:49.180,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.150,4:58.370,2,9.260,4:58.450,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.070,5:07.440,1,8.910,5:07.360,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,8.850,5:16.290,2,9.000,5:16.370,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,8.980,5:25.270,2,9.350,5:25.720,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.530,5:34.810,1,9.040,5:34.770,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.120,5:43.930,1,9.020,5:43.790,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.030,5:52.970,1,8.990,5:52.790,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,8.620,6:01.590,1,8.730,6:01.520,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.180,6:10.780,1,9.150,6:10.680,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.370,6:20.150,1,9.450,6:20.130,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.400,6:29.550,1,9.280,6:29.410,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,9.400,6:38.960,1,9.200,6:38.620,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+2,8.990,6:47.960,1,9.150,6:47.780,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1
+1,9.270,6:57.230,2,10.130,6:57.910,2007-2008,"Samsung ISU World Cup 2007/2008, Netherlands, Heerenveen",5000mRelay,m,FinalB,1

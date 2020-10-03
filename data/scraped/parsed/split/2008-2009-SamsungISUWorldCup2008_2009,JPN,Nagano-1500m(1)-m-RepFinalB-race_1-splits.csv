@@ -1,15 +1,15 @@
-Andre PULEC POSITION,Andre PULEC LAP TIME,Andre PULEC ELAPSED TIME
-1,8.46,8.46
-1,11.18,19.65
-1,10.54,30.19
-1,10.81,41.00
-1,10.83,51.84
-1,10.92,1:02.76
-1,11.37,1:14.14
-1,11.27,1:25.41
-1,11.38,1:36.79
-1,11.45,1:48.25
-1,11.42,1:59.68
-1,11.67,2:11.35
-1,11.47,2:22.83
-1,11.76,2:34.588
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,season,competition,event,gender,round,race
+1,8.46,8.46,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.18,19.65,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,10.54,30.19,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,10.81,41.00,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,10.83,51.84,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,10.92,1:02.76,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.37,1:14.14,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.27,1:25.41,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.38,1:36.79,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.45,1:48.25,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.42,1:59.68,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.67,2:11.35,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.47,2:22.83,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1
+1,11.76,2:34.588,2008-2009,"Samsung ISU World Cup 2008/2009, JPN, Nagano",1500m(1),m,RepFinalB,1

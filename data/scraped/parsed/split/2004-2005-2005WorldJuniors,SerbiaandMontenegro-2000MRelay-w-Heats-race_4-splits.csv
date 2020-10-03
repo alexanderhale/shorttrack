@@ -1,0 +1,19 @@
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+1,12.144,12.144,3,14.565,14.565,,,,2,13.481,13.481,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.656,22.799,3,9.498,24.063,,,,2,10.559,24.039,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,8.667,31.465,2,9.869,33.931,,,,3,10.189,34.228,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,9.716,41.181,2,10.223,44.154,,,,3,10.380,44.607,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,9.986,51.167,2,10.144,54.297,,,,3,10.031,54.638,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.138,1:01.305,3,10.674,1:04.970,,,,2,10.225,1:04.862,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.186,1:11.490,2,10.412,1:15.381,,,,3,10.719,1:15.580,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.873,1:22.362,2,10.121,1:25.502,,,,3,10.630,1:26.210,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,9.761,1:32.123,2,11.045,1:36.546,,,,3,10.501,1:36.711,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+,,,1,10.594,1:47.140,,,,2,10.704,1:47.415,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,,1:52.866,3,10.841,1:57.980,,,,2,10.268,1:57.682,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+3,20.234,2:13.100,2,10.425,2:08.405,,,,1,10.119,2:07.801,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+3,11.430,2:24.529,2,10.510,2:18.915,,,,1,10.843,2:18.643,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+,,,2,10.708,2:29.622,,,,1,10.867,2:29.509,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,,2:35.592,3,10.868,2:40.490,,,,2,10.786,2:40.294,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,9.625,2:45.217,3,10.926,2:51.416,,,,2,11.032,2:51.326,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.489,2:55.705,3,10.527,3:01.942,,,,2,10.594,3:01.920,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4
+1,10.19,3:05.886,3,10.80,3:12.742,0,,DQ,2,10.34,3:12.256,2004-2005,"2005 World Juniors, Serbia and Montenegro",2000MRelay,w,Heats,4

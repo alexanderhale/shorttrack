@@ -1,0 +1,10 @@
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+3,15.583,15.583,2,15.475,15.475,1,15.468,15.468,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+3,12.091,27.673,1,12.035,27.509,2,12.194,27.662,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+2,11.751,39.423,1,11.687,39.196,3,11.960,39.621,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+2,20.146,59.569,1,11.302,50.497,,,,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+3,13.807,1:13.375,1,11.017,1:01.513,2,,1:01.704,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+3,13.039,1:26.414,1,10.582,1:12.094,2,10.401,1:12.105,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+3,12.120,1:38.533,1,10.443,1:22.537,2,10.523,1:22.627,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+2,12.394,1:50.926,1,10.555,1:33.091,,,,,,,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3
+3,13.09,2:04.015,1,10.56,1:43.647,2,,1:43.785,0,,DQ,2004-2005,"2005 World Juniors, Serbia and Montenegro",1000M,w,Heats,3

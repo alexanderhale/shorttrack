@@ -1,28 +1,28 @@
-UNITED STATES POSITION,UNITED STATES LAP TIME,UNITED STATES ELAPSED TIME,CANADA POSITION,CANADA LAP TIME,CANADA ELAPSED TIME,JAPAN POSITION,JAPAN LAP TIME,JAPAN ELAPSED TIME
-3,12.47,12.47,1,12.28,12.28,2,12.38,12.38
-3,9.05,21.52,1,9.00,21.28,2,9.01,21.39
-3,9.13,30.65,1,8.92,30.20,2,8.93,30.32
-3,9.15,39.80,1,9.02,39.22,2,8.97,39.29
-3,10.24,50.04,1,8.94,48.16,2,8.97,48.26
-3,9.58,59.62,1,9.07,57.23,2,9.03,57.29
-3,9.15,1:08.77,1,9.12,1:06.35,2,9.13,1:06.42
-3,8.93,1:17.70,1,8.92,1:15.27,2,8.96,1:15.38
-3,9.02,1:26.72,1,9.10,1:24.37,2,9.01,1:24.39
-3,9.25,1:35.97,2,9.06,1:33.43,1,8.93,1:33.32
-3,9.63,1:45.60,2,8.96,1:42.39,1,8.91,1:42.23
-3,9.43,1:55.03,2,8.92,1:51.31,1,8.95,1:51.18
-3,9.47,2:04.50,2,8.91,2:00.22,1,9.00,2:00.18
-3,9.19,2:13.69,2,8.84,2:09.06,1,8.76,2:08.94
-3,9.27,2:22.96,1,8.92,2:17.98,2,9.16,2:18.10
-3,9.36,2:32.32,1,9.08,2:27.06,2,9.09,2:27.19
-3,9.73,2:42.05,1,9.04,2:36.10,2,8.97,2:36.16
-3,9.79,2:51.84,1,9.10,2:45.20,2,9.15,2:45.31
-3,9.48,3:01.32,1,9.11,2:54.31,2,9.28,2:54.59
-3,9.36,3:10.68,1,8.84,3:03.15,2,8.86,3:03.45
-3,9.26,3:19.94,1,9.17,3:12.32,2,9.00,3:12.45
-3,9.79,3:29.73,1,8.94,3:21.26,2,8.87,3:21.32
-3,10.25,3:39.98,2,9.16,3:30.42,1,8.97,3:30.29
-3,9.71,3:49.69,2,14.04,3:44.46,1,9.18,3:39.47
-3,9.30,3:58.99,2,9.64,3:54.10,1,9.01,3:48.48
-3,9.51,4:08.50,2,9.90,4:04.00,1,8.83,3:57.31
-3,10.11,4:18.596,2,8.26,4:12.26,1,8.96,4:06.27
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,season,competition,event,gender,round,race
+3,12.47,12.47,1,12.28,12.28,2,12.38,12.38,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.05,21.52,1,9.00,21.28,2,9.01,21.39,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.13,30.65,1,8.92,30.20,2,8.93,30.32,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.15,39.80,1,9.02,39.22,2,8.97,39.29,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,10.24,50.04,1,8.94,48.16,2,8.97,48.26,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.58,59.62,1,9.07,57.23,2,9.03,57.29,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.15,1:08.77,1,9.12,1:06.35,2,9.13,1:06.42,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,8.93,1:17.70,1,8.92,1:15.27,2,8.96,1:15.38,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.02,1:26.72,1,9.10,1:24.37,2,9.01,1:24.39,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.25,1:35.97,2,9.06,1:33.43,1,8.93,1:33.32,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.63,1:45.60,2,8.96,1:42.39,1,8.91,1:42.23,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.43,1:55.03,2,8.92,1:51.31,1,8.95,1:51.18,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.47,2:04.50,2,8.91,2:00.22,1,9.00,2:00.18,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.19,2:13.69,2,8.84,2:09.06,1,8.76,2:08.94,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.27,2:22.96,1,8.92,2:17.98,2,9.16,2:18.10,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.36,2:32.32,1,9.08,2:27.06,2,9.09,2:27.19,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.73,2:42.05,1,9.04,2:36.10,2,8.97,2:36.16,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.79,2:51.84,1,9.10,2:45.20,2,9.15,2:45.31,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.48,3:01.32,1,9.11,2:54.31,2,9.28,2:54.59,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.36,3:10.68,1,8.84,3:03.15,2,8.86,3:03.45,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.26,3:19.94,1,9.17,3:12.32,2,9.00,3:12.45,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.79,3:29.73,1,8.94,3:21.26,2,8.87,3:21.32,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,10.25,3:39.98,2,9.16,3:30.42,1,8.97,3:30.29,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.71,3:49.69,2,14.04,3:44.46,1,9.18,3:39.47,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.30,3:58.99,2,9.64,3:54.10,1,9.01,3:48.48,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,9.51,4:08.50,2,9.90,4:04.00,1,8.83,3:57.31,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4
+3,10.11,4:18.596,2,8.26,4:12.26,1,8.96,4:06.27,2015-2016,ISU World Junior Short Track Speed Skating Championships® 2016,3000mRelay,m,Heats,4

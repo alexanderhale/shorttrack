@@ -1,28 +1,28 @@
-GERMANY POSITION,GERMANY LAP TIME,GERMANY ELAPSED TIME,NETHERLANDS POSITION,NETHERLANDS LAP TIME,NETHERLANDS ELAPSED TIME,POLAND POSITION,POLAND LAP TIME,POLAND ELAPSED TIME,CROATIA POSITION,CROATIA LAP TIME,CROATIA ELAPSED TIME
-3,12.56,12.56,1,12.26,12.26,2,12.34,,4,12.87,12.87
-3,9.21,21.77,1,9.36,21.62,2,9.35,,4,9.42,22.29
-3,9.31,31.08,1,9.19,30.81,2,9.20,,4,9.63,31.92
-3,9.29,40.37,1,9.34,40.15,2,9.40,,4,9.78,41.70
-3,9.39,49.76,1,9.21,49.36,2,9.22,,4,10.22,51.92
-3,9.21,58.97,1,9.29,58.65,2,9.26,,4,10.43,1:02.35
-2,9.12,1:08.09,1,9.33,1:07.98,3,9.41,,4,9.57,1:11.92
-2,9.18,1:17.27,1,9.21,1:17.19,3,9.20,,4,9.53,1:21.45
-2,9.27,1:26.54,1,9.26,1:26.45,3,9.25,,4,9.85,1:31.30
-2,9.50,1:36.04,1,9.47,1:35.92,3,9.50,,4,10.14,1:41.44
-2,9.51,1:45.55,1,9.36,1:45.28,3,9.53,,4,10.41,1:51.85
-2,9.30,1:54.85,1,9.38,1:54.66,3,9.49,,4,10.69,2:02.54
-2,9.11,2:03.96,1,9.22,2:03.88,3,9.40,,4,9.78,2:12.32
-2,9.06,2:13.02,1,8.90,2:12.78,3,9.21,,4,10.05,2:22.37
-2,9.06,2:22.08,1,9.08,2:21.86,3,9.26,,4,9.78,2:32.15
-2,9.22,2:31.30,1,9.14,2:31.00,3,9.32,,4,10.29,2:42.44
-2,9.71,2:41.01,1,9.12,2:40.12,3,9.35,,4,10.26,2:52.70
-2,9.55,2:50.56,1,9.10,2:49.22,3,9.27,,4,10.45,3:03.15
-2,8.99,2:59.55,1,8.81,2:58.03,3,9.25,,4,10.02,3:13.17
-2,9.05,3:08.60,1,8.86,3:06.89,3,9.09,,4,9.88,3:23.05
-2,9.39,3:17.99,1,9.06,3:15.95,3,9.20,,4,10.14,3:33.19
-2,9.67,3:27.66,1,9.42,3:25.37,3,9.38,,4,10.46,3:43.65
-2,9.81,3:37.47,1,9.30,3:34.67,3,9.79,,4,10.72,3:54.37
-2,9.82,3:47.29,1,9.14,3:43.81,3,9.81,,4,10.55,4:04.92
-2,9.16,3:56.45,1,9.00,3:52.81,3,9.73,,4,10.02,4:14.94
-2,8.95,4:05.40,1,9.07,4:01.88,3,9.28,,4,10.05,4:24.99
-2,9.09,4:14.49,1,9.08,4:10.96,3,9.48,,3,8.41,4:35.219
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+3,12.56,12.56,1,12.26,12.26,2,12.34,,4,12.87,12.87,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+3,9.21,21.77,1,9.36,21.62,2,9.35,,4,9.42,22.29,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+3,9.31,31.08,1,9.19,30.81,2,9.20,,4,9.63,31.92,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+3,9.29,40.37,1,9.34,40.15,2,9.40,,4,9.78,41.70,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+3,9.39,49.76,1,9.21,49.36,2,9.22,,4,10.22,51.92,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+3,9.21,58.97,1,9.29,58.65,2,9.26,,4,10.43,1:02.35,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.12,1:08.09,1,9.33,1:07.98,3,9.41,,4,9.57,1:11.92,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.18,1:17.27,1,9.21,1:17.19,3,9.20,,4,9.53,1:21.45,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.27,1:26.54,1,9.26,1:26.45,3,9.25,,4,9.85,1:31.30,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.50,1:36.04,1,9.47,1:35.92,3,9.50,,4,10.14,1:41.44,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.51,1:45.55,1,9.36,1:45.28,3,9.53,,4,10.41,1:51.85,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.30,1:54.85,1,9.38,1:54.66,3,9.49,,4,10.69,2:02.54,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.11,2:03.96,1,9.22,2:03.88,3,9.40,,4,9.78,2:12.32,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.06,2:13.02,1,8.90,2:12.78,3,9.21,,4,10.05,2:22.37,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.06,2:22.08,1,9.08,2:21.86,3,9.26,,4,9.78,2:32.15,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.22,2:31.30,1,9.14,2:31.00,3,9.32,,4,10.29,2:42.44,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.71,2:41.01,1,9.12,2:40.12,3,9.35,,4,10.26,2:52.70,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.55,2:50.56,1,9.10,2:49.22,3,9.27,,4,10.45,3:03.15,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,8.99,2:59.55,1,8.81,2:58.03,3,9.25,,4,10.02,3:13.17,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.05,3:08.60,1,8.86,3:06.89,3,9.09,,4,9.88,3:23.05,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.39,3:17.99,1,9.06,3:15.95,3,9.20,,4,10.14,3:33.19,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.67,3:27.66,1,9.42,3:25.37,3,9.38,,4,10.46,3:43.65,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.81,3:37.47,1,9.30,3:34.67,3,9.79,,4,10.72,3:54.37,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.82,3:47.29,1,9.14,3:43.81,3,9.81,,4,10.55,4:04.92,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.16,3:56.45,1,9.00,3:52.81,3,9.73,,4,10.02,4:14.94,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,8.95,4:05.40,1,9.07,4:01.88,3,9.28,,4,10.05,4:24.99,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3
+2,9.09,4:14.49,1,9.08,4:10.96,3,9.48,,3,8.41,4:35.219,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),3000mRelay,w,Heats,3

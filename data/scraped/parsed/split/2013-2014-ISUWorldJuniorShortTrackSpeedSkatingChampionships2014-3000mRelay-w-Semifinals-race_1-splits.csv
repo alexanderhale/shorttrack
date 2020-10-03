@@ -1,28 +1,28 @@
-RUSSIA POSITION,RUSSIA LAP TIME,RUSSIA ELAPSED TIME,CANADA POSITION,CANADA LAP TIME,CANADA ELAPSED TIME,ITALY POSITION,ITALY LAP TIME,ITALY ELAPSED TIME,NETHERLANDS POSITION,NETHERLANDS LAP TIME,NETHERLANDS ELAPSED TIME
-1,11.89,11.89,2,12.21,12.21,4,12.96,12.96,3,12.38,12.38
-1,9.55,21.44,3,9.71,21.92,4,9.17,22.13,2,9.16,21.54
-1,8.74,30.18,2,8.86,30.78,3,9.43,31.56,4,,37.05
-2,9.65,39.83,1,8.73,39.51,3,9.46,41.02,4,9.88,46.93
-1,9.24,49.07,2,9.87,49.38,3,9.58,50.60,4,9.90,56.83
-1,9.15,58.22,2,9.03,58.41,3,9.13,59.73,4,9.94,1:06.77
-1,8.51,1:06.73,2,9.20,1:07.61,3,9.58,1:09.31,4,9.67,1:16.44
-1,9.63,1:16.36,2,9.20,1:16.81,3,9.40,1:18.71,4,9.56,1:26.00
-1,9.16,1:25.52,2,9.55,1:26.36,3,9.62,1:28.33,4,9.80,1:35.80
-1,9.46,1:34.98,2,9.58,1:35.94,3,9.53,1:37.86,4,9.99,1:45.79
-1,9.90,1:44.88,2,9.61,1:45.55,3,9.50,1:47.36,4,9.87,1:55.66
-1,9.30,1:54.18,2,9.44,1:54.99,3,9.57,1:56.93,4,9.56,2:05.22
-1,9.04,2:03.22,2,8.95,2:03.94,3,9.31,2:06.24,4,9.77,2:14.99
-1,9.41,2:12.63,2,9.10,2:13.04,3,9.88,2:16.12,4,9.35,2:24.34
-1,9.49,2:22.12,2,9.68,2:22.72,3,9.74,2:25.86,4,9.68,2:34.02
-1,9.29,2:31.41,2,8.97,2:31.69,3,9.66,2:35.52,4,9.71,2:43.73
-1,9.64,2:41.05,2,9.62,2:41.31,3,9.67,2:45.19,4,10.06,2:53.79
-1,9.29,2:50.34,2,9.42,2:50.73,3,9.58,2:54.77,4,9.81,3:03.60
-1,9.01,2:59.35,2,9.60,3:00.33,3,10.04,3:04.81,4,10.18,3:13.78
-1,9.71,3:09.06,2,9.62,3:09.95,3,9.49,3:14.30,4,9.07,3:22.85
-1,9.90,3:18.96,2,9.32,3:19.27,3,9.79,3:24.09,4,9.61,3:32.46
-1,9.05,3:28.01,2,9.15,3:28.42,3,9.62,3:33.71,4,9.97,3:42.43
-1,9.49,3:37.50,2,9.49,3:37.91,3,9.51,3:43.22,4,9.96,3:52.39
-1,9.87,3:47.37,2,9.64,3:47.55,3,9.92,3:53.14,4,10.45,4:02.84
-1,8.93,3:56.30,2,9.43,3:56.98,3,10.20,4:03.34,4,10.14,4:12.98
-2,10.07,4:06.37,1,9.10,4:06.08,3,9.94,4:13.28,4,10.28,4:23.26
-2,9.74,4:16.103,1,9.73,4:15.807,3,9.96,4:23.241,4,10.36,4:33.613
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+1,11.89,11.89,2,12.21,12.21,4,12.96,12.96,3,12.38,12.38,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.55,21.44,3,9.71,21.92,4,9.17,22.13,2,9.16,21.54,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,8.74,30.18,2,8.86,30.78,3,9.43,31.56,4,,37.05,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+2,9.65,39.83,1,8.73,39.51,3,9.46,41.02,4,9.88,46.93,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.24,49.07,2,9.87,49.38,3,9.58,50.60,4,9.90,56.83,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.15,58.22,2,9.03,58.41,3,9.13,59.73,4,9.94,1:06.77,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,8.51,1:06.73,2,9.20,1:07.61,3,9.58,1:09.31,4,9.67,1:16.44,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.63,1:16.36,2,9.20,1:16.81,3,9.40,1:18.71,4,9.56,1:26.00,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.16,1:25.52,2,9.55,1:26.36,3,9.62,1:28.33,4,9.80,1:35.80,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.46,1:34.98,2,9.58,1:35.94,3,9.53,1:37.86,4,9.99,1:45.79,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.90,1:44.88,2,9.61,1:45.55,3,9.50,1:47.36,4,9.87,1:55.66,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.30,1:54.18,2,9.44,1:54.99,3,9.57,1:56.93,4,9.56,2:05.22,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.04,2:03.22,2,8.95,2:03.94,3,9.31,2:06.24,4,9.77,2:14.99,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.41,2:12.63,2,9.10,2:13.04,3,9.88,2:16.12,4,9.35,2:24.34,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.49,2:22.12,2,9.68,2:22.72,3,9.74,2:25.86,4,9.68,2:34.02,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.29,2:31.41,2,8.97,2:31.69,3,9.66,2:35.52,4,9.71,2:43.73,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.64,2:41.05,2,9.62,2:41.31,3,9.67,2:45.19,4,10.06,2:53.79,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.29,2:50.34,2,9.42,2:50.73,3,9.58,2:54.77,4,9.81,3:03.60,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.01,2:59.35,2,9.60,3:00.33,3,10.04,3:04.81,4,10.18,3:13.78,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.71,3:09.06,2,9.62,3:09.95,3,9.49,3:14.30,4,9.07,3:22.85,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.90,3:18.96,2,9.32,3:19.27,3,9.79,3:24.09,4,9.61,3:32.46,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.05,3:28.01,2,9.15,3:28.42,3,9.62,3:33.71,4,9.97,3:42.43,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.49,3:37.50,2,9.49,3:37.91,3,9.51,3:43.22,4,9.96,3:52.39,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,9.87,3:47.37,2,9.64,3:47.55,3,9.92,3:53.14,4,10.45,4:02.84,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+1,8.93,3:56.30,2,9.43,3:56.98,3,10.20,4:03.34,4,10.14,4:12.98,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+2,10.07,4:06.37,1,9.10,4:06.08,3,9.94,4:13.28,4,10.28,4:23.26,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1
+2,9.74,4:16.103,1,9.73,4:15.807,3,9.96,4:23.241,4,10.36,4:33.613,2013-2014,ISU World Junior Short Track Speed Skating Championships 2014,3000mRelay,w,Semifinals,1

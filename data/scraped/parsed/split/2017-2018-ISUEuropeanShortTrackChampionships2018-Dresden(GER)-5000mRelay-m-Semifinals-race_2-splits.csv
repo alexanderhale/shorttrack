@@ -1,46 +1,46 @@
-RUSSIA POSITION,RUSSIA LAP TIME,RUSSIA ELAPSED TIME,ITALY POSITION,ITALY LAP TIME,ITALY ELAPSED TIME,BELGIUM POSITION,BELGIUM LAP TIME,BELGIUM ELAPSED TIME,GERMANY POSITION,GERMANY LAP TIME,GERMANY ELAPSED TIME
-3,12.75,12.75,1,12.38,12.38,2,12.49,12.49,4,12.84,12.84
-3,8.90,21.65,1,9.00,21.38,2,8.99,21.48,4,9.02,21.86
-3,9.28,30.93,1,9.34,30.72,2,9.36,30.84,4,9.20,31.06
-3,9.13,40.06,1,8.97,39.69,2,9.06,39.90,4,9.25,40.31
-3,8.77,48.83,2,9.00,48.69,1,8.74,48.64,4,8.75,49.06
-3,9.38,58.21,2,9.41,58.10,1,9.34,57.98,4,9.23,58.29
-3,9.52,1:07.73,2,9.47,1:07.57,1,9.50,1:07.48,4,9.51,1:07.80
-3,9.46,1:17.19,2,9.52,1:17.09,1,9.52,1:17.00,4,9.50,1:17.30
-3,9.46,1:26.65,2,9.46,1:26.55,1,9.46,1:26.46,4,9.46,1:26.76
-3,9.62,1:36.27,2,9.64,1:36.19,1,9.62,1:36.08,4,9.61,1:36.37
-3,9.79,1:46.06,1,9.74,1:45.93,2,9.88,1:45.96,4,9.82,1:46.19
-3,9.20,1:55.26,1,9.16,1:55.09,2,9.20,1:55.16,4,9.17,1:55.36
-3,9.07,2:04.33,1,9.02,2:04.11,2,9.03,2:04.19,4,9.03,2:04.39
-3,8.82,2:13.15,1,8.83,2:12.94,2,8.80,2:12.99,4,8.88,2:13.27
-3,8.87,2:22.02,1,8.86,2:21.80,2,8.93,2:21.92,4,8.92,2:22.19
-3,8.76,2:30.78,1,8.56,2:30.36,2,8.75,2:30.67,4,13.24,2:35.43
-2,8.45,2:39.23,1,8.61,2:38.97,3,8.67,2:39.34,4,9.46,2:44.89
-2,8.37,2:47.60,1,8.54,2:47.51,3,8.42,2:47.76,4,8.94,2:53.83
-2,8.57,2:56.17,1,8.49,2:56.00,3,8.59,2:56.35,4,8.78,3:02.61
-2,8.43,3:04.60,1,8.45,3:04.45,3,8.45,3:04.80,4,8.65,3:11.26
-2,8.56,3:13.16,1,8.55,3:13.00,3,8.48,3:13.28,4,14.79,3:26.05
-2,8.51,3:21.67,1,8.55,3:21.55,3,8.80,3:22.08,4,9.75,3:35.80
-2,8.69,3:30.36,1,8.73,3:30.28,3,8.81,3:30.89,4,9.09,3:44.89
-2,8.55,3:38.91,1,8.53,3:38.81,3,8.72,3:39.61,4,9.00,3:53.89
-2,8.60,3:47.51,1,8.55,3:47.36,3,8.67,3:48.28,4,9.12,4:03.01
-2,8.44,3:55.95,1,8.49,3:55.85,3,8.55,3:56.83,4,9.11,4:12.12
-2,8.49,4:04.44,1,8.54,4:04.39,3,8.55,4:05.38,4,9.36,4:21.48
-2,8.72,4:13.16,1,8.66,4:13.05,3,8.93,4:14.31,4,9.20,4:30.68
-2,8.72,4:21.88,1,8.73,4:21.78,3,8.89,4:23.20,4,8.82,4:39.50
-2,8.59,4:30.47,1,8.64,4:30.42,3,9.06,4:32.26,4,9.08,4:48.58
-2,8.87,4:39.34,1,8.81,4:39.23,3,8.89,4:41.15,4,9.22,4:57.80
-2,8.69,4:48.03,1,8.70,4:47.93,3,8.74,4:49.89,4,9.01,5:06.81
-2,8.57,4:56.60,1,8.66,4:56.59,3,8.81,4:58.70,4,9.26,5:16.07
-1,9.02,5:05.62,2,9.11,5:05.70,3,9.12,5:07.82,4,9.38,5:25.45
-1,8.96,5:14.58,2,9.02,5:14.72,3,9.36,5:17.18,4,8.99,5:34.44
-1,8.92,5:23.50,2,8.88,5:23.60,3,9.26,5:26.44,4,9.21,5:43.65
-1,9.21,5:32.71,2,9.19,5:32.79,3,8.98,5:35.42,4,9.46,5:53.11
-1,8.94,5:41.65,2,9.02,5:41.81,3,9.09,5:44.51,4,9.07,6:02.18
-1,8.66,5:50.31,2,8.64,5:50.45,3,8.94,5:53.45,4,9.31,6:11.49
-1,9.01,5:59.32,2,9.03,5:59.48,3,9.27,6:02.72,4,9.57,6:21.06
-1,8.92,6:08.24,2,8.85,6:08.33,3,9.17,6:11.89,4,8.85,6:29.91
-1,8.84,6:17.08,2,8.87,6:17.20,3,8.97,6:20.86,4,9.05,6:38.96
-1,8.91,6:25.99,2,8.94,6:26.14,3,8.91,6:29.77,4,8.99,6:47.95
-1,8.78,6:34.77,2,8.93,6:35.07,3,8.89,6:38.66,4,9.62,6:57.57
-2,9.03,6:43.80,1,7.99,6:43.06,3,9.09,6:47.75,4,13.19,7:10.76
+START_POS_1 POSITION,START_POS_1 LAP TIME,START_POS_1 ELAPSED TIME,START_POS_2 POSITION,START_POS_2 LAP TIME,START_POS_2 ELAPSED TIME,START_POS_3 POSITION,START_POS_3 LAP TIME,START_POS_3 ELAPSED TIME,START_POS_4 POSITION,START_POS_4 LAP TIME,START_POS_4 ELAPSED TIME,season,competition,event,gender,round,race
+3,12.75,12.75,1,12.38,12.38,2,12.49,12.49,4,12.84,12.84,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,8.90,21.65,1,9.00,21.38,2,8.99,21.48,4,9.02,21.86,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.28,30.93,1,9.34,30.72,2,9.36,30.84,4,9.20,31.06,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.13,40.06,1,8.97,39.69,2,9.06,39.90,4,9.25,40.31,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,8.77,48.83,2,9.00,48.69,1,8.74,48.64,4,8.75,49.06,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.38,58.21,2,9.41,58.10,1,9.34,57.98,4,9.23,58.29,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.52,1:07.73,2,9.47,1:07.57,1,9.50,1:07.48,4,9.51,1:07.80,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.46,1:17.19,2,9.52,1:17.09,1,9.52,1:17.00,4,9.50,1:17.30,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.46,1:26.65,2,9.46,1:26.55,1,9.46,1:26.46,4,9.46,1:26.76,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.62,1:36.27,2,9.64,1:36.19,1,9.62,1:36.08,4,9.61,1:36.37,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.79,1:46.06,1,9.74,1:45.93,2,9.88,1:45.96,4,9.82,1:46.19,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.20,1:55.26,1,9.16,1:55.09,2,9.20,1:55.16,4,9.17,1:55.36,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,9.07,2:04.33,1,9.02,2:04.11,2,9.03,2:04.19,4,9.03,2:04.39,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,8.82,2:13.15,1,8.83,2:12.94,2,8.80,2:12.99,4,8.88,2:13.27,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,8.87,2:22.02,1,8.86,2:21.80,2,8.93,2:21.92,4,8.92,2:22.19,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+3,8.76,2:30.78,1,8.56,2:30.36,2,8.75,2:30.67,4,13.24,2:35.43,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.45,2:39.23,1,8.61,2:38.97,3,8.67,2:39.34,4,9.46,2:44.89,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.37,2:47.60,1,8.54,2:47.51,3,8.42,2:47.76,4,8.94,2:53.83,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.57,2:56.17,1,8.49,2:56.00,3,8.59,2:56.35,4,8.78,3:02.61,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.43,3:04.60,1,8.45,3:04.45,3,8.45,3:04.80,4,8.65,3:11.26,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.56,3:13.16,1,8.55,3:13.00,3,8.48,3:13.28,4,14.79,3:26.05,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.51,3:21.67,1,8.55,3:21.55,3,8.80,3:22.08,4,9.75,3:35.80,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.69,3:30.36,1,8.73,3:30.28,3,8.81,3:30.89,4,9.09,3:44.89,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.55,3:38.91,1,8.53,3:38.81,3,8.72,3:39.61,4,9.00,3:53.89,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.60,3:47.51,1,8.55,3:47.36,3,8.67,3:48.28,4,9.12,4:03.01,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.44,3:55.95,1,8.49,3:55.85,3,8.55,3:56.83,4,9.11,4:12.12,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.49,4:04.44,1,8.54,4:04.39,3,8.55,4:05.38,4,9.36,4:21.48,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.72,4:13.16,1,8.66,4:13.05,3,8.93,4:14.31,4,9.20,4:30.68,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.72,4:21.88,1,8.73,4:21.78,3,8.89,4:23.20,4,8.82,4:39.50,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.59,4:30.47,1,8.64,4:30.42,3,9.06,4:32.26,4,9.08,4:48.58,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.87,4:39.34,1,8.81,4:39.23,3,8.89,4:41.15,4,9.22,4:57.80,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.69,4:48.03,1,8.70,4:47.93,3,8.74,4:49.89,4,9.01,5:06.81,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,8.57,4:56.60,1,8.66,4:56.59,3,8.81,4:58.70,4,9.26,5:16.07,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,9.02,5:05.62,2,9.11,5:05.70,3,9.12,5:07.82,4,9.38,5:25.45,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.96,5:14.58,2,9.02,5:14.72,3,9.36,5:17.18,4,8.99,5:34.44,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.92,5:23.50,2,8.88,5:23.60,3,9.26,5:26.44,4,9.21,5:43.65,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,9.21,5:32.71,2,9.19,5:32.79,3,8.98,5:35.42,4,9.46,5:53.11,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.94,5:41.65,2,9.02,5:41.81,3,9.09,5:44.51,4,9.07,6:02.18,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.66,5:50.31,2,8.64,5:50.45,3,8.94,5:53.45,4,9.31,6:11.49,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,9.01,5:59.32,2,9.03,5:59.48,3,9.27,6:02.72,4,9.57,6:21.06,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.92,6:08.24,2,8.85,6:08.33,3,9.17,6:11.89,4,8.85,6:29.91,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.84,6:17.08,2,8.87,6:17.20,3,8.97,6:20.86,4,9.05,6:38.96,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.91,6:25.99,2,8.94,6:26.14,3,8.91,6:29.77,4,8.99,6:47.95,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+1,8.78,6:34.77,2,8.93,6:35.07,3,8.89,6:38.66,4,9.62,6:57.57,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
+2,9.03,6:43.80,1,7.99,6:43.06,3,9.09,6:47.75,4,13.19,7:10.76,2017-2018,ISU European Short Track Championships 2018 - Dresden (GER),5000mRelay,m,Semifinals,2
