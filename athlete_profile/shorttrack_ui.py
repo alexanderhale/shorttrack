@@ -97,7 +97,7 @@ event_distance.param.watch(event_distance_changed, 'value')
 athlete_name.param.trigger('value')
 
 
-@pn.depends(athlete_races_single_event, watch=True)
+@pn.depends(athlete_races_single_event)
 def first_lap_positions(athlete_races_single_event__):
     """
     The position in the pack that the athlete likes to start this event distance.
@@ -111,17 +111,25 @@ def first_lap_positions(athlete_races_single_event__):
     return fig
 
 
-@pn.depends(athlete_races, watch=True)
-def half_lap_500m(athlete_races__):
+@pn.depends(athlete_races)
+def half_lap_500m_mean(athlete_races__):
     """
-    The athlete's average 500m half-lap start time, and a histogram of the athlete's 500m half-lap start time
+    The athlete's average 500m half-lap start time.
     """
     athlete_races_500m = select_event_subset(athlete_races__, EVENT_500M)
-    athlete_races_500m['lap_1_laptime'] = athlete_races_500m['lap_1_laptime'].astype('float')
-
     mean_start_time = round(athlete_races_500m['lap_1_laptime'].astype('float').mean(), 3)
-    mean_start_indicator = pn.indicators.Number(name='Mean 500m Half-Lap Start Time', value=mean_start_time,
-                                                format='{value}s')
+    return pn.indicators.Number(name='Mean 500m Half-Lap Start Time',
+                                value=mean_start_time,
+                                format='{value}s')
+
+
+@pn.depends(athlete_races)
+def half_lap_500m_hist(athlete_races__):
+    """
+    Histogram of the athlete's 500m half-lap start time (thresholding at 9s to remove outliers).
+    """
+    athlete_races_500m = select_event_subset(athlete_races__, EVENT_500M)
+    athlete_races_500m = athlete_races_500m.astype({'lap_1_laptime': float})
 
     thresholded_start_times = athlete_races_500m[athlete_races_500m['lap_1_laptime'] < 9]
     fig, ax = get_ax()
@@ -129,27 +137,26 @@ def half_lap_500m(athlete_races__):
                  ax=ax,
                  x="lap_1_laptime").set_title('500m Half-Lap Start Times')
 
-    # TODO separate into two functions instead of tuple
-    return mean_start_indicator, fig
+    return fig
 
 
-@pn.depends(start_position, athlete_races, watch=True)
+@pn.depends(start_position, athlete_races)
 def start_performance_500m(start_position__, athlete_races__):
     """
     A histogram of the position the athlete is in after the first half-lap of the 500m, for the selected start position.
     """
     athlete_races_500m = athlete_races__[athlete_races__['event'] == EVENT_500M]
     start_performances = athlete_races_500m[athlete_races_500m['Start Pos.'] == int(start_position__)]
-    start_performances['lap_1_position'] = start_performances['lap_1_position'].astype('float')
+    start_performances = start_performances.astype({'lap_1_position': float})
 
     fig, ax = get_ax()
     sns.histplot(data=start_performances,
-                        x="lap_1_position",
+                 x="lap_1_position",
                  ax=ax).set_title(f'500m Start Result from Lane {start_position__}')
     return fig
 
 
-@pn.depends(athlete_laptimes, watch=True)
+@pn.depends(athlete_laptimes)
 def fastest_leading_laptimes(athlete_laptimes__):
     """
     The average of the 25 fastest laptimes achieved by the athlete when leading the race.
@@ -160,7 +167,7 @@ def fastest_leading_laptimes(athlete_laptimes__):
                                 format='{value}s')
 
 
-@pn.depends(athlete_laptimes, watch=True)
+@pn.depends(athlete_laptimes)
 def fastest_following_laptimes(athlete_laptimes__):
     """
     The average of the 25 fastest laptimes achieved by the athlete when not leading the race.
@@ -171,7 +178,7 @@ def fastest_following_laptimes(athlete_laptimes__):
                                 format='{value}s')
 
 
-@pn.depends(athlete_laptimes_single_event, position_gain_loss, watch=True)
+@pn.depends(athlete_laptimes_single_event, position_gain_loss)
 def likely_lap_to_pass(athlete_laptimes_single_event__, position_gain_loss__):
     """
     A histogram of how often an athlete makes a pass (or gets passed) on a particular lap, for the selected number of
@@ -182,28 +189,28 @@ def likely_lap_to_pass(athlete_laptimes_single_event__, position_gain_loss__):
 
     fig, ax = get_ax()
     sns.histplot(data=selected_passes,
-                        x="lap",
+                 x="lap",
                  ax=ax).set_title(f'Passes on each Lap of {position_gain_loss__} Positions')
     return fig
 
 
-@pn.depends(athlete_races_single_event, watch=True)
+@pn.depends(athlete_races_single_event)
 def x_plus_y_position_selection(athlete_races_single_event__):
     """
     A histogram displaying which advancing position an athlete selects, when there are multiple available.
     """
     advancing_races = athlete_races_single_event__[athlete_races_single_event__['Qual.'].isin(['Q', 'q', 'QA', 'qA'])]
-    advancing_races['Place'] = advancing_races['Place'].astype('int')
+    advancing_races = advancing_races.astype({'Place': int})
 
     fig, ax = get_ax()
     sns.histplot(data=advancing_races,
-                        x="Place",
+                 x="Place",
                  ax=ax).set_title('X + Y Position Selection')
     return fig
 
 
-@pn.depends(athlete_laptimes, watch=True)
-def pacing_1500m(athlete_laptimes__):
+@pn.depends(athlete_laptimes)
+def pacing_1500m_leading(athlete_laptimes__):
     """
     The average pace that the athlete likes to skate when leading the first 4 laps of the 1500m event.
 
@@ -215,49 +222,59 @@ def pacing_1500m(athlete_laptimes__):
                         (laps['lap_start_position'] == 1) &
                         (laps['position_change'] == 0)]['laptime'].mean()
 
-    leading_pace_indicator = pn.indicators.Number(name='1500m Leading Pace',
-                                                  value=round(leading_pace, 2),
-                                                  format='{value}s')
+    return pn.indicators.Number(name='1500m Leading Pace',
+                                value=round(leading_pace, 2),
+                                format='{value}s')
 
-    early_passes_to_front = laptimes[(laptimes['lap'] > 1) &
-                                     (laptimes['lap'] < 5) &
-                                     (laptimes['lap_start_position'] > 1) &
-                                     (laptimes['lap_end_position'] == 1)]
+
+@pn.depends(athlete_laptimes)
+def pacing_1500m_instigation(athlete_laptimes__):
+    """
+    The average pace that the athlete likes to skate when leading the first 4 laps of the 1500m event.
+
+    The amount that the athlete likes to pick up the pace when making a pass in the first 4 laps of the 1500m distance
+    """
+    laps = select_event_subset(athlete_laptimes__, EVENT_1500M)
+    early_passes_to_front = laps[(laps['lap'] > 1) &
+                                 (laps['lap'] < 5) &
+                                 (laps['lap_start_position'] > 1) &
+                                 (laps['lap_end_position'] == 1)]
 
     speed_up_sum = 0
     denominator = len(early_passes_to_front)
 
     for idx, early_pass in early_passes_to_front.iterrows():
-        previous_laptime = laptimes[
-            (laptimes['season'] == early_pass['season']) & (laptimes['competition'] == early_pass['competition']) & (
-                    laptimes['event'] == early_pass['event']) & (laptimes['gender'] == early_pass['gender']) & (
-                    laptimes['round'] == early_pass['round']) & (laptimes['race'] == early_pass['race']) & (
-                    laptimes['instance_of_event_in_competition'] == early_pass[
-                'instance_of_event_in_competition']) & (laptimes['lap'] == early_pass['lap'] - 1)]
+        previous_laptime = laps[(laps['season'] == early_pass['season']) &
+                                (laps['competition'] == early_pass['competition']) &
+                                (laps['event'] == early_pass['event']) &
+                                (laps['gender'] == early_pass['gender']) &
+                                (laps['round'] == early_pass['round']) &
+                                (laps['race'] == early_pass['race']) &
+                                (laps['instance_of_event_in_competition'] ==
+                                 early_pass['instance_of_event_in_competition']) &
+                                (laps['lap'] == early_pass['lap'] - 1)]
         if len(previous_laptime):
             speed_up_sum += previous_laptime.iloc[0]['laptime'] - early_pass['laptime']
         else:
             denominator -= 1
 
-    pace_instigation_indicator = pn.indicators.Number(name='1500m Pace Instigation',
-                                                      value=round((speed_up_sum / denominator), 3),
-                                                      format='{value}s')
-
-    # TODO separate functions instead of tuple
-    return leading_pace_indicator, pace_instigation_indicator
+    return pn.indicators.Number(name='1500m Pace Instigation',
+                                value=round((speed_up_sum / denominator), 3),
+                                format='{value}s')
 
 
 # set up sidebar display
 ui_template.sidebar.append(athlete_name)
 ui_template.sidebar.append(event_distance)
 ui_template.sidebar.append(start_position)
+ui_template.sidebar.append(position_gain_loss)
 
 # set up main display
 ui_template.main.append(
-    pn.Column(pn.Row(first_lap_positions, half_lap_500m),
+    pn.Column(pn.Row(first_lap_positions, half_lap_500m_mean, half_lap_500m_hist),
               pn.Row(start_performance_500m, fastest_leading_laptimes, fastest_following_laptimes),
               pn.Row(likely_lap_to_pass, x_plus_y_position_selection),
-              pn.Row(pacing_1500m))
+              pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
 )
 
 # launch display
