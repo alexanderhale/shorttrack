@@ -277,5 +277,5 @@ ui_template.main.append(
               pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
 )
 
-# launch display
-ui_template.show()
+# ui_template.show()   # launch display in a new tab (e.g. in Jupyter notebook)
+ui_template.servable(title='Short Track Athlete Profile')   # launch server with "panel serve shorttrack_ui.py --show"
