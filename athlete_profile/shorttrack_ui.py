@@ -14,9 +14,11 @@ EVENT_1500M = '1500m'
 DEFAULT_START_POSITION = 1
 DEFAULT_POSITION_CHANGE = 1
 
+pn.config.sizing_mode = 'stretch_width'
+
 # data load
-full_rounds = pd.read_csv('../data/scraped/cleaned/rounds_splits.csv')
-laptimes = pd.read_csv('../data/scraped/cleaned/individual_athlete_lap_data.csv')
+full_rounds = pd.read_csv('./data/scraped/cleaned/rounds_splits.csv')
+laptimes = pd.read_csv('./data/scraped/cleaned/individual_athlete_lap_data.csv')
 pos_cols = [f'lap_{x}_position' for x in range(1, 46)]
 laptime_cols = [f'lap_{x}_laptime' for x in range(1, 46)]
 full_rounds[pos_cols] = full_rounds[pos_cols].replace(0.0, np.nan)
@@ -37,10 +39,6 @@ def get_ax():
     ax = fig.add_subplot(111)
     return fig, ax
 
-
-# declare UI template
-ui_template = pn.template.MaterialTemplate(title='Short Track Athlete Profile')
-pn.config.sizing_mode = 'stretch_width'
 
 # declare variable widgets
 athlete_name = pnw.Select(name='Athlete', options=list(individual_events['Name'].unique()))
@@ -263,19 +261,32 @@ def pacing_1500m_instigation(athlete_laptimes__):
                                 format='{value}s')
 
 
-# set up sidebar display
-ui_template.sidebar.append(athlete_name)
-ui_template.sidebar.append(event_distance)
-ui_template.sidebar.append(start_position)
-ui_template.sidebar.append(position_gain_loss)
+def view() -> pn.template.base.BasicTemplate:
+    """
+    Generate the UI dashboard.
+    """
+    ui_template = pn.template.MaterialTemplate(title='Short Track Athlete Profile')
 
-# set up main display
-ui_template.main.append(
-    pn.Column(pn.Row(first_lap_positions, half_lap_500m_mean, half_lap_500m_hist),
-              pn.Row(start_performance_500m, fastest_leading_laptimes, fastest_following_laptimes),
-              pn.Row(likely_lap_to_pass, x_plus_y_position_selection),
-              pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
-)
+    # set up sidebar display
+    ui_template.sidebar.append(athlete_name)
+    ui_template.sidebar.append(event_distance)
+    ui_template.sidebar.append(start_position)
+    ui_template.sidebar.append(position_gain_loss)
 
-# ui_template.show()   # launch display in a new tab (e.g. in Jupyter notebook)
-ui_template.servable(title='Short Track Athlete Profile')   # launch server with "panel serve shorttrack_ui.py --show"
+    # set up main display
+    ui_template.main.append(
+        pn.Column(pn.Row(first_lap_positions, half_lap_500m_mean, half_lap_500m_hist),
+                  pn.Row(start_performance_500m, fastest_leading_laptimes, fastest_following_laptimes),
+                  pn.Row(likely_lap_to_pass, x_plus_y_position_selection),
+                  pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
+    )
+
+    return ui_template
+
+
+if __name__.startswith('bokeh'):
+    # if run with `panel serve shorttrack_ui.py`
+    view().servable(title='Short Track Athlete Profile')
+else:
+    # if run directly (e.g. in Jupyter notebook, or with `python shorttrack_ui.py`)
+    view().show()
