@@ -1,1 +1,1 @@
-web: panel serve athlete_profile/shorttrack_ui.py --port 80
+web: panel serve --port=$PORT --allow-websocket-origin=shorttrack.herokuapp.com --address=0.0.0.0 --use-xheaders athlete_profile/shorttrack_ui.py
