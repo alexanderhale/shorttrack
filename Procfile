@@ -1,1 +1,1 @@
-web: panel serve athlete_profile\shorttrack_ui.py --port 80
+web: panel serve athlete_profile/shorttrack_ui.py --port 80
