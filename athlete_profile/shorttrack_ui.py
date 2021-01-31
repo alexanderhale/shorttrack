@@ -1,3 +1,4 @@
+from os import environ
 from os.path import exists
 from zipfile import ZipFile
 
@@ -16,7 +17,7 @@ EVENT_1000M = '1000m'
 EVENT_1500M = '1500m'
 DEFAULT_START_POSITION = 1
 DEFAULT_POSITION_CHANGE = 1
-DATA_BASE_FILEPATH = './data/scraped/cleaned/'
+DATA_BASE_FILEPATH = f'./data/{environ.get("DATASET", "full")}/'   # default to full dataset
 FULL_ROUNDS_FILEPATH = f'{DATA_BASE_FILEPATH}rounds_splits.csv'
 LAPTIMES_FILENAME = 'individual_athlete_lap_data.csv'
 LAPTIMES_FILEPATH = f'{DATA_BASE_FILEPATH}{LAPTIMES_FILENAME}'
@@ -35,7 +36,8 @@ full_rounds[laptime_cols] = full_rounds[laptime_cols].replace(0.0, np.nan)
 if not exists(LAPTIMES_FILEPATH):
     with ZipFile(LAPTIMES_FILEPATH_ZIP, 'r') as z:
         z.extract(LAPTIMES_FILENAME, path=DATA_BASE_FILEPATH)
-laptimes = pd.read_csv('./data/scraped/cleaned/individual_athlete_lap_data.csv')
+        z.close()
+laptimes = pd.read_csv(LAPTIMES_FILEPATH)
 individual_events = full_rounds[full_rounds['event'].isin({'500m', '1000m', '1500m'})]
 
 
