@@ -185,7 +185,7 @@ def fastest_following_laptimes(athlete_laptimes__):
     """
     The average of the 25 fastest laptimes achieved by the athlete when not leading the race.
     """
-    return pn.indicators.Number(name='Fastest Leading Laptimes',
+    return pn.indicators.Number(name='Fastest Following Laptimes',
                                 value=round(athlete_laptimes__[athlete_laptimes__['lap_end_position'] != 1][
                                                 'laptime'].nsmallest(25).mean(), 3),
                                 format='{value}s')
@@ -272,7 +272,7 @@ def pacing_1500m_instigation(athlete_laptimes__):
             denominator -= 1
 
     return pn.indicators.Number(name='1500m Pace Instigation',
-                                value=round((speed_up_sum / denominator), 3),
+                                value=round((speed_up_sum / denominator), 3) if denominator > 0 else 0,
                                 format='{value}s')
 
 
