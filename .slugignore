@@ -4,3 +4,4 @@ data/archive
 data/full
 data/*.txt
 data/*.ipynb
+data/light/*.ipynb
