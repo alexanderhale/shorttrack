@@ -1,3 +1,7 @@
+from os import environ
+from os.path import exists
+from zipfile import ZipFile
+
 import pandas as pd
 import numpy as np
 
@@ -13,14 +17,27 @@ EVENT_1000M = '1000m'
 EVENT_1500M = '1500m'
 DEFAULT_START_POSITION = 1
 DEFAULT_POSITION_CHANGE = 1
+DATA_BASE_FILEPATH = f'./data/{environ.get("DATASET", "full")}/'   # default to full dataset
+FULL_ROUNDS_FILEPATH = f'{DATA_BASE_FILEPATH}rounds_splits.csv'
+LAPTIMES_FILENAME = 'individual_athlete_lap_data.csv'
+LAPTIMES_FILEPATH = f'{DATA_BASE_FILEPATH}{LAPTIMES_FILENAME}'
+LAPTIMES_FILEPATH_ZIP = f'{DATA_BASE_FILEPATH}individual_athlete_lap_data.zip'
 
-# data load
-full_rounds = pd.read_csv('../data/scraped/cleaned/rounds_splits.csv')
-laptimes = pd.read_csv('../data/scraped/cleaned/individual_athlete_lap_data.csv')
+pn.config.sizing_mode = 'stretch_width'
+
+# data load: round-by-round
+full_rounds = pd.read_csv(FULL_ROUNDS_FILEPATH)
 pos_cols = [f'lap_{x}_position' for x in range(1, 46)]
 laptime_cols = [f'lap_{x}_laptime' for x in range(1, 46)]
 full_rounds[pos_cols] = full_rounds[pos_cols].replace(0.0, np.nan)
 full_rounds[laptime_cols] = full_rounds[laptime_cols].replace(0.0, np.nan)
+
+# data load: laptimes
+if not exists(LAPTIMES_FILEPATH):
+    with ZipFile(LAPTIMES_FILEPATH_ZIP, 'r') as z:
+        z.extract(LAPTIMES_FILENAME, path=DATA_BASE_FILEPATH)
+        z.close()
+laptimes = pd.read_csv(LAPTIMES_FILEPATH)
 individual_events = full_rounds[full_rounds['event'].isin({'500m', '1000m', '1500m'})]
 
 
@@ -37,10 +54,6 @@ def get_ax():
     ax = fig.add_subplot(111)
     return fig, ax
 
-
-# declare UI template
-ui_template = pn.template.MaterialTemplate(title='Short Track Athlete Profile')
-pn.config.sizing_mode = 'stretch_width'
 
 # declare variable widgets
 athlete_name = pnw.Select(name='Athlete', options=list(individual_events['Name'].unique()))
@@ -172,7 +185,7 @@ def fastest_following_laptimes(athlete_laptimes__):
     """
     The average of the 25 fastest laptimes achieved by the athlete when not leading the race.
     """
-    return pn.indicators.Number(name='Fastest Leading Laptimes',
+    return pn.indicators.Number(name='Fastest Following Laptimes',
                                 value=round(athlete_laptimes__[athlete_laptimes__['lap_end_position'] != 1][
                                                 'laptime'].nsmallest(25).mean(), 3),
                                 format='{value}s')
@@ -259,23 +272,36 @@ def pacing_1500m_instigation(athlete_laptimes__):
             denominator -= 1
 
     return pn.indicators.Number(name='1500m Pace Instigation',
-                                value=round((speed_up_sum / denominator), 3),
+                                value=round((speed_up_sum / denominator), 3) if denominator > 0 else 0,
                                 format='{value}s')
 
 
-# set up sidebar display
-ui_template.sidebar.append(athlete_name)
-ui_template.sidebar.append(event_distance)
-ui_template.sidebar.append(start_position)
-ui_template.sidebar.append(position_gain_loss)
+def view() -> pn.template.base.BasicTemplate:
+    """
+    Generate the UI dashboard.
+    """
+    ui_template = pn.template.MaterialTemplate(title='Short Track Athlete Profile')
 
-# set up main display
-ui_template.main.append(
-    pn.Column(pn.Row(first_lap_positions, half_lap_500m_mean, half_lap_500m_hist),
-              pn.Row(start_performance_500m, fastest_leading_laptimes, fastest_following_laptimes),
-              pn.Row(likely_lap_to_pass, x_plus_y_position_selection),
-              pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
-)
+    # set up sidebar display
+    ui_template.sidebar.append(athlete_name)
+    ui_template.sidebar.append(event_distance)
+    ui_template.sidebar.append(start_position)
+    ui_template.sidebar.append(position_gain_loss)
 
-# ui_template.show()   # launch display in a new tab (e.g. in Jupyter notebook)
-ui_template.servable(title='Short Track Athlete Profile')   # launch server with "panel serve shorttrack_ui.py --show"
+    # set up main display
+    ui_template.main.append(
+        pn.Column(pn.Row(first_lap_positions, half_lap_500m_mean, half_lap_500m_hist),
+                  pn.Row(start_performance_500m, fastest_leading_laptimes, fastest_following_laptimes),
+                  pn.Row(likely_lap_to_pass, x_plus_y_position_selection),
+                  pn.Row(pacing_1500m_leading, pacing_1500m_instigation))
+    )
+
+    return ui_template
+
+
+if __name__.startswith('bokeh'):
+    # if run with `panel serve shorttrack_ui.py`
+    view().servable(title='Short Track Athlete Profile')
+else:
+    # if run directly (e.g. in Jupyter notebook, or with `python shorttrack_ui.py`)
+    view().show()

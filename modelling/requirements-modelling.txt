@@ -1,0 +1,5 @@
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+sktime
