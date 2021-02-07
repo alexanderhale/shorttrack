@@ -39,9 +39,10 @@ class ShortTrackEventSpider(scrapy.Spider):
         self.raw_dir = 'data/archive/raw/round/'
         self.raw_split_dir = 'data/archive/raw/split/'
         self.save_html = False
-        self.full_round_file_name = f'data/archive/all_rounds_merged.csv'
-        self.full_split_file_name = f'data/archive/all_splits_merged.csv'
-        self.rounds_splits_file_name = f'data/full/all_splits_merged.csv'
+        self.full_round_file_name = 'data/archive/all_rounds_merged.csv'
+        self.full_split_file_name = 'data/archive/all_splits_merged.csv'
+        self.rounds_splits_file_name = 'data/full/all_splits_merged.csv'
+        self.laptimes_file_name = 'data/full/laptimes.csv'
 
         unique_column_set = ['season', 'competition', 'event', 'gender', 'round', 'instance_of_event_in_competition']
         self.already_scraped = self.init_already_scraped(unique_column_set)

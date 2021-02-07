@@ -16,7 +16,8 @@ class ShorttrackScrapyPipeline(object):
         return item
 
     def close_spider(self, spider: ShortTrackEventSpider):
-        self.combine_rounds_splits(spider)
+        rounds_splits_df = self.combine_rounds_splits(spider)
+        self.generate_laptimes(spider, rounds_splits_df)
 
     def combine_rounds_splits(self, spider: ShortTrackEventSpider):
         """
@@ -55,4 +56,46 @@ class ShorttrackScrapyPipeline(object):
                             rounds_splits_df.loc[athlete_index, f'lap_{lap_number + 1}_elapsedtime'] = lap_data[
                                 f'{athlete_start_position} ELAPSED TIME']
 
-            rounds_splits_df.to_csv(spider.rounds_splits_file_name, index=False)
+        # replace zeros with NaNs
+        pos_cols = [f'lap_{x}_position' for x in range(1, 46)]
+        laptime_cols = [f'lap_{x}_laptime' for x in range(1, 46)]
+        rounds_splits_df[pos_cols] = rounds_splits_df[pos_cols].replace(0.0, np.nan)
+        rounds_splits_df[laptime_cols] = rounds_splits_df[laptime_cols].replace(0.0, np.nan)
+
+        # save to CSV for loading in dashboard
+        rounds_splits_df.to_csv(spider.rounds_splits_file_name, index=False)
+        return rounds_splits_df
+
+    def generate_laptimes(self, spider: ShortTrackEventSpider, rounds_splits_df: pd.DataFrame):
+        """
+        Extract positions gained/lost from laptime data.
+        """
+        individual_events = rounds_splits_df[rounds_splits_df['event'].isin({'500m', '1000m', '1500m'})]
+
+        race_details_cols = list(individual_events.columns[:16]) + ['instance_of_event_in_competition']
+        lap_details_cols = race_details_cols.copy()
+        lap_details_cols.extend(['lap', 'laptime', 'lap_start_position', 'lap_end_position', 'position_change'])
+
+        for index, athlete_race in tqdm(individual_events.iterrows()):
+            laptimes = pd.DataFrame(columns=lap_details_cols)
+            start_lap = 2 if athlete_race['event'] in ['500m', '1500m'] else 1
+            for i in range(start_lap, 46):
+                try:
+                    laptime = float(athlete_race[f'lap_{i}_laptime'])
+                except Exception:
+                    laptime = np.nan
+
+                # TODO use standard deviation to filter out erroneous laptimes instead of the 7.8 threshold
+                if not np.isnan(laptime) and laptime > 7.8:
+                    lap_details = athlete_race[race_details_cols]
+                    lap_details['lap'] = i
+                    lap_details['laptime'] = laptime
+                    lap_details['lap_start_position'] = float(athlete_race[f'lap_{i - 1}_position']) if i > 1 else float(athlete_race['Start Pos.'])
+                    lap_details['lap_end_position'] = float(athlete_race[f'lap_{i}_position'])
+                    lap_details['position_change'] = (-1) * (lap_details['lap_end_position'] - lap_details['lap_start_position'])
+
+                    laptimes = laptimes.append(lap_details)
+
+            laptimes['lap'] = laptimes['lap'].astype('int')
+
+            spider.save_parsed_data(df=laptimes, file_path=spider.laptimes_file_name)
