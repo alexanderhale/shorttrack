@@ -16,6 +16,14 @@ In [shorttrack-athlete_profile.ipynb](athlete_profile/shorttrack-athlete_profile
 to create [individual_athlete_lap_data.csv](./data/full/individual_athlete_lap_data.zip). Each row in this file shows 
 how many positions the athlete (or relay team) gained or lost during the course of one lap of one race.
 
+#### Scraping
+To run the web scraper:
+```bash
+cd shorttrack_scrapy
+pip install -r requirements-scrapy.txt
+scrapy crawl shorttrack
+```
+
 #### File Size
 The large number of individual files stored in [data/archive/scraped](./data/archive/scraped) may make 
 this repository slow to clone or download.
