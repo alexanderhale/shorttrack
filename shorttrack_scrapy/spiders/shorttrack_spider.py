@@ -32,12 +32,12 @@ class ShortTrackEventSpider(scrapy.Spider):
                                     (self.already_scraped['gender'] == event_gender) &
                                     (self.already_scraped['round'] == round_title)]):
             self.log(message=f"Round already discovered: {season_title}-{competition_title}-"
-                             f"{event_title}-{instance_of_event_in_competition}"
+                             f"{event_title}-{instance_of_event_in_competition}-"
                              f"{event_gender}-{round_title}",
                      level=INFO)
             return True
         self.log(message=f"New round discovered: {season_title}-{competition_title}-"
-                         f"{event_title}-{instance_of_event_in_competition}"
+                         f"{event_title}-{instance_of_event_in_competition}-"
                          f"{event_gender}-{round_title}",
                  level=INFO)
         return False
