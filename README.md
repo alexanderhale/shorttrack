@@ -7,7 +7,7 @@ website: https://shorttrack.sportresult.com/. The scraped data (in its raw, pars
 [data/archive/scraped](./data/archive/scraped). 
 
 In [shorttrack-EDA.ipynb](./data/shorttrack-EDA.ipynb), the scraped data is combined into 
-[rounds_splits.csv](./data/full/rounds_splits.csv), which contains one row for each athlete in each race. The 
+[rounds_splits.csv](data/full/rounds_with_splits.csv), which contains one row for each athlete in each race. The 
 fields contain information about the athlete (or relay team), including name, nationality, gender, starting position, 
 finishing position, and finishing time. Where available, the athlete's lap split times and position at the end of 
 each lap is also listed.
@@ -17,17 +17,15 @@ to create [individual_athlete_lap_data.csv](./data/full/individual_athlete_lap_d
 how many positions the athlete (or relay team) gained or lost during the course of one lap of one race.
 
 #### Scraping
-To run the web scraper:
+To collect race data:
 ```bash
-cd shorttrack_scrapy
-pip install -r requirements-scrapy.txt
-scrapy crawl shorttrack
+pip install -r shorttrack_scrapy/requirements-scrapy.txt
+scrapy crawl shorttrack_spider
 ```
+The full scraping operation reads about 57000 pages and takes approximately 2 hours, depending on the execution 
+environment and connection speeds.
 
 #### File Size
-The large number of individual files stored in [data/archive/scraped](./data/archive/scraped) may make 
-this repository slow to clone or download.
-
 [individual_athlete_lap_data.csv](./data/full/individual_athlete_lap_data.zip) is too large to commit directly, so it
 has been compressed as a `.zip`. It is automatically extracted when starting up the athlete dashboard.
 

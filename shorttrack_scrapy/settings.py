@@ -14,6 +14,8 @@ BOT_NAME = 'shorttrack_scrapy'
 SPIDER_MODULES = ['shorttrack_scrapy.spiders']
 NEWSPIDER_MODULE = 'shorttrack_scrapy.spiders'
 
+LOG_LEVEL = 'INFO'
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'shorttrack_scrapy (+https://shorttrack.herokuapp.com)'
