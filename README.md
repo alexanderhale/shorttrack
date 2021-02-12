@@ -3,25 +3,35 @@ This repository extracts historical short track speed skating data and analyzes 
 
 ## Data
 Data for each ISU short track race since 1994 is scraped from the International Skating Union (ISU) results 
-website: https://shorttrack.sportresult.com/. The scraped data (in its raw, parsed, and cleaned forms) is available at 
-[data/archive/scraped](./data/archive/scraped). 
+website: https://shorttrack.sportresult.com/.
 
-In [shorttrack-EDA.ipynb](./data/shorttrack-EDA.ipynb), the scraped data is combined into 
-[rounds_splits.csv](./data/full/rounds_splits.csv), which contains one row for each athlete in each race. The 
-fields contain information about the athlete (or relay team), including name, nationality, gender, starting position, 
-finishing position, and finishing time. Where available, the athlete's lap split times and position at the end of 
-each lap is also listed.
+The scraped data is combined into [rounds_with_splits.csv](data/full/rounds_with_splits.csv), which contains one row 
+for each athlete in each race. The fields contain information about the athlete (or relay team), including name, 
+nationality, gender, starting position, finishing position, and finishing time. Where available, the athlete's lap 
+split times and position at the end of each lap is also listed.
 
-In [shorttrack-athlete_profile.ipynb](athlete_profile/shorttrack-athlete_profile.ipynb), the data is further broken down 
-to create [individual_athlete_lap_data.csv](./data/full/individual_athlete_lap_data.zip). Each row in this file shows 
+The lap split data is further broken down to create 
+[individual_athlete_lap_data.pk](./data/full/individual_athlete_lap_data.pk). Each row in this file shows 
 how many positions the athlete (or relay team) gained or lost during the course of one lap of one race.
 
-#### File Size
-The large number of individual files stored in [data/archive/scraped](./data/archive/scraped) may make 
-this repository slow to clone or download.
+#### Scraping
+To collect race data:
+```bash
+pip install -r shorttrack_scrapy/requirements-scrapy.txt
+scrapy crawl shorttrack_spider
+```
+The full scraping operation reads about 57000 pages and takes approximately 2 hours, depending on the execution 
+environment and connection speeds.
 
-[individual_athlete_lap_data.csv](./data/full/individual_athlete_lap_data.zip) is too large to commit directly, so it
-has been compressed as a `.zip`. It is automatically extracted when starting up the athlete dashboard.
+#### File Size
+Ths CSV format of [individual_athlete_lap_data.pk](./data/full/individual_athlete_lap_data.pk) is too large to commit 
+directly, so it has been saved as a Pickle file (with `.zip` compression). The dashboard takes care of loading this file,
+but if you wish to load it directly:
+```python
+# in a Python shell
+import pandas as pd
+laptimes_df = pd.read_pickle('data/full/individual_athlete_lap_data.pk')
+```
 
 #### Data Terms of Use
 The ISU's [terms of use](https://www.isu.org/quick-links-sep/legal-information) forbid the "permanent copying or 
