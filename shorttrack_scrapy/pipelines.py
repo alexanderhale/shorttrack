@@ -4,6 +4,7 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+from logging import info
 from os import replace
 from os.path import exists
 
@@ -31,6 +32,8 @@ class ShorttrackScrapyPipeline(object):
         Combine the round and split data into one DataFrame. Also use the laptime data to extract the positions
         gained/lost each lap.
         """
+        info('Merging laptime data with round-by-round data.')
+
         # load in the scraped data
         all_rounds = pd.read_csv(ROUNDS_FILE)
         all_splits = pd.read_csv(SPLITS_FILE)
@@ -83,6 +86,8 @@ class ShorttrackScrapyPipeline(object):
         """
         Extract positions gained/lost from laptime data.
         """
+        info(f'Extracting passing data for {len(rounds_splits_df)} athletes.')
+
         # make a backup of existing laptime data
         if exists(LAPTIMES_FILE):
             replace(LAPTIMES_FILE, PREVIOUS_LAPTIMES_FILE)
@@ -122,12 +127,14 @@ class ShorttrackScrapyPipeline(object):
         Generate the "light" version of the dataset for use on the demo server. Also create a compressed Pickle file
         of the full laptimes dataset.
         """
+        info('Generating lightweight dataset.')
+
         light_rounds_splits_df = rounds_splits_df[rounds_splits_df["Name"].isin(LIGHT_ATHLETE_NAMES)]
         light_rounds_splits_df.to_csv(ROUNDS_SPLITS_LIGHT_FILE, index=False)
 
         laptimes_df = pd.read_csv(LAPTIMES_FILE)
         light_laptimes_df = laptimes_df[laptimes_df["Name"].isin(LIGHT_ATHLETE_NAMES)]
-        light_laptimes_df.to_csv(LAPTIMES_LIGHT_FILE)
+        light_laptimes_df.to_csv(LAPTIMES_LIGHT_FILE, index=False)
 
         if exists(COMPRESSED_LAPTIMES_FILE):
             replace(COMPRESSED_LAPTIMES_FILE, PREVIOUS_COMPRESSED_LAPTIMES_FILE)
