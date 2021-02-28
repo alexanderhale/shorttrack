@@ -73,8 +73,8 @@ class ShorttrackScrapyPipeline(object):
                                 f'{athlete_start_position} ELAPSED TIME']
 
         # replace zeros with NaNs
-        pos_cols = [f'lap_{x}_position' for x in range(1, 46)]
-        laptime_cols = [f'lap_{x}_laptime' for x in range(1, 46)]
+        pos_cols = [f'lap_{x}_position' for x in range(1, LONGEST_EVENT_LAPS + 1)]
+        laptime_cols = [f'lap_{x}_laptime' for x in range(1, LONGEST_EVENT_LAPS + 1)]
         rounds_splits_df[pos_cols] = rounds_splits_df[pos_cols].replace(0.0, np.nan)
         rounds_splits_df[laptime_cols] = rounds_splits_df[laptime_cols].replace(0.0, np.nan)
 
